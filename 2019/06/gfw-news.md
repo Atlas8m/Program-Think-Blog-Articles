@@ -50,9 +50,10 @@
 　　经俺本人测试，I2P 一直可用！<br/>
 <br/>
 　　<b>提醒一下：</b><br/>
-　　有些同学的 I2P 已经联网成功，但却无法通过 I2P 翻墙，可能有以下几个原因：<br/>
-1. 上网软件的代理设置有误（I2P 对“HTTP 代理”和“HTTPS 代理”提供两个不同端口；在浏览器的界面上要分开设置）<br/>
+　　有些同学的 I2P 已经【联网成功】，但却【无法】通过 I2P 翻墙，可能有以下几个原因：<br/>
+1. 上网软件的代理设置【有误】（I2P 对“HTTP 代理”和“HTTPS 代理”提供两个不同端口；在浏览器界面上要分别设置）<br/>
 2. I2P 要运行一段时间之后，获取了足够多节点信息，才能建立“本地隧道”（local tunnel）。你的浏览器才能通过 I2P 的“local tunnel”翻墙。<br/>
+3. I2P 网络中“出口节点”【很少】（因为当初设计 I2P 的目的【并不是】用来作为代理），有时候会导致“出口节点超载”，从而无法通过 I2P 翻墙。 <br/>
 <br/>
 　　I2P 虽然坚挺，但是【速度慢】。所以它适合于：<b>在其它翻墙工具都失效的情况下，进行应急。</b><br/>
 　　如果你是【第一次】运行 I2P，需要先进行【补种】（洋文叫做“reseed”）。补种之后，I2P 才能够接入 P2P 网络。现在封锁很严重，【如何补种】是一门艺术。本文后续有一个章节专门聊“补种”的话题。<br/>
@@ -86,7 +87,11 @@
 　　<b>刷新“server list”的【技巧】</b><br/>
 　　由于 VPN gate 的客户端软件，可以使用别的翻墙工具作为【前置代理】。因此，你可以用另一个【可用】的翻墙工具（比如 I2P）【临时】辅助 VPN gate 刷新“server list”。等到“server list”刷新完之后，再把 VPN gate 客户端的“前置代理”【去掉】。<br/>
 <br/>
+　　<b>以下是热心读者的反馈：</b><br/>
 <br/>
+<blockquote style="background-color:#DDD;">tomgeniewang：<br/>
+关于vpngate，中国的通信量虽然是排第五，但是用户数是排第一的，而且因为中国用vpn主要就是为了翻墙，绝大多数不是因为版权地域限制，<br/>
+所以是不是可以说明vpngate在中国还是挺多人可以作为翻墙工具使用的</blockquote><br/>
 <h3>◇自由门</h3><br/>
 　　很多读者抱怨自由门最新的 7.6.7 版本已经失效了；但某些读者表示：自由门依然可用。<br/>
 <br/>
@@ -104,6 +109,12 @@
 <blockquote style="background-color:#DDD;">匿名：<br/>
 蓝灯付费版本,在6月3号,4号不能使用.5号恢复正常.<br/>
 蓝灯付费版本.用来好几个月,大部分时间可用.应该说还是比较满意的.</blockquote><br/>
+<blockquote style="background-color:#DDD;">懦夫斯基：<br/>
+win版从6月1号开始，至今失效。华北联通。<br/>
+付费版还有一年多的有效期啊我的银子TAT<br/>
+有朋友在华为手机上用了蓝灯的付费版，一直有效，让我很惊讶。不过这位朋友五月就出国了，因此不清楚目前是否能用。<br/>
+<br/>
+目前，蓝灯这种傻瓜式的应用越来越少，很多人会因为嫌麻烦放弃翻墙，而这些人其实是我们要努力争取的大部队。</blockquote><br/>
 <blockquote style="background-color:#DDD;">土豆妮：<br/>
 同意39单元反馈的“有趣的事”，白天翻墙更容易，晚上难得多。<br/>
 具体表现为，能用的SS和自由门在晚上变慢，不能用的蓝灯在白天偶尔能够连上。</blockquote><br/>
@@ -169,6 +180,8 @@ TO ALL<br/>
 自用的两个Virmach垃圾vps，位置是水牛城和洛杉矶，都配置了v2ray，用的ws+tls+web的配置，一直很稳。另外有用搬瓦工的官方机场JMS，仅用于家人晚高峰看4K视频，6月1日中午的时候测试了一下掉线了，晚上使用的时候又正常了，到现在都一直很稳。不懂技术，不清楚是否针对SS或SSR，但是大家讨论的时候没有没考虑过幸存者偏差，毕竟SS系的VPS翻墙工具在机场的推广下，现在是主流，跑流量也大，被封的时候SS系死得多也很正常。</blockquote><br/>
 <blockquote style="background-color:#DDD;">匿名：<br/>
 说一下我这里的情况，华北地区某城市，联通，ssr和Vray一直能正常使用，IP也没有被封，可能与我一直配合tor使用有关。传输速率和平常一样，昨晚看香港六四纪念活动的直播没有一点压力。</blockquote><br/>
+<blockquote style="background-color:#DDD;">Unknown：<br/>
+之前一直用SS在电脑和手机上翻墙，这几天都废掉了，目前用IKev2的方式穿越网络，都是私人付费的，速度要慢不少</blockquote><br/>
 <h3>◇V2Ray</h3><br/>
 　　V2Ray 依赖于 VPS，基于前面提到原因，俺没有尝试过“基于 VPS 的翻墙”，因此也就没有亲自测试 V2Ray 的情况。<br/>
 <br/>
@@ -221,6 +234,11 @@ V2Ray用ws+TLS+nginx完全无压力，没有用cdn中转</blockquote><br/>
 <blockquote style="background-color:#DDD;">匿名：<br/>
 请博主把这个工具补录进去吧，trojan-gfw，开源页面在这里：https://github.com/trojan-gfw/trojan<br/>
 它是完全模拟HTTPS客户端的，现在用的人很少，但是在这一波封杀里面很稳的活着。</blockquote><br/>
+<blockquote style="background-color:#DDD;">Len Kagamine：<br/>
+6月5日下午5时许，我联系了位于福建省与山东省的几位均使用移动宽带的朋友。<br/>
+他们的反馈如下<br/>
+1. 福建省移动宽带，仍无法使用I2P、V2Ray(mKCP、ws+TLS，自建)<br/>
+2. 山东省，上述方式(包括I2P)均正常，赛风偶尔抽风</blockquote><br/>
 <blockquote style="background-color:#DDD;">Unknown：<br/>
 IPv6无所畏惧</blockquote><br/>
 <h2>★非常时期，关于翻墙的注意事项</h2><br/>
