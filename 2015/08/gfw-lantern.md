@@ -73,11 +73,19 @@
 　　关于“双重代理”的原理及好处，请参见《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》系列的其中一篇。<br/>
 <br/>
 <br/>
-<h2>★其它相关的链接</h2><br/>
-　　顺便附上跟“蓝灯”相关的几个链接：<br/>
-G+ 中文圈：<a href="https://plus.google.com/communities/110961311457216179607" rel="nofollow" target="_blank">https://plus.google.com/communities/110961311457216179607</a><br/>
-官方的用户论坛：<a href="https://groups.google.com/forum/#!forum/lantern-users-en" rel="nofollow" target="_blank">洋文</a>、<a href="https://groups.google.com/forum/#!forum/lantern-users-zh" rel="nofollow" target="_blank">中文</a><br/>
-官方的开发者论坛：<a href="https://groups.google.com/forum/#!forum/lantern-devel" rel="nofollow" target="_blank">https://groups.google.com/forum/#!forum/lantern-devel</a><br/>
+<h2>★关于【隐匿性】的补充说明</h2><br/>
+　　这篇教程发布于2015年。之后若干年，蓝灯（Lantern）的运营模式出现了一些变化，经热心读者建议，补充说明如下：<br/>
+<br/>
+<h3>◇关于“阿里云”的吐槽</h3><br/>
+　　前几年，有热心读者爆料说 Lantern 使用了“阿里云”。考虑到阿里巴巴是【国内】公司，而且口碑也不行。Lantern 使用阿里巴巴的云计算平台，未免让人生疑。<br/>
+　　由于俺本人是【高危人士】，自从听说“Lantern 使用阿里云”，俺就【不再】使用 Lantern 作为 Tor 的前置代理。<br/>
+<br/>
+<h3>◇关于“收费”的吐槽</h3><br/>
+　　蓝灯在2016年升级到【3.0】版本，开始区分为【付费】和【免费】两种模式：<br/>
+付费版本——流量无限制<br/>
+免费版本——有几百兆的流量限额。用完该限额之后，翻墙网速被限制为【20KB/秒】。<br/>
+　　引入“付费模式”也招致诸多用户的吐槽。对于这种运营模式，俺表示可以理解（毕竟蓝灯的运营方以也需要资金来维持）。<br/>
+　　但是对于像俺这样的【高危人士】，还是【不要】付费比较稳妥一些。因为任何【在线支付】的行为，都会增加身份暴露的风险。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
