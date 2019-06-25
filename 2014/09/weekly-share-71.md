@@ -9,27 +9,28 @@
 　　澳门方面：<br/>
 　　崔世安作为【唯一的】候选人，顺利当选澳门特首——这就是传说中的“等额选举”。<br/>
 <br/>
-　　这两件事引发各方热议。下面是俺汇总的一些评论。<b>转载这些评论，【不一定】代表俺赞同或反对这些观点。</b>只是想让大伙儿听到一些跟朝廷喉舌不同的声音。<a name="more"></a><br/>
+　　这两件事引发各方热议。下面是俺汇总的一些评论。<b>转载这些评论，【不一定】代表俺赞同或反对这些观点。</b>只是想让大伙儿听到一些跟朝廷喉舌不同的声音。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★关于香港的“普选”</h2><br/>
 <h3>◇墙外知名媒体的报道</h3><br/>
-<a href="http://www.voachinese.com/content/china-hk-election-react-20140901/2434594.html" rel="nofollow" target="_blank">北京态度强硬，抗争情绪弥漫香港 @ 美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/china-hk-election-react-20140901/2434594.html" rel="nofollow" target="_blank">北京态度强硬，抗争情绪弥漫香港 @ VOA/美国之音</a>》<br/>
 <br/>
-<a href="http://cn.wsj.com/gb/20140901/BRF101114.asp" rel="nofollow" target="_blank">读报：外媒热议北京给香港普选划红线 @ 华尔街日报</a><br/>
+《<a href="https://cn.wsj.com/gb/20140901/BRF101114.asp" rel="nofollow" target="_blank">读报：外媒热议北京给香港普选划红线 @ WSJ/华尔街日报</a>》<br/>
 <br/>
-<a href="http://www.ftchinese.com/story/001057955" rel="nofollow" target="_blank">丁学良：香港政争之源——主权治权分歧 @ 金融时报</a><br/>
+《<a href="http://www.ftchinese.com/story/001057955" rel="nofollow" target="_blank">丁学良：香港政争之源——主权治权分歧 @ FT/金融时报</a>》<br/>
 <br/>
-<a href="http://cn.nytimes.com/china/20140902/c02hongkong/" rel="nofollow" target="_blank">北京不让步，香港民主派何去何从 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20140902/c02hongkong/" rel="nofollow" target="_blank">北京不让步，香港民主派何去何从 @ 纽约时报</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/n9c86RyXoVa_JJlsO5h4lqKMYW9VemSjuXBXSMbkPkmL37vu9Yt5qliHnNmD8GFlX6oqr3WjiiSnR2O4Od8N42ke0Y_kwC_BDzbXPX_TjH6nJlaaG6ovS1n3dt0GIvzgkf79"/></center><br/>
-<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140902-%E5%8C%97%E4%BA%AC%E8%83%8C%E5%8F%9B%E5%85%B6%E5%AF%B9%E9%A6%99%E6%B8%AF%E7%9A%84%E6%89%BF%E8%AF%BA" rel="nofollow" target="_blank">北京背叛其对香港的承诺 @ 法广</a><br/>
+《<a href="http://www.chinese.rfi.fr/%E4%B8%AD%E5%9B%BD/20140902-%E5%8C%97%E4%BA%AC%E8%83%8C%E5%8F%9B%E5%85%B6%E5%AF%B9%E9%A6%99%E6%B8%AF%E7%9A%84%E6%89%BF%E8%AF%BA" rel="nofollow" target="_blank">北京背叛其对香港的承诺 @ RFI/法广</a>》<br/>
 <br/>
-<a href="http://www.ftchinese.com/story/001058009" rel="nofollow" target="_blank">香港政治僵局的代价 @ 金融时报</a><br/>
+《<a href="http://www.ftchinese.com/story/001058009" rel="nofollow" target="_blank">香港政治僵局的代价 @ FT/金融时报</a>》<br/>
 <br/>
-<a href="http://cn.nytimes.com/china/20140904/c04taiwan/" rel="nofollow" target="_blank">台湾政界一致声援香港民主诉求 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20140904/c04taiwan/" rel="nofollow" target="_blank">台湾政界一致声援香港民主诉求 @ 纽约时报</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/Pj-U_QxQstlOwog4h5K_yXnq79oFnLpqI-HYzRAYxqA0AG7Or8o9tKpHCYGaPYGq9WX1FK3KKqWoh11cCaa9GXNfa1960vUsrvGob3r4ga5JDqlgd2Jy-AIxdSb5_E718UgC"/></center><br/>
-<a href="http://www.dw.de/a-17893689" rel="nofollow" target="_blank">穿上紧身衣的香港普选 @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-17893689" rel="nofollow" target="_blank">穿上紧身衣的香港普选 @ 德国之声</a>》<br/>
 <br/>
-<a href="http://www.vjmedia.com.hk/articles/2014/01/11/60039" rel="nofollow" target="_blank">為何英國不早給香港民主？英國檔案提供的答案 @ 輔仁網</a><br/>
+《<a href="http://www.vjmedia.com.hk/articles/2014/01/11/60039" rel="nofollow" target="_blank">為何英國不早給香港民主？英國檔案提供的答案 @ 輔仁網</a>》<br/>
 <br/>
 <h3>◇关于“假普选”的猫腻</h3><br/>
 陈方安生女士：<br/>
@@ -83,9 +84,9 @@ zhanghui8964：<br/>
 <h3>◇关于民主化进程</h3><br/>
 明鏡新聞網：<br/>
 昨天香港泛民派人士，面见全国人大基本法委员会主任李飞，商讨香港普选问题。<br/>
-工党何秀兰带了一份1944年的【新华日报】给李飞看，说：贵党不是早就承诺给人民一人一票，允许政党竞争、自由提名吗？ <br/>
+工党何秀兰带了一份1944年的【新华日报】给李飞看，说：贵党不是早就承诺给人民一人一票，允许政党竞争、自由提名吗？<br/>
 新华日报当年不是大力赞美美国和英国的民主吗？不是大骂国民党一党专政吗？<br/>
-<center><img alt="不见图 请翻墙" src="images/4gwtSkxdDirdNF1aei03gDHN0pII1OGuCLLgsmfqB8rH-ojUHcRWD15VHPW7SxRlaOg8whxKPQB_KUy9MnvTZJZB4MeOrKz71vwEwg7IRpxFh2rCeuqwkyr6ffzPhYIlrprc"/></center>（编程随想注：如果你想了解中共主办的《新华日报》对“自由、民主、宪政”的忽悠，请看之前的《<a href="http://program-think.blogspot.com/2012/04/weekly-share-1.html">每周转载：看看当年的共产党是如何唱高调的</a>》）<br/>
+<center><img alt="不见图 请翻墙" src="images/4gwtSkxdDirdNF1aei03gDHN0pII1OGuCLLgsmfqB8rH-ojUHcRWD15VHPW7SxRlaOg8whxKPQB_KUy9MnvTZJZB4MeOrKz71vwEwg7IRpxFh2rCeuqwkyr6ffzPhYIlrprc"/></center>（编程随想注：如果你想了解中共主办的《新华日报》对“自由、民主、宪政”的忽悠，请看之前的《<a href="../../2012/04/weekly-share-1.md">每周转载：看看当年的共产党是如何唱高调的</a>》）<br/>
 <br/>
 hnjhj: #香港 爭 #普選 歷程傻瓜版：<br/>
 2002年<br/>
@@ -113,7 +114,7 @@ hnjhj: #香港 爭 #普選 歷程傻瓜版：<br/>
 李柱铭：<br/>
 这里有个招牌叫中信。我也很想信中国，但是，北京给人一点信心好吗？<br/>
 不止香港的同胞失望，13亿人也很失望，香港还是没普选，那大陆什么时候有呢？<br/>
-对台湾人民、海外华侨，又怎么交待呢？ #OccupyCentral <br/>
+对台湾人民、海外华侨，又怎么交待呢？ #OccupyCentral<br/>
 <center><img alt="不见图 请翻墙" src="images/jlxXt6XJgDIUmvgqr48LdBUP2TUqPLuzDYcuVCrt9agrFhwCdUGPwAdCP-UiXOSxIATiLC899HXfjW9mfjMZYTk3a5UOLBaZYuuc15Sere2okdkMUrmTnAfoPoIEgSmKaDfm"/></center><br/>
 胡佳：<br/>
 中国大陆的公民最该为香港发出声援真普选的呼声。香港之所以面临极度重压，是因为中共不能让香港民主普选之火燃起大陆的 #废党禁、#真普选 变革。<br/>
@@ -135,7 +136,7 @@ Janny：<br/>
 視頻:(國語解說) http://t.co/sbtbQ4xkMB<br/>
 <center><img alt="不见图 请翻墙" src="images/8yRmQtWY36qsrrD9lOdJyo9bvLlhs1jJjBq0MblsOe2X4ixghut0_Cl0JDF87asgF9Nqk3_wBB7eLfWTbEEhxh44Dc5W-K6Yx458y15XeKBXaQk5FpC3qU6tnaedrXLZeJPX"/></center><br/>
 Charles Mok 莫乃光：<br/>
-民主派立法會議員對全國人大常委通過政改決議案聲明 <br/>
+民主派立法會議員對全國人大常委通過政改決議案聲明<br/>
 <center><img alt="不见图 请翻墙" src="images/L9PvEhwYVbv3Y_qG5uZf2wVV1Wtbnk20OuAM0VVluAK_LtuJzmzhDk9sUWt22BHbEIXcyQ-UbFSND6h_692vVyi9jPmLGbRb1zv3z9n5PL-yQnIf0AeaCQTtzS7m1ntnk9XX"/></center><br/>
 忘忧草之忧忧芳草心：<br/>
 无眠的夜色，#抗命#<br/>
@@ -170,7 +171,7 @@ CoChinaOnline：<br/>
 他提到：“也许很多老练的人会说我们只有理想，不求实际，但假若学生也变得世故，又有谁可以单纯的为着理想，努力为社会带来改变？”<br/>
 <br/>
 东邪西毒：<br/>
-香港学联和学民思潮代表发言。陈建民说，这些年轻人教会我们，不是因为有希望才做某些事，而是做了才有希望 #OccupyCentral <br/>
+香港学联和学民思潮代表发言。陈建民说，这些年轻人教会我们，不是因为有希望才做某些事，而是做了才有希望 #OccupyCentral<br/>
 <center><img alt="不见图 请翻墙" src="images/E6pKtQow6zfhGIGBbTRB33upwroJShzvbPO0Vox0KizTLqqPtqqLjYPWcVUUxIzQa1QQefx_PbL49y-73_ypC2--PxnVK2IgFJ_xKUKe6brfKN5l4G6rRzgf24FePLC_E-1f"/></center><br/>
 Co-China論壇：<br/>
 “和平佔中運動一直視佔領中環為最後手段，只有走盡對話之路，在迫不得已的情況下才進行佔中。我們非常難過地說：今天對話之路已經走盡，佔中必定發生。”<br/>
@@ -195,15 +196,15 @@ Natasha Khan：<br/>
 伪公正 伪公平 伪公开 三伪一体主观评论：<br/>
 21世纪，在红色恐怖来临之际，仍然有那么多香港年青人愿意站出来抗争，令人又感悲哀又不得不仍然抱有对香港未来的希望。<br/>
 RT @freemoren 香港 RT @inmediahk: 各大院校陸續成立罷課委員會，學生抗爭即將全面啟動！<br/>
-http://fb.me/1up3YqxXw <br/>
+http://fb.me/1up3YqxXw<br/>
 <br/>
 lihlii：<br/>
 习包子曾利用民主党的乡愿分裂了香港民主派。现在得意忘形拒绝普选，又把民主派给团结起来了。<br/>
 <br/>
 <h3>◇对比“六四运动”</h3><br/>
-<a href="http://www.rfa.org/mandarin/yataibaodao/gangtai/xql-08292014124457.html" rel="nofollow" target="_blank">装甲车现香港街头引发忧虑 @ 自由亚洲电台</a><br/>
+《<a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/xql-08292014124457.html" rel="nofollow" target="_blank">装甲车现香港街头引发忧虑 @ RFA/自由亚洲电台</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/DPZGQiDLvmdMS5ShPoqz_Ci0YwMM_AQplTCPgdx9UF48xpwVqAamH_E1WVi9Rvm2Bjbs7fJjOy-l4pV_5bmIeCBQSreqAoYXP7Lttublrbg_O53z_7sIb_-VHL5DV8u5I2QM"/></center><br/>
-<a href="http://www.chinainperspective.com/ArtShow.aspx?AID=27508" rel="nofollow" target="_blank">852郵報: 程翔驚爆大陸已部署粵語公安隨時跨境對付佔中 @ 纵览中国</a><br/>
+《<a href="https://www.chinainperspective.com/ArtShow.aspx?AID=27508" rel="nofollow" target="_blank">852郵報: 程翔驚爆大陸已部署粵語公安隨時跨境對付佔中 @ 纵览中国</a>》<br/>
 <br/>
 viewhk：<br/>
 2014年夏秋之交的香港，堪比1989年春夏之际的北京。<br/>
@@ -273,15 +274,15 @@ brotherstones：<br/>
 伟大祖国总算真正收回香港了！接下来，我们的先进经验要进一步推广到制度落后的香港，比如：黑监狱、临时工、通奸罪、嫖宿幼女、等额选举、寻性姿势……<br/>
 <br/>
 变态辣椒：<br/>
-香港慘遭黨國這個最大的民主派蹂躪，人家可是都看在眼裡了。。。 <br/>
+香港慘遭黨國這個最大的民主派蹂躪，人家可是都看在眼裡了。。。<br/>
 <center><img alt="不见图 请翻墙" src="images/JTyggbOxr5i7bUAl-PuJtUMOgy23WRg3SCrYWj1KLtkuDNTlIUhZ_OnKU6hldKsglzx7wS_aVQJ-FgyyccuzWZPkYdiZTteep3CaQnNq7wMCVLrDCyOkZk8lqZSr7VEuMyLO"/></center><br/>
 变态辣椒：<br/>
-党国势力所到之处，真普选，真民主是不会有的，有的只是“真·一国一制”。 <br/>
+党国势力所到之处，真普选，真民主是不会有的，有的只是“真·一国一制”。<br/>
 <center><img alt="不见图 请翻墙" src="images/xRWvYuYtiKUV_oUSCch50mYt3_ZUJNYTx0BrNvY9Z6L2KcetCWmqKGji2QYP594Qqa9mp0zN74z0evCz6IsZloNM_Oy6uqucUS7nyh2AQxIGvMByrtTNNAny5RzwRp2KTh8L"/></center><br/>
 星河舰队：<br/>
 比起粉碎“四人帮”，“一国两制”才更像先帝遗诏、生前安排。<br/>
 香港沦陷是必然的，只要极权一天不终结，就不可能有民主自由。对香港独立于极权之外的意淫，至此可以休矣。<br/>
-推荐长平老师文章：谎言起家 謊言建政 謊言治港（原载东网）。 <br/>
+推荐长平老师文章：谎言起家 謊言建政 謊言治港（原载东网）。<br/>
 http://t.co/g1WFTasNMX<br/>
 <br/>
 bieshan：<br/>
@@ -325,10 +326,11 @@ Freiheit：<br/>
 <br/>
 我反抗，故我在<br/>
 <center><img alt="不见图 请翻墙" src="images/HdpXNqiFJG_KzUilYwNNoUvNtrid5mSm3_NlNR5vTnpU42MpFNXhNh8MtYU0_IrVprj5rQDjprVewVaVu8NOMmYcvPKkzCLRsCoeYi74jndI9ztLeDxSc5LLq_OAJzIQ3-wz"/></center><br/>
-<h2>★关于澳门特首的“等额选举”</h2><br/>
+<br/>
+<h2>★关于澳门特首的【等额】选举</h2><br/>
 《南华早报》英语版发表报道《Ties between Chui family and Macau’s business elite grow stronger》<br/>
 其中一张分析崔世安家族与澳门商界精英间的裙带关系<br/>
-<center><img alt="不见图 请翻墙" src="images/gf0qfb4ffw-Uxi-jqDWa9PlwqTrJpFiwngacZeYcorJJ77Y4xmylb7HjDR2slFZvszgMkS2-b8Qa9TXXfJquh1VBqvvTIvYXgmOwz6KDWnEj5Fny7Gwa91KiJzoOZlBK30N6"/></center>（编程随想注：俺下次更新《<a href="http://program-think.blogspot.com/2013/03/princelings.html">太子党关系网络</a>》的时候，顺便把这家伙的裙带关系也补充进去）<br/>
+<center><img alt="不见图 请翻墙" src="images/gf0qfb4ffw-Uxi-jqDWa9PlwqTrJpFiwngacZeYcorJJ77Y4xmylb7HjDR2slFZvszgMkS2-b8Qa9TXXfJquh1VBqvvTIvYXgmOwz6KDWnEj5Fny7Gwa91KiJzoOZlBK30N6"/></center>（编程随想注：俺下次更新《<a href="../../2013/03/princelings.md">太子党关系网络</a>》的时候，顺便把这家伙的裙带关系也补充进去）<br/>
 <br/>
 变态辣椒：<br/>
 澳门特首唯一候选人崔世安在396张选票中，共取得380张选票，得票率95.96%，这么高的得票率，只有伟大的中共国和北朝鲜可以屁美了。从唯一候选人这点看是真回归了，和中共总书记选举一样。<br/>
@@ -400,13 +402,19 @@ destiny-fate日记：<br/>
 Peter Ji：<br/>
 喂！就一个候选人是闹哪样？摆明了是要用他啊！<br/>
 <br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2014/06/weekly-share-69.html">每周转载：关于“一国两制白皮书”和“国台办言论”（大量网友评论和图片）</a><br/>
-<a href="http://program-think.blogspot.com/2012/09/weekly-share-20.html">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a><br/>
-<a href="http://program-think.blogspot.com/2012/09/weekly-share-22.html">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a><br/>
-<a href="http://program-think.blogspot.com/2013/12/political-concepts-state-citizenship-etc.html">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a><br/>
-<a href="http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html">回顾六四</a>（系列）<br/>
-<a href="http://program-think.blogspot.com/2011/12/revolution-0.html">谈革命</a>（系列）
+《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道和【大量】照片（6月9日至6月15日）</a>》<br/>
+《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-73.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月22日至9月28日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-74.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）</a>》<br/>
+《<a href="../../2014/06/weekly-share-69.md">每周转载：关于“一国两制白皮书”和“国台办言论”（大量网友评论和图片）</a>》<br/>
+《<a href="../../2012/09/weekly-share-20.md">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a>》<br/>
+《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
+《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>》（系列）<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）
 </div>
 
 

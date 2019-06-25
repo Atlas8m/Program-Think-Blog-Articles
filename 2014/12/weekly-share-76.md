@@ -3,7 +3,7 @@
 -----
 
 <div class="post-body entry-content">
-　　自从10月初俺连发了两篇博文，转载香港“占中运动”（又称“雨伞革命”）。转眼又过去了2个月。这次学运持续的时间，已经超过1989年的“<a href="http://program-think.blogspot.com/2011/06/june-fourth-incident-0.html">六四运动</a>”。对香港而言，是97回归之后规模最大的；对中国而言，是文革之后历时最久的。<br/>
+　　自从10月初俺连发了两篇博文，转载香港“占中运动”（又称“雨伞革命”）。转眼又过去了2个月。这次学运持续的时间，已经超过1989年的“<a href="../../2011/06/june-fourth-incident-0.md">六四运动</a>”。对香港而言，是97回归之后规模最大的；对中国而言，是文革之后历时最久的。<br/>
 　　香港这次的公民运动，有很多地方值得内地学习和借鉴。<br/>
 　　最近2周，“占中运动”波澜又起。于是俺再发一篇博文，转载外媒的报道及照片。<br/>
 <a name="more"></a><br/>
@@ -64,7 +64,7 @@
 《<a href="https://www.dw.com/a-18072602" rel="nofollow" target="_blank">示威人士冲击立法会大楼 @ 德国之声</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/A-X6_PjVEDDkfoobtwYsC8-lGT3UDFRJOXiaTef6VvA0AClMeX63MuVJ4X4Lhm9FAdG3TVKs7_DB3x5KPvmVNUUtIiVbvFSOPujRFlHE5Zu9hu9VE7aPnnj2ivd8L90zEW8u"/></center><br/>
 《<a href="https://cn.nytimes.com/china/20141120/c20hongkong/" rel="nofollow" target="_blank">冲击立法会行动令港府清场举步维艰 @ 纽约时报</a>》<br/>
-<center><img alt="不见图 请翻墙" src="images/T7jXUUIQNPQvAVsri84JYzQ39vAF7RcLzkTOaHpz_PLv2Kn3rxWtsDiscrnwQfNBpbbowVmVP2RlUHOD9ptiV2V4c4By2E1gaHpFc-2HjVNR5om9fX1USBZ3m7RmoTwvKMzb"/></center><blockquote>一名23岁的男子称自己帮助大家砸碎了立法会大楼的玻璃。他说，“如果我们继续静坐，什么也不做的话，什么变化都不会发生。”这名自称库罗罗斯(Kuroros)的员工表示，“此事关乎政治，而非法律。”他因为害怕被捕而不愿透露真实姓名。<br/>
+<center><img alt="不见图 请翻墙" src="images/T7jXUUIQNPQvAVsri84JYzQ39vAF7RcLzkTOaHpz_PLv2Kn3rxWtsDiscrnwQfNBpbbowVmVP2RlUHOD9ptiV2V4c4By2E1gaHpFc-2HjVNR5om9fX1USBZ3m7RmoTwvKMzb"/></center><blockquote>一名23岁的男子称自己帮助大家砸碎了立法会大楼的玻璃。他说，“如果我们继续静坐，什么也不做的话，什么变化都不会发生。”这名自称库罗罗斯（Kuroros）的员工表示，“此事关乎政治，而非法律。”他因为害怕被捕而不愿透露真实姓名。<br/>
 库罗罗斯表示，他的同事周三早晨挤在一起，通过手机查看有关袭击事件的新闻报道。他和同事们从维多利亚港对面旺角一带的抗议区域来到了这里。旺角的示威者年龄普遍较大，多为工人阶级，他们通常会嘲弄学生领导的活动，即在位于香港中心地带的政府大楼附近搭建帐篷。他的许多同事都带着安全帽、护目镜和医用口罩，这是旺角一带抗议者的典型装束。</blockquote><br/>
 <br/>
 <h2>★11月20日——各方对“冲击立法会”的表态</h2><br/>
@@ -94,10 +94,10 @@
 <br/>
 <h2>★11月24日——“占中三子”与“两学”有分歧，运动走到十字路口</h2><br/>
 《<a href="https://cn.nytimes.com/china/20141125/c25hongkong/" rel="nofollow" target="_blank">香港“占领中环”运动来到十字路口 @ 纽约时报</a>》<br/>
-<blockquote>香港——已经有好几周了，每天上午，一个剃着光头、留着山羊胡子的前编剧在这里的亲民主抗议活动的一个营地主持会场。黄洋达(Wong Yeung-tat)站在数十名支持者面前，用朴实、时而带脏话的语言斥责、嘲讽、试图激怒政府，现在他也越来越多地针对学生抗议领袖和民主派政治人士，他认为他们太胆小。<br/>
-“占领运动需要被带到一个新的层面，”他在接受采访时说。“需要升级，占领更多的地区或政府大楼。运动在目前阶段已变得过于稳定。”<br/>
+<blockquote>香港——已经有好几周了，每天上午，一个剃着光头、留着山羊胡子的前编剧在这里的亲民主抗议活动的一个营地主持会场。黄洋达（Wong Yeung-tat）站在数十名支持者面前，用朴实、时而带脏话的语言斥责、嘲讽、试图激怒政府，现在他也越来越多地针对学生抗议领袖和民主派政治人士，他认为他们太胆小。<br/>
+“占领运动需要被带到一个新的层面”，他在接受采访时说。“需要升级，占领更多的地区或政府大楼。运动在目前阶段已变得过于稳定。”<br/>
 黄洋达挑战性的指责，体现的是香港抗议运动灵魂深处的斗争。在为抗议北京对普选的限制而走上街头近两个月之后，抗议者中因疲劳、不信任和截然相反的战略出现了裂痕。<br/>
-黄洋达所在的热血公民组织(Civic Passion)、几个志同道合的团体，还有互联网合作社，以及自由活动的鼓动者，对大多数示威者支持的温和路线已经不耐烦了。他们认为，只有更强烈的行动，比如对新地点的占领，才能迫使香港政府和中国共产党做出让步。<br/>
+黄洋达所在的热血公民组织（Civic Passion）、几个志同道合的团体，还有互联网合作社，以及自由活动的鼓动者，对大多数示威者支持的温和路线已经不耐烦了。他们认为，只有更强烈的行动，比如对新地点的占领，才能迫使香港政府和中国共产党做出让步。<br/>
 虽然不提倡暴力，但黄洋达对民主派政治人士对上周冲击香港立法会的做法表示谴责嗤之以鼻，冲击导致两扇窗户破碎，也损害了运动的主流派精心培育的和平不服从精神。他说，民主派政治人士背叛了“那些进行实际斗争的人”。</blockquote><br/>
 《<a href="https://www.dw.com/a-18082295" rel="nofollow" target="_blank">“占中三子” 准备自首 @ 德国之声</a>》<br/>
 <blockquote>香港占领运动进入了第57天。据《南华早报》等港媒报道，“占中三子”戴耀廷、陈建民和朱耀明计划于12月5日向当局自首，这意味着他们将退出占领运动。<br/>
@@ -147,9 +147,9 @@
 <br/>
 《<a href="https://cn.nytimes.com/china/20141127/c27arrests/" rel="nofollow" target="_blank">七名香港警员因殴打抗议者被捕 @ 纽约时报</a>》<br/>
 <blockquote>这些警察的身份没有被公开。警方的一份声明称，他们因涉嫌“袭击致造成实际身体伤害”被捕。10月15日黎明前，社会服务人员曾健超(Ken Tsang)被多名警察拳打脚踢，这起事件被一名电视台工作人员拍摄了下来。视频被上传到社交媒体之后，加剧了香港警方和抗议者之间的敌意。</blockquote><br/>
-<a href="http://news.tvb.com/local/5477a6276db28c5c2b000000" rel="nofollow" target="_blank">旺角昨晚一度有示威者聚集與警對峙 @ 無綫新聞</a><br/>
+<a href="http://news.tvb.com/local/5477a6276db28c5c2b000000" rel="nofollow" target="_blank">旺角昨晚一度有示威者聚集與警對峙 @ TVB/無綫新聞</a><br/>
 <center><img alt="不见图 请翻墙" src="images/8NbV-CeyietaejH1Xkwj9hewAyAfywRoeeSwFBmb4RIjtaDGLQjgoFC7f7T8yslfLxLxQwDNQ_hTSHpZfHfobuB8QFBKmI9ZBOuMmzM2pU2RuJNs-Y0MqippnBhDcvIlz4c9"/></center><br/>
-《<a href="http://news.tvb.com/local/5477bc406db28c5a2b000000" rel="nofollow" target="_blank">蘋果攝記昨被捕 傳媒團體指警打壓新聞自由 @ 無綫新聞</a>》<br/>
+《<a href="http://news.tvb.com/local/5477bc406db28c5a2b000000" rel="nofollow" target="_blank">蘋果攝記昨被捕 傳媒團體指警打壓新聞自由 @ TVB/無綫新聞</a>》<br/>
 <br/>
 《<a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/cyl-11272014150138.html" rel="nofollow" target="_blank">香港“占中”催生了什么？ @ RFA/自由亚洲电台</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/XSfoKun7N2FIWobFUyg9Nu0_KOeHTEEEitJWJBGO6ReBn9-fTuBTfqyaW9jKDxA_fpPYgKAwh0bnUBkmCKuaMY-hbuEDGDiwmwRgDfJdmKto0VNE_TGGfJAisFhICB2KzpXk"/></center><br/>
@@ -159,12 +159,12 @@
 　　晚上7时起，西洋菜南街近豉油街一带开始有大批市民聚集，分别在两边行人路高呼“我要真普选”，有人举起黄伞、拍掌及高叫口号。下图是：旺角的西洋菜南街与豉油街路口——挤满了“过路的”市民<br/>
 <center><img alt="不见图 请翻墙" src="images/Svq9zae0dXW_muGN3e-_Xf3GU4_2bAiUUnucm_i_MADj83co0EwrhuYFryY7LZgnwVZXWUMKHbye5oW09LBb9MedHurNaSFtRFhLQEzUg-2o2GsFOBMNbaeeIu7n2s18ePFH"/></center><br/>
 《<a href="https://hk.on.cc/hk/bkn/cnt/news/20141128/bkn-20141128165656610-1128_00822_001.html" rel="nofollow" target="_blank">後佔旺新招耗警力混入人群流動佔領 @ 東網</a>》<br/>
-<blockquote>經過尋晚，大家可以睇到警察已成為驚弓之鳥！在之前佔領時期，佔領者是守方，警方(也包括黑紅藍等勢力)是攻方，當佔領結束，警察就由攻方變成守方，佢地要防止再佔領，就必須不停留意每一個路口的情況，一有少許風吹草動就立刻要出動，這種每時每刻的警戒狀態其實就是過去兩個月來我地在佔領區的狀態，是很累人的。<br/>
+<blockquote>經過尋晚，大家可以睇到警察已成為驚弓之鳥！在之前佔領時期，佔領者是守方，警方（也包括黑紅藍等勢力）是攻方，當佔領結束，警察就由攻方變成守方，佢地要防止再佔領，就必須不停留意每一個路口的情況，一有少許風吹草動就立刻要出動，這種每時每刻的警戒狀態其實就是過去兩個月來我地在佔領區的狀態，是很累人的。<br/>
 <br/>
 如今角色逆轉，輪到他們需要緊張起來防守，那麼示威者就變得輕鬆了，只需要不停流動，甚至不需要做任何事情，只在街上行走、過馬路、等巴士，但只要稍稍一個小動作，無論是跌散銀或綁鞋帶，已令他們神經緊張起來。<br/>
 所謂的流動佔領，甚至根本不需要真的流動佔領，只需要”扮”流動佔領，他們已疲於奔命。<br/>
 <br/>
-觀乎尋晚既情況，警察跟本無計可施，佔領時他們可以話示威者犯法，名正言順去打壓，但現在大家只在街上行走觀光購物，跟本無人犯法，他們只能靠兇靠惡，但卻無任何法理可支持，他們甚至無法分辦誰是示威者誰是真正平民及遊客。尋晚已出現誤中副車既情況，亦確實影響店鋪做生意及附近市民生活，而幾乎所有影片所見都是清一色警察打人，連cctvb都無法剪輯到示威者衝擊的畫面，警方形象變成負面，輿論亦逆轉。</blockquote><br/>
+觀乎尋晚既情況，警察跟本無計可施，佔領時他們可以話示威者犯法，名正言順去打壓，但現在大家只在街上行走觀光購物，跟本無人犯法，他們只能靠兇靠惡，但卻無任何法理可支持，他們甚至無法分辦誰是示威者誰是真正平民及遊客。尋晚已出現誤中副車既情況，亦確實影響店鋪做生意及附近市民生活，而幾乎所有影片所見都是清一色警察打人，連 cctvb 都無法剪輯到示威者衝擊的畫面，警方形象變成負面，輿論亦逆轉。</blockquote><br/>
 <br/>
 <h2>★11月29日——梁振英避重就轻，旺角再起冲突</h2><br/>
 　　当日，行政长官梁振英在扶贫委员会会议上表示，过去两个月的占领行动突显过去政府在青年工作，尤其涉及青年人多元需要及向上流动等问题，有需要检讨。他表示新一届的扶贫委员会将会成立专责小组，就教育、就业及培训等进行研究。<br/>
@@ -174,7 +174,7 @@
 《<a href="https://www.dw.com/a-18101024" rel="nofollow" target="_blank">香港再爆冲突 至少28人被捕 @ 德国之声</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/DSPKwpGcZT-ne0ETro3vRK-w4wwMzPp7M3KuQpPrmIG8tWAvEgEb-4OGLln8K4PL8iXuju0BJF2poAM_dcqklYwAAsXLSIR5-xSH25mX4BqaBQqXpPiTgt35viCXURdNwESy"/></center><br/>
 《<a href="https://www.dw.com/a-18099791" rel="nofollow" target="_blank">“大赦国际”批评港警“过度使用武力” @ 德国之声</a>》<br/>
-<blockquote>人权组织"大赦国际"周五（11月28日）在香港新一轮民主示威行动前发出警告称，香港警察不应"过度使用武力"。<br/>
+<blockquote>人权组织“大赦国际”周五（11月28日）在香港新一轮民主示威行动前发出警告称，香港警察不应“过度使用武力”。<br/>
 据路透社消息，周六（11月29日）凌晨，数千名示威人士在旺角与清场的警方再次发生冲突。在数小时香港警方表现地相对克制的对峙后，数百名防暴警察对示威人群使用了警棍、辣椒喷雾，并将一些示威者放倒在地上。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/WzAMgwkn48Z4Fy1BYPBGUB5q8da8yByutG0up_xpkdwE9s-DaEp-7HffKLjxb4xSjxyp-rl8dYYqabR1sVIXgT26iGokyILUWIi4Z7X0e2RUG5Yq2qMHCfC3ZY6UgSPALclQ"/><br/>
 （编程随想注：上图是“10月中旬曝光的视频画面截图”）</center><br/>

@@ -4,42 +4,44 @@
 
 <div class="post-body entry-content">
 　　最近一星期，港台方面都有不少热点新闻。香港方面的热点新闻是：朝廷发布了《一国两制白皮书》，引发香港民众大量抗议；台湾方面的热点新闻是：国台办发言人称：台湾未来由全中国人民决定，引爆岛内舆论。<br/>
-　　下面是俺收集的两岸三地网友评论。<b>转载这些言论是让大伙儿了解墙外的舆论，【不代表】俺赞同或反对言论中包含的观点。</b><a name="more"></a><br/>
+　　下面是俺收集的两岸三地网友评论。<b>转载这些言论是让大伙儿了解墙外的舆论，【不代表】俺赞同或反对言论中包含的观点。</b><br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★外媒对“白皮书”的报道</h2><br/>
-<a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/06/140611_pressreview_hongkong_whitepaper.shtml" rel="nofollow" target="_blank">香港报章纷纷就一国两制白皮书发表评论 @ BBC中文网</a><br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2014/06/140611_pressreview_hongkong_whitepaper.shtml" rel="nofollow" target="_blank">香港报章纷纷就一国两制白皮书发表评论 @ BBC/英国广播公司</a>》<br/>
 <br/>
-<a href="http://www.ftchinese.com/story/001056679" rel="nofollow" target="_blank">媒体札记：香港“炸锅” @ 金融时报中文网</a><br/>
+《<a href="http://www.ftchinese.com/story/001056679" rel="nofollow" target="_blank">媒体札记：香港“炸锅” @ FT/金融时报</a>》<br/>
 <br/>
-<a href="http://www.chinese.rfi.fr/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20140613-%E5%8C%97%E4%BA%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%E5%90%8E%E9%A6%99%E6%B8%AF%E6%B2%B8%E8%85%BE%E4%BA%86%EF%BC%81" rel="nofollow" target="_blank">北京发出警告后，香港沸腾了！ @ RFI</a><br/>
+《<a href="http://www.chinese.rfi.fr/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20140613-%E5%8C%97%E4%BA%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%E5%90%8E%E9%A6%99%E6%B8%AF%E6%B2%B8%E8%85%BE%E4%BA%86%EF%BC%81" rel="nofollow" target="_blank">北京发出警告后，香港沸腾了！ @ RFI/法广</a>》<br/>
 <br/>
-<a href="http://www.dw.de/a-17695405" rel="nofollow" target="_blank">“一国两制”白皮书，恐成“占中”催化剂 @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-17695405" rel="nofollow" target="_blank">“一国两制”白皮书，恐成“占中”催化剂 @ 德国之声</a>》<br/>
 <br/>
-<a href="http://udn.com/NEWS/BREAKINGNEWS/BREAKINGNEWS4/8731051.shtml" rel="nofollow" target="_blank">中共國務院發表一國兩制白皮書 @ 聯合新聞網</a><br/>
+《<a href="http://udn.com/NEWS/BREAKINGNEWS/BREAKINGNEWS4/8731051.shtml" rel="nofollow" target="_blank">中共國務院發表一國兩制白皮書 @ UDN/聯合新聞網</a>》<br/>
 <br/>
-<a href="http://www.inmediahk.net/node/1023582" rel="nofollow" target="_blank">香港價值的冰河時期 @ 香港獨立媒體</a><br/>
+《<a href="http://www.inmediahk.net/node/1023582" rel="nofollow" target="_blank">香港價值的冰河時期 @ 香港獨立媒體</a>》<br/>
 <br/>
-<a href="http://www.dw.de/a-17703323" rel="nofollow" target="_blank">林培瑞：北京“意在威吓”香港民主人士</a><br/>
+《<a href="https://www.dw.com/a-17703323" rel="nofollow" target="_blank">林培瑞：北京“意在威吓”香港民主人士 @ 德国之声</a>》<br/>
 <br/>
 纽约时报中文网：<br/>
 有香港“铁娘子”之称的陈方安生在采访中表达了担忧。她说，北京对香港的干涉已越来越蛮横不加掩饰，“一国两制”原则难保。<br/>
-<a href="http://cn.nytimes.com/china/20140613/c13chanqa/" rel="nofollow" target="_blank">陈方安生：北京想让香港人知道谁是主子 - 纽约时报中文网</a><br/>
+<a href="https://cn.nytimes.com/china/20140613/c13chanqa/" rel="nofollow" target="_blank">陈方安生：北京想让香港人知道谁是主子 - 纽约时报中文网</a><br/>
 （编程随想注：陈方安生是90年代香港首位华人布政司，97后首任政务司司长）<br/>
 <br/>
 熱血時報 PassionTimes：<br/>
-撕毀基本法，高舉白皮書，中共宣布一國兩制已死，港人治港免談！ <br/>
+撕毀基本法，高舉白皮書，中共宣布一國兩制已死，港人治港免談！<br/>
 保住香港，只有一途：打倒共產黨！<br/>
 李卓人唔敢講，你敢唔敢share? https://www.facebook.com/photo.php?fbid=707121762684327<br/>
 <center><img alt="不见图 请翻墙" src="images/In35HCoVIk01pUL2rxr9TPDn3xfQPgeAbVX4XSMaO_wW2wS2_hmH2tONjVFg_oexwgtsPxuMwmS3atk0JonYXDG7HaDsIxu3oUNGqfig5NUYIfu17_bl7GOEwcnOAiIgVdh2"/></center><br/>
+<br/>
 <h2>★香港各界表示抗议，并焚烧“白皮书”</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/tn0GjrOfUWOMSuYslaKthPDFpotBFsgYeyvp2Aotfs8jSZlqdTRao3RebTo6-9l_6GEOKcBaB7MehRDqr8K6JHs_AlNdDXo1X04AHq1bjFo2r8gNVVovcylU0w2HixlIfxA4"/></center><br/>
 美国之音江河：<br/>
-<a href="http://cn.nytimes.com/china/20140612/c12hongkong/" rel="nofollow" target="_blank">北京白皮书激起香港民众大游行 - 纽约时报中文网</a><br/>
+<a href="https://cn.nytimes.com/china/20140612/c12hongkong/" rel="nofollow" target="_blank">北京白皮书激起香港民众大游行 - 纽约时报中文网</a><br/>
 中国政府发布的香港问题白皮书激起了香港人强烈抗议。反对者称白皮书将使香港失去司法独立，是在改写“一国两制”的原则。<br/>
 <center><img alt="不见图 请翻墙" src="images/MFsupzVm1afmDhD_hVccG9NehCDuVyhUCfx7z7A6nEMzKBTGkCB8wlS9gjJjX6pbmPC4phTMB2hOv0ePsQCkB5vyO2l4sDEjVsNFieGDG3pSa0Wa-q0YIFkUrrDu-WZb3BGC"/></center><br/>
 The Economist：（编程随想注：英国的《经济学人》杂志）<br/>
 Alarm spreads in Hong Kong at a Chinese government white paper on the city's political future<br/>
-http://econ.trib.al/Ez8aH6q  <br/>
+http://econ.trib.al/Ez8aH6q<br/>
 <center><img alt="不见图 请翻墙" src="images/Td0d8s0xKvWcxc85U43lyOcr0YFlhUwDTsT8rBzMFKpUaE9-Fr3rbO9OiFEJyfwkOnjdIXvXa0nCTty2HoWQsdEyzLMg-M7j959jBHfzswEGcf-I2DOp3KiQxxFGBeet9ziQ"/></center><br/>
 早报网V：<br/>
 【香港多个团体抗议 “一国两制”白皮书】<br/>
@@ -48,10 +50,10 @@ http://econ.trib.al/Ez8aH6q  <br/>
 JACKDOU CHING：<br/>
 兩個聯合國常任國！一份聯合公報！聯合國都備案，世界都注目！！！<br/>
 今天明顯一方違反條約，另一方卻默不出聲！我們真有理由懷疑與鄙視英國！「現在，你應該做些甚麼！！！」<br/>
-<a href="//www.youtube.com/watch?v=9LIX7biCxLA" rel="nofollow" target="_blank">香港各界焚燒中共「白皮書」</a><br/>
+<a href="https://www.youtube.com/watch?v=9LIX7biCxLA" rel="nofollow" target="_blank">香港各界焚燒中共「白皮書」</a><br/>
 <br/>
 如是新闻：<br/>
-<a href="http://blogrushinews.blogspot.de/2014/06/blog-post_2625.html" rel="nofollow" target="_blank">香港獨立媒體 | 團體中聯辦燒白皮書 抗議中共毀港自治</a><br/>
+<a href="https://blogrushinews.blogspot.com/2014/06/blog-post_2625.html" rel="nofollow" target="_blank">香港獨立媒體 | 團體中聯辦燒白皮書 抗議中共毀港自治</a><br/>
 <center><img alt="不见图 请翻墙" src="images/ctL_ufuWWKAgOGvIX0krsq0jLq1uNhA1DwsMyy4PXit_qgyC6C5ZFyFjn-hnIbTKg81QfroC6InRu6k8ZB_7So7oaF5qJ6zfbwhKgkWY4c8hHYfP-mhUSQ9BJt8ANVu-I4Ra"/></center><br/>
 星屑醫生歐陽英傑：<br/>
 人民力量焚燒國務院發表「一國兩制在香港實踐」白皮書之立場聲明書<br/>
@@ -63,9 +65,10 @@ JACKDOU CHING：<br/>
 脸书上香港网友热转的图：“收回你的白皮書”！<br/>
 党的喉舌们居然还好意思说：「香港各界歡迎中央白皮書：釐清社會誤解」。<br/>
 <center><img alt="不见图 请翻墙" src="images/iT9_B36J0qbaV08psT21Dysyt7kqeWtt0tqXsxjH1tvOTpPJDps-jXvhGarrU1o8Xn6ki-_1qQOCV9VOxOMOSNvoly1o05NIqalykK-Uv22ScWKuMG_reJwZKY9MC-qM4fju"/></center><br/>
+<br/>
 <h2>★白皮书的写手</h2><br/>
 BBCChinese.com：<br/>
-<a href="香港一国两制白皮书的写手" rel="nofollow" target="_blank">特写：香港一国两制白皮书的写手</a><br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2014/06/140612_hk_white_paper_authors" rel="nofollow" target="_blank">特写：香港一国两制白皮书的写手</a>》<br/>
 近日来在香港引起很大争议的有关一国两制白皮书，据称撰写过程历时一年，而且有不少中国国内的专家学者参与，BBC中文网为你介绍其中三位主要执笔者。<br/>
 <center><img alt="不见图 请翻墙" src="images/cvceSJ3fc527qtUbVqnUuC-2KebwgJyNfHS9KiTxQ8hf5DItHH0_GkqVlHJdmN0R5kP1G1kBdn-AmvJ4y8ez1kWoCkbS50C3fSmkGdYOGqI22q6PMhH3XhBOXl-vw1jEJhwZ"/></center><br/>
 良心：<br/>
@@ -75,9 +78,10 @@ BBCChinese.com：<br/>
 之三，齐鹏飞，人民大学马克思主义学院副院长。<br/>
 3位都是党的人，都是“领导”。<br/>
 <br/>
+<br/>
 <h2>★香港律师公会反驳白皮书</h2><br/>
 VOAChinese：<br/>
-<a href="http://www.voachinese.com/content/ba-hits-out-at-beijings-white-paper-20140612/1935087.html" rel="nofollow" target="_blank">港大律师公会强硬反驳国务院白皮书</a>: 香港大律师公会星期三发表声明，逐点反驳国务院香港白皮书明文要求香港各级法院法官及司法人员与政府官员等“治港者”，肩负“正确理解”和“贯彻执行”基本法的重任，而爱国是对治港者主体基本的政治要求。<br/>
+<a href="https://www.voachinese.com/content/ba-hits-out-at-beijings-white-paper-20140612/1935087.html" rel="nofollow" target="_blank">港大律师公会强硬反驳国务院白皮书</a>: 香港大律师公会星期三发表声明，逐点反驳国务院香港白皮书明文要求香港各级法院法官及司法人员与政府官员等“治港者”，肩负“正确理解”和“贯彻执行”基本法的重任，而爱国是对治港者主体基本的政治要求。<br/>
 <center><img alt="不见图 请翻墙" src="images/TA_f_YwOzHPDaJpwKPweMuRcx-g_x6go-UpIhwNLKB8zlnE-XIFujrGGaWCJPPQoYSQ9_8uU0PWZpyAEhcwu8ukeXxyNF3yatFSECbp5NPspLbdDUrsZyhLoyYqKA7QsMbtw"/></center><br/>
 中流青年：<br/>
 香港大律师公会对于中央发布的一国两制白皮书作出回应。<br/>
@@ -99,11 +103,12 @@ HK-阿祖：<br/>
 香港律师公会就香港白皮书声明强硬有力。<br/>
 我们也有类似机构叫律协，但二者行为相差简直是来自不同星球的物种。<br/>
 <br/>
-<h2>★白皮书的“高级黑”效应</h2><br/>
+<br/>
+<h2>★白皮书的【高级黑】效应</h2><br/>
 “香港白皮书”和“国台办说台湾问题中国人民定”这两个弱智事件基本等同于中华民国1996年总统大选时的导弹试射。<br/>
 （编程随想注：1996年在台湾海峡进行的导弹试射直接促成李登辉高票当选，直接促成大量台湾民众倒向“独派”，间接反映出朝廷“对台办”的傻逼）<br/>
 <br/>
-@hnjhj：<br/>
+hnjhj：<br/>
 『白皮书』有望让分裂已久的香港民主派重新联合起来，在危机面前形成反共统一战线，这可能是其唯一的正面意义。<br/>
 <br/>
 uponsnow：<br/>
@@ -118,6 +123,7 @@ uponsnow：<br/>
 <br/>
 深圳叔：<br/>
 竟然是真的！在七一这么敏感日子之前，北京搞大事件，有点“撒孜然”的意思。<br/>
+<br/>
 <br/>
 <h2>★网友点评“白皮书”</h2><br/>
 oon siu to潘小濤<br/>
@@ -134,7 +140,7 @@ oon siu to潘小濤<br/>
 @runyun：<br/>
 当年慈禧向全世界宣战，结局大家都知道了。<br/>
 <br/>
-@BrianhoTw：<br/>
+BrianhoTw：<br/>
 中國共產黨正式暴走！<br/>
 香港一國兩制——只有地方權限，其他的由中共中央說了才算。<br/>
 中菲越南海衝突——只有中國才能決定是否有爭議，不接受國際法院仲裁。<br/>
@@ -201,13 +207,14 @@ Mi3N5嘅柏直瓜子<br/>
 梁振英自爆他知道「白皮書是經過一年時間的籌劃、撰寫」，而他也熟背如流地說出白皮書重點，說明他不僅事前知道甚而還可能參與草擬；至少，白皮書是因應他的上台而提出來的。他是徹頭徹尾的中共奴才。 http://j.mp/1lv6tPe<br/>
 <br/>
 巴丢草：<br/>
-#巴丢草 漫画【白皮书】#香港沦陷 香港的中国噩梦就此来临，从此后先要爱国再谈爱港，从此后一国两制不过黄粱一梦。回头想想，倘若爱与和平没能占领天安门，你指啥用她们守住中环？ <br/>
+#巴丢草 漫画【白皮书】#香港沦陷 香港的中国噩梦就此来临，从此后先要爱国再谈爱港，从此后一国两制不过黄粱一梦。回头想想，倘若爱与和平没能占领天安门，你指啥用她们守住中环？<br/>
 <center><img alt="不见图 请翻墙" src="images/KvTPrDKU1EBRfEYyYJ3CLUoPiRSXObATs52GOoXPxa9IInYUhCCIdcFGMPWZkOguSRRphbKylB8Qmcx9qtteP0_b2yMo-soOPfNSlISGeC34EpN6_67TgFQUR-4x9VQ-uaDI"/></center><br/>
+<br/>
 <h2>★网友点评“一国两制”</h2><br/>
-中央以往对一国两制、高度自治的承诺 @ 苹果日报<br/>
+《中央以往对一国两制、高度自治的承诺 @ 苹果日报》<br/>
 <center><img alt="不见图 请翻墙" src="images/XAF_kag3nrtMtZ-BRPhE0xH672ERsALl3wlm68CJfB8cb9wDSHxIadDRtnOcPPmK74eELi4U3oaOLM5yw81F32Q0Ig_eO4voo3uP0H0ZgccuJ1CrNOFrsf6Xp2b7ZlDk9VyV"/></center><br/>
 Hao Wang：<br/>
-<a href="http://www.youpai.org/read.php?id=4977" rel="nofollow" target="_blank">右派网=&gt;“一国两制”的彻底失败</a><br/>
+<a href="http://www.youpai.org/read.php?id=4977" rel="nofollow" target="_blank">“一国两制”的彻底失败 @ 右派网</a><br/>
 香港“90后”世代的崛起，彻底粉碎了北京当局的梦想。这些“六四”时候还未出生的年轻人，对于中共及其意识形态抱持强烈的敌意。<br/>
 其“六四”情结比起上一代有过之而无不及<br/>
 <br/>
@@ -233,7 +240,7 @@ sunweibang：<br/>
 愛國人士立即扇你耳光，喝問︰「你們搞港獨？」<br/>
 <br/>
 Suyutong：<br/>
-刚刚我责编了鲍彤老师就白皮书的评论，<a href="http://www.dw.de/a-17705388" rel="nofollow" target="_blank">鲍彤：一国两制的法定义和白皮书的篡改义</a><br/>
+刚刚我责编了鲍彤老师就白皮书的评论，<a href="https://www.dw.com/a-17705388" rel="nofollow" target="_blank">鲍彤：一国两制的法定义和白皮书的篡改义</a><br/>
 文章真给力啊<br/>
 <br/>
 乔巴酷：<br/>
@@ -247,7 +254,7 @@ williamxu威廉退尔：<br/>
 Co-China論壇：<br/>
 “今日香港、明日台湾”，曾是邓小平提出”一国两制“时的心里话。那时北京期待香港成就一国两制系统工程里率先垂范的第一站，而统战的目标就是台湾。<br/>
 然而30年后，香港年轻人在台湾街头哭泣，告诉台湾人“不要有第二个香港”。<br/>
-《<a href="http://cn.nytimes.com/china/20140422/cc22zhangjieping/" rel="nofollow" target="_blank">今日台湾，明日香港？</a>》<br/>
+《<a href="https://cn.nytimes.com/china/20140422/cc22zhangjieping/" rel="nofollow" target="_blank">今日台湾，明日香港？</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/iXfbGD3hNkqEQ2ciMA5g0zMzjP_5ArCXpb8vs240q_N0Jn3dz0RZW2BmYXPckFdZhsttvbqWLWclkm6-5YaqXErg-AUxSmya8dj0RzWIymNzlxZXIymem2u3-AvddShH4DKm"/></center><br/>
 Kala OK：<br/>
 香港政治漫畫家 Cuson Lo 上傳這幅漫畫去 FB 後，a/c 被封鎖，顯然受到惡意舉報。容不下半點意見。<br/>
@@ -285,7 +292,7 @@ erynnyes：<br/>
 广州本土网：热烈庆祝香港真正回归祖国。<br/>
 <center><img alt="不见图 请翻墙" src="images/4S7Cy5v2lZWgQK4acOBZmM5bVbSKE3MksPYr57zsM4Esqg9JBi7grpI9UExod4yWpOL-atN-fhwX85qhI5KfW7eI0oK_ayNgtrdLagZjuF3IjUjN3Z4J_nsA-xcQxk5_wKXO"/></center><br/>
 缤纷岁月：<br/>
-"一国两制"白皮书之后，过两年我会免费教香港人电脑翻墙的。<br/>
+“一国两制”白皮书之后，过两年我会免费教香港人电脑翻墙的。<br/>
 <br/>
 Yilu：<br/>
 转人人：党员的最新数字为8260.2万人！天啊！全世界超过8000万人口的国家不过14个。我就在想，如果让全体党员找个地方，组建一个国家，8000多万最先进的人，没有不懂事的群众干扰，大家一门心思的干，共产主义国家不就诞生了么？!<br/>
@@ -298,6 +305,7 @@ Yilu：<br/>
 你和我都是打工仔，你每月工资两万多港币，我每月两千多人民币，而你的物价比我们还便宜；<br/>
 你拿着香港护照，去140个国家免签证，我拿着，略好于朝鲜的中国护照，连香港也进不去……”<br/>
 <br/>
+<br/>
 <h2>★又见“国际反华势力”</h2><br/>
 【周南：反华势力煽“占中” 谋夺香港管治权】<br/>
 原新华社香港分社社长周南接受香港传媒访问时批评，“占领中环”违反香港法治，也说明香港的内部和外部反华力量，企图篡夺特区政府管治权。强调，“不能够容许香港在民主的榥子下，变成颠覆大陆社会主义政权基地。中央必须要干预。”http://t.cn/RvitSkD<br/>
@@ -309,12 +317,13 @@ Yilu：<br/>
 而你却封人家一切资讯，屏蔽人家一切媒体；现在，连个谷歌邮箱都容不下。<br/>
 这一切都没什么，只是，你怎么好意思说是人家要颠覆你？<br/>
 <br/>
+<br/>
 <h2>★香港的“占中”和“争普选”运动</h2><br/>
 Hang Tung Chow：<br/>
 李卓人、陳日君 #佔中毅行爭普選<br/>
 <center><img alt="不见图 请翻墙" src="images/AdleKMoCDvh8ksqJFTGgR1DwA5geOIhitUFvnCqkrevKesXm476onJzhAQsVjIBNVF1r4hEhoKQSiE684GAXzDkLL7XgUI38DBW0ysR3ph43oqanh0thtH-mCP0x4qVAzULH"/></center><br/>
 Hang Tung Chow：<br/>
-毅行爭普選的藍色海洋，於尖沙咀 #佔中毅行爭普選 <br/>
+毅行爭普選的藍色海洋，於尖沙咀 #佔中毅行爭普選<br/>
 <center><img alt="不见图 请翻墙" src="images/AFzF9JUwajSiur3J8Om5KWZgYxEgu8SxA8uWwX-EMsKDM40wuqdp3xJGnlEs0mNwPnqT5RqyDEeIesD-uoLmlbwgodTnmj9PNJtM_WVm65F-RUYw9AXqu1YU2Ug-MpF2pNsp"/></center><br/>
 香港前政务司司长、香港2020召集人陳方安生参加了“毅行争普选活动”。<br/>
 <center><img alt="不见图 请翻墙" src="images/kFCyFKYsxFwa4jAz7FIskugpiTT0jKHq-KsASg-uGKbheusWIDgCznJsYePts5uQJILoT26FT4DxSPcFTz2o4x2rvAkd5guqRiRWBmLKBS5CwZiOuE0n-V_Q0FoGIGw_bLh-"/></center><br/>
@@ -330,7 +339,7 @@ Cai Chu：<br/>
 请各位改推特头像、声援香港占中 http://www.canyu.org/n89371c6.aspx  关注香港民主运动，做好声援和策应准备<br/>
 <br/>
 ZhangWeiGuo 张伟国：<br/>
-【<a href="http://cn.nytimes.com/china/20140612/c12hongkong/" rel="nofollow" target="_blank">纽约时报：北京白皮书激起香港民众大游行</a>】<br/>
+【<a href="https://cn.nytimes.com/china/20140612/c12hongkong/" rel="nofollow" target="_blank">纽约时报：北京白皮书激起香港民众大游行</a>】<br/>
 政治分析人士戴高礼说，“这是对香港宣读防暴法。这非常明显是为对‘占领中环’采取行动打下基础，因为这份白皮书称，中央政府在认为国家面临危险时，有权、也有责任出动人民解放军。”<br/>
 <br/>
 陶炉石：<br/>
@@ -340,6 +349,7 @@ ZhangWeiGuo 张伟国：<br/>
 D100節目主持 心語：<br/>
 6.22 投票 7.1 上街<br/>
 <center><img alt="不见图 请翻墙" src="images/WAFaze2clHA-M8VuyW3VfjIVxLP-98FSGouT0eGJfRxfT7Lb1LdXmupUT2zrShmGWJBXNnDxYxHHwrbyabueK7Io5r3FLkXFuc4b5PATu82O65xviUSpsrrYugYmmBff6DKk"/></center><br/>
+<br/>
 <h2>★白皮书 VS 厕纸</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/3V5BdJBmRC5-GWSfVA99Zqnbc7_VGm2-wtW9ckwpIUeDqILijs0jCdN8qjLi9zF14zMmcEXxW-SEuudRDkecjyZXpvaButtd76Qol3fnaEr-ew2dJwoSlUWxIa8ER1rftF-j"/></center><br/>
 香港特別行政区基本法形同厕纸。<br/>
@@ -348,6 +358,7 @@ D100節目主持 心語：<br/>
 <br/>
 Ken Wong：<br/>
 说香港基本法如同厕纸的朋友，真有点少见多怪了——在大陆，我们的宪法还不如厕纸呢<br/>
+<br/>
 <br/>
 <h2>★其它关于香港的点评</h2><br/>
 庫斯克：<br/>
@@ -380,7 +391,7 @@ Janny：<br/>
 若香港人卑躬屈膝，接受現實，中共在港為所欲為，香港遲早完全與中國大陸同化，法治優勢消失，各方投資者自然陸續撤資，香港將一片蕭條。如港人奮起反抗.....<br/>
 http://t.co/6rRZ38bDBH<br/>
 <center><img alt="不见图 请翻墙" src="images/jA8_9_yxoluVvzXITz6V6Nhz2I9Z1SAYNOKcZIa812qN80wyNwuObtuaiDdlnYisqa6YCHWqa8cAe24q-ZLJexxzguOo3Hz77wq9NU-7HH2uoIguxRDf_EEHL_uU9xlhF9vl"/></center><br/>
-@zhanghui8964：<br/>
+zhanghui8964：<br/>
 又要一国两制的名堂，又要港人拥护中共的领导，这必然给香港带来尖锐的政治问题。<br/>
 不拥护共产党，就不给上升通道，这才是中共治港政策的基本点。<br/>
 所谓“爱国人士治港”，就是拥护中共者才能在香港当政。这样一来，政治反抗者必然长期存在。<br/>
@@ -417,13 +428,13 @@ Ke Jing：<br/>
 无论你民众凝聚力再强，民智再高，香港毕竟也只是个弹丸之地，实力不成正比，我党随便扔几个零花钱就砸死你了。<br/>
 还是那句话，大一统下无民主。<br/>
 <br/>
-@faydao：<br/>
+faydao：<br/>
 听到香港失守，我第一个想起的竟然是罗大佑的《皇后大道东》。这首歌简直就是预言。<br/>
 <br/>
 Jörmungandr：<br/>
-港大學生會會長梁麗幗：三百人在立法會示威區和平靜坐 卻要被人帶走 這還是香港嗎？ https://t.co/kycwqksonq <br/>
+港大學生會會長梁麗幗：三百人在立法會示威區和平靜坐 卻要被人帶走 這還是香港嗎？ https://t.co/kycwqksonq<br/>
 <center><img alt="不见图 请翻墙" src="images/MUJsYZ_DJBb3x8n3RFSbpkQd90jpoN-ZhDcholL0mrEBClQrwFWDnaqtikFs3vmG04HEMkKlRzxaGaHi384c-pyZUdspZaySMSt3b7ZFaeZT4TMnOzRFsk-niReZ7NsDLB2c"/></center><br/>
-@Doriscafe：<br/>
+Doriscafe：<br/>
 過幾年，搞不好當年為了換證來港唸書的陸生交了十幾萬學費，又熬了幾年小房子，終於呆夠七年，等來的卻是香港戶口本。<br/>
 <br/>
 Yaxue Cao：<br/>
@@ -432,6 +443,7 @@ Yaxue Cao：<br/>
 佩利：<br/>
 @网友：不是要什么革命是要暴动。不是要什么民主是要报仇。<br/>
 活着，最终就是要和鳖蚣爽一下。 #光暴党宣言<br/>
+<br/>
 <br/>
 <h2>★网友点评国台办言论</h2><br/>
 <b>先给大伙儿看一张民调</b><br/>
@@ -549,12 +561,13 @@ Zhusee：<br/>
 ‧強盜國家！和它當鄰居真倒楣。<br/>
 ‧我不需要會在路邊拉屎人來決定。<br/>
 <br/>
+<br/>
 <h2>★近期的其它网友评论</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/PPMiyINs6uu8cf2nvfITH0Wrs3rbuHaq6PPoAQlA2cIKmvs-jZyu-c23D7x4enxgjPXR9OxCN3yC5hXBssRig4ufuD_AMHoIXNcr35_oIBqEBAuezqpZ6TpxCLFLsQ-Maz-A"/></center><br/>
 【其实，中美之间有许多共同点】<br/>
 天朝的网民喜欢骂美国政府，美国的网民也喜欢骂美国政府；<br/>
 天朝的媒体在监督美国政府，美国的媒体也在监督美国政府；<br/>
-天朝的官员子女在美国上学，美国的官员子女也在美国上学！ <br/>
+天朝的官员子女在美国上学，美国的官员子女也在美国上学！<br/>
 天朝的亿万富豪生活在美国，美国的亿万富豪也生活在美国；<br/>
 <br/>
 美国一个屌丝男在工厂上班，可以养活一家子，还过得非常好。<br/>
@@ -572,17 +585,20 @@ Zhusee：<br/>
 郭永丰：<br/>
 皇冠无数顶，一心向左行，愚昧人居高位，祸国殃民无度！<br/>
 <br/>
-@sharon cln：<br/>
+sharon cln：<br/>
 你能把人关进监牢，你不能把历史关进监牢；你如何审判别人，历史又将如何审判你。<br/>
 <br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/09/weekly-share-20.md">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a><br/>
-<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a><br/>
-<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a><br/>
-<a href="../../2014/05/taiwan-sunflower-student-movement.md">点评“台湾服贸问题”和“太阳花学运”</a><br/>
-<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a><br/>
-<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>（系列）<br/>
-<a href="../../2011/03/ccp-vs-japanese.md">谁是最可恨的人？——写给仇日愤青们</a>
+《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道和【大量】照片（6月9日至6月15日）</a>》<br/>
+《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-73.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月22日至9月28日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-74.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）</a>》<br/>
+《<a href="../../2012/09/weekly-share-20.md">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a>》<br/>
+《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
+《<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>》（系列）
 </div>
 
 

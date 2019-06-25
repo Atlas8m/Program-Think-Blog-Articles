@@ -11,7 +11,7 @@
 　　（编程随想注：对这篇文章，俺深有【同感】。其最后一句说得很好）<br/>
 <blockquote>国民教育课，它要培养的，不是共产党的奴隶，而是权力和利益的奴隶。<br/>
 国民教育课，它要塑造的，不是铁屋中沉睡的人，而是装睡的人。因为，沉睡的人，你总有办法去唤醒。但是，你永远没有办法唤醒一个装睡的人！</blockquote><br/>
-　　（下面是全文）<br/>
+　　（下面是全文，文中的粗体是俺标注滴）<br/>
 <blockquote>　　为什么要反对国民教育课？这个问题似乎并不是问题，却让我思考了很久。作为无权无钱的普通老百姓，我的父母没有机会将我送入国际学校或者国外接受教育，因此从小学直到大学我都如大多中国的普通学生一样，在公立学校完成了16年的学习生涯，而这16年来所谓「国民教育」一直如影随形，然而它对我，以及我的同僚似乎没有带来任何影响，我的同学中无一人无比拥护共产党，无一人相信党的无比伟大与正确，似乎国民教育在我们16年身上的实践是彻底失败。那么还有反对国民教育课的必要么？以下，是我尝试从一个与「无比伟大正确的党」和各种形式的爱党爱国教育相处了16年的过来人的角度，给出的思考。<br/>
 <br/>
 　　在我读小学的时候，我们有一门课叫思想道德，何谓有思想有道德的人，自然就是要爱党爱国爱人民。这其中用语暧昧不清，不像现在香港的国民教育教材如此直白，但除此之外每逢党国的重要日子，总有各种的作文比赛，演讲比赛必须强制参加，还要积极表现和几近一个小学生的文笔所能对党的种种丰功伟绩进行歌功颂德。那个时候，我们在蒙昧之中接受了最早的「国民教育」，知道了共产党在长征中的伟大战略转移（大学读历史系之后才知道其实只是被国民党围剿之后的流窜）；我党在抗日战争中的英勇事蹟（也是读历史系之后才知道当时与日军正面交锋的都是被斥为卖国的国民党，共产党正忙著在后方搞土改忙建国）。然而尽管如此，这种种灌输对我们这些即使是最听话最优秀的学生小干部来说，也不过是鹦鹉学舌有口无心，从来就没有往心里去过。为什么？因为相对学校里其他功课，它是离我们生活最远的，我们在生活中从来没有感受过我们所歌颂的新生活新中国的那些点滴，而我们的家长，或许对我们的国文与数学非常关注，但对于这些重要的爱国教育，却不置可否，异常淡漠。<br/>
@@ -42,7 +42,7 @@
 <br/>
 　　国民教育课是否会让明日的香港，成为今日的中国，不得而知，但我呼吁停止国民教育课，更希望更多的老师，尤其是基础教育界的老师能够参与到其中来。要知道，你们在台上的一句违心话一篇勉强的颂歌，会给学生带来的影响不仅仅是字面上这些东西的影响！在你们手中，决定的是香港的未来是否是一个讲良心讲真相讲道德的社会，还是一个只讲权力与利益，其他一切都被淡化的社会。<br/>
 <br/>
-　　<b>国民教育课，它要培养的，不是共产党的奴隶，而是权力和利益的奴隶。</b>国民教育课，它要塑造的，不是铁屋中沉睡的人，而是装睡的人。因为，沉睡的人，你总有办法去唤醒。但是，你永远没有办法唤醒一个装睡的人！</blockquote><br/>
+　　<b>国民教育课，它要培养的，不是共产党的奴隶，而是权力和利益的奴隶。国民教育课，它要塑造的，不是铁屋中沉睡的人，而是装睡的人。因为，沉睡的人，你总有办法去唤醒。但是，你永远没有办法唤醒一个装睡的人！</b></blockquote><br/>
 <br/>
 <h2>★《<a href="https://www.bbc.com/zhongwen/trad/comments_on_china/2012/09/120907_coc_hk_education.shtml" rel="nofollow" target="_blank">一個被洗腦者看國民教育 @ BBC/英国广播公司</a>》</h2><br/>
 <blockquote>　　香港的反國民教育運動如此激烈，特別是國民教育教材中那句共產黨是團結進步無私的執政集團，令到這本教材令香港很擔憂。那到底這類洗腦教育的影響多深遠呢？我想就自己的親身經歷來說一下洗腦教育到底可以洗多少人的腦和多少被洗腦後可以反洗腦成功的。<br/>
@@ -56,6 +56,7 @@
 　　所以，我相信寫這本教材的教授本身都不會相信這本教材的真實性的。既然大學中的老師都不相信這些國民教育，那些學生更不可能相信的。</blockquote><br/>
 <br/>
 <h2>★《<a href="https://www.commentshk.com/2012/09/blog-post_6162.html" rel="nofollow" target="_blank">梁文道：無所謂的謊言 @ 香港雜評</a>》</h2><br/>
+（引文中的粗体是俺标注滴）<br/>
 <blockquote>　　當香港的朋友都去了政府總部門外示威的時候，我正在大陸演講。雖然那天我和他們講了一點正在香港發生的事，以及那本好玩的「中國模式」教科書。當然，我會講到那本書的精華，例如「中國共產黨是個進步、無私與團結的執政集團」。一聽到這句話，幾乎全場哄笑；然後有人高聲喊道：「梁老師，你們香港人一定要保住香港，好好奮鬥下去」。<br/>
 <br/>
 　　眼前這群青年全是受過「愛國教育」的人，你說這種教育有效嗎？如果真的有效，他們為什麼會笑？為什麼會有這樣的反應？可是<b>這種教育最叫人擔心的地方並不是它真能洗腦，而是它洗腦無效的後果，恰巧正是那天我演講的重點，一種犬儒的道德虛無。</b><br/>
@@ -110,12 +111,16 @@
 <center><img alt="不见图 请翻墙" src="images/iiz4FRSx4K7UHxqJt5uC4iF3A4z0Be_Db8kO8RZNzKV-b3vp7ImE1tbPjCTapDmDCh2KA19Z_dUdqzUd-mGMcukoJK3HF7m1UJKddODOpev64iBi33M"/></center><center><img alt="不见图 请翻墙" src="images/XCrm4hnR0iqiKOYfvYP_4kBx2hutmsI1ibxSy-eRZL2ehiAYdmsgRVX1v_UHC7ljoNDxgF2dGLh5DsSgaTMEM1vM9eWWIQhn-rRka3aAV6TZu44tYw"/></center><center><img alt="不见图 请翻墙" src="images/PY8tJ3Uld5p0Z6nUYzFBlGMdJbkrNCuRCcRniqoELZyafOMyCmekSFcQk-7tgsJNfWPW6WShFAg6-NCd6yBFHNW7bFRP2haatxcUDVsSrkOcrFqS5Q"/></center><center><img alt="不见图 请翻墙" src="images/F7VOZqNGvFG5iyndRQM4GrLzkNQKmTKaSc5X3am64t9bDXC18rrbTdjpgPZIrAbZGPJXig4YNN31qm6_MHn2uaRhgVjS5OVq-jR2N1uSYuKJPTuYpw"/></center><center><img alt="不见图 请翻墙" src="images/ga7dhlX3VPDZiQiSU-r7V4ilj2292-1Myvl01XVpc6IvCO7rvPexuZUwYlZ8Ce-Q6_k9EzhHPqmiAGe3YpFjcluyZdsriEZ7YLafyeZBo4JlgF_t8p8"/></center><center><img alt="不见图 请翻墙" src="images/pB5U2PIXhWhlNYSwWnr7OKu5wyEpga_K0iRMnzgwkYTo8j6bkQ7rzdXcb3a3o7j7Tkrudsa3PqUcn_9Q7fMdnoJzMGLloL-PsUS5oz9GBcCYX4HtLA4"/></center><center><img alt="不见图 请翻墙" src="images/BOLa9jNADsUjMbsRfkNNvI7gLIwH-iXpZBUxa3zFdITNJ1gDWiatpaCGAuNUi1AwrQsbVgps9kyEUkuQ7AVGcXjLBVaPZmUaJIAqj2D67TLbeIbGSNQ"/></center><center><img alt="不见图 请翻墙" src="images/hA32JG0fRvohgOQU01T3AzOuWDLKZ6_KgUzRS0dEt8JvZ6TKmSTNuqAV1IEUH7U3INPCARCDWUn0wk8Fh4rOKUsYpGH441Gh0XLeS7JjJbmen5ItvbU"/></center><center><img alt="不见图 请翻墙" src="images/AkYInliV2nSVwZ3gJfYbyhLuXHPBaf8daOPShO6iR0Cm6RwL9u5FBgWTLTez3SsAmQcYEfcxMD2Hh6qG2IxphXPCKzhV421cTjTi2jQnubw54ssvmTw"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a><br/>
-<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑——基于【双重思想】的思维控制</a><br/>
-<a href="../../2014/12/brainwash-using-real-data.md">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a><br/>
-<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a><br/>
-<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a><br/>
-<a href="https://program-think.blogspot.ch/2014/03/propaganda-for-patriotism.html">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>
+《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道和【大量】照片（6月9日至6月15日）</a>》<br/>
+《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-73.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月22日至9月28日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-74.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）</a>》<br/>
+《<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>
+《<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑——基于【双重思想】的思维控制</a>》<br/>
+《<a href="../../2014/12/brainwash-using-real-data.md">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a>》<br/>
+《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
+《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
+《<a href="https://program-think.blogspot.ch/2014/03/propaganda-for-patriotism.html">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>》
 </div>
 
 
