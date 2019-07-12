@@ -14,7 +14,7 @@
 <h3>◇10月2日，美国防部透露：中美两国军舰在南中国海对峙</h3><br/>
 美国国防官员透露——<br/>
 美国海军“迪凯特”号导弹驱逐舰9月30日在争议性的南沙群岛附近实施“航行与飞越自由”任务，一艘中国旅洋级驱逐舰逼近到迪凯特号45码（约41米）之内。美舰最终为了避免碰撞而改变航向。<br/>
-美国太平洋舰队发言人查尔斯·布朗称：<q style="background-color:#DDD;">我们仍将继续在国际法容许的任何地域进行飞行、航海和作业。</q><br/>
+美国太平洋舰队发言人查尔斯·布朗称：<q>我们仍将继续在国际法容许的任何地域进行飞行、航海和作业。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/vi4qh_eyIDN85-W2h1CJWmD2rgB2XIVFhExWpqqBmyjzGasrsaitl-PvdW6JcQmfypFGTvgpqCLjT3Ub_F7CkkPa3ulQ9YHbfNuuWSUrZTPg75-bVObWnfErSeyn0w7RBRA7FsVwuWE"/></center><br/>
 因为此事，中国叫停了原定10月与美国国防部长吉姆·马蒂斯举行的“美中安全对话”，马蒂斯也取消其访华计划。<br/>
 <br/>
@@ -36,7 +36,7 @@
 <center><img alt="不见图 请翻墙" src="images/9ShnbwU4fY3sQkd8xBdUe8-VRjHgT0ALuD16U0-SR2yFirMEZ914AwS9fOyGxMr7V0MGRRACimEYt6DzOE4tdPwdzIjTh0oWC1U1iNPnKttupPs9ggigVQsm6F6InJJWrjjp2_Yfe5g"/></center><br/>
 这是美国副总统彭斯10月4日在华盛顿智囊机构“哈德逊研究所”发表的长篇演说，主题是“美国政府的中国政策”。<br/>
 该演讲的中文翻译参见美国之音网站的“<a href="https://www.voachinese.com/a/pence-speech-20181004/4600329.html" rel="nofollow" target="_blank">这个链接</a>”。俺摘录其中几段（粗体是俺标注滴）：<br/>
-<blockquote style="background-color:#DDD;">苏联垮台之后，我们认为中国将不可避免地成为自由国家。带着这份乐观，美国在21世纪前夕向中国敞开大门，将中国纳入世界贸易组织。......在过去17年，中国的 GDP 增长九倍，变成了世界第二大经济体。这很大程度上得益于美国对中国的投资。中国共产党也使用了与自由公平贸易不符的一系列政策，包括关税、配额、货币操纵、强制技术转移、知识产权盗窃以及工业补贴。这些政策建立了中国制造业的基本，而以竞争对手特别是美国的利益为代价。<br/>
+<blockquote>苏联垮台之后，我们认为中国将不可避免地成为自由国家。带着这份乐观，美国在21世纪前夕向中国敞开大门，将中国纳入世界贸易组织。......在过去17年，中国的 GDP 增长九倍，变成了世界第二大经济体。这很大程度上得益于美国对中国的投资。中国共产党也使用了与自由公平贸易不符的一系列政策，包括关税、配额、货币操纵、强制技术转移、知识产权盗窃以及工业补贴。这些政策建立了中国制造业的基本，而以竞争对手特别是美国的利益为代价。<br/>
 ......<br/>
 现在，通过“中国制造2025”，中国共产党试图控制全世界 90% 的最先进的工业，包括机器人、生物科技和人工智能。为了赢得21世纪经济的领导权，北京指导其工业官员和商界以任何方式获取美国的知识产权。这是我们经济领导力的基石。<br/>
 北京现在要求很多想在中国做生意的美国公司交出他们的商业秘密，也要求并支持对美国公司的并购，以获取他们的创意。最可怕的是，中国的安全机构掌握了大量窃取美国科技的能力——包括最先进的军事技术。使用这些偷窃的技术，中共正大规模地化犁为剑。<br/>
@@ -93,7 +93,7 @@
 <br/>
 <h3>◇10月6日，中国驻美大使崔天凯：为了与美国达成贸易协议，中国愿意让步</h3><br/>
 崔天凯：<br/>
-<blockquote style="background-color:#DDD;">我们不想和美国或任何其他国家发生贸易战，而是希望中美双方通过谈判协商解决问题。但谈判协商要取得成功，需要双方展现足够的善意和诚信。坦率讲，美方诚信不够。美方立场一直在变，导致中方不能确切地知道美方到底想要什么。<br/>
+<blockquote>我们不想和美国或任何其他国家发生贸易战，而是希望中美双方通过谈判协商解决问题。但谈判协商要取得成功，需要双方展现足够的善意和诚信。坦率讲，美方诚信不够。美方立场一直在变，导致中方不能确切地知道美方到底想要什么。<br/>
 ......<br/>
 美方有些人企图推动一个美国完胜、而中国完输的结果，这不公平，也不可能实现。<br/>
 <b>中方愿意与美方达成协议，也愿意做些让步</b>，但这需要双方的善意。</blockquote><br/>
@@ -122,13 +122,13 @@
 <h3>◇10月9日，川普威胁对华关税加码</h3><br/>
 川普发出威胁——<br/>
 如果中国对目前的关税采取报复举措，将对另外2670亿美元的中国进口商品加征关税。<br/>
-川普对记者说：<q style="background-color:#DDD;">中国想要达成协议，而我认为他们还没有准备好。我们已经取消了几次（与中国的）会议，因为我认为他们还没有做好达成协议的准备。</q><br/>
-当被问及如果中国进行报复，是否准备好对该国更多商品加征关税时，川普说：<q style="background-color:#DDD;">当然，肯定的！</q><br/>
+川普对记者说：<q>中国想要达成协议，而我认为他们还没有准备好。我们已经取消了几次（与中国的）会议，因为我认为他们还没有做好达成协议的准备。</q><br/>
+当被问及如果中国进行报复，是否准备好对该国更多商品加征关税时，川普说：<q>当然，肯定的！</q><br/>
 <center><img alt="不见图 请翻墙" src="images/5X-6peVW_vlFx5o02nm0s1saBtfEDwa50QR58eyqiNIQ7xyNPLbPXCTFsw5T5M6NyPhFPSADATBIHkudKczSmT-JktW22KLQh6WtnBmT2H-JJc19lowtzF8HG83x4TECA3LDA2c0OQI"/></center><br/>
 <h3>◇10月10日，美财长姆努钦警告：中国不要让人民币竞争性贬值 </h3><br/>
 姆努钦在接受《金融时报》采访时表示——<br/>
 美国财政部“非常仔细地”监控着汇率问题，并指出，今年以来人民币已“大幅”下跌。他接着说，他希望在贸易谈判过程中跟中国政府讨论人民币汇率问题。他承认，人民币下跌背后有几个推动因素，包括中国自身的经济问题。<br/>
-他在20国集团、国际货币基金组织和世界银行在印尼巴厘岛举行会议前表示：<q style="background-color:#DDD;">在审视贸易问题时，我们无疑希望确保中国不会进行竞争性贬值。</q><br/>
+他在20国集团、国际货币基金组织和世界银行在印尼巴厘岛举行会议前表示：<q>在审视贸易问题时，我们无疑希望确保中国不会进行竞争性贬值。</q><br/>
 （注：姆努钦接受采访时，“在岸人民币汇率”较2018年3月底的高点已下跌【10.9%】，至1美元兑6.9213元人民币）<br/>
 <center><img alt="不见图 请翻墙" src="images/uB_dXOYGQTDrgfpgPy1tocje-bVvohaMpPmfX05qVRovDr_5PanMQHG8b2EjLdPq2uftsAReUPuTVcROQVGCakXEt3NETLf3Wtc43UfYrBQJgGU0xznbcCTY6nz1MaAekAbfHPdF4xA"/></center><br/>
 引申阅读：<br/>
@@ -147,16 +147,16 @@
 <br/>
 <h3>◇10月12日，美国安顾问博尔顿：对中国须强硬，北京应当作出改变 </h3><br/>
 国家安全顾问约翰·博尔顿在接受访问时称——<br/>
-川普总统认为北京占国际秩序的便宜太久了，而挺身阻止的美国人太少了。<q style="background-color:#DDD;">现在就是我们挺身而出的时候！</q><br/>
-博尔顿指出：<q style="background-color:#DDD;">对中国的强硬态度，让北京当局感到迷惑——他们过去没见过态度这么强硬的美国总统。我认为他们过去的行径必须调整，无论在贸易、国际、军事或政治上。</q><br/>
-博尔顿还提到中国在南海“危险行径”，并表示美国坚决维护国际海上航道畅通。他说：<q style="background-color:#DDD;">无论有没有中国的配合，我想我们会看到更多矿藏资源的开发利用。他们必须知道他们没有取得这里的既定事实。现在这里不是中国的一个省，将来也不会是。</q><br/>
+川普总统认为北京占国际秩序的便宜太久了，而挺身阻止的美国人太少了。<q>现在就是我们挺身而出的时候！</q><br/>
+博尔顿指出：<q>对中国的强硬态度，让北京当局感到迷惑——他们过去没见过态度这么强硬的美国总统。我认为他们过去的行径必须调整，无论在贸易、国际、军事或政治上。</q><br/>
+博尔顿还提到中国在南海“危险行径”，并表示美国坚决维护国际海上航道畅通。他说：<q>无论有没有中国的配合，我想我们会看到更多矿藏资源的开发利用。他们必须知道他们没有取得这里的既定事实。现在这里不是中国的一个省，将来也不会是。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/mXtq-A60MOOYgNY_BAzQzFBED5qfa-bOs5-WKuzXshhO5kyPf00ge3RkQgclrTj_J8xad6MErKidi7R3PqKQb7s91lsdVDouCL5wQVQqORZsj2UH-LuXMIGPlimd13VbNGeyXxvC1iY"/></center><br/>
 <h3>◇10月14日，中国央行行长：【不会】以人民币为应对贸易冲突工具</h3><br/>
 人民银行行长易纲在向国际货币金融委员会（IMFC）发表的声明中说——<br/>
-<blockquote style="background-color:#DDD;">中国将让市场继续在人民币汇率形成机制扮演决定性角色。我们将不会参与竞争性贬值，也不会以汇率作为应对贸易摩擦的工具。</blockquote><center><img alt="不见图 请翻墙" src="images/l_E2csi7m0vyeBnX8yXwTM5FcY4zVIlokevqmIaBpQSSrg9n8BvR6KiD792q9MtKbFJFqBsQgkHbXvOZSZvAlh7o6ysLi_SwVWBmITQVVmUJM48LaKqy9p8Edk85e934dvowQaBmHtw"/></center><br/>
+<blockquote>中国将让市场继续在人民币汇率形成机制扮演决定性角色。我们将不会参与竞争性贬值，也不会以汇率作为应对贸易摩擦的工具。</blockquote><center><img alt="不见图 请翻墙" src="images/l_E2csi7m0vyeBnX8yXwTM5FcY4zVIlokevqmIaBpQSSrg9n8BvR6KiD792q9MtKbFJFqBsQgkHbXvOZSZvAlh7o6ysLi_SwVWBmITQVVmUJM48LaKqy9p8Edk85e934dvowQaBmHtw"/></center><br/>
 <h3>◇10月15日，川普称：中国干预美国政治，比俄罗斯更严重</h3><br/>
 川普接受 CBS 访问时称——<br/>
-<blockquote style="background-color:#DDD;">我希望中国和我们谈成一项公平协议，我希望他们开放市场，就跟我们开放市场一样。<br/>
+<blockquote>我希望中国和我们谈成一项公平协议，我希望他们开放市场，就跟我们开放市场一样。<br/>
 ......<br/>
 俄罗斯干涉选举，但我觉得中国也参与了。老实说，我觉得中国问题更大。</blockquote><center><img alt="不见图 请翻墙" src="images/ZlimcGXy3KmnAEbYaA-6i7tp3Uc5vGJB_V_WRxvnMify9e0cZw-w1d5JWdt3e37Zeo-rbTqzLcXfCLBC3jrEDDcq9MzDeoybaLYPM3rhbCbo5lY7YBjmdvT6Oq9CjoZuNxss_GMFW4U"/></center><br/>
 <h3>◇10月16日，美军两架 B-52 轰炸机飞临南沙群岛</h3><br/>
@@ -183,7 +183,7 @@
 <h3>◇10月18日，中美防长在新加坡会谈，【没有】取得进展</h3><br/>
 美国国防部长吉姆·马蒂斯与中国国防部长魏凤和在新加坡举行会谈，试图改善双边紧张关系，但【毫无进展】。<br/>
 美国国防部亚太助理部长薛瑞福称——<br/>
-<q style="background-color:#DDD;">这些议题无法在这次会谈解决，可能下次会谈也解决不了。这将是长期的挑战，美中两国将继续存在这些分歧。</q><br/>
+<q>这些议题无法在这次会谈解决，可能下次会谈也解决不了。这将是长期的挑战，美中两国将继续存在这些分歧。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/7uAq6WN5mMuY-n-ehVyKoSE8XADvEYdTl3NH5uajC_kRH9dc7B9uI2W2XlnorjCALT2tZj3uKzFNeIx1Om_SlTfbTm9YVqfLOGWbfli0xvAyHuMlAqYzaWWJO1cnAr08HrOJi_PJAUA"/></center><br/>
 <h3>◇10月18日，蓬佩奥呼吁美洲国家警惕中国的【掠夺性行为】</h3><br/>
 美国国务卿蓬佩奥访问巴拿马时，呼吁——<br/>
@@ -191,7 +191,7 @@
 <center><img alt="不见图 请翻墙" src="images/nUcFOsMl2Qw9jnFZu2sFBsDD_vbket4VE7SJ8rEiIQYm50W57NEqPyHaKVDUxZkNOybFtTOPDwKEfCRphFDUJG33RR0tVaBbEp0KZSrU3yaFPcr2FB7NEEbyXe95c2jjTSoSVPody1k"/></center><br/>
 <h3>◇10月19日，《人民日报》称：中国已不屑于“以牙还牙”对美直接报复</h3><br/>
 以下是《日人民报》的原话：<br/>
-<blockquote style="background-color:#DDD;">在美国政府的单边主义和保护主义政策影响下，两国关系可能进入一个合作与竞争并存、新问题新矛盾不断涌现的新时期。<br/>
+<blockquote>在美国政府的单边主义和保护主义政策影响下，两国关系可能进入一个合作与竞争并存、新问题新矛盾不断涌现的新时期。<br/>
 正如一些国际有识之士指出的，中方面对美国的恣意妄为，已不屑于实施“以牙还牙”的直接报复，而是着力通过释放自身潜力渡过难关。</blockquote><br/>
 <b>编程随想注：</b><br/>
 相比贸易战初期，官方的口气已经有显著改变。<br/>
@@ -215,7 +215,7 @@
 （1987年，里根、戈尔巴乔夫签署《中程导弹条约》）</center><br/>
 <h3>◇10月22日，白宫经济顾问库德洛：中国未积极回应美国在贸易谈判中的任何要求</h3><br/>
 白宫首席经济顾问库德洛：<br/>
-<blockquote style="background-color:#DDD;">他们（中国）是不公平的交易者，他们是非法商人，他们盗取了我们的知识产权。<br/>
+<blockquote>他们（中国）是不公平的交易者，他们是非法商人，他们盗取了我们的知识产权。<br/>
 ......<br/>
 中国没有对我们的要求做出任何积极地回应。<br/>
 ......<br/>
@@ -230,7 +230,7 @@
 <center><img alt="不见图 请翻墙" src="images/qYn6m3_dtAY4oU7nsD5kRrVgEQoTm58WR0xg1zuKsZuro7tt4FW8NSaCZU6_iWgOrqUse6UR3ZEGp3lJo9nYvur6Nw12osKCiMLymePOUxKL-TxpUssch0xr5l7Acwie9QVRSCvpP0Q"/></center><br/>
 <h3>◇10月24日，美将领：美中两国可能在15年内发生战争</h3><br/>
 曾任美国驻欧洲陆军司令的本·霍吉斯（Ben Hodges）在欧洲的华沙安全论坛中称——<br/>
-<blockquote style="background-color:#DDD;">我想，在15年内——这并非不可避免，不过极有可能——我们会与中国发生战争。<br/>
+<blockquote>我想，在15年内——这并非不可避免，不过极有可能——我们会与中国发生战争。<br/>
 ......<br/>
 美国没有办法兼顾在欧洲做所有该做的事，同时又处理中国的威胁。</blockquote><center><img alt="不见图 请翻墙" src="images/KH8edvM--FjE8UXPoQUrNjXW7Gr6t_sPFsaZxkmwn_1-PEdTEj4yYargKMjgS0ky2439KAjaRlR_-Dg2afKyhL61KSGGyRN7DdENY8jvOhoiDVpKRE14Yv9i5mut_5IXgMpKeE_pHl8"/></center><br/>
 <h3>◇10月25日，中国防长魏凤和：在台湾问题上挑战北京底线【是极其危险的】</h3><br/>
@@ -239,7 +239,7 @@
 <center><img alt="不见图 请翻墙" src="images/RCvgANIvHlEpanCe90_tmVEVztI9CRy7vnBAW4fe7XmTvCHsHfT57qW2OkF5oEACrDAPNO0XyHLKhftWb-UZ-erIdEqDxDQG5KJaKU9ONpCg-4-n8E3m7u2UendcErLOiWMZTA_mPQ8"/></center><br/>
 <h3>◇10月26日，美助理国务卿：中国窃取美国敏感技术以图取代美国的主导地位</h3><br/>
 美国国务院负责武器控制和国际安全的助理国务卿克里斯托弗·福特（Christopher Ashley Ford）在美国海军学院发表演讲——<br/>
-<blockquote style="background-color:#DDD;">中国野心巨大。中国共产党的战略目标不仅仅是在世界舞台上获得力量和影响力，而且是要取代美国的力量和影响力，从而获得中国一直所相信的被西方帝国主义掠走的中心地缘政治地位和角色。</blockquote>他警告说，美国需要对中国的军民融合战略的使用以及以美国科技力量为目标的中国技术转让的各种努力保持警惕，因为中国想要的不仅是获利以及获得经济的竞争力，更重要的是要让中国成为下一场军事革命的领先力量。这样中国才有能力实现所谓的“中国梦”所期待的全球力量和地位。福特说，中国不仅希望在人工智能方面取得领先地位，在核技术、太空、航空、半导体、云计算、机器人、大数据技术等所有对未来军事革命至关重要的领域都希望获得领先地位。<br/>
+<blockquote>中国野心巨大。中国共产党的战略目标不仅仅是在世界舞台上获得力量和影响力，而且是要取代美国的力量和影响力，从而获得中国一直所相信的被西方帝国主义掠走的中心地缘政治地位和角色。</blockquote>他警告说，美国需要对中国的军民融合战略的使用以及以美国科技力量为目标的中国技术转让的各种努力保持警惕，因为中国想要的不仅是获利以及获得经济的竞争力，更重要的是要让中国成为下一场军事革命的领先力量。这样中国才有能力实现所谓的“中国梦”所期待的全球力量和地位。福特说，中国不仅希望在人工智能方面取得领先地位，在核技术、太空、航空、半导体、云计算、机器人、大数据技术等所有对未来军事革命至关重要的领域都希望获得领先地位。<br/>
 <center><img alt="不见图 请翻墙" src="images/KgnO8key7-2_3HS6_GS-UbqJA57W1Cr3qpqJAAPk5666vX2slD5DHHdyyEw9dMhZPb8GgyGFyGKpvdc9WNkqW0n84xYHR7FKwK7PQCrzToFHiF0-eEpGFBpg9GfE3-41Gf6BJh7a4lo"/></center><br/>
 <h3>◇10月29日，美海军作战部长：美军舰将持续在台湾海峡航行</h3><br/>
 美国军舰近期在台湾海峡和南中国海进行“自由航行”任务，引发中国大陆强烈不满。<br/>
@@ -252,7 +252,7 @@
 <br/>
 <h3>◇10月31日，美国在台协会：美国有义务支持台湾增强自我防卫能力</h3><br/>
 美国在台协会（AIT）台北办事处负责人郦英杰（Brent Christensen）举行了上任后的首次记者会。他指出——<br/>
-<blockquote style="background-color:#DDD;">我们有义务支持台湾维持充足的自我防卫能力以对抗胁迫，这是《<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%97%9C%E4%BF%82%E6%B3%95" rel="nofollow" target="_blank">台湾关系法</a>》中的根本要素。<br/>
+<blockquote>我们有义务支持台湾维持充足的自我防卫能力以对抗胁迫，这是《<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%97%9C%E4%BF%82%E6%B3%95" rel="nofollow" target="_blank">台湾关系法</a>》中的根本要素。<br/>
 ......<br/>
 美国对台政策从未改变！<br/>
 ......<br/>
@@ -261,7 +261,7 @@
 <h2>★11月份的新闻</h2><br/>
 <h3>◇11月2日，川普：谈不成就继续加税</h3><br/>
 川普赴西维吉尼亚州参加中期选举造势活动，在接受媒体采访时称——<br/>
-<blockquote style="background-color:#DDD;">我想我们会与中国达成协议。且我认为这对每个人而言都是个非常公平的协议，但对美国将会是个很好的协议。<br/>
+<blockquote>我想我们会与中国达成协议。且我认为这对每个人而言都是个非常公平的协议，但对美国将会是个很好的协议。<br/>
 ......<br/>
 他们理解，若没有达成协议，我们会对2500亿美元（注：应为2000亿美元）加征 25% 关税，且可能对额外2670亿美元商品加征 25% 甚至更高的关税。</blockquote><center><img alt="不见图 请翻墙" src="images/GT2jtUrxcuOmjfb9K2KQBbostdwefsIH34bsytEFv4T9NVZVEyrn7Pdn4M_iyohSzZGtYeq0ryHHLffk26p3D772bz17xtT3kwASTHCs2nisejAqxI6Go5o1uBn8nN_nWBWaZyykTY0"/></center><br/>
 <h3>◇11月4日，第124届广交会闭幕，对美出口同比下降30.3%</h3><br/>
@@ -278,7 +278,7 @@
 <h3>◇11月6日，基辛格：谈中美思维的差异</h3><br/>
 在刚才提到的“王岐山演讲”之后，彭博新闻社总编辑米思伟（John Micklethwait）与美国前国务卿亨利·基辛格（Henry Kissinger）进行了17分钟的简短对话。<br/>
 以下是俺对基辛格谈话内容的摘录（粗体是俺标注滴）：<br/>
-<blockquote style="background-color:#DDD;">中国已经成长为一个新的玩家，这个国家已经有能力与美国在诸多领域进行竞争，所以我们难免会在全球各地“踩到对方的脚趾”。在面对问题时，美中两国就如何解决问题在哲学层面存在着不同的看法，这是我们在维护两国合作关系时需要面对的一个挑战。<br/>
+<blockquote>中国已经成长为一个新的玩家，这个国家已经有能力与美国在诸多领域进行竞争，所以我们难免会在全球各地“踩到对方的脚趾”。在面对问题时，美中两国就如何解决问题在哲学层面存在着不同的看法，这是我们在维护两国合作关系时需要面对的一个挑战。<br/>
 ......<br/>
 一个根本性的问题在于，从总体上来说，美国人认为如果一个问题出现了，那么就一定能找到办法解决那个问题；而中国人却认为，问题不可能获得根本性解决，每一个解决方案都会引发新的问题。这是美中两国在思维方式上存在的差异。<br/>
 ......<br/>
@@ -292,7 +292,7 @@
 <center><img alt="不见图 请翻墙" src="images/O640HhDzxKPAc7V2xMcjU0qOBbBoaTHmoMeiXVL9CbGNfA-x4y7n6pU7BISH0y7kTDvbPhaditoBZ1oth_rSCWOWyHAEc0C40qvI9Cjf-Ug6Ia-pCQo3xwpxafonChIQjLrEHUo1w-U"/></center><br/>
 同样是在这个“彭博创新经济论坛”上，美国前任财政部长亨利·保尔森发表题为《如果中美达不成共识，经济铁幕将降临》的演讲。<br/>
 以下是俺摘录的部分（粗体是俺标注滴）：<br/>
-<blockquote style="background-color:#DDD;">美国在中国加入世界贸易组织领域一事上起到了决定性的作用。但在中国入世贸17年之后，在很多领域，中国还是没有对外资开放。<br/>
+<blockquote>美国在中国加入世界贸易组织领域一事上起到了决定性的作用。但在中国入世贸17年之后，在很多领域，中国还是没有对外资开放。<br/>
 合资和股权比例的限制依然存在。除此以外，在贸易和外商投资领域还有技术标准，政府补贴，办理许可证和管制等非关税壁垒。<br/>
 <b>在中国入世近20年还是这样，这是不可接受的。</b><br/>
 ......<br/>
@@ -343,12 +343,12 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 美国商务部长罗斯表示——<br/>
 美国仍计划明年1月份提高对中国商品的关税税率，并称川普与习近平将要举行的会晤，充其量只会达成框架协议。<br/>
 当被问及有关中国已向美国列出一系列潜在让步的报道时，罗斯表示，中美首脑会晤前的所有一切工作都只是“准备”。<br/>
-他指出：<q style="background-color:#DDD;">大事件将是川普与习近平在阿根廷二十国集团峰会期间一对一的会谈。在此之前，所有其他事项都只是准备。这将决定是否会达成一个真正的框架协议。</q><br/>
-罗斯还说，不能指望两位首脑会讨论详尽的细节，但如果进展顺利，会为未来的谈判确定框架。<q style="background-color:#DDD;">我们肯定不会在1月或之前达成全面正式的协议。这不可能。</q><br/>
+他指出：<q>大事件将是川普与习近平在阿根廷二十国集团峰会期间一对一的会谈。在此之前，所有其他事项都只是准备。这将决定是否会达成一个真正的框架协议。</q><br/>
+罗斯还说，不能指望两位首脑会讨论详尽的细节，但如果进展顺利，会为未来的谈判确定框架。<q>我们肯定不会在1月或之前达成全面正式的协议。这不可能。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/pe36d7Pff48opUr-IbnYtcUZLqwbUaG2WYA3PnNdkbtQBPCO2CBr3NJdUPC-be5lJjLZ44Ij8MKvlNBWBYYM290FTbjTeGvcK8UWxnn-PMs6hMRKMcSvzyws57LjqAaoaICrjYpmIDM"/></center><br/>
 <h3>◇11月17日，彭斯在 APEC 峰会上谈贸易战和南海问题</h3><br/>
 以下是美国副总统彭斯在 APEC 峰会发言的摘录：<br/>
-<blockquote style="background-color:#DDD;">几个小时前，川普总统在椭圆形办公室（Oval Office）表示，我们“十分尊重习主席……十分尊重中国”。但是，总统指出，“很多很多年来，中国（中共）利用美国从中获利。”这样的日子已经结束了。<br/>
+<blockquote>几个小时前，川普总统在椭圆形办公室（Oval Office）表示，我们“十分尊重习主席……十分尊重中国”。但是，总统指出，“很多很多年来，中国（中共）利用美国从中获利。”这样的日子已经结束了。<br/>
 总统还说，中国（中共）设置了“巨大的壁垒”；他们收取“高额的关税”；而且众所周知，他们的国家采用配额、强制技术转让、盗窃知识产权和前所未有的大规模工业补贴等手法。这些行为实际上造成美国仅去年一年就出现3,750亿美元的产品贸易逆差。但是总统今天已经指出，“现在这一切已经发生变化。”<br/>
 我们已经采取了果断的行动来解决我们与中国（中共）的贸易不平衡。我们已对2,500亿美元的中国商品征收关税，而且还可能把这个数字增加一倍多。但我们希望有更好的情况。然而美国将不会改变路线，直到中国（中共）改变其行为方式。<br/>
 ......<br/>
@@ -380,7 +380,7 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 在该海域部署两支航母打击群，可以提供无可匹敌的海军战力，并展现美国对“自由开放的印太地区”的承诺。<br/>
 演习结束后，里根号航母战斗群20日驶入南中国海。<br/>
 美方强调——<br/>
-<q style="background-color:#DDD;">美国海军将在国际法允许的任何地方飞行、航行和作业。</q><br/>
+<q>美国海军将在国际法允许的任何地方飞行、航行和作业。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/dylfqJfRcV7kKn-cdFf1qJps3fH2WIBFgWH6l6FLrcWzlDzI1_DYlsYtBgFOq5FzSERaCFUkJhlkExZEXC5oEQ6WRnvfqcBNQ04Q5Wur8CvzNgj_MD0yVbUZNOmuQjPQs7D8HpPEiQs"/></center><br/>
 <h3>◇11月24日，《华尔街日报》：美国正游说盟友弃用华为设备</h3><br/>
 据《华尔街日报》报道——<br/>
@@ -455,7 +455,7 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 姆努钦对美国全国广播公司（NBC）记者表示——<br/>
 中方已就贸易领域的一系列关键性问题做出让步。中方承诺额外购买超过【1.2万亿美元】的美国商品，其中包括农产品，但有关细节仍需双方磋商。<br/>
 以下是姆努钦原话摘录：<br/>
-<blockquote style="background-color:#DDD;">川普总统和习主席达成了非常具体的谅解，现在把这转变成一个有可交付成果、日期和真正承诺的真正协议就是团队的工作。<br/>
+<blockquote>川普总统和习主席达成了非常具体的谅解，现在把这转变成一个有可交付成果、日期和真正承诺的真正协议就是团队的工作。<br/>
 ......<br/>
 这是我们首次得到中国的承诺说这将是一个真正的协议。会有结构性问题、非结构性议题、还会有知识产权、科技、网络和汇率方面的议题。</blockquote><center><img alt="不见图 请翻墙" src="images/ruArSsl_givijueJDl-ZIyiH3iAYoNnYF3MK87OqThGr28OsIeRv6uOCABZyuRGavsF1htnJjLIv9inUNAyu_MjPcpXnDhH6r3Wboyhi-kYOZvZ-_ji2lfkyCZ48rP_Nfp3YNHSFneU"/></center><br/>
 <h3>◇12月3日，胡锡进的微博，间接印证美国财长的上述表态</h3><br/>
@@ -480,9 +480,9 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 <br/>
 <h3>◇12月7日，白宫贸易顾问纳瓦罗：美正要求中国做出【根本性】改变</h3><br/>
 美国白宫贸易顾问纳瓦罗接受美国之音专访时称——<br/>
-川普政府正在要求中国做出根本性的改变。<q style="background-color:#DDD;">我们要求的是，中国要遵守国际规则，成为国际贸易的公平竞争者，这当然就是要求他们改变其模式，现在这种模式是建立在国有企业、保护主义、重商主义之上的。</q><br/>
+川普政府正在要求中国做出根本性的改变。<q>我们要求的是，中国要遵守国际规则，成为国际贸易的公平竞争者，这当然就是要求他们改变其模式，现在这种模式是建立在国有企业、保护主义、重商主义之上的。</q><br/>
 纳瓦罗指出——<br/>
-中国不履行贸易承诺的“历史很长”。他说：<q style="background-color:#DDD;">这将是一个艰难的谈判。最大的问题将是如何真正去核实，而不是被蒙骗过关，因为我们以前看到过这样的事。</q><br/>
+中国不履行贸易承诺的“历史很长”。他说：<q>这将是一个艰难的谈判。最大的问题将是如何真正去核实，而不是被蒙骗过关，因为我们以前看到过这样的事。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/oY7Yy6J86fw5AHu9-d7GQmTdjAdsI_bOiKZWiayq_JdZAjcxFxqq-htiiCDYd380tue80lraI6B_UP_1ANyhQOJNo7OyJ5Sil48XRSRI6H2XhIhMZ3jA8kc_hXhZtx-duijrdBCUOtY"/></center><br/>
 <h3>◇12月7日，俄国家杜马立法：禁止外国电子支付（支付宝、微信、等）</h3><br/>
 俄罗斯国家杜马提出《国家支付系统法律修正案》，加强对俄罗斯境外支付系统（MoneyGram，Intel Express）和电子支付服务（支付宝，微信等）的控制。根据该法案，外国支付服务提供商或电子钱包将被禁止向俄罗斯人提供汇款服务。<br/>
@@ -512,7 +512,7 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 共同社报导——<br/>
 日本政府10日在首相官邸召开会议，决定将中国两家通信设备巨头华为和中兴的产品排除出政府采购清单。<br/>
 日本官房长官菅义伟当天在记者会上表示——<br/>
-<q style="background-color:#DDD;">不采购被植入窃取、破坏信息和令信息系统停止等恶意功能的设备极其重要。</q><br/>
+<q>不采购被植入窃取、破坏信息和令信息系统停止等恶意功能的设备极其重要。</q><br/>
 随后，日本三大手机运营商也决定——把华为和中兴的产品从通信设备中排除。<br/>
 <center><img alt="不见图 请翻墙" src="images/7D1c8-wBEjXEY6fN_6q8jtZEERC4UgpPJi4VSuA5QqWsZ3kEW8TaVMjIpr6sYExZvOEgfCG3xCJyd3HN1iSf8kfEII5jipf3B-yb6TV52R-THqVq26auZkIQjimGjtuLy_gA8Zo1uGQ"/></center><br/>
 <h3>◇12月10日，俄外长：俄罗斯无意在中美贸易战中“选边站队”</h3><br/>
@@ -528,7 +528,7 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 <h3>◇12月11日，加拿大法官批准孟晚舟以1000万加元保释</h3><br/>
 在经过三天听证会，加拿大卑诗省（不列颠哥伦比亚省）高等法院批准“华为首席财务官、创始人任正非之女孟晚舟”以1000万加元保释。<br/>
 孟晚舟的16项保释条件包括——<br/>
-<blockquote style="background-color:#DDD;">1. 保持和平；<br/>
+<blockquote>1. 保持和平；<br/>
 2. 到指定地点向监督官报到（布拉德街1855号）；<br/>
 3. 向监督官提供电话与手机号码，必须能被联系到，以便确认遵循保释条件；<br/>
 4. 留在卑诗省（不列颠哥伦比亚省）境内；<br/>
@@ -567,7 +567,7 @@ G20 峰会除了谈判两国贸易逆差问题，中方也须在保护知识产�
 <h3>◇12月12日，美参众两院通过《<a href="https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%BA%9E%E6%B4%B2%E5%86%8D%E4%BF%9D%E8%AD%89%E5%80%A1%E8%AD%B0%E6%B3%95" rel="nofollow" target="_blank">亚洲再保证倡议法案</a>》（ARIA）</h3><br/>
 《亚洲再保证倡议法案》已在美东时间12月4日及12日分别经联邦参、众两院【一致表决通过】。<br/>
 内容包括：<br/>
-<blockquote style="background-color:#DDD;">1. 重申美国基于《<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%97%9C%E4%BF%82%E6%B3%95" rel="nofollow" target="_blank">台湾关系法</a>》及“六项保证”对台湾的安全承诺<br/>
+<blockquote>1. 重申美国基于《<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E9%97%9C%E4%BF%82%E6%B3%95" rel="nofollow" target="_blank">台湾关系法</a>》及“六项保证”对台湾的安全承诺<br/>
 2. 美国总统应定期对台军售，以应对来自中华人民共和国的威胁<br/>
 3. 依据《<a href="https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%97%85%E8%A1%8C%E6%B3%95" rel="nofollow" target="_blank">台湾旅行法</a>》鼓励美国资深官员访台<br/>
 4. 肯定美国与台湾等区域伙伴交往的价值</blockquote><center><img alt="不见图 请翻墙" src="images/oKMD-j3qdT_jvKZ-MIvse7pn5FWoT9Sphh3X5JaK1cHPk53JR7TCuuoq5eeouJ-QwNDLjt__gyYhfSEwRdUGWez_vxSn5U25GWz6s3OGTA_fOoeKrN2SVIZHUXU0PHifnQl8Wp4XfY8"/><br/>
@@ -604,7 +604,7 @@ NIH 的一些评审员兼具北京“<a href="https://zh.wikipedia.org/wiki/%E6%
 <center><img alt="不见图 请翻墙" src="images/PLASSe4UIyQNrzJ_SOSdnBlhownYwAtF8uv2ZX0WrsmQENI1Qf4IAsdl1mqkyy7f-FKalyxewgP5kFzL2Iy-phxJjRHszDJQZMTF7pz14b05BaUnzf_ORCUBpFWt5O4t44h2BTabxM8"/></center><br/>
 <h3>◇12月14日，加拿大总理：中国拘捕两名加拿大人是不可接受的</h3><br/>
 加拿大总理特鲁多在电视采访中谈到了中国逮捕康明凯（Michael Kovrig）和斯帕弗（Michael Spavor）的行动。<br/>
-<blockquote style="background-color:#DDD;">中国正在对其一名公民遭到逮捕作出反应，但我们绝对清楚地表明：对我们被捕公民的支持，并试图找出原因，与中国合作来证明这是不可接受的。<br/>
+<blockquote>中国正在对其一名公民遭到逮捕作出反应，但我们绝对清楚地表明：对我们被捕公民的支持，并试图找出原因，与中国合作来证明这是不可接受的。<br/>
 ......<br/>
 这是世界上两个最大经济体中国和美国开始相互争斗之际所发生的一个情况。<br/>
 ......<br/>
@@ -643,7 +643,7 @@ Google 为了重新入华而打造的【审查版】搜索引擎，代号“蜻�
 <br/>
 <h3>◇12月18日，俄副外长：美退出《<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9%E6%9D%A1%E7%BA%A6" rel="nofollow" target="_blank">中导条约</a>》是【最终决定】</h3><br/>
 俄罗斯外交部副部长里亚布科夫（Sergei Ryabkov）表示——<br/>
-<blockquote style="background-color:#DDD;">华盛顿已在10月宣布退出《中导条约》的计划。<br/>
+<blockquote>华盛顿已在10月宣布退出《中导条约》的计划。<br/>
 通过高层双边渠道，我们确认这是最终决定。</blockquote><br/>
 俄罗斯总统普京（Vladimir Putin）在俄国防部会议上表示——<br/>
 美国退出《中导条约》一事令人极其忧虑。他说美国此举可能会让“防止大规模杀伤武器扩散和军备监控系统”崩溃。<br/>
@@ -677,7 +677,7 @@ Google 为了重新入华而打造的【审查版】搜索引擎，代号“蜻�
 <h3>◇12月20日，白宫贸易顾问纳瓦罗：中国正试图盗窃我们的未来</h3><br/>
 白宫贸易顾问纳瓦罗表示——<br/>
 除非“北京准备全面改革其贸易和工业做法”，否则两国“很难”达成长期协议。他是在接受《日经新闻》采访时做出上述表示的。<br/>
-他说：<q style="background-color:#DDD;">中国基本上是在追逐我们的技术，盗窃日本、美国和欧洲的未来</q>。<br/>
+他说：<q>中国基本上是在追逐我们的技术，盗窃日本、美国和欧洲的未来</q>。<br/>
 纳瓦罗的表态加大了外界对美中两国能够在最后期限前达成协议的质疑。<br/>
 <center><img alt="不见图 请翻墙" src="images/qGhIz1NzNmh3005FIBDvnrjYicoBC6pKSwgt-OPeM1m3xxUQPzmXdCXFC_aTqy-r8HczN5-Qwx_eLfF4VFXqb3db_vwe3Tppzexzt37ztFEWfiQ_rn4exIOIRzdL2uNhmBQOnt9bO9M"/></center><br/>
 <h3>◇12月20日，美司法部起诉两名中国黑客</h3><br/>
@@ -760,17 +760,18 @@ FBI 在谭的笔记本电脑上发现一家中国公司的就业协议，该公�
 <br/>
 　　<b>4、敌视中国的，不仅仅是川普及其班底，而是【整个美国政坛】</b><br/>
 　　美前财长保尔森在11月7日的演讲，已经说得很直白了（请看俺前面的摘录）。<br/>
-　　俺再次引用一下他的话：<q style="background-color:#DDD;"><b>美国民主和共和两党在对中国问题上看法一致。两党虽然在【其他所有问题】上看法都不一致，但对中国的【负面看法】高度一致。</b></q><br/>
+　　俺再次引用一下他的话：<q><b>美国民主和共和两党在对中国问题上看法一致。两党虽然在【其他所有问题】上看法都不一致，但对中国的【负面看法】高度一致。</b></q><br/>
 　　至于是什么原因导致整个美国政坛都敌视中国？参见俺在《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》一文的分析。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a><br/>
-<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a><br/>
-<a href="../../2018/10/weekly-share-126.md">每周转载：汇市的三个咒符（人民币汇率、官方外汇储备、中国持有的美国国债）</a><br/>
-<a href="../../2016/07/Misunderstandings-About-South-China-Sea.md">澄清关于南海纠纷的常见误解</a><br/>
-<a href="../../2016/07/UNCLOS.md">扫盲《联合国海洋法公约》——帮你更好地解读“中菲南海仲裁案”</a><br/>
-<a href="../../2013/02/weekly-share-41.md">天朝【御用骇客】是如何暴露的？</a>
+《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
+《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
+《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2018/10/weekly-share-126.md">每周转载：汇市的三个咒符（人民币汇率、官方外汇储备、中国持有的美国国债）</a>》<br/>
+《<a href="../../2016/07/Misunderstandings-About-South-China-Sea.md">澄清关于南海纠纷的常见误解</a>》<br/>
+《<a href="../../2016/07/UNCLOS.md">扫盲《联合国海洋法公约》——帮你更好地解读“中菲南海仲裁案”</a>》<br/>
+《<a href="../../2013/02/weekly-share-41.md">天朝【御用骇客】是如何暴露的？</a>》
 </div>
 
 

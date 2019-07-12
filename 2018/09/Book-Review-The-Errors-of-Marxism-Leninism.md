@@ -184,7 +184,7 @@ The fact is, however, that most serious English-speaking economists regard Marxi
 <br/>
 <h3>◇欧根·冯·庞巴维克：《<a href="https://docs.google.com/document/d/1bymMDtoDnYNDMFNQd93qspc11F_caMG2YfXD9zSrsKg/" target="_blank">卡尔·马克思及其体系的终结</a>》</h3><br/>
 　　作者<a href="https://zh.wikipedia.org/wiki/%E6%AD%90%E6%A0%B9%C2%B7%E5%8D%9A%E5%A7%86-%E5%B7%B4%E7%B6%AD%E5%85%8B" rel="nofollow" target="_blank">欧根·冯·庞巴维克</a>【又】是“奥地利经济学派”滴。他是卡尔·门格尔的忠实追随者，并与上面那位维塞尔是连襟。<br/>
-　　在奥地利学派中，是他首先站出来直接批判马克思，用的武器就是这本《卡尔·马克思及其体系的终结》（洋文名叫：Karl Marx and the Close of His System）。书中提出了著名的“庞巴维克质疑”——指出《资本论》第一卷与第三卷存在【自相矛盾】。由于他对《资本论》的批判，天朝教科书污蔑他为“庸俗经济学家”。<br/>
+　　在奥地利学派中，是他首先站出来直接批判马克思，用的武器就是这本《卡尔·马克思及其体系的终结》（洋文名叫：Karl Marx and the Close of His System）。书中提出了著名的【庞巴维克质疑】——指出《资本论》第一卷与第三卷存在【自相矛盾】。由于他对《资本论》的批判，天朝教科书污蔑他为“庸俗经济学家”。<br/>
 　　刚才俺提到了熊彼特写的那本《十大经济学家》，其中有一章专门讲庞巴维克，而且也提到了庞巴维克所写的《卡尔·马克思及其体系的终结》，并给出了【非常高】的评价。<br/>
 　　俺再次唠叨一下，熊彼特这本书对马克思有很多赞美之辞，所以这就【更加有说服力】。换句话说，即使像熊彼特这种比较欣赏马克思的经济学家，也不得不承认：<b>庞巴维克击中了马克思的要害</b>。下面是熊彼特的原话，摘自《十大经济学家》第138页（粗体是俺标注滴）。<br/>
 <blockquote>马克思有无数的批评者和辩护者——几乎比其他任何一位理论家都要多。他们的任何一种主要兴趣都不在于马克思著作的科学核心，而且他们总是躲到那些与这一核心观点风马牛不相及的问题中去——历史问题，政治问题，哲学问题，等等——也许他们并不完全胜任评论这位作者及其著作的工作。<br/>
@@ -403,7 +403,7 @@ The attempt to make heaven on earth invariably produces hell.</blockquote>　　
 　　作者<a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E6%96%AF%C2%B7%E9%9B%B7%E6%AD%90%E9%82%A3%E5%BE%B7%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E" rel="nofollow" target="_blank">奥尔德斯·赫胥黎</a>是英国作家，后半生移居美国。17岁就完成了自己的处女作，一生中写过不少作品（主要是小说和散文）。<br/>
 　　顺便说一下：他的祖父是著名生物学家，以捍卫进化论而著称（也就是绰号“达尔文的斗牛犬”那位）。<br/>
 　　这部《美丽新世界》是他的代表作，在【反乌托邦三部曲】中名列第二。虽然同为“反乌托邦”类型的小说，但此书与《一九八四》还不太一样。如果说《一九八四》描述了一个“压迫至死”的世界，那么此书则展现了一个“娱乐至死”的世界。<br/>
-　　读完这部小说的同学，可以再去看看尼尔·波兹曼写的《<a href="https://docs.google.com/document/d/1ZMBntGY_Sh1hETonpNO8JHZ1N53-u7Hlyy_LV7d14xs/">娱乐至死</a>》这本书（俺的网盘上分享了电子版）。<br/>
+　　读完这部小说的同学，可以再去看看尼尔·波兹曼写的《<a href="https://docs.google.com/document/d/1ZMBntGY_Sh1hETonpNO8JHZ1N53-u7Hlyy_LV7d14xs/" target="_blank">娱乐至死</a>》这本书（俺的网盘上分享了电子版）。<br/>
 <br/>
 <h3>◇尤金·扎米亚金：《<a href="https://docs.google.com/document/d/1VO76RE3pXB2BTq39EAXUtaFBBgX2VHoygPZN4hJNwSE/" target="_blank">我们</a>》</h3><br/>
 　　作者<a href="https://zh.wikipedia.org/wiki/%E8%91%89%E5%A4%AB%E6%A0%B9%E5%B0%BC%C2%B7%E8%96%A9%E7%B1%B3%E7%88%BE%E6%AC%BD" rel="nofollow" target="_blank">尤金·扎米亚金</a>曾经是俄国的【老布尔什维克】。据维基百科上的介绍，他至少在1908年之前就已经入党，并因从事革命活动多次被逮捕，其中有一次还被流放西伯利亚。但在十月革命后，他的立场开始转向反共，并着手创作讽刺苏共的文学作品。<br/>
