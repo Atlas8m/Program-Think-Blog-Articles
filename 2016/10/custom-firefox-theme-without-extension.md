@@ -35,7 +35,7 @@
 <br/>
 <h2>★预备知识——如何找到 Firefox 的 profile 目录</h2><br/>
 　　Firefox 的 profile 有时候也称为“实例”。在一个系统中，你可以为 Firefox 配置多个 profile，每个 profile 有各自【独立的】收藏夹、【独立的】配置选项（比如代理设置）、【独立的】页面缓存......<br/>
-　　默认情况下，Firefox 所有的 profile 都存放在同一个目录的【不同子目录下】（每个子目录是一个 profile）。<br/>
+　　默认情况下，Firefox 所有的 profile 都存放在同一个目录的【不同子目录下】（每个【子目录】是一个 profile）。<br/>
 　　那么，如何找到 Firefox 的 profile 目录捏？下面介绍几种不同的方法。<br/>
 <br/>
 <h3>◇方法1——从 about:support 进入</h3><br/>
@@ -128,15 +128,15 @@ userContent.css
 <span class="p">{</span>
   <span class="nb">background-color</span><span class="o">:</span> <span class="n">Salmon</span> <span class="cp">!important</span><span class="p">;</span>    <span class="c">/* 你可以把这行的颜色值改为你自己喜欢的 */</span>
 <span class="p">}</span>
-<span class="nn">#identity-box</span><span class="nc">.mixedActiveContent</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，含“主动的”内容（这种尤其危险） */</span>
+<span class="nn">#identity-box</span><span class="nc">.mixedActiveContent</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，含“主动内容”（这种尤其危险） */</span>
 <span class="p">{</span>
   <span class="nb">background-color</span><span class="o">:</span> <span class="n">DeepPink</span> <span class="cp">!important</span><span class="p">;</span>    <span class="c">/* 你可以把这行的颜色值改为你自己喜欢的 */</span>
 <span class="p">}</span>
-<span class="nn">#identity-box</span><span class="nc">.mixedDisplayContent</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，含“被动的”内容 */</span>
+<span class="nn">#identity-box</span><span class="nc">.mixedDisplayContent</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，含“被动内容” */</span>
 <span class="p">{</span>
   <span class="nb">background-color</span><span class="o">:</span> <span class="n">Pink</span> <span class="cp">!important</span><span class="p">;</span>    <span class="c">/* 你可以把这行的颜色值改为你自己喜欢的 */</span>
 <span class="p">}</span>
-<span class="nn">#identity-box</span><span class="nc">.mixedDisplayContentLoadedActiveBlocked</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，其中的“主动的”内容被禁掉 */</span>
+<span class="nn">#identity-box</span><span class="nc">.mixedDisplayContentLoadedActiveBlocked</span><span class="o">:</span><span class="nd">:after</span>    <span class="c">/* 混合内容，其中的“主动内容”已经被禁掉 */</span>
 <span class="p">{</span>
   <span class="nb">background-color</span><span class="o">:</span> <span class="n">Pink</span> <span class="cp">!important</span><span class="p">;</span>    <span class="c">/* 你可以把这行的颜色值改为你自己喜欢的 */</span>
 <span class="p">}</span>
@@ -229,7 +229,7 @@ userContent.css
 <span class="c">以下是正则表达式（规则表达式）的语法。俺举的栗子：用来匹配所有的 HTTPS 网址的正则表达式。</span>
 <span class="c">请注意，正则表达式需要包含在 半角引号 中间。</span>
 <span class="c">*/</span>
-<span class="k">@-moz-document</span> <span class="nt">regexp</span><span class="o">(</span><span class="s2">"https:.*"</span><span class="o">)</span>
+<span class="k">@-moz-document</span> <span class="nt">regexp</span><span class="o">(</span><span class="s">"https:.*"</span><span class="o">)</span>
 <span class="p">{</span>
 <span class="c">/* 这里放置 CSS 样式定义 */</span>
 <span class="p">}</span>
@@ -238,12 +238,12 @@ userContent.css
 　　先声明：<br/>
 　　俺仅仅是拿这个来作为示范。即使你从来不在俺博客发评论，也可以通过这个示例学到——如何用 <code>userContent.css</code> 去改变某个网站的界面样式。<br/>
 <br/>
-　　其实捏，本月初俺在重写评论界面时，总觉得 Blogspot 平台默认的“评论编辑框”太矮了，看了很不爽。当时俺在自己的 userContent.css 中加了一个样式去改善它。修改的过程中就想到——不如写一篇博文（就是这篇）。<br/>
+　　其实捏，本月初俺在重写评论界面时，总觉得 Blogspot 平台默认的“评论编辑框”太矮了，看了很不爽。当时俺在自己的 <code>userContent.css</code> 中加了一个样式去改善它。修改的过程中就想到——不如写一篇博文（也就是你正在看的这篇）。<br/>
 　　插一句题外话<br/>
-　　本博客的所有页面，俺都可以通过博客管理界面进行定制，除了上面提到的那个“评论编辑框”。因为这个编辑评论的 HTML 页面位于另一个域名（www.blogger.com），无法通过博客的管理界面定制它。<br/>
+　　本博客的所有页面，俺都可以通过博客管理界面进行定制，除了上面提到的那个“评论编辑框”。因为这个编辑评论的 HTML 页面位于另一个域名（<code>www.blogger.com</code>），【无法】通过博客的管理界面定制它。<br/>
 <br/>
 　　你可以通过如下的语法，定制 blogspot 博客平台的编辑框高度。<br/>
-<div class="source"><pre><span></span><span class="k">@-moz-document</span> <span class="nt">url-prefix</span><span class="o">(</span><span class="nt">https</span><span class="o">://</span><span class="nt">www</span><span class="nc">.blogger.com</span><span class="o">/</span><span class="nt">comment-iframe</span><span class="nc">.g</span><span class="o">)</span>
+<div class="source"><pre><span></span><span class="k">@-moz-document</span> <span class="nt">url-prefix</span><span class="o">(</span><span class="s">https://www.blogger.com/comment-iframe.g</span><span class="o">)</span>
 <span class="p">{</span>
   <span class="nn">#commentsHolder</span> <span class="nc">.commentBodyContainer</span> <span class="nt">textarea</span><span class="nn">#commentBodyField</span>
   <span class="p">{</span>
@@ -265,10 +265,11 @@ userContent.css
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>（系列）<br/>
-<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>（系列）<br/>
-<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a><br/>
-<a href="../../2011/11/greasemonkey-scripts-for-google-reader.md">如何用 GreaseMonkey 扩展 Google Reader</a>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+《<a href="../../2011/11/greasemonkey-scripts-for-google-reader.md">如何用 GreaseMonkey 扩展 Google Reader</a>》<br/>
+《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>》（系列）
 </div>
 
 

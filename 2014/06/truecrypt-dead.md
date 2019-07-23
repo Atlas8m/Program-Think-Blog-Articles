@@ -178,13 +178,15 @@ Reddit 上的讨论（“<a href="https://www.reddit.com/r/technology/comments/2
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a><br/>
-<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）<br/>
-<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>（系列）<br/>
-<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a><br/>
-<a href="../../2013/06/weekly-share-54.md">每周转载：关于“棱镜门”丑闻的相关报道</a><br/>
-<a href="../../2014/04/openssl-heartbleed.md">对 OpenSSL 高危漏洞 Heartbleed 的感慨、分析和建议</a>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+《<a href="../../2011/05/recommend-truecrypt.md#index">TrueCrypt 使用经验</a>》（系列）<br/>
+《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a>》<br/>
+《<a href="../../2013/06/weekly-share-54.md">每周转载：关于“棱镜门”丑闻的相关报道</a>》<br/>
+《<a href="../../2014/04/openssl-heartbleed.md">对 OpenSSL 高危漏洞 Heartbleed 的感慨、分析和建议</a>》
 </div>
 
 

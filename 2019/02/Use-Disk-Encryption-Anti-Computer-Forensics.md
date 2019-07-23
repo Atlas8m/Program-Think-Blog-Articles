@@ -351,7 +351,7 @@
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
-《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>

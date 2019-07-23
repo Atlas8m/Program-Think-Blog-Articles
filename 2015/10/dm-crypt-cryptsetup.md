@@ -1,4 +1,4 @@
-# 扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt） 
+# 扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt） 
 
 -----
 
@@ -44,7 +44,7 @@
 　　通常情况下，大伙儿【不需要】用到该模式。<br/>
 <br/>
 　　<b>4. TCRYPT</b><br/>
-　　在 cryptsetup 的 1.6.0 版本之后，开始提供对 TrueCrypt 加密盘的支持。“TCRYPT”就是“TrueCrypt”的缩写。<br/>
+　　在 cryptsetup 的【1.6.0】版本之后，开始提供对 TrueCrypt 加密盘的支持。“TCRYPT”就是“TrueCrypt”的缩写。<br/>
 　　在该模式下，可以打开 TrueCrypt 和 VeraCrypt 的加密盘，并对盘中的文件进行读写。<br/>
 　　请注意：这个模式并【没有】实现 TrueCrypt 和 VeraCrypt 的所有功能。比如修改密码和 keyfiles 的功能就没有。具体欠缺哪些功能，参见下一章节的对照表。<br/>
 <br/>
@@ -60,9 +60,9 @@
 <br/>
 <h2>★“dm-crypt”与“TrueCrypt/VeraCrypt”的对比</h2><br/>
 　　为了让大伙儿有个直观的认识，俺整理了如下的对照表。通过对比，你可以大致了解 dm-crypt 相对于“TrueCrypt和VeraCrypt”的优缺点。<br/>
-　　再次提醒：dm-crypt 的 TCRYPT 模式，需要 cryptsetup 的版本号大于等于 1.6.0 才行。<br/>
+　　再次提醒：dm-crypt 的 TCRYPT 模式，需要 cryptsetup 的版本号大于等于【1.6.0】才行。<br/>
 <br/>
-<table border="1" cellpadding="5" cellspacing="0"><tbody>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr><th>功能点</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt / VeraCrypt</th></tr>
 <tr><td>支持的操作系统</td><td>Linux</td><td>Linux</td><td>Windows<br/>
 Linux<br/>
@@ -97,10 +97,10 @@ Serpent-Twofish-AES</td></tr>
 <tr><td>隐藏卷（Plausible Deniability）</td><td><b>NO</b></td><td>Yes</td><td>Yes</td></tr>
 <tr><td>操作外层卷并对隐藏卷写保护</td><td><b>NO</b></td><td><b>NO</b></td><td>Yes</td></tr>
 <tr><td>自定义“生成密钥的迭代次数”</td><td>Yes</td><td><b>NO</b></td><td>仅 VeraCrypt</td></tr>
-</tbody></table><br/>
+</tbody></table></center><br/>
 <br/>
 <h2>★预备知识</h2><br/>
-　　在使用 cryptsetup 命令行进行操作之前，建议你先掌握如下的技能：<br/>
+　　在使用 <code>cryptsetup</code> 命令行进行操作之前，建议你先掌握如下的技能：<br/>
 <blockquote>如何对硬盘分区（相关的命令行是 <code>fdisk</code>）<br/>
 如何创建文件系统（相关的命令行是 <code>mkfs.ext4</code> 等）<br/>
 如何挂载/卸载文件系统（相关的命令行是 <code>mount umount</code>）<br/>
@@ -109,12 +109,12 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <br/>
 <h2>★cryptsetup 命令行概述</h2><br/>
-　　说完预备知识，开始来介绍 cryptsetup 的基本用法。<br/>
-　　提醒一下：需要使用管理员权限（比如 root）来运行 cryptsetup 相关命令。<br/>
+　　说完预备知识，开始来介绍 <code>cryptsetup</code> 的基本用法。<br/>
+　　提醒一下：需要使用管理员权限（比如 <code>root</code>）来运行 <code>cryptsetup</code> 相关命令。<br/>
 <br/>
 <h3>◇查看版本号</h3><br/>
 　　使用如下命令行查看版本号。<br/>
-<pre>cryptsetup --version</pre>　　因为 dm-crypt/cryptsetup 的某些新功能，只有新版本才提供。比如 cryptsetup 的版本号必须大于等于 1.6.0 才能支持 TrueCrypt 的加密盘格式。<br/>
+<pre>cryptsetup --version</pre>　　因为 dm-crypt/cryptsetup 的某些新功能，只有新版本才提供。比如 cryptsetup 的版本号必须大于等于【1.6.0】才能支持 TrueCrypt 的加密盘格式。<br/>
 　　如果你要用到这些新功能，先看一下版本号，以确保已经支持。<br/>
 <br/>
 <h3>◇查看性能指标</h3><br/>
@@ -131,7 +131,7 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 　　上述写法中的【相关参数】是可以不写的。如果不写，则 cryptsetup 会采用相应的默认值。对于安全性要求较高的同学，【不要】使用默认值，要根据自己的需求指定相关的参数。<br/>
 　　当你使用 <code>luksFormat</code> 进行格式化的时候，下面是几个常用参数以及俺推荐的参数值：<br/>
-<table border="1" cellpadding="5" cellspacing="0"><tbody>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr><th>参数名称</th><th>含义</th><th>推荐值</th><th>备注</th></tr>
 <tr><td>--cipher</td><td>加密方式</td><td>aes-xts-plain64</td><td>AES 加密算法搭配 XTS 模式<br/>
 关于 XTS 模式，可以参见之前的博文：<br/>
@@ -139,7 +139,7 @@ Serpent-Twofish-AES</td></tr>
 <tr><td>--key-size</td><td>密钥长度</td><td>512</td><td>因为 XTS 模式需要两对密钥，每个的长度是256</td></tr>
 <tr><td>--hash</td><td>散列算法</td><td>sha512</td><td>N/A</td></tr>
 <tr><td>--iter-time</td><td>迭代时间</td><td>最好大于10000</td><td>单位是毫秒。该值越大，暴力破解越难；但是你在打开加密盘时也要等待更久</td></tr>
-</tbody></table>　　下面给一个具体的例子——用 LUKS 方式创建（格式化）加密盘，该加密盘位于 <code>/dev/sda2</code> 分区<br/>
+</tbody></table></center>　　下面给一个具体的例子——用 LUKS 方式创建（格式化）加密盘，该加密盘位于 <code>/dev/sda2</code> 分区<br/>
 <pre>cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
 <h3>◇打开加密盘</h3><br/>
 　　dm-crypt/cryptsetup 可以打开前面提及的各种格式的加密（只要是它支持的格式，就可以打开）。<br/>
@@ -267,7 +267,7 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <br/>
 <h2>★用 cryptsetup 操作 TrueCrypt/VeraCrypt 的加密盘</h2><br/>
-　　（再次罗嗦：cryptsetup 的版本号需要【大于等于 1.6.0】才能兼容 TrueCrypt/VeraCrypt 加密盘）<br/>
+　　（再次罗嗦：cryptsetup 的版本号必须——大于等于【1.6.0】才能兼容 TrueCrypt/VeraCrypt 加密盘）<br/>
 <br/>
 <h3>◇基本命令</h3><br/>
 　　在前面的“功能概述”中提及：dm-crypt/cryptsetup 可以用来打开 TrueCrypt/VeraCrypt 加密盘。<br/>
@@ -276,16 +276,16 @@ Serpent-Twofish-AES</td></tr>
 <pre>cryptsetup tcryptOpen 已加密的物理分区或虚拟盘 映射名</pre><br/>
 <h3>◇相关参数</h3><br/>
 　　在 TCRYPT 模式下，有一些相关的参数，简要说明如下：<br/>
-<table border="1" cellpadding="5" cellspacing="0"><tbody>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr><th>参数名称</th><th>说明</th><th>参数值</th></tr>
 <tr><td>--tcrypt-hidden</td><td>打开隐藏卷，需要追加该参数</td><td>无</td></tr>
 <tr><td>--tcrypt-system</td><td>打开加密的系统分区，需要追加该参数</td><td>无</td></tr>
 <tr><td>--readonly</td><td>以“只读”方式打开加密分区，需要追加该参数</td><td>无</td></tr>
 <tr><td>--key-file</td><td>如果该加密盘用到了“keyfiles”认证，需要追加该参数</td><td>keyfile 的路径</td></tr>
 <tr><td>--veracrypt</td><td>打开 VeraCrypt 格式的加密盘，需要追加该参数</td><td>无</td></tr>
-</tbody></table><br/>
+</tbody></table></center><br/>
 　　关于 VeraCrypt 的补充说明：<br/>
-　　cryptsetup 的版本号要大于等于 1.6.7 才可以打开 VeraCrypt 的加密盘。由于这个功能是近期才加入 dm-crypt/cryptsetup，好像还不支持 VeraCrypt 的 PIM 功能——（俺简单测试了一下）如果 VeraCrypt 加密盘设置了 PIM，用 cryptsetup 对其进行 open 操作，没有提示俺输入 PIM，然后显示打开失败。<br/>
+　　cryptsetup 的版本号要大于等于【1.6.7】才能打开 VeraCrypt 的加密盘。由于这个功能是近期才加入 dm-crypt/cryptsetup，好像还不支持 VeraCrypt 的 PIM 功能——（俺简单测试了一下）如果 VeraCrypt 加密盘设置了 PIM，用 cryptsetup 对其进行 open 操作，没有提示俺输入 PIM，然后显示打开失败。<br/>
 　　估计要等 cryptsetup 更新的版本，或许就会支持 VeraCrypt 加密盘的 PIM 功能。<br/>
 　　（关于 PIM 功能，参见《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》）<br/>
 <br/>
@@ -293,14 +293,14 @@ Serpent-Twofish-AES</td></tr>
 <h2>★用 cryptsetup 加密系统分区（root filesystem）或全盘加密</h2><br/>
 <h3>◇配置方法</h3><br/>
 　　在本文开头，俺已经说了——这篇教程面向技术菜鸟。而“加密系统分区”对技术菜鸟来讲，有一定难度。万一没搞好，可能会把系统搞坏掉（导致 Linux 系统无法启动）。<br/>
-　　咋办捏？俺帮大伙儿想了一招比较简单的玩法——在安装系统的时候，加密系统分区（甚至全盘加密）。<br/>
-　　能否使用这招，要看具体的 Linux 发行版，在安装过程中是否提供相应的功能。如果俺没记错的话，如下几个主流的发行版，是可以在安装过程中加密系统分区或全盘加密的。（如果你觉得俺列举的发行版，有遗漏，欢迎到博客留言进行补充）<br/>
+　　咋办捏？俺帮大伙儿想了一招比较简单的玩法——在安装系统的时候，就配置好“加密的系统分区”（甚至直接配置为“全盘加密”）。<br/>
+　　能否使用这招，要看具体的 Linux 发行版，在安装过程中是否提供相应的配置界面。如果俺没记错的话，如下几个主流的发行版，是可以在安装过程中加密系统分区或全盘加密的。（如果你觉得俺列举的发行版，有遗漏，欢迎到博客留言进行补充）<br/>
 <pre>Debian
 Fedora
 Ubuntu
 Linux Mint
 CentOS
-RedHat Enterprise Linux</pre>　　由于不同的发行版，安装界面各不相同，所以俺就偷懒一下，不提供截图了。<br/>
+RedHat Enterprise Linux（RHEL）</pre>　　由于不同的发行版，安装界面各不相同，所以俺就偷懒一下，不提供截图了。<br/>
 　　大体上，这些发行版的安装过程，都有一个步骤是“硬盘分区”。在这个步骤，会提供相关的“加密选项”。<br/>
 　　对于想要进行全盘加密的同学，装系统过程中进行分区的时候，要把 <code>/boot</code> 单独分一个区。并且这个分区是【不能】加密的——因为 <code>/boot</code> 要用来放置引导管理器与内核。<br/>
 <br/>
@@ -316,16 +316,17 @@ RedHat Enterprise Linux</pre>　　由于不同的发行版，安装界面各不
 <br/>
 <h3>◇如何防范“全盘加密的弱点”</h3><br/>
 　　常规的防范措施有如下几种：<br/>
-　　<b>采用 BIOS 提供的“硬盘口令”功能</b><br/>
+<br/>
+　　<b>方法1——采用 BIOS 提供的“硬盘口令”功能</b><br/>
 　　一般而言，台式机没有这个功能；大部分商用笔记本有这个功能。<br/>
 　　这个功能的安全性如何，要看具体的笔记本品牌（不同厂商的实现，可能不一样，因此安全性也不一样）。如果这个功能比较靠谱，就可以防止攻击者在你不知情的情况下，替换你硬盘上的引导程序。<br/>
 <br/>
-　　<b>采用外部存储介质进行引导</b><br/>
+　　<b>方法2——采用外部存储介质进行引导</b><br/>
 　　简而言之，就是把引导程序放到【可引导的】外部介质（比如 U盘、SD卡、MMC卡）。先用外部介质进行引导，然后通过外部介质中的引导程序，提示你输入密码，然后解密硬盘，最后再启动硬盘上的操作系统。<br/>
 　　对于“U盘/SD卡/MMC卡”而言，因为可以随身携带或隐藏在某处，被攻击者物理接触的风险会降低。<br/>
 　　对于 TrueCrypt/VeraCrypt【没法】用这招。而对于 dm-crypt，可以用这招。这种玩法略显复杂，不适合菜鸟。考虑到本文是“扫盲性质”的教程，暂且不提。<br/>
 <br/>
-　　<b>把系统安装到外部存储介质</b><br/>
+　　<b>方法3——把【整个系统】安装到外部存储介质</b><br/>
 　　这种玩法就是把【整个操作系统】都安装到外部存储介质（比如 U盘、SD卡、MMC卡）。开机时，需要先插入外部存储介质，启动整个操作系统。然后在这个操作系统中内置的 dm-crypt 挂载加密的硬盘。<br/>
 　　对于“U盘/SD卡/MMC卡”而言，因为可以随身携带或隐藏在某处，被攻击者物理接触的风险会降低。<br/>
 　　很多主流的 Linux 发行版，默认提供了 Live CD 的功能（也就是用光盘直接启动出一个【可用】的 Linux 环境）<br/>
@@ -349,12 +350,12 @@ RedHat Enterprise Linux</pre>　　由于不同的发行版，安装界面各不
 <h3>◇混用的思路</h3><br/>
 　　首先用 dm-crypt/cryptsetup 对系统分区（root filesystem）进行加密 或者 实现全盘加密。（具体玩法参见前面的章节）<br/>
 　　然后在已经加密的分区中，创建 TrueCrypt/VeraCrypt 的虚拟加密盘，并使用隐藏卷的功能。（如何使用隐藏卷，参见《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》）<br/>
-　　把你最敏感最重要的数据，存储在隐藏卷中。<br/>
-　　假设将来有一天，你受到胁迫，你可以交出 dm-crypt 的加密密码。然后利用隐藏卷这个功能，来施展“Plausible Deniability”的技巧，迷惑胁迫你的人。关于该技巧的使用场景，参见<a href="../../2011/05/recommend-truecrypt.md">这篇博文中的</a>“◇Plausible Deniability”章节。<br/>
+　　把你最敏感最重要的数据，存储在【隐藏卷】中。<br/>
+　　假设将来有一天，你受到胁迫，你可以交出 dm-crypt 的加密密码。然后利用隐藏卷这个功能，来施展【Plausible Deniability】这个技巧，迷惑胁迫你的人。关于该技巧的使用场景，参见<a href="../../2011/05/recommend-truecrypt.md">这篇博文</a>里面的<q>◇Plausible Deniability</q>章节。<br/>
 <br/>
 <br/>
 <h2>★如果你对 TrueCrypt/VeraCrypt 不放心，该咋办？</h2><br/>
-　　本来这个话题应该是放到<a href="../../2015/10/VeraCrypt.md">之前那篇博文</a>来聊的。但是在写前面那篇博文的时候，俺还没有扫盲“dm-crypt/cryptsetup”。所以只好把这个话题留到今天这篇博文。<br/>
+　　本来这个话题应该是放到<a href="../../2015/10/VeraCrypt.md">之前那篇博文</a>来聊的。但是在写前面那篇博文的时候，俺还没有扫盲“dm-crypt/cryptsetup”。于是就把这个话题留到今天这篇。<br/>
 <br/>
 <h3>◇某些用户的担心</h3><br/>
 　　从俺博客的读者留言中，可以看出某些人对这两款工具都不太放心。<br/>
@@ -370,7 +371,7 @@ RedHat Enterprise Linux</pre>　　由于不同的发行版，安装界面各不
 　　到目前为止，至少【没有】发现该格式有明显的后门或弱点。<br/>
 　　综上所述，俺认为 <b>TrueCrypt 的加密盘格式是可靠的（可信的）</b>。<br/>
 <br/>
-　　而 VeraCrypt 的加密盘格式，跟 TrueCrypt 的格式<b>几乎完全一样</b>——俺专门看过这两者的技术规范文档，加密盘头部（header）的结构完全一样，仅有的差异在于某个标志位（从 TrueCrypt 的标志改为 VeraCrypt 的标志）。<br/>
+　　而 VeraCrypt 的加密盘格式，跟 TrueCrypt 的格式【<b>几乎完全一样</b>】——俺专门看过这两者的技术规范文档，加密盘头部（header）的结构【完全一样】，仅有的差异在于某个标志位（从 TrueCrypt 的标志改为 VeraCrypt 的标志）。<br/>
 　　因此，<b>VeraCrypt 的加密盘格式，也是可靠的（可信的）</b>。<br/>
 <br/>
 <h3>◇防范措施</h3><br/>
@@ -390,16 +391,16 @@ RedHat Enterprise Linux</pre>　　由于不同的发行版，安装界面各不
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a><br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a><br/>
-<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a><br/>
-<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a><br/>
-<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a><br/>
-<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a><br/>
-<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a><br/>
-<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a><br/>
-<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a><br/>
-<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
+《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》<br/>
+《<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a>》<br/>
+《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》<br/>
+《<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a>》<br/>
+《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
+《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
+《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
+《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>》
 </div>
 
 

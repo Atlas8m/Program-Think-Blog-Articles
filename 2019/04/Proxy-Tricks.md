@@ -157,11 +157,11 @@
 　　<b>PySocks（专用于 python）</b><br/>
 　　作为曾经的程序猿，而且还比较喜欢 Python，顺便介绍一个库（如果你不是搞 Python 开发的，这个东东与你无关）。<br/>
 　　它的代码仓库在“<a href="https://github.com/Anorov/PySocks" rel="nofollow" target="_blank">这里</a>”。使用它，只需增加4行代码（如下），就可以让整个 Python 进程的网络链接都转向指定的 SOCKS 代理。<br/>
-<pre style="font-family:monospace;"><div class="source"><pre><span class="kn">import</span> <span class="nn">socket</span>
+<div class="source"><pre><span class="kn">import</span> <span class="nn">socket</span>
 <span class="kn">import</span> <span class="nn">socks</span>
 <span class="n">socks</span><span class="o">.</span><span class="n">set_default_proxy</span><span class="p">(</span><span class="n">socks</span><span class="o">.</span><span class="n">SOCKS5</span><span class="p">,</span> <span class="n">addr</span><span class="p">,</span> <span class="n">port</span><span class="p">)</span> <span class="c"># addr 和 port 表示 SOCKS 代理的地址和端口</span>
 <span class="n">socket</span><span class="o">.</span><span class="n">socket</span> <span class="o">=</span> <span class="n">socks</span><span class="o">.</span><span class="n">socksocket</span>
-</pre></div></pre>　　其原理与刚才介绍的那几个工具差不多——它替换掉 socket 标准库的入口函数，其它 python 库（不管是标准库还是第三方库）只要想联网，终归都要直接或间接地依赖 socket 进行网络通讯，因此都会被重定向到指定的 SOCKS 代理。<br/>
+</pre></div>　　其原理与刚才介绍的那几个工具差不多——它替换掉 socket 标准库的入口函数，其它 python 库（不管是标准库还是第三方库）只要想联网，终归都要直接或间接地依赖 socket 进行网络通讯，因此都会被重定向到指定的 SOCKS 代理。<br/>
 <br/>
 <h3>◇如何匿名化？</h3><br/>
 　　如果你使用普通的翻墙代理，数据流的示意图如下：<br/>

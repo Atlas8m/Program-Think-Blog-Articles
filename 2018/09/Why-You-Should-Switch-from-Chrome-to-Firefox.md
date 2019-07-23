@@ -7,7 +7,7 @@
 <h2>★引子</h2><br/>
 　　本文要聊的这个话题，俺在5年前的那个《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》系列博文中，已经聊过一次（参见那个系列的第2篇《<a href="../../2013/06/privacy-protection-2.md">关于浏览器的基本防范（上）</a>》）。<br/>
 　　为啥今天又要老调重谈捏？主要是因为本月初（2018年9月）发布的 Chrome 69 版本出了一个严重的隐私丑闻。这个丑闻如此雷人，俺觉得有必要老调重谈：劝大伙儿弃用 Chrome。<br/>
-　　虽然 Google 官方已经承诺在 Chrome 70 版本解决此问题，但俺认为 Chrome 浏览器在隐私方面【根本不值得信任】（下面会聊到这点）。<br/>
+　　虽然 Google 官方已经承诺在 Chrome 70 版本解决此问题，但俺认为：Chrome 浏览器在隐私方面【根本不值得信任】（下面会聊到这点）。<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★名词解释</h2><br/>
@@ -133,7 +133,7 @@ Firefox 是完全开源的，而 Chrome 是基于 Chromium 增加了一些闭源
 <br/>
 <center><img alt="不见图 请翻墙" src="images/2z8PL15f1ug4b_kKyqHRZV7I2QjgZYUh00mi5nnjNBwwC6z0HVVfEgPEi7ficiQ9HP9q-OeGhDbdNQ2jIMGh4cKLHvYRpTaJShbshYypnKivuVeefLCA4rJ37lxTllXBzkiEYUpqFlg"/><br/>
 （Fusion 的 logo——狐狸抱着洋葱）</center><br/>
-　　该项目的介绍页面在“<a href="https://wiki.mozilla.org/Security/Fusion" rel="nofollow" target="_blank">这里</a>”，其中提到：<q style="background-color:#DDD;">We will determine how best to integrate the Tor proxy into Firefox</q><br/>
+　　该项目的介绍页面在“<a href="https://wiki.mozilla.org/Security/Fusion" rel="nofollow" target="_blank">这里</a>”，其中提到：<q>We will determine how best to integrate the Tor proxy into Firefox</q><br/>
 　　或许在不远的将来，Firefox 用户就可以直接体验 Tor 代理的匿名网上冲浪。<br/>
 <br/>
 <br/>
@@ -156,15 +156,16 @@ Firefox 是完全开源的，而 Chrome 是基于 Chromium 增加了一些闭源
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/10/How-to-Choose-Firefox-Version.md">基于安全考虑，如何选择及切换 Firefox 版本？</a><br/>
-<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>（系列）<br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>（系列）<br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）<br/>
-<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a><br/>
-<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a><br/>
-<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a><br/>
-<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a><br/>
-<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>
+《<a href="../../2018/10/How-to-Choose-Firefox-Version.md">基于安全考虑，如何选择及切换 Firefox 版本？</a>》<br/>
+《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
+《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
+《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a>》<br/>
+《<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a>》<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+《<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>》
 </div>
 
 

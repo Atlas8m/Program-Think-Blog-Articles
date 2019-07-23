@@ -19,29 +19,31 @@
 《<a href="https://chinadigitaltimes.net/chinese/2019/06/%e3%80%90%e5%9b%be%e8%af%b4%e5%a4%a9%e6%9c%9d%e3%80%91%e5%8c%97%e4%ba%ac%e4%b8%8a%e6%b5%b7%e5%9c%b0%e9%93%81%e6%a3%80%e6%9f%a5%e4%b9%98%e5%ae%a2%e6%89%8b%e6%9c%ba%ef%bc%9a1984%e7%a4%be%e4%bc%9a/" rel="nofollow" target="_blank">北京上海地铁检查乘客手机——1984社会全面实现 @ 中国数字时代</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
-　　前些年，俺在博客评论区与读者交流时就提到过——新疆警方可以随意盘查路人手机（以“反恐”的名义）。从“中国数字时代”这篇报道来看，这种做法可能会推广到其它省份。<br/>
+　　前些年，俺在博客评论区与读者交流时就提到过——新疆警方可以随意盘查路人手机（以“反恐”的名义）。从“中国数字时代”这篇报道来看，这种做法可能会推广到其它省份（目前【还没有】大范围盘查；未来是否会这么干，就不好说啦）<br/>
 　　警方盘查路人的手机，采用的是专业的【手机取证软件】。这种软件可以在手机解锁之后，快速扫描整个存储空间，并把所有值得提取的数据都找出来（比如：通讯录、所有通话记录、全部上网历史、各种 App 的聊天记录、照片、视频......）。它甚至可以恢复出“你曾经删除过的通讯录联系人”或者“你曾经删除过的 IM 聊天记录”。<br/>
-　　某些比较牛的手机取证软件，可以直接破解手机（不需要机主解锁）并收集手机中的信息。关于“破解手机”的话题，下面某个章节还会聊到。<br/>
+　　顺便插两句：<br/>
+　　在取证领域有一个专门的术语叫做“删除恢复”。而绝大部分手机用户完全不懂得如何彻底删除手机数据。有关“彻底删除数据”的讨论参见：《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+　　某些比较牛的手机取证软件，可以【直接破解】手机（不需要让机主解锁）并收集手机中的信息。关于“破解手机”的话题，下面某个章节还会聊到。<br/>
 <br/>
 　　目前警方常用的“取证软件”分为两大类——<br/>
 1、手机取证（含平板）<br/>
 2、PC 取证<br/>
 　　移动设备要【对抗】“手机取证软件”会比较难。因为移动设备上【缺乏】足够好的【磁盘加密工具】。<br/>
 　　虽然目前的 Android 和 iOS 都能支持“全盘加密”。但“全盘加密”是【不够】滴。因为当警方要求你解锁手机时，（除非你足够牛逼，否则）你只能乖乖配合。而一旦你交出了手机的解锁方式（“解锁密码”或“解锁图案”），操作系统自带的“全盘加密”就【没有意义】啦。<br/>
-　　相比之下，PC 上可以做到很多手机上无法实现（或难以实现）的技巧。简单列几条：<br/>
+　　相比之下，【PC】上可以做到很多手机上无法实现（或难以实现）的技巧。简单列几条：<br/>
 　　<b>1、嵌套加密</b><br/>
-　　PC 上可以组合【多种不同的加密工具】，实现多层嵌套。<br/>
-　　即使在警方的逼迫下解锁了最外层的全盘加密，你的敏感数据依然被【内层】的某个加密盘所保护。<br/>
-　　只要你把内部的加密盘伪装得足够好，取证软件不一定能发现。<br/>
+　　PC 上可以组合多种不同的加密工具，实现【多层】嵌套——先使用“全盘加密”，然后在此基础上再建立加密盘（物理加密分区 or 虚拟加密盘）。<br/>
+　　即使在警方的逼迫下解锁了最外层的“全盘加密”，你的敏感数据依然被【内层】的某个加密盘所保护。<br/>
+　　只要你把内部的加密盘伪装得足够好，取证软件【不一定】能发现。<br/>
 　　<b>2、伪装“物理加密分区”</b><br/>
 　　可以把某个“加密分区”伪装成“未使用分区”。<br/>
-　　（注：做得好的磁盘加密工具，其“加密分区”的数据看起来是【全随机】滴，与“未用分区”的效果完全一样，取证软件【无法】区分这两者）<br/>
+　　（注：做得好的磁盘加密工具，其“加密分区”的数据看起来是【全随机】滴，而且【没有】显式的头部格式或标识。也就是说，其数据看起来与“未用分区”的效果完全一样，取证软件【无法】区分这两者）<br/>
 　　<b>3、Plausible Deniability</b><br/>
 　　这个特性的原理可以参考“<a href="../../2011/05/recommend-truecrypt.md">这篇教程</a>”。<br/>
 　　使用这种技巧的加密盘有【两套】密码。用这2个密码解锁之后看到的内容是【不同】滴。其中一个密码专门用来——当你受到胁迫时，故意勉为其难地告诉对方，该密码解锁加密盘之后，看到的都是一些无关痛痒的内容（不那么重要的内容）；而另一个密码才是真正的密码。<br/>
 　　由于“Plausible Deniability”的设计在“密码学层面”是【严密】滴。因此，取证软件【无法判断】某个加密盘是否采用了这种“双重密码”的机制。也就是说：警方就算找到了你的某个加密盘，并逼迫你交出该加密盘的密码，警方依然【无法判断】这个加密盘是否还存在“另一套密码”。<br/>
 　　<b>4、“加密盘”结合“虚拟机”</b><br/>
-　　你可以把所有的危险操作都放到虚拟机中进行。而虚拟机则保存在某个加密盘中（可以是“物理加密分区”，也可以是“虚拟加密盘”）。如此一来，你的物理系统（Host OS）上所有的操作痕迹都是很普通滴，即使被取证软件收集到也无所谓。<br/>
+　　你可以把【所有的】危险操作都放到虚拟机中进行。而虚拟机则保存在某个加密盘中（可以是“物理加密分区”，也可以是“虚拟加密盘”）。如此一来，你的物理系统（Host OS）上所有的操作痕迹都是很普通滴，即使被取证软件收集到也无所谓。<br/>
 　　就算取证软件发现了你用来保存虚拟机的加密盘，你还可以继续使用“Plausible Deniability”这个技巧（参见第3条）。<br/>
 <br/>
 　　刚才列出的这几个招数，都可以帮你更好地隐藏敏感数据。更详细的教程，请参考下面几篇博文：<br/>
@@ -75,6 +77,11 @@
 <br/>
 他们合作发布了 <a href="https://trackthis.link/" rel="nofollow" target="_blank">Track THIS</a>，根据你选定的角色——潮人、有钱人、世界末日预备者以及意见领袖。<br/>
 打开 100 个特定标签，你的浏览历史将会被去个性化，将让广告商不知道如何定位你。注意，加载一百个标签可能需要几分钟的时间。</blockquote><br/>
+<h3>◇Firefox 67 引入“letterboxing”功能——阻止网站的 JS 获取精确的屏幕分辨率</h3><br/>
+　　<b>编程随想注：</b><br/>
+　　这个功能刚引入，目前还没有提供配置界面。为了启用该功能，需要开启 Firefox 中名为 <code>privacy.resistFingerprinting.letterboxing</code> 的配置选项。<br/>
+　　如果你不懂得定制 Firefox 配置选项，请参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+<br/>
 <h3>◇又有几款浏览器步 Chrome 的后尘——不让用户关闭“点击追踪”</h3><br/>
 《<a href="https://www.bleepingcomputer.com/news/software/major-browsers-to-prevent-disabling-of-click-tracking-privacy-risk/" rel="nofollow" target="_blank">Major Browsers to Prevent Disabling of Click Tracking Privacy Risk @ Bleeping Computer</a>》<br/>
 　　<b>编程随想注：</b><br/>
@@ -86,7 +93,7 @@
 　　引申阅读：<br/>
 《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
 <br/>
-<h3>◇“今日头条”无耻地宣称：通讯录不属于个人隐私</h3><br/>
+<h3>◇“今日头条”【无耻】地宣称：通讯录不属于个人隐私</h3><br/>
 《<a href="https://www.ittime.com.cn/news/news_28223.shtml" rel="nofollow" target="_blank">今日头条称通讯录不属个人隐私遭“打脸”，98% 网民表示反对 @ IT 时代网</a>》<br/>
 　　<b>编程随想注：</b><br/>
 　　国内的流氓公司，总是一次又一次地刷新“道德下限”。<br/>
@@ -98,7 +105,7 @@
 <blockquote style="background-color:#DDD;">Google 去年更新了它的 reCAPTCHA 机器人程序检测技术。reCAPTCHA 是使用最广泛的反机器人技术，reCAPTCHA v1 让用户看模糊扭曲的字符，reCAPTCHA v2 让用户从模糊的图像中间挑选出街道或商店。而最新的 reCAPTCHA v3 则使用 Google 的私有技术去学习网站的正常流量和用户行为，访问者将会根据访问来源或行为分配一个风险分数。但基于风险分数的系统是需要付出一个巨大代价的：用户的隐私。<br/>
 两位研究 reCaptcha 的安全研究人员称，Google 判断你是否是恶意用户的一种方法是你的浏览器是否已经安装了 Google cookie。同样的 cookie 允许你无需重新登录就能进入 Google 的服务。多伦多大学计算机科学博士生 Mohamed Akrout 的测试显示，相对于没有 Google 帐户的浏览器，reCaptcha v3 给了已连接 Google 帐户的浏览器更低的风险分数。如果通过 Tor 或 VPN 访问包含 reCaptcha v3 的网站，风险分数总是更高。为了让风险分数正确的工作，网站需要在每一个网页嵌入 reCaptcha v3 代码，而不仅仅是登录页面。这意味着 Google 会从你访问的每一个网页收集数据，而且没有任何视觉指示显示你正在被监视着。Google 声称它的 reCaptcha  API 会向它发送软件和硬件信息，表示这些信息只是用于对抗垃圾流量和滥用。根据统计网站 Built With 的数据，目前有超过 65 万个网站已经使用了 reCaptcha v3。</blockquote>　　<b>编程随想注：</b><br/>
 　　经常有读者（尤其那些用 TorBrowser 的读者）抱怨说：在俺博客发表【匿名留言】很麻烦，老是一遍遍地进行“人机验证”。<br/>
-　　如果你理解了上面这篇报道，自然也就理解了——为啥 Google 的“人机验证”对 TorBrowser 用户【很不友好】。因为 TorBrowser 能有效地消除用户的身份信息。对这类 Web 客户端，reCaptcha v3 会给出更高的“风险评分”，从而让 Google 的服务器更加怀疑你是恶意用户。<br/>
+　　如果你理解了上面这篇报道，自然也就理解了——为啥 Google 的“人机验证”对 TorBrowser 用户【很不友好】。因为 TorBrowser 能有效地【消除】用户的身份信息。碰到这类 Web 客户端，reCaptcha v3 会给出更高的“风险评分”，从而让 Google 的服务器更加怀疑你是恶意用户。<br/>
 　　（注：具有【恶意行为】的用户，也会采用类似的技术手段，以消除身份信息。所以当 reCaptcha 无法从你的浏览器收集到足够的身份信息，就容易怀疑你是“恶意用户”）<br/>
 　　你可以【换一个角度】来看待这个问题——当 Google 的 reCAPTCHA 要求你一遍遍地进行人机验证，别太沮丧。这说明你的“隐私保护”还算凑合 :)<br/>
 <br/>
@@ -180,7 +187,7 @@
 <blockquote style="background-color:#DDD;font-family:Courier,monospace;">Talking about differences across supported browsers, the code base is now is exactly the same. But on Chromium, I had to disable, at least for the time being, NoScript's XSS filter.<br/>
 Chromium users will have to rely on the browser's built-in 'XSS Auditor,' which over time proved not to be as effective as NoScript's 'Injection Checker'.<br/>
 But the latter could not be ported in a sane way yet, because it requires asynchronous processing of web requests: a feature provided by Firefox only.</blockquote>　　另外，<br/>
-　　NoScript 的 10.6.x 版本已经可以兼容 Chrome/Chromium，但还只能达到 beta 品质。作者认为：等到 11.0 版本时，在兼容 Chrome/Chromium 方面就 OK 了。（截止俺写本文时，NoScript 的最新版本是 11.0）<br/>
+　　NoScript 的 10.6.x 版本已经可以兼容 Chrome/Chromium，但还只能达到 beta 品质。作者认为：等到 11.0 版本时，在兼容 Chrome/Chromium 方面就 OK 了。（截止俺写本文时，NoScript 最新版本已经升到 11.0）<br/>
 <br/>
 <h3>◇Wi-Fi 协议的 WPA3 标准发现漏洞</h3><br/>
 《<a href="https://mobile.slashdot.org/story/19/04/11/1431219/" rel="nofollow" target="_blank">Dragonblood Vulnerabilities Disclosed in Wi-Fi WPA3 Standard @ Slashdot</a>》<br/>
@@ -203,9 +210,9 @@ But the latter could not be ported in a sane way yet, because it requires asynch
 　　在这个漏洞刚刚曝光时，补丁尚未发布，系统管理员可以利用 sysctl 禁用 TCP SACK。<br/>
 　　sysctl 是 Linux 内核提供的一种机制，可以动态修改内核的参数。<br/>
 　　与“重编译内核”相比，sysctl 的灵活性比较差（可定制的选项不太多），但 sysctl 用起来比较简单（傻瓜化）。<br/>
-　　“加固 Linux 系统”有很多种手法，其中一种是：用 sysctl 把一些没用要到的功能模块禁掉，以【降低攻击面】。<br/>
-　　举个栗子：如果你的 Linux 完全没用到 IPv6，可以通过 sysctl 把 IPv6 禁掉。<br/>
-　　更多相关介绍，请参考：《<a href="https://linux-audit.com/linux-hardening-with-sysctl/" rel="nofollow" target="_blank">Linux hardening with sysctl settings @ Linux Audit</a>》<br/>
+　　“加固 Linux 系统”有很多种手法，其中一种是：用 sysctl 把一些没用要到的功能模块禁掉，以【降低攻击面】。举个栗子：如果你的 Linux 完全没用到 IPv6，可以通过 sysctl 把 IPv6 禁掉。<br/>
+　　sysctl 除了可以用来“禁用功能模块”，还可以用于“参数调优”，以提升安全性和性能。<br/>
+　　更多的相关介绍请参考：《<a href="https://linux-audit.com/linux-hardening-with-sysctl/" rel="nofollow" target="_blank">Linux hardening with sysctl settings @ Linux Audit</a>》<br/>
 <br/>
 <br/>
 <h2>★移动设备</h2><br/>
@@ -237,27 +244,30 @@ Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹�
 　　由于手机经常会被随身携带，而且智能手机通常都内置了陀螺仪。那么，如果某个 App 具备了相关的权限，就可以观测手机主人的【步态】。并以此来作为某种【唯一标识】。这其中当然就包含了“隐私风险”。<br/>
 　　更危险的是——以【步态】作为“身份标识”具有【跨设备】的效果。<br/>
 　　设想一下：如果你有两个手机，都装了某个 App，并且这个 App 具备上述风险。哪怕你【从不】在这两个手机的 App 上进行【用户登录】，哪怕你【从不】同时携带这两个手机（每次只携带其中一个）。但这两个手机上的 App 如果收集了足够多的【步态信息】并汇总到 App 的服务器，服务器上的软件根据这些数据就可以判断出——这两个物理设备属于【同一个自然人】。<br/>
-　　手机的问题在于——它包含了很丰富的【探测手段】（比如：摄像头、麦克风、陀螺仪、GPS......）。这玩意儿简直就是现代版的“电幕”（看过《1984》的同学应该知道俺在说啥）<br/>
+　　手机的问题在于——它包含了很丰富的【探测手段】（比如：摄像头、麦克风、陀螺仪、GPS......）。这玩意儿简直就是现代版的“电幕”（看过《<a href="https://docs.google.com/document/d/144NKDAcg-ip8rwhRtE9fdPan8ZSxqNaEh1A-sYYa7nk/" target="_blank">1984</a>》这部小说的同学应该知道俺在说啥）<br/>
 <br/>
 <h3>◇针对“Android 供应链”的攻击</h3><br/>
 《<a href="https://www.solidot.org/story?sid=61139" rel="nofollow" target="_blank">Android 供应链攻击 @ Solidot</a>》<br/>
 <blockquote style="background-color:#DDD;">Google 本月初<a href="https://security.googleblog.com/2019/06/pha-family-highlights-triada.html" rel="nofollow" target="_blank">披露</a>了一起 Android 供应链攻击，称一家供应商在数百万台设备上预装了 Triada 恶意程序去展示广告。那么 Triada 是谁开发的呢？Google 称供应商使用了野火（Yehuo 或 Blazefire）这个名字。KrebsonSecurity 对这个名字以及相关域名，域名注册邮箱进行了一番跟踪，<a href="https://krebsonsecurity.com/2019/06/tracing-the-supply-chain-attack-on-android-2/" rel="nofollow" target="_blank">认为</a> Triada 与上海野火网络科技有限公司有关，该公司的 CEO 叫楚达。公司域名 blazefire.com 的注册邮箱是 tosaka1027@gmail.com，同一邮箱被用于注册了至少 24 个域名，至少 7 个域名被用于传播 Android 恶意程序，其中两个域名被用于传播 Triada，<b>另外五个被用于传播 Hummer 木马</b>。Brian Krebs 称 Google 拒绝置评，而野火网络则没有回应。</blockquote>　　<b>编程随想注：</b><br/>
-　　最近一年，“中美对抗”急剧升温。其中一个焦点就是【信息安全】。<br/>
-　　如今出了这么一个案例，典型的“授人以柄”。<br/>
+　　请注意俺标注了粗体的那句。上海的这家公司，不仅利用“供应链攻击”植入广告，还传播【木马】。<br/>
+　　最近一年，“中美对抗”急剧升温。其中一个焦点就是【信息安全】。如今出了这么一个案例，典型的“授人以柄”。<br/>
 <br/>
 <br/>
 <h2>★安全工具</h2><br/>
 <h3>◇Matrix 协议发布 1.0 版本</h3><br/>
-《<a href="https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation" rel="nofollow" target="_blank">Introducing Matrix 1.0 and the Matrix.org Foundation @ 官网</a>》<br/>
+《<a href="https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation" rel="nofollow" target="_blank">Introducing Matrix 1.0 and the Matrix.org Foundation @ Matrix 官网</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
 　　前面提到：香港“反送中抗议活动”期间，某个 Telegram 群主被警方抓了。那段时间也有读者在博客评论区交流：如何更隐匿地使用 IM 工具？<br/>
 　　6月份正好赶上“Matrix 1.0 版本发布”，今天顺便介绍一下：<br/>
-　　擅长看洋文的，可直接看“英文维基百科”（<a href="https://en.wikipedia.org/wiki/Matrix_(protocol)" rel="nofollow" target="_blank">这里</a>），不擅长看洋文的，贴一篇中文的扫盲教程（<a href="https://vimacs.wehack.space/matrix-guide/" rel="nofollow" target="_blank">这里</a>）。<br/>
-　　另外，在4月份还有这样一个新闻：《<a href="https://www.solidot.org/story?sid=60328" rel="nofollow" target="_blank">法国政府发布它开发的端对端加密消息应用 @ Solidot</a>》。<br/>
-　　法国政府基于【Matrix 协议】开发了一个 IM 工具（Tchap），用来替代“Telegram 和 WhatsApp”。并且这个 Tchap 最终会被用于法国所有政府部门。<br/>
+　　利用“Matrix 协议”可以帮你实现一个更自由的、不受政府和商业公司控制的“IM 生态环境”。Matrix 是【去中心化】的，但它又不同于“P2P 模式”，它实际上属于【联邦式】（federation）。<br/>
+　　在这种模式中，还是有 Server 与 Client。但不同于传统的【中心式】，任何人都可以创建 Server。“Matrix 协议”负责在“Server 与 Server 之间”、“Client 与 Server 之间”同步数据，从而让不同 Server 的帐号也能相互沟通。<br/>
+　　擅长看洋文的，可直接看“英文维基百科”（<a href="https://en.wikipedia.org/wiki/Matrix_(protocol)" rel="nofollow" target="_blank">这里</a>）；不擅长看洋文的，贴一篇中文的扫盲教程（<a href="https://vimacs.wehack.space/matrix-guide/" rel="nofollow" target="_blank">这里</a>）。<br/>
 　　引申阅读：<br/>
 《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
+<br/>
+　　另外，在4月份还有这样一个新闻：《<a href="https://www.solidot.org/story?sid=60328" rel="nofollow" target="_blank">法国政府发布它开发的端对端加密消息应用 @ Solidot</a>》。<br/>
+　　法国政府基于【Matrix 协议】开发了一个 IM 工具（Tchap），用来替代“Telegram 和 WhatsApp”。并且这个 Tchap 最终会被用于法国所有政府部门。<br/>
 <br/>
 <br/>
 <h2>★硬件相关</h2><br/>
@@ -295,6 +305,9 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 <br/>
 ......</blockquote>　　<b>编程随想注：</b><br/>
 　　这个案例再次提醒大伙儿（尤其是“高价值目标”），【物理安全】也很重要哦！<br/>
+　　依靠硬件漏洞实现的【bootkit】比 rootkit 更牛逼——因为其层次比操作系统【更低】。比如说，当你输入“全盘加密的解锁密码”之时，操作系统【并未】真正启动。所以操作系统内部的恶意软件【无法】截获你的“全盘加密密码”，但 bootkit 可以。<br/>
+　　另外，<br/>
+　　在上述文章中也提到了【供应链攻击】。如果笔记本电脑的在另一个国家组装，可以在组装过程中【偷掉 SPI 芯片】。“中美对抗”在近期逐渐升温，美方的安全人员一直在警告【供应链攻击】。<br/>
 <br/>
 <br/>
 <h2>★密码学相关</h2><br/>
@@ -304,6 +317,7 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 现在，SHA-1 碰撞攻击<a href="https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/" rel="nofollow" target="_blank">正变得切实可行</a>。上周一组来自新加坡和法国的研究人员演示了首个构造前缀碰撞攻击（<a href="https://eprint.iacr.org/2019/459.pdf" rel="nofollow" target="_blank">PDF</a>），即攻击者可以自由选择两个碰撞信息的前缀。构造前缀碰撞攻击所需的计算费用不到 10 万美元，意味着伪造 SHA-1 签名文件将变得可能，这些文档可能是商业文件也可能是 TLS 证书。现在是时候完全停止使用 SHA-1 了。</blockquote>　　<b>编程随想注：</b><br/>
 　　不懂“散列算法”的同学可以看下面这篇扫盲教程。<br/>
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
+　　在 SHA1 报废之后，可用来替代它的是 SHA256。俺估计 SHA256 在 5~10 年的跨度内应该没问题。至于更久远的未来，SHA256 也会被攻破（找到快速碰撞的算法）。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
@@ -313,6 +327,7 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
 《<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a>》<br/>
+《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows &amp; macOS 而言）</a>》<br/>
 《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md#index">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
@@ -320,7 +335,8 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
-《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》
+《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》
 </div>
 
 

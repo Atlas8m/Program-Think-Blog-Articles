@@ -45,7 +45,7 @@
 <br/>
 　　<b>问题3</b><br/>
 　　被沃通并购的 StartCom（也是一家 CA），被发现允许对证书的签署日期进行【倒填】。关于这个“倒填日期”的问题，俺稍微解释一下：<br/>
-　　由于如今的运算能力越来越强，SHA1 散列算法的可靠性越来越不够了。一些主流的浏览器，如果发现2016元旦之后签署的 CA 证书，依然采用 SHA1，会给出警告。<br/>
+　　由于如今的运算能力越来越强，SHA1 散列算法的【可靠性】越来越【不够】啦（参见“<a href="../../2019/07/Security-News.md">这篇博文</a>”的<q>密码学相关</q>这个章节）。一些主流的浏览器，如果发现2016元旦之后签署的 CA 证书，依然采用 SHA1，会给出警告。<br/>
 　　沃通的问题在于，它为了帮证书申请人规避浏览器警告，故意把签署日期伪造成2015年底。<br/>
 　　编程随想点评：CA 象征着【权威认证】机构。如果一家 CA 去玩这种伪造日期的花样，它还有啥节操可言？！<br/>
 <br/>
@@ -95,10 +95,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a><br/>
-<a href="../../2010/02/about-cnnic.md">CNNIC 干过的那些破事儿</a><br/>
-<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a><br/>
-<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>（系列）
+《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a>》<br/>
+《<a href="../../2010/02/about-cnnic.md">CNNIC 干过的那些破事儿</a>》<br/>
+《<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a>》<br/>
+《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>》（系列）<br/>
+《<a href="../../2019/07/Security-News.md">近期安全动态和点评（2019年2季度）</a>》
 </div>
 
 

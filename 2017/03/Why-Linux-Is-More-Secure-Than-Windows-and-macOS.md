@@ -6,8 +6,8 @@
 <center><img alt="不见图 请翻墙" src="images/34-3ed_fFtTb1uy2WQmRkyooMug4r8oeTGoXBMDqhot5-YfuZaXcBn42VqQklELXvoO8W8HqB_buSTCIgq9nOROvclVCPuPVVxPIkGGdnNM5C9-aijVkaevNYlVqUAIuCSnuCIeznFY"/></center><br/>
 　　又有一段时间没写技术博文了。在前几篇博文的评论中，有若干读者催写 Linux 方面的教程。俺准备开始动手，写一点傻瓜教程（面向技术菜鸟）。<br/>
 　　很多人切换到 Linux 是出于安全方面的考虑。所以在写具体的 Linux 教程之前，咱们先来聊一下 Linux 安全性方面的话题。<br/>
-　　今天这个话题是前些年想聊但是一直拖着没写的（请原谅俺比较懒），如今算是补上了。<a name="more"></a><br/>
-<br/>
+　　今天这个话题是前些年想聊但是一直拖着没写的（请原谅俺比较懒），如今算是补上了。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★事先声明</h2><br/>
 <h3>◇声明1</h3><br/>
@@ -112,7 +112,7 @@
 <h3>◇Linux 的优势</h3><br/>
 　　相比 Windows 和 mac OS，Linux 支持的 CPU 类型非常非常多（有可能你听说过的 CPU，它都支持）。<br/>
 　　除了 CPU，Linux 对其它的硬件的支持也很全。为了让不熟悉 Linux 的同学有所了解，举一些 Linux 支持的硬件机型作为例子：<br/>
-<blockquote style="background-color:#DDD;">智能手机和平板<br/>
+<blockquote>智能手机和平板<br/>
 家用的网络路由器<br/>
 电视机顶盒<br/>
 树莓派（Raspberry Pi）<br/>
@@ -131,7 +131,7 @@
 <h2>★Linux 是开源的——有助于代码审查</h2><br/>
 　　开源的好处有很多。包括本文前面提到的其中几点，也是跟“开源”密不可分的。<br/>
 　　考虑到篇幅有限，在本章节，俺只聊开源带来的其中一个好处——代码审查（Code Review）。<br/>
-　　在开源社区有一个很有名的 <a href="https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BA%B3%E6%96%AF%E5%AE%9A%E5%BE%8B" rel="nofollow" target="_blank">Linus 定律</a>：<q style="background-color:#DDD;">只要有足够多的眼睛，就可让所有问题浮现（given enough eyeballs, all bugs are shallow.）</q>。这个定律指出了——开源对代码审查的关键作用。<br/>
+　　在开源社区有一个很有名的 <a href="https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BA%B3%E6%96%AF%E5%AE%9A%E5%BE%8B" rel="nofollow" target="_blank">Linus 定律</a>：<q>只要有足够多的眼睛，就可让所有问题浮现（given enough eyeballs, all bugs are shallow.）</q>。这个定律指出了——开源对代码审查的关键作用。<br/>
 　　（注：其实这个定律最早的提出者不是 Linus，而是埃里克·雷蒙德——《大教堂与市集》的作者）<br/>
 <br/>
 　　为了加深大伙儿的印象，俺拿 Windows 来作为反例——因为 Windows 基本上完全是【闭源】的。<br/>
@@ -226,13 +226,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统？</a><br/>
-<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版？</a><br/>
-<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a><br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客</a><br/>
-<a href="../../2016/08/Trojan-Horse-DCM.md">如何对付公安部门的“网络临侦”？——“黑暗幽灵木马”之随想</a><br/>
-<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a><br/>
-<a href="../../2015/04/Single-Point-of-Failure.md">聊聊“单点故障”——关于“德国空难”和“李光耀”的随想</a>
+《<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统？</a>》<br/>
+《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版？</a>》<br/>
+《<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a>》<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客</a>》<br/>
+《<a href="../../2016/08/Trojan-Horse-DCM.md">如何对付公安部门的“网络临侦”？——“黑暗幽灵木马”之随想</a>》<br/>
+《<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a>》<br/>
+《<a href="../../2015/04/Single-Point-of-Failure.md">聊聊“单点故障”——关于“德国空难”和“李光耀”的随想</a>》
 </div>
 
 

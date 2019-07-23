@@ -57,11 +57,16 @@
 <br/>
 <h3>◇Firefox</h3><br/>
 　　三大浏览器中，最有利于隐私保护的是 Firefox（具体的原因分析请看本系列<a href="../../2013/06/privacy-protection-2.md">前面的博文</a>），所以先说它的技术实现。<br/>
-　　对于默认安装的 Firefox，在 <code>%APPDATA%\Mozilla\Firefox\Profiles</code> 目录下可以看到 Firefox 【<b>默认实例</b>】的目录（目录名类似于 <code>xxxxxxxx.default</code>）。进入该目录会看到一个 <code>user.js</code> 的文件（如果没有的话就自己新建一个）。<br/>
-　　俺之前介绍过，想要伪造一个【<b>静态</b>】的 User Agent，只需修改这个 <code>user.js</code> 文件，往里面添加如下代码。代码中的 xxx 就是伪造的 User Agent。<br/>
-<blockquote style="font-family:Courier,monospace;">user_pref("general.useragent.override", "xxx");</blockquote>　　至于要伪造【<b>动态</b>】的 User Agent，只需用【脚本】来自动修改 <code>user.js</code> 文件里面的这行代码，生成一个随机的 User Agent。修改完再用这个脚本把 Firefox 启动起来。<br/>
+<br/>
+　　<b>伪造【静态】的 User Agent</b><br/>
+　　以 <code>user.js</code> 的方式定制 Firefox 的配置项——配置项的“名称”是 <code>general.useragent.override</code>，配置项的“值”就是“新的 User Agent”。<br/>
+　　定制 Firefox 的方法参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+<br/>
+　　<b>伪造【动态】的 User Agent</b><br/>
+　　要做到【动态】的效果，就需要用到【脚本】来自动修改 <code>user.js</code> 文件里面关于 <code>general.useragent.override</code> 的那行代码，生成一个【随机变化】的 User Agent。修改完再用这个脚本把 Firefox 启动起来。<br/>
 　　对于 Windows 下的 Firefox，可以用 VBScript 或 JScript 或 PowerShell 这三种系统内置的脚本；对于 Linux 或苹果系统，可以尝试各种 shell 脚本。<br/>
-　　某些爱思考的同学可能会问，为啥不直接在 <code>user.js</code> 文件里面用 javascript 代码进行 User Agent 的随机生成。俺曾经也企图这么干，好像不行 :( 不信你自己试试看。<br/>
+　　某些爱思考的同学可能会问，为啥不直接在 <code>user.js</code> 文件里面用 javascript 代码进行 User Agent 的随机生成。<br/>
+　　俺也曾经企图这么干，可惜不行！因为 <code>user.js</code> 中对函数 <code>user_pref</code> 的调用，两个参数都必须是【常量】；而且， <code>user.js</code> 中除了调用该函数，不允许再出现其它的代码行。<br/>
 <br/>
 <h3>◇Chrome</h3><br/>
 　　对于 Chrome，可以在命令行参数指定其 User Agent，具体请参见“<a href="../../2013/07/privacy-protection-4.md">这篇博文</a>”。<br/>

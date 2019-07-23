@@ -86,13 +86,11 @@
 <br/>
 <h3>◇如何修改“User Agent”？</h3><br/>
 　　要想避免 User Agent 泄漏隐私，简单的办法就是修改浏览器的“默认 User Agent”<br/>
-　　俺简单说一下三大浏览器如何修改默认的 User Agent<br/>
+　　俺简单说一下三大浏览器如何修改默认的 User Agent：<br/>
 <br/>
 　　<b>Firefox</b><br/>
-　　在地址栏输入 about:config 敲回车，打开首选项界面<br/>
-　　点右键，新建一个字符串类型的“首选项”，该首选项的名称必须是 <code>general.useragent.override</code>，该首选项【的值】就是新的 User Agent<br/>
-　　补充说明：<br/>
-　　某热心读者在博客评论中补充，可以用“<a href="https://addons.mozilla.org/en-US/firefox/addon/random-agent-spoofer/" rel="nofollow" target="_blank">Random Agent Spoofer</a>”这个扩展来伪装 User Agent<br/>
+　　通过定制 Firefox，创建一个新的配置项，其“名称”是 <code>general.useragent.override</code>，其“值”就是“新的 User Agent”。<br/>
+　　定制 Firefox 的方法参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》。<br/>
 <br/>
 　　<b>Chrome</b><br/>
 　　在 Chrome 的启动参数中加上 <code>--user-agent="XXX"</code><br/>

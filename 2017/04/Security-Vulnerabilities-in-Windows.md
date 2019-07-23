@@ -16,8 +16,8 @@
 　　比如 131楼37单元 的评论说（下面是原话）：<br/>
 <blockquote>linux平均的漏洞寿命是5年（Kees Cook），COW漏洞更是存在了9年才被修复。很难想象windows会拖这么久。</blockquote><br/>
 　　当俺看到该评论的【最后一句】，不禁哑然失笑——Windows 的安全漏洞之多，在安全业界是有目共睹滴；Windows 安全漏洞潜伏时间之长，在业界也是有目共睹滴。<br/>
-　　俺写上一篇博文的时候，主要是介绍 Linux（桌面系统）相对于 Windows 和 macOS 的安全优势。当时想给微软留点面子，所以没怎么狠批 Windows 的安全问题。如今有人跳出来洗地，俺就借这个机会，抖一下 Windows 的阴暗面。<a name="more"></a><br/>
-<br/>
+　　俺写上一篇博文的时候，主要是介绍 Linux（桌面系统）相对于 Windows 和 macOS 的安全优势。当时想给微软留点面子，所以没怎么狠批 Windows 的安全问题。如今有人跳出来洗地，俺就借这个机会，抖一下 Windows 的阴暗面。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★事先声明</h2><br/>
 　　为了严密性，避免有人抬杠，俺先说明一下：本文讨论的是用于【桌面】的 Windows 系统。<br/>
@@ -357,8 +357,10 @@ IE 的代码很烂，相关的漏洞非常多。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a><br/>
-<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows &amp; macOS 而言）</a>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows &amp; macOS 而言）</a>》<br/>
+《<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统？</a>》<br/>
+《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版？</a>》
 </div>
 
 

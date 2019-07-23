@@ -48,11 +48,11 @@ Mac OS X（版本号大于等于 10.6）<br/>
 <h2>★VeraCrypt 功能概述</h2><br/>
 　　下面开始聊功能，这是本文的重点，看仔细喽。<br/>
 　　前面说了，VeraCrypt 是从 TrueCrypt 衍生出来的。所以其功能与 TrueCrypt 非常类似。关于 TrueCrypt 的功能介绍，俺已经写过一系列的傻瓜教程，包括如下：<br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a><br/>
-<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a><br/>
-<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a><br/>
-<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a><br/>
-<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a><br/>
+《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》<br/>
+《<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a>》<br/>
+《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》<br/>
+《<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a>》<br/>
+《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
 <br/>
 　　（<b>如果你之前【没有】使用过 TrueCrypt，强烈建议你先看完上述这几篇扫盲教程</b>）<br/>
 　　为了打字省力，那些与 TrueCrypt 类似的功能，俺就【不】介绍了。下面俺只聊 VeraCrypt 的【新增功能】。<br/>
@@ -208,13 +208,16 @@ PIM 功能就是用来配置加密盘的某个“迭代次数”的。“迭代�
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a><br/>
-<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a><br/>
-<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a><br/>
-<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a><br/>
-<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a><br/>
-<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a><br/>
-<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>
+《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》<br/>
+《<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a>》<br/>
+《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》<br/>
+《<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a>》<br/>
+《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
+《<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a>》<br/>
+《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
+《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》
 </div>
 
 

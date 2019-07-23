@@ -10,7 +10,7 @@
 <br/>
 <h2>★为啥要美化阅读器？</h2><br/>
 　　对于老用户而言，新版的界面简直是惨不忍睹——到处都是多余的空白，显得非常不紧凑。比如：文章的列表界面，间距也太大了。现在一屏能显示的帖子数只有原来的一半。这样一来，大大降低了阅读的效率，浪费的大伙儿的时间。<br/>
-　　估计很多网友逆来顺受惯了。不管网站推出多么烂的界面，他们都默默忍受。但是，在当今 Web 盛行的互联网时代，普通用户是完全可以自己操刀修改网站界面滴（而且几乎【不需要】专业技术）！此中之奥妙，在于<b>GreaseMonkey</b>这一大杀器。<br/>
+　　估计很多网友逆来顺受惯了。不管网站推出多么烂的界面，他们都默默忍受。但是，在当今 Web 盛行的互联网时代，普通用户是完全可以自己操刀修改网站界面滴（而且几乎【不需要】专业技术）！此中之奥妙，在于【GreaseMonkey】这一大杀器。<br/>
 <br/>
 <br/>
 <h2>★GreaseMonkey 扫盲</h2><br/>
@@ -87,61 +87,83 @@
 <br/>
 <h3>◇调整正文宽度</h3><br/>
 　　以下代码用于修改正文的显示宽度，让正文的宽度能充满屏幕。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle(".entry .entry-body, .entry .entry-title { max-width:100% !important; }");</pre><br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".entry .entry-body, .entry .entry-title { max-width:100% !important; }"</span><span class="p">);</span>
+</pre></div><br/>
+<br/>
 <h3>◇压缩搜索条高度</h3><br/>
-　　以下代码调整阅读器搜索条的高度（也就是阅读器上方有：Logo、搜索框、搜索按钮的那一行）。代码中的 40px 和 6px 表示高度（像素为单位），你可以根据自己喜好，微调这2个数字。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle("#top-bar { height:<b>40px</b> !important; }");
-GM_addStyle("#search { padding:<b>6px</b> 0px !important; }");</pre><br/>
+　　以下代码调整阅读器搜索条的高度（也就是阅读器上方有：Logo、搜索框、搜索按钮的那一行）。<br/>
+　　代码中的 40px 和 6px 表示高度（像素为单位），你可以根据自己喜好，微调这2个数字。<br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#top-bar { height:40px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#search { padding:6px 0px !important; }"</span><span class="p">);</span>
+</pre></div><br/>
 <h3>◇压缩工具条高度</h3><br/>
-　　以下代码调整工具条的高度（也就是阅读器上方有："订阅"、"标为已读"、"供稿设置"等按钮的那一行）。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle("#viewer-header { height:<b>40px</b> !important; }");
-GM_addStyle("#lhn-add-subscription-section { height:<b>40px</b> !important; }");
-GM_addStyle("#lhn-add-subscription, #viewer-top-controls-container { margin-top:-15px !important; }");</pre><br/>
+　　以下代码调整工具条的高度（也就是阅读器上方包含“订阅、标为已读、供稿设置”等按钮的那一行）。<br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#viewer-header { height:40px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#lhn-add-subscription-section { height:40px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#lhn-add-subscription, #viewer-top-controls-container { margin-top:-15px !important; }"</span><span class="p">);</span>
+</pre></div><br/>
+<br/>
 <h3>◇压缩文章列表的行高</h3><br/>
-　　新版界面的文章列表，行高大得离谱了，必须得调小。如下代码可以搞定。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle("#entries { padding:0px !important; }");
-// 1.2em 表示行高是字体高度的1.2倍。
-GM_addStyle(".collapsed { line-height:<b>1.2em</b> !important; padding:2px 0 !important; }");
-// 设置列表左边星号的位置
-GM_addStyle(".entry-icons { top:<b>12px</b> !important }");
-// 设置列表里文字标题的位置
-GM_addStyle(".entry-source-title { top:<b>2px</b> !important }");
-GM_addStyle(".entry-secondary { top:<b>2px</b> !important }");
-// 设置列表右边"打开原始URL"图标的位置
-GM_addStyle(".entry-main .entry-original { top:<b>12px</b> !important }");</pre><br/>
+　　新版界面的文章列表，行高大得离谱了，必须得调小。<br/>
+　　如下代码可以搞定。<br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#entries { padding:0px !important; }"</span><span class="p">);</span>
+
+<span class="c1">// 1.2em 表示行高是字体高度的1.2倍。</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".collapsed { line-height:1.2em !important; padding:2px 0 !important; }"</span><span class="p">);</span>
+
+<span class="c1">// 设置列表左边星号的位置</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".entry-icons { top:12px !important }"</span><span class="p">);</span>
+
+<span class="c1">// 设置列表里文字标题的位置</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".entry-source-title { top:2px !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".entry-secondary { top:2px !important }"</span><span class="p">);</span>
+
+<span class="c1">// 设置列表右边"打开原始URL"图标的位置</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".entry-main .entry-original { top:12px !important }"</span><span class="p">);</span>
+</pre></div><br/>
+<br/>
 <h3>◇压缩导航树的左边距</h3><br/>
 　　导航树左边留了一大块空白，也不知要作甚？用如下代码压缩掉。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle(".section-minimize { left:0px !important }");
-GM_addStyle("#overview-selector, #lhn-selectors .selector, .folder .name.name-d-0, #sub-tree-header { padding-left:15px !important; }");
-GM_addStyle(".folder .folder .folder-toggle { margin-left:12px !important }");
-GM_addStyle(".folder .sub-icon, .folder .folder&gt;a&gt;.icon { margin-left:27px !important }");
-GM_addStyle(".folder .folder&gt;ul .icon { margin-left:34px !important }");
-GM_addStyle(".folder .folder .name-text { max-width:160px; !important }");
-GM_addStyle("#reading-list-selector .label { display:inline !important }");</pre><br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".section-minimize { left:0px !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#overview-selector, #lhn-selectors .selector, .folder .name.name-d-0, #sub-tree-header { padding-left:15px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".folder .folder .folder-toggle { margin-left:12px !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".folder .sub-icon, .folder .folder&amp;gt;a&amp;gt;.icon { margin-left:27px !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".folder .folder&amp;gt;ul .icon { margin-left:34px !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".folder .folder .name-text { max-width:160px; !important }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#reading-list-selector .label { display:inline !important }"</span><span class="p">);</span>
+</pre></div><br/>
 <h3>◇压缩导航树不同部分之间的间隙</h3><br/>
-　　导航树由4部分组成，分别是："主页"(Home)、"所有条目"(All items)、"探索"(Explore)、"订阅"(Subscriptions)。这4块之间的间隙太大，用如下代码压缩。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle(".selectors-footer { margin-bottom:0px !important; padding-bottom:0px !important; }");
-GM_addStyle(".lhn-section-footer { margin-bottom:0px !important; padding-bottom:0px !important; }");</pre><br/>
+　　导航树由4部分组成，分别是：“主页”（Home）、“所有条目”（All items）、“探索”（Explore）、“订阅”（Subscriptions）。<br/>
+　　这4块之间的间隙太大，用如下代码压缩。<br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".selectors-footer { margin-bottom:0px !important; padding-bottom:0px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">".lhn-section-footer { margin-bottom:0px !important; padding-bottom:0px !important; }"</span><span class="p">);</span>
+</pre></div><br/>
 <h3>◇隐藏导航树的某些部分</h3><br/>
-　　导航树的这4部分，通常是"订阅"用得最多。其它3部分如果用得少，嫌它们太占空间，可以用如下代码隐掉。<br/>
-<pre style="font-family:Courier,monospace;">// 隐藏"主页"
-GM_addStyle("#overview-selector { display:none !important; }");
-// 隐藏"所有条目"
-GM_addStyle("#lhn-selectors { display:none !important; }");
-// 隐藏"探索"
-GM_addStyle("#lhn-recommendations { display:none !important; }");</pre><br/>
+　　导航树的这4部分，通常是“订阅”用得最多；其它3部分如果用得少，嫌它们太占空间，可以用如下代码隐掉。<br/>
+<div class="source"><pre><span class="c1">// 隐藏“主页”</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#overview-selector { display:none !important; }"</span><span class="p">);</span>
+
+<span class="c1">// 隐藏“所有条目”</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#lhn-selectors { display:none !important; }"</span><span class="p">);</span>
+
+<span class="c1">// 隐藏“探索”</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#lhn-recommendations { display:none !important; }"</span><span class="p">);</span>
+</pre></div><br/>
 <h3>◇调整导航树的宽度</h3><br/>
-　　由于不同人的偏好及屏幕尺寸各有差异。因此，很多刁钻滴用户（比如俺）对导航树占的宽度不满意。你可以用如下代码来调整。代码中的 240px 表示宽度，你可以根据喜好来调整。在这3行代码中，此数值要保持一致。<br/>
-<pre style="font-family:Courier,monospace;">GM_addStyle("#nav, #nav * { max-width:<b>240px</b> !important; }");
-GM_addStyle("#nav { width:<b>240px</b> !important; }");
-GM_addStyle("#chrome { margin-left:<b>240px</b> !important; }");</pre><br/>
+　　由于不同人的偏好及屏幕尺寸各有差异。因此，很多刁钻滴用户（比如俺）对导航树占的宽度不满意。<br/>
+　　你可以用如下代码来调整。代码中的 240px 表示宽度，你可以根据喜好来调整。在这3行代码中，此数值要【保持一致】。<br/>
+<div class="source"><pre><span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#nav, #nav * { max-width:240px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#nav { width:240px !important; }"</span><span class="p">);</span>
+<span class="nx">GM_addStyle</span><span class="p">(</span><span class="s2">"#chrome { margin-left:240px !important; }"</span><span class="p">);</span>
+</pre></div><br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　今天说了这一大坨，也不知大伙儿有兴趣不？如果大伙儿对油猴的兴趣比较大，俺可以找时间再介绍其它一些实用的脚本。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>
+《<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>》<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》
 </div>
 
 

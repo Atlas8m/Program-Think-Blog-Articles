@@ -5,8 +5,8 @@
 <div class="post-body entry-content">
 <h2>★引子</h2><br/>
 　　很多年来，俺一直用 Startpage 来代替 Google 进行 Web 搜索。一直想写篇博文来介绍一下，但又一直忘了。<br/>
-　　前几天，Startpage 的界面作了一次重大改版，让俺终于再次想起之前一直忘记的事情。<a name="more"></a><br/>
-<br/>
+　　前几天，Startpage 的界面作了一次重大改版，让俺终于再次想起之前一直忘记的事情。<br/>
+<a name="more"></a><br/>
 <center><img alt="不见图 请翻墙" src="images/6B1b_Q8q2iAC2hwUACQsz_20ehuRoUkteNh2DVPa7Mp5yrQTzhE7rUcYQXIlZRqSGHfXPkW4Gq2Os-pg55U6WsSNZKF8OLKxsb5RGsm4k5XfA0CHBJNHHHvttXgxsf8ghtI17M663QM"/></center><br/>
 <h2>★为啥俺不用 Google 的搜索功能？</h2><br/>
 　　俺也算是 Google 搜索的老用户了，大约2000年左右开始用它（具体时间已记不清）。<br/>
@@ -15,7 +15,7 @@
 <br/>
 　　顺便说一下：<br/>
 　　<b>百度更加不能用！！！</b>俺在上述这篇博文中是这样评价百度的：<br/>
-<blockquote style="background-color:#DDD;">　　百度同样是一家搜索引擎公司，但是百度比 Google 更恶心百倍。Google 虽然喜欢收集用户隐私，但最起码人家 Google 的搜索结果是【客观的】。而百度的搜索结果是可以花钱买滴（还美其名曰“竞价排名”）。这么说吧，如果你针对某个关键词向百度出了高价，那么网民在百度上搜索该关键词的时候，你的网站就会排在搜索结果的前面。<br/>
+<blockquote>　　百度同样是一家搜索引擎公司，但是百度比 Google 更恶心百倍。Google 虽然喜欢收集用户隐私，但最起码人家 Google 的搜索结果是【客观的】。而百度的搜索结果是可以花钱买滴（还美其名曰“竞价排名”）。这么说吧，如果你针对某个关键词向百度出了高价，那么网民在百度上搜索该关键词的时候，你的网站就会排在搜索结果的前面。<br/>
 　　就是靠着“竞价排名”，莆田系与百度这两个大流氓完美地勾搭在一起。<b>如果说莆田系医院是垃圾，那百度这家公司就是垃圾中的垃圾；如果说莆田系的老板是人渣，那百度的老板李彦宏就是人渣中的人渣。</b><br/>
 　　莆田系加上百度，不知毁掉了多少家庭，不知让多少病患人财两空。李彦宏的百亿身家，就是靠人血馒头堆出来的。当年的魏则西事件，只不过是碰巧被曝光的沧海一粟。下面是俺当年发的《每周转载》。<br/>
 《<a href="../../2016/05/weekly-share-101.md">每周转载：魏则西事件、百度广告、莆田系、军队医院（各方报道及网友评论）</a>》</blockquote><br/>
@@ -29,7 +29,7 @@
 <br/>
 <br/>
 <h2>★为啥 Startpage 可以实现【高质量】的搜索？</h2><br/>
-　　在本文的标题中，俺提到：<q style="background-color:#DDD;">搜索质量等同 Google</q>。Startpage 它是如何做到的捏？很简单，因为<b>它的后台用的就是 Google 搜索</b>。简单地说就是：当你在 <a href="https://www.startpage.com/" rel="nofollow" target="_blank">Startpage</a> 的界面上进行搜索，Startpage 会把你的搜索关键字发送给 Google 的搜索服务器，然后再把 Google 的搜索结果展示给你看。通俗地说：Startpage 就好比是一个【搜索引擎的代理】。<br/>
+　　在本文的标题中，俺提到：<q>搜索质量等同 Google</q>。Startpage 它是如何做到的捏？很简单，因为<b>它的后台用的就是 Google 搜索</b>。简单地说就是：当你在 <a href="https://www.startpage.com/" rel="nofollow" target="_blank">Startpage</a> 的界面上进行搜索，Startpage 会把你的搜索关键字发送给 Google 的搜索服务器，然后再把 Google 的搜索结果展示给你看。通俗地说：Startpage 就好比是一个【搜索引擎的代理】。<br/>
 　　由于 Startpage 后台使用的是 Google，所以 Google 搜索的一些常用语法，Startpage 也支持。比如说：用 <code>site:</code> 语法来限定只搜索特定网站。（如果要更详细地了解 Google 搜索的语法，可以参见《<a href="../../2013/03/internet-resource-discovery-2.md">Google 搜索的基本语法</a>》）<br/>
 <br/>
 　　说到“Startpage 后台使用 Google”，某些同学可能会担心其中的隐私风险？下面俺来解答一下：<br/>
@@ -37,7 +37,7 @@
 　　某些安全意识比较高的同学，可能还是会问：你怎么知道 Startpage 是否会暗中记录用户信息？关于这方面的担心，俺在本文倒数第二个章节会做进一步的介绍。<br/>
 <br/>
 <br/>
-<h2>★Startpage 的额外好处——【禁用 JS 脚本】也可以正常使用</h2><br/>
+<h2>★Startpage 的额外好处——【禁用 JS 脚本】也能正常使用</h2><br/>
 　　如今很多网站越来越重度依赖 JS 脚本。一旦浏览器禁用了 JS 脚本，这些网站就无法正常显示。<br/>
 　　Startpage 到目前为止，一直都可以在禁用 JS 脚本的方式下，【正常使用】。<br/>
 　　（关于“禁用 JS 脚本”有啥好处，本文倒数第二个章节会提到）<br/>
@@ -62,8 +62,9 @@
 　　如果搜索引擎启用了 referer 字段，当你跳转到目标网站，目标网站的服务器就会知道你是从某某搜索引擎跳转过来的。更严重的是，大部分搜索引擎的“搜索结果页面”的网址，会包含【搜索关键字】。所以，目标网站如果（通过 referer 字段）拿到搜索引擎页面的网址，就可以知道你是搜了哪些关键字，才跳转过来的。<br/>
 <br/>
 <h3>◇小知识：通过定制 Firefox，禁用所有点击的 referer 字段</h3><br/>
-　　如果你用的是 Firefox 浏览器，可以通过它提供的“配置界面”（<code>about:config</code>）或“配置文件”（<code>user.js</code>），“完全禁用”或“部分限制”referer 字段。<br/>
-　　具体的配置项名称及说明，可以参考 Mozilla 官网的“<a href="https://wiki.mozilla.org/Security/Referrer" rel="nofollow" target="_blank">这个 wiki 页面</a>”。<br/>
+　　如果你用的是 Firefox 浏览器，可以修改其配置选项（Preferences），“完全禁用”或“部分限制”referer 字段。<br/>
+　　具体的“配置项名称”及说明，可以参考 Mozilla 官网的“<a href="https://wiki.mozilla.org/Security/Referrer" rel="nofollow" target="_blank">这个 wiki 页面</a>”。<br/>
+　　定制 Firefox 的方法参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
 <br/>
 <br/>
 <h2>★Startpage 的额外好处——【不用】cookie 也可以记住用户偏好</h2><br/>
@@ -81,7 +82,7 @@
 <br/>
 <h3>◇Startpage 如何保存“个性化设置”——【不用】cookie 的方式</h3><br/>
 　　由于 Startpage 是强调隐私防范滴，所以它还提供了一种【无 cookie】的方式来保存用户的个性化设置。当你进入“<a href="https://www.startpage.com/search/settings?lang=en" rel="nofollow" target="_blank">Settings 界面</a>”，修改了各种配置选项后，你【不要】点击 <code style="font-weight:bold;">Save</code> 按钮。然后滚动到界面底部，会看到一行字：<br/>
-<blockquote style="background-color:#DDD;">Save your settings without a cookie</blockquote>　　<b>如果你的浏览器【没有禁用 JS】</b><br/>
+<blockquote>Save your settings without a cookie</blockquote>　　<b>如果你的浏览器【没有禁用 JS】</b><br/>
 　　在这行字下方会显示两串很长的网址（短的那串是编码过的，长的那串是没有编码的）。你随便挑选其中一个网址，加入浏览器的书签，就 OK 了。下次只要点击这个书签，打开 Startpage 界面后，Startpage 就可以根据网址中的参数，知道你的个性化设置。<br/>
 <br/>
 　　<b>如果你的浏览器【禁用了 JS】</b><br/>
@@ -146,15 +147,16 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>（系列）<br/>
-<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a><br/>
-<a href="../../2013/06/weekly-share-54.md">每周转载：关于“棱镜门”丑闻的相关报道</a><br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>（系列）<br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）<br/>
-<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>（系列）<br/>
-<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a><br/>
-<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a><br/>
-<a href="../../2018/10/How-to-Choose-Firefox-Version.md">基于安全性考虑，如何选择及切换 Firefox 版本？</a>
+《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a>》<br/>
+《<a href="../../2013/06/weekly-share-54.md">每周转载：关于“棱镜门”丑闻的相关报道</a>》<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>》（系列）<br/>
+《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
+《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+《<a href="../../2018/10/How-to-Choose-Firefox-Version.md">基于安全性考虑，如何选择及切换 Firefox 版本？</a>》
 </div>
 
 

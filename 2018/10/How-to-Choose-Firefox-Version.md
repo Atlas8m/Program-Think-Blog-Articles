@@ -30,7 +30,7 @@
 　　“中国版”——由“<a href="https://zh.wikipedia.org/wiki/%E8%B0%8B%E6%99%BA%E7%BD%91%E7%BB%9C" rel="nofollow" target="_blank">谋智中国</a>”在“国际版”的基础上进行定制（二次开发），面向【墙内用户】。<br/>
 <br/>
 <h3>◇中国版的【劣迹】</h3><br/>
-　　虽然这个“谋智公司”是 Mozilla 下属的公司，但由于它是在咱们天朝运营滴，多多少少会沾染上一些【中国特色】。据俺所知，“谋智中国”搞过好几次不光彩的破事儿。比如下面这个新闻曝光了“中国版 Firefox 擅自篡改用户设定的书签”：<br/>
+　　虽然这个“谋智公司”是 Mozilla 下属的公司，但由于它是在咱们天朝运营滴，多多少少会沾染上一些【中国特色】（说难听点叫“流氓习气”）。据俺所知，“谋智中国”搞过好几次不光彩的破事儿。比如下面这个新闻曝光了“中国版 Firefox 擅自篡改用户设定的书签”：<br/>
 　　《<a href="https://www.solidot.org/story?sid=37355" rel="nofollow" target="_blank">谋智中国被发现 “do some evil” @ solidot</a>》<br/>
 <br/>
 　　关于这两个版本的差异，俺再随便聊几点：<br/>
@@ -45,7 +45,7 @@
 <br/>
 <h3>◇如何避免下载到中国版？</h3><br/>
 　　<b>下载 Firefox 的时候，要看清楚网站的【域名】</b>——<br/>
-如果域名是以【<code>firefox.com.cn</code>】结尾，那就是流氓的“谋智中国”的网站；<br/>
+如果域名是以【<code>firefox.com.cn</code>】结尾，那就是【流氓的】“谋智中国”网站；<br/>
 而 Mozilla 官网的域名，是以【<code>mozilla.org</code>】结尾滴。<br/>
 <br/>
 　　注：聊完“中国版”的话题之后。本文后续部分的讨论，全都是针对【国际版】。<br/>
@@ -110,7 +110,7 @@
 　　相比之下，ESR 的好处就很明显。ESR 维护的时间长达一年左右，而且 ESR 是【只修复 bug，不增加新功能】。所以在 ESR 的维护周期内，它的代码质量会【越来越好】。<br/>
 <br/>
 <br/>
-<h2>★扫盲一下 ESR 的版本号</h2><br/>
+<h2>★扫盲一下 ESR 的【版本号】</h2><br/>
 　　前面介绍了“普通发布版”的版本号规则。再来说一下 ESR 的版本号规则。<br/>
 　　（俺敢说：即使是 Firefox 的发烧友，也不一定清楚 ESR 版本号的规则）<br/>
 　　为了简明起见，俺以【52】这个 ESR 版本来举例。（因为 52 ESR 已经走完它的生命周期）。<br/>
@@ -186,19 +186,19 @@ bug 数</th></tr>
 <h2>★“滞后升级”策略的【例外】情况</h2><br/>
 　　说完了“滞后升级策略”，再来说说该策略的例外情况。<br/>
 <br/>
-<h3>◇什么情况下应该立即升级 ESR？</h3><br/>
+<h3>◇什么情况下应该【立即升级】ESR？</h3><br/>
 　　刚才说的是“滞后升级”的策略。但存在一种【例外情况】，需要你【立即】升级——<br/>
 如果前一个 ESR 结束维护之后，又发现了一个新的高危漏洞（该漏洞对你有显著影响，并且无法通过“配置项”进行规避）。在这种情况下，前一个 ESR（由于维护已结束）不会再修复了，那么你就应该立即升级到下一个 ESR。<br/>
 <br/>
-<h3>◇通过配置项规避高危漏洞，是啥意思？</h3><br/>
+<h3>◇通过“定制配置项”规避高危漏洞，是啥意思？</h3><br/>
 　　刚才提到“通过配置项规避高危漏洞”，估计很多同学不明所以，俺简单解释一下。<br/>
-　　Firefox 提供了很丰富、很全面的配置选项（Preference）。可以通过它，对 Firefox 进行各种定制，也包括【禁用】某些功能。Mozilla 官网的介绍在“<a href="https://developer.mozilla.org/docs/Mozilla/Preferences/A_brief_guide_to_Mozilla_preferences" rel="nofollow" target="_blank">这里</a>”。<br/>
-　　如果某个高危漏洞所在的模块，可以通过配置项禁用；那么你就【不需要】升级 ESR 版本，只需通过“<code>about:config</code> 界面”或“<code>user.js</code> 文件”禁用这个有问题的模块。<br/>
+　　Firefox 提供了很丰富、很全面的配置选项（Preference）。可以通过它，对 Firefox 进行【全方位】定制——这其中也包括“【禁用】某些功能模块”。这方面的介绍参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+　　如果某个高危漏洞所在的模块，可以通过配置项禁用之；那么你就【不需要】升级 ESR 版本，只需通过“<code>about:config</code> 界面”或“<code>user.js</code> 文件”禁用这个有问题的模块。<br/>
 　　根据俺的观察，相当比例的 Firefox 高危漏洞，对俺的 Firefox【毫无影响】。因为漏洞所在的模块，老早就已经被俺禁用了。<br/>
 　　以俺的习惯，凡是“用不到”或“很少用”的功能，统统禁掉。套用信息安全的行话，叫做【降低攻击面】。<br/>
 <br/>
 <br/>
-<h2>★全程【加密】的必要性</h2><br/>
+<h2>★【全程加密】的必要性</h2><br/>
 　　如果你很在意安全性，上网的时候应该【全程加密】（这又是俺唠叨了很多年的老话题）。<br/>
 　　“全程加密”的好处【至少】包括：<br/>
 1. 防止上网流量被嗅探（被第三方偷窥）<br/>
@@ -211,7 +211,7 @@ bug 数</th></tr>
 <br/>
 <br/>
 <h2>★全程走【匿名网络】的必要性</h2><br/>
-<h3>◇为啥“全程加密”还不够？</h3><br/>
+<h3>◇为啥“全程加密”依然是【不够】滴？</h3><br/>
 　　如果你很在意安全性，光搞“全程加密”是【不够】滴！还需要更进一步，做到【全程走匿名网络】。<br/>
 　　为啥捏？简单举2个例子：<br/>
 <br/>
@@ -239,8 +239,8 @@ bug 数</th></tr>
 <br/>
 <h3>◇为啥选择 Tor？</h3><br/>
 <center><img alt="不见图 请翻墙" src="images/UEJSz_vaNCCnJZ0vFEbAM0P2etlEwSFOOC-dDI9_55uIKQElo0ewEUREdbLpGvULyr_ran6G0B8oVh2rJIy4NBaOnL9znEaDeNKh15geLSNe4CVCPlbxhSRY2oYz"/></center><br/>
-　　名气比较大的“匿名网络”有两个，分别是 Tor 与 I2P。俺个人推荐 Tor。主要原因如下：<br/>
-1. 在性能方面，I2P【严重不如】Tor——这与协议设计有关（参见“<a href="https://lh3.googleusercontent.com/o-uTSq98Ia1XqkNO58OJ6dOCqnxgSQwKed9PgStwC23PMaDAzllmdS-ArOabeCtsbWY4aB4G3YvqK_V4_qVkAyGKgNljgt7XqHoKLIHluFGADBMo4CQ" rel="nofollow" target="_blank">这张对比图</a>”），也与用户数量有关。<br/>
+　　名气比较大的“匿名网络”有两个，分别是 Tor 与 I2P。俺个人推荐 Tor。原因至少包括如下：<br/>
+1. 在性能方面，I2P【严重不如】Tor——这与协议设计有关（参见“<a href="https://lh3.googleusercontent.com/o-uTSq98Ia1XqkNO58OJ6dOCqnxgSQwKed9PgStwC23PMaDAzllmdS-ArOabeCtsbWY4aB4G3YvqK_V4_qVkAyGKgNljgt7XqHoKLIHluFGADBMo4CQ" rel="nofollow" target="_blank">这张对比图</a>”），也与【出口节点】的数量有关。<br/>
 2. I2P 客户端更适合用来访问它自己的暗网，而【不】适合用作访问公网的代理；而 Tor 两者都适合。<br/>
 3. Tor 客户端可以完美地搭配 Firefox 浏览器（参见下面介绍的 Tor Browser）<br/>
 <br/>
@@ -249,18 +249,18 @@ bug 数</th></tr>
 　　Tor Browser，还有另一个叫法是 TBB（Tor Browser Bundle）。为了打字省力，以下都称之为 TBB。<br/>
 　　之前没接触过 TBB 的同学，先看另一篇扫盲教程《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》，熟悉一下。<br/>
 <br/>
-　　很多人对 TBB 有一个【误解】，以为它只是简单地把“Firefox ESR”与“TOR 客户端”拼凑在一起。其实不然！<br/>
+　　很多人对 TBB 有一个【误解】，以为它只是简单地把“Firefox ESR”与“Tor 客户端”拼凑在一起。其实不然！<br/>
 　　Tor 社区发布的 TBB 至少包括如下几项主要工作：<br/>
 1. 对 Firefox ESR 的修改（代码层面）<br/>
-2. 基于 Preference 对 Firefox 进行定制（基于 Preference 的定制，本文前面提到过）<br/>
+2. 基于 Preference 对 Firefox 进行定制（这种定制方式，本文前面的章节已经提到过）<br/>
 3. 内置了若干安全相关的扩展（比如：NoScript、HTTPS Everywhere ......）<br/>
-4. 整合 TOR 客户端<br/>
+4. 整合 Tor 客户端<br/>
 <br/>
 　　通过上述这些工作，不光让 Firefox 可以走 Tor 的匿名网络，而且还把 Firefox 本身的“隐私保护”与“安全加固”提升到一个新的高度。<br/>
 　　说到这里，再次夸奖一下 Tor 社区——在信息安全方面非常成熟且牛逼。比如在<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">上个月的博文</a>中，俺还提到了 Tor 社区对 Firefox 的很多改进（比如：第一方隔离、防范指纹追踪），已经被 Mozilla 官方接纳，成为 Firefox 的标准功能。<br/>
 <br/>
 <br/>
-<h2>★面向极客的高级玩法——自己组合 ESR + Tor</h2><br/>
+<h2>★面向极客的高级玩法——自己组合“Firefox ESR + Tor”</h2><br/>
 　　在本文的最后部分，聊一个比较阳春白雪的话题——自己组合“ESR 与 Tor”。<br/>
 　　可能有些读者觉得：既然已经有了 TBB，为啥还要自己折腾“ESR + Tor”？所以俺先来谈一下必要性。<br/>
 <br/>
@@ -272,7 +272,7 @@ bug 数</th></tr>
 　　把两个重要程度【不同】的进程放在同一个环境中运行，这本身就违背了安全加固的原则。<br/>
 　　打个比方：<br/>
 　　假如某一天，Tor 客户端曝出某个高危的安全漏洞，使得攻击者可以利用该漏洞在本地执行代码；由于浏览器与 Tor 运行在同一个环境，那么攻击者就可以借助此漏洞，攻击浏览器。严重的话，可能导致你的 Web 帐号沦陷。<br/>
-　　而如果是自己组合 ESR + TOR，就可以把这两者隔离在不同的环境（不同的操作系统用户 或 不同的虚拟机）。如此一来，（相比 TBB）安全性提升了一大截。<br/>
+　　而如果是自己组合 ESR + TOR，就可以把这两者隔离在不同的环境（“不同的操作系统用户”或“不同的虚拟机”或“不同的物理机”）。如此一来，（相比 TBB 而言）安全性提升了一大截。<br/>
 <br/>
 　　<b>2. 满足个性化需求</b><br/>
 　　TBB 是面向大众用户的。很多时候，“大众的需求”与“极客的需求”是不太匹配滴。<br/>
@@ -280,24 +280,25 @@ bug 数</th></tr>
 <h3>◇可行性</h3><br/>
 　　之所以能够自己折腾 ESR + Tor，得益于——Firefox 本身是【高度可定制】的。<br/>
 　　比如俺曾经写过一篇博文《<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>》，介绍“如何折腾 <code>userChrome.css</code>”。类似 <code>userChrome.css</code> 和 <code>user.js</code> 之类的定制，还只是 Firefox 的【高层定制】。<br/>
-　　另外，Firefox 还支持一些【底层定制】，可以实现比【高层定制】更多的效果。举个例子：你可以不安装任何插件或扩展，修改 Firefox【所有的】默认快捷键。<br/>
+　　另外，Firefox 还支持一些【底层定制】，可以实现比【高层定制】更多的效果。举个例子：你可以不安装任何插件或扩展，修改 Firefox【所有的】默认快捷键。具体的玩法参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
 　　有些同学可能会问：既然可以用扩展的方式定制快捷键，为啥还要折腾【无扩展方案】？<br/>
-　　因为，如果你对安全性的要求非常非常高，每一个额外的插件或扩展，都将被视作一个潜在的攻击面。而且你无法验证这些插件或扩展的作者，是否足够靠谱。所以，不用插件或扩展就能搞定的方案，总是让人心情愉悦 :)<br/>
+　　因为，如果你对安全性的要求非常非常高，每增加一个额外的插件或扩展，都将被视作一个潜在的攻击面。而且你无法验证这些插件或扩展的作者，是否足够靠谱。所以，不用插件或扩展就能搞定的方案，总是让人心情愉悦 :)<br/>
 <br/>
 　　最后俺还想说的是：<br/>
 　　虽然折腾一些东西（比如本文所说的“ESR + Tor”）很花时间，但这些时间值得付出。具体原因请看：《<a href="../../2017/04/The-Importance-of-Zheteng.md">聊聊【折腾】的重要性</a>》。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>（系列）<br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>（系列）<br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）<br/>
-<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由</a><br/>
-<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a><br/>
-<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a><br/>
-<a href="../../2012/06/gfw-i2p.md">“如何翻墙”系列：简单扫盲 I2P 的使用</a><br/>
-<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a><br/>
-<a href="../../2017/04/The-Importance-of-Zheteng.md">聊聊【折腾】的重要性</a>
+《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由</a>》<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
+《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
+《<a href="../../2012/06/gfw-i2p.md">“如何翻墙”系列：简单扫盲 I2P 的使用</a>》<br/>
+《<a href="../../2016/10/custom-firefox-theme-without-extension.md">无需任何插件或扩展，定制 Firefox 外观</a>》<br/>
+《<a href="../../2017/04/The-Importance-of-Zheteng.md">聊聊【折腾】的重要性</a>》
 </div>
 
 

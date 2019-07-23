@@ -27,7 +27,7 @@
 　　在今天介绍的4个协议中，DNSSEC 也是最早大规模部署的。在2010年的时候，所有<a href="https://zh.wikipedia.org/wiki/%E6%A0%B9%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8B%99%E5%99%A8" rel="nofollow" target="_blank">根域名服务器</a>都已经部署了 DNSSEC。到了2011年，若干顶级域名（.org 和 .com 和 .net 和 .edu）也部署了 DNSSEC。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="background-color:#DDD;font-family:Courier,monospace;">--------
+<pre style="font-family:Courier,monospace;">--------
  DNSSEC
 --------
   UDP
@@ -59,7 +59,7 @@
 　　历史上有过两个版本，分别称：Version 1 和 Version 2。如今主要使用“版本2”<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="background-color:#DDD;font-family:Courier,monospace;">----------------
+<pre style="font-family:Courier,monospace;">----------------
     DNSCrypt
 ----------------
    TCP or UDP
@@ -93,7 +93,7 @@
 　　从时间上看，RFC7858 是2016年发布的，RFC8310 是今年（2018）发布的；显然，这个协议出现得比较晚（相比前面提到的 DNSSEC 和 DNSCrypt）。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="background-color:#DDD;font-family:Courier,monospace;">--------
+<pre style="font-family:Courier,monospace;">--------
   DoT
 --------
   TLS
@@ -127,7 +127,7 @@
 　　很多人把 DoH 与 DoT 混为一谈，实际上这是两种不同的协议。你可以对比这两者的协议栈，（只要你眼睛不瞎）就可看出其中的差别。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="background-color:#DDD;font-family:Courier,monospace;">--------
+<pre style="font-family:Courier,monospace;">--------
   DoH
 --------
   HTTP
@@ -143,7 +143,7 @@
 　　与 DoT 类似，DoH 最终也是依靠 TLS 来实现了【保密性】与【完整性】。<br/>
 　　至于 TLS 协议是如何实现完整性与保密性滴？可以参见俺的系列博文：《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>》<br/>
 <br/>
-<h3>◇信任链的实现</h3><br/>
+<h3>◇【信任链】的实现</h3><br/>
 　　DoH 类似于 DoT，最终是靠 TLS 所使用的“CA 证书体系”来实现信任链。<br/>
 　　关于 CA 证书体系，可以参见8年前的博文：《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a>》<br/>
 <br/>
@@ -181,7 +181,7 @@ Quad9</td></tr>
 <h2>★为啥 DNS over HTTPS 更有前途？——谈谈俺个人观点</h2><br/>
 　　接着来聊一下：4个协议中，谁的前景看好。（以下是俺个人观点，供参考）<br/>
 <br/>
-<h3>◇首先排除 DNSSEC</h3><br/>
+<h3>◇首先【排除】DNSSEC</h3><br/>
 　　如果要讨论这4种协议的优劣，首先出局的是 DNSSEC。因为这玩意儿连【保密性】都不具备，无法保护网民的隐私。<br/>
 　　相比之下，另外三种协议都具备了“保密性”。<br/>
 <br/>
@@ -206,7 +206,7 @@ Quad9</td></tr>
 <br/>
 　　综上所述，TLS 完胜 DNSCrypt。所以，剩下的协议就只有 DoT 与 DoH。<br/>
 <br/>
-<h3>◇DoT vs DoH</h3><br/>
+<h3>◇DoT VS DoH</h3><br/>
 　　前面谈 DoH 优缺点的时候，其实已经可以看出这两者谁更有前途了。<br/>
 　　DoT 因为协议栈少了一层，性能会比 DoH 更好。但是俺前面也说了，域名查询的频度是比较低的，而且还可以利用客户端软件的 DNS 缓存，进一步减少域名查询的频度。所以 DoT 虽然性能更好，但优势不明显。<br/>
 <br/>
@@ -231,14 +231,18 @@ Quad9</td></tr>
 　　分享几篇 DoH 相关的文章：<br/>
 <br/>
 《<a href="https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/" rel="nofollow" target="_blank">A cartoon intro to DNS over HTTPS</a>》<br/>
-（这是 Mozilla 官方博客的一篇文章，深入浅出地扫盲了 DNS 和 DoH 的原理）<br/>
+（注：这是 Mozilla 官方博客的一篇文章，深入浅出地扫盲了 DNS 和 DoH 的原理）<br/>
 <br/>
 《<a href="https://bitsup.blogspot.com/2018/05/the-benefits-of-https-for-dns.html" rel="nofollow" target="_blank">The Benefits of HTTPS for DNS</a>》<br/>
-（这是某个老外写的技术文章，讨论 DoH 可以借助 HTTP 协议的哪些好处）<br/>
+（注：这是某个老外写的技术文章，讨论 DoH 可以借助 HTTP 协议的哪些好处）<br/>
 <br/>
 <br/>
 <h3>◇关于浏览器的说明</h3><br/>
+　　<b>Firefox</b><br/>
 　　Firefox 从 62 版本开始支持 DoH，具体参见 Mozilla 官方博客（链接在“<a href="https://blog.nightly.mozilla.org/2018/06/01/improving-dns-privacy-in-firefox/" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　由于 DoH 功能刚刚加入，还没有提供相应的配置界面。如果你想体验该功能，需要定制 Firefox 的配置选项（Preferences）以初始化 DoH 的相关参数。定制 Firefox 的方法参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
+<br/>
+　　<b>Chrome/Chromium</b><br/>
 　　Chrome/Chromium 从 66 版本开始支持 DoH。具体参见 Chromium 官网的 issue（链接在“<a href="https://bugs.chromium.org/p/chromium/issues/detail?id=799753" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 　　虽然 Firefox 和 Chrome/Chromium 都已经开始支持 DoH，但大伙儿别急着用。<br/>
@@ -263,7 +267,8 @@ Quad9</td></tr>
 《<a href="../../2014/01/dns.md">扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗／域名污染”</a>》<br/>
 《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>》（系列）<br/>
 《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a>》<br/>
-《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）
+《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》
 </div>
 
 
