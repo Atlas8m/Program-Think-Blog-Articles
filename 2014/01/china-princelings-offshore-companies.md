@@ -77,7 +77,7 @@
 <br/>
 <h2>★如何使用这批解密数据</h2><br/>
 <h3>◇查询界面</h3><br/>
-　　ICIJ 的官网提供了基于 Web 的查询界面（链接在“<a href="http://offshoreleaks.icij.org/search?lang=zh-Hans" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　ICIJ 的官网提供了基于 Web 的查询界面（链接在“<a href="https://offshoreleaks.icij.org/" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 　　使用举例：<br/>
 　　如果你想查找温影帝的宝贝儿子开了哪家离岸公司，只需勾选第一个复选框，后两个复选框不用勾选，然后输入 <u>yunsong</u> 作为关键字（这是“云松”的拼音），点搜索按钮。就会查出来符合关键字的人名，点击这个人名，就会显示出此人开设了哪些离岸公司，公司的相关地址。<br/>
@@ -85,7 +85,7 @@
 <br/>
 <h3>◇下载数据</h3><br/>
 　　ICIJ 的服务还是很人性化的，连数据都提供下载。提醒一下：下载的数据是 ICIJ 整理好的数据（大约 13 MB），而不是原始数据（250 GB）。<br/>
-　　下载的是一个压缩包，里面有4个 CSV 文件，相当于数据库里面的4张表。4张表的洋文说明请看“<a href="http://www.icij.org/blog/2013/10/learn-how-use-icij-offshore-leaks-database" rel="nofollow" target="_blank">这里</a>”。<br/>
+　　下载的是一个压缩包，里面有4个 CSV 文件，相当于数据库里面的4张表。4张表的洋文说明请看“<a href="https://www.icij.org/blog/2013/10/learn-how-use-icij-offshore-leaks-database" rel="nofollow" target="_blank">这里</a>”。<br/>
 　　如果你稍微懂点数据库的知识，只需建4张表，结构跟那几个 CSV 一样。然后把 CSV 导入其中。就可以用 SQL 语句进行查询。<br/>
 <br/>
 <br/>
@@ -109,14 +109,15 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a><br/>
-<a href="../../2013/06/weekly-share-53.md">每周转载：关于朝廷近期舆论和习近平的嘴脸</a><br/>
-<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a><br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br/>
-<a href="../../2011/12/revolution-0.md">谈革命</a>（系列）<br/>
-<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>
+《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
+《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
+《<a href="../../2013/06/weekly-share-53.md">每周转载：关于朝廷近期舆论和习近平的嘴脸</a>》<br/>
+《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
+《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 

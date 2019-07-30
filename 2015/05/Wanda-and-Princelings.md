@@ -7,8 +7,8 @@
 <br/>
 <h2>★关于“万达集团”</h2><br/>
 　　说到大连的“万达集团”，大伙儿应该都不陌生。万达的老板王健林，其个人资产，在2013年荣登天朝富豪榜的榜首（资产超过300亿美元）。而在2007年的时候，他在胡润富豪榜排第148位（资产小于10亿美元）。恰恰是在这短短的6年间，万达集团吸收了一些非常关键的外部股东。而这些股东，又恰恰是朝廷高官的亲属。<br/>
-　　这样一些“巧合”凑到一块儿，不由得让人浮想连篇......<a name="more"></a><br/>
-<br/>
+　　这样一些“巧合”凑到一块儿，不由得让人浮想连篇......<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★万达集团牵涉了哪些权贵家族？</h2><br/>
 　　先给出《纽约时报》那两篇报道的链接（如下）：<br/>
@@ -95,12 +95,15 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2015/02/Princelings.md">俺整理的《太子党关系网络》</a><br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
+《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
+《<a href="../../2015/02/Princelings.md">俺整理的【太子党关系网络】</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》
 </div>
 
 

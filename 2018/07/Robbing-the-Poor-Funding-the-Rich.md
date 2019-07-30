@@ -111,16 +111,17 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2019/04/996-Working-Hour-System.md">“996工作制”只不过是【劫贫济富】的缩影——“马云奇葩言论”随想</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通</a>》<br/>
+《<a href="../../2019/04/996-Working-Hour-System.md">“996工作制”只不过是【劫贫济富】的缩影——“马云奇葩言论”随想</a>》<br/>
 《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
 《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
 《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
 《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
 《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
-《<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》<br/>
 《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
-《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 

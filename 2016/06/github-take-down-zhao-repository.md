@@ -1,4 +1,4 @@
-# 热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证 
+# 热烈庆贺【太子党关系网络】开源项目率先获得朝廷认证 
 
 -----
 
@@ -10,11 +10,12 @@
 　　开源之后，这个项目获得了非常多网友的关注（截止本文发布时，将近2000个 Star，将近600个 Fork）。显然，这个项目让朝廷方面很不爽。由于 GitHub 的影响力太大（全球最大的开源项目集散地），朝廷方面不敢贸然封锁 GitHub 全站。而 GitHub 全站都开启了【加密的】HTTPS 协议，导致 GFW 无法进行选择性屏蔽。<br/>
 　　不过朝廷那帮人里面，也不全是吃闲饭的。朝廷方面利用某个新成立的【半官方】组织（中国网络空间安全协会）向 GitHub 的网管发去一份“删除令”（其内容参见<a href="https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md" rel="nofollow" target="_blank">这个链接</a>）。目前 GitHub 网管的做法是——把俺这个项目进行【选择性屏蔽】。也就是说：当你从墙内访问俺这个项目，会看到一段洋文，说该项目暂时不可用；但如果你通过翻墙的方式，从墙外访问这个项目，依然可以正常访问，正常下载。<br/>
 　　<b>针对俺项目的政府删除令，是 GitHub 历史上的第6个，也是来自中国政府的【第一个】</b>。<br/>
-　　（前面5个删除令都是来自俄罗斯政府，详情参见 GitHub 官方的<a href="https://github.com/github/gov-takedowns" rel="nofollow" target="_blank">这个链接</a>）。<a name="more"></a><br/>
+　　（前面5个删除令都是来自俄罗斯政府，详情参见 GitHub 官方的<a href="https://github.com/github/gov-takedowns" rel="nofollow" target="_blank">这个链接</a>）。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★获奖感言</h2><br/>
 （请允许俺先调侃一把，发表一篇简短的致辞）<br/>
-<blockquote style="background-color:#DDD;">感谢国家，感谢国务院，感谢网信办（国家互联网信息办公室），感谢网安协会（中国网络空间安全协会）......<br/>
+<blockquote>感谢国家，感谢国务院，感谢网信办（国家互联网信息办公室），感谢网安协会（中国网络空间安全协会）......<br/>
 俺放在 GitHub 上的那个“太子党关系网络”，能够第一个获得朝廷方面的垂青，实乃祖上积德、三生有幸、荣耀之至......<br/>
 既然朝廷方面这么给面子，俺万万不可等闲视之。俺要加倍努力，曝光更多的权贵家族，让更多的网民了解权贵们是多么的卑鄙、多么的无耻、多么的下流......<br/>
 除了继续曝光权贵家族，俺还要继续抹黑党国——不光抹黑党和国家领导人，还要抹黑共产主义理论、抹黑社会主义制度、抹黑党的历史......<br/>
@@ -48,38 +49,38 @@
 <br/>
 <h2>★各方报道</h2><br/>
 　　下面这篇是写得最详细的报道，文中对发出删除令的“中国网络空间安全协会”有详细介绍，包括该组织有哪些政府背景（感谢“端傳媒”）<br/>
-<a href="https://theinitium.com/article/20160628-mainland-githubcensor/" rel="nofollow" target="_blank">開源「趙家人」名單，GitHub激怒中國網安協會首出拳 @ 端傳媒</a><br/>
+《<a href="https://theinitium.com/article/20160628-mainland-githubcensor/" rel="nofollow" target="_blank">開源「趙家人」名單，GitHub激怒中國網安協會首出拳 @ 端傳媒</a>》<br/>
 <br/>
 上述这篇获得了如下几个网站的转载：<br/>
-<a href="https://github.com/greatfire/wiki/issues/120" rel="nofollow" target="_blank">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GreatFire</a><br/>
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" rel="nofollow" target="_blank">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 中国数字时代</a><br/>
-<a href="http://www.chinagfw.org/2016/06/github.html" rel="nofollow" target="_blank">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GFW Blog</a><br/>
-<a href="https://www.letscorp.net/archives/106763" rel="nofollow" target="_blank">端传媒：开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 墙外楼</a><br/>
-<a href="http://qiwenlu.blogspot.com/2016/06/github.html" rel="nofollow" target="_blank">赵家人要把 GitHub 管起来 @ 奇闻录</a><br/>
-<a href="http://disp.cc/m/163-9tZt" rel="nofollow" target="_blank">開源「趙家人」名單，GitHub激怒中國網安 @ Disp BBS</a><br/>
+《<a href="https://github.com/greatfire/wiki/issues/120" rel="nofollow" target="_blank">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GreatFire</a>》<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" rel="nofollow" target="_blank">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 中国数字时代</a>》<br/>
+《<a href="https://www.chinagfw.org/2016/06/github.html" rel="nofollow" target="_blank">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GFW Blog</a>》<br/>
+《<a href="https://www.letscorp.net/archives/106763" rel="nofollow" target="_blank">端传媒：开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 墙外楼</a>》<br/>
+《<a href="https://qiwenlu.blogspot.com/2016/06/github.html" rel="nofollow" target="_blank">赵家人要把 GitHub 管起来 @ 奇闻录</a>》<br/>
+《<a href="https://disp.cc/m/163-9tZt" rel="nofollow" target="_blank">開源「趙家人」名單，GitHub激怒中國網安 @ Disp BBS</a>》<br/>
 <br/>
 <br/>
-另有其他一些网友针对此事的评论文章<br/>
+另有其他一些网友针对此事的评论文章：<br/>
 <br/>
-<a href="https://www.techdirt.com/articles/20160623/07384934793/rather-than-launch-massive-ddos-attack-this-time-china-just-asks-github-to-take-down-page-it-doesnt-like.shtml" rel="nofollow" target="_blank">Rather Than Launch A Massive DDoS Attack, This Time China Just Asks GitHub To Take Down Page It Doesn't Like @ Techdirt</a><br/>
+《<a href="https://www.techdirt.com/articles/20160623/07384934793/rather-than-launch-massive-ddos-attack-this-time-china-just-asks-github-to-take-down-page-it-doesnt-like.shtml" rel="nofollow" target="_blank">Rather Than Launch A Massive DDoS Attack, This Time China Just Asks GitHub To Take Down Page It Doesn't Like @ Techdirt</a>》<br/>
 <br/>
-<a href="https://twitter.com/HNTweets/status/747879750723506177" rel="nofollow" target="_blank">GitHub's Government Takedown Request from China @ Hacker News</a><br/>
+《<a href="https://twitter.com/HNTweets/status/747879750723506177" rel="nofollow" target="_blank">GitHub's Government Takedown Request from China @ Hacker News</a>》<br/>
 <br/>
-<a href="http://qz.com/718465/chinas-fierce-censors-try-a-new-tactic-with-github-asking-nicely/" rel="nofollow" target="_blank">China’s fierce censors try a new tactic with GitHub—asking nicely @ Quartz</a><br/>
+《<a href="https://qz.com/718465/chinas-fierce-censors-try-a-new-tactic-with-github-asking-nicely/" rel="nofollow" target="_blank">China’s fierce censors try a new tactic with GitHub—asking nicely @ Quartz</a>》<br/>
 <br/>
-<a href="http://www.solidot.org/story?sid=48685" rel="nofollow" target="_blank">中国向GitHub发出删除通知 @ Solidot</a><br/>
-（本文已经被 Solidot 的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&amp;q=cache:http://www.solidot.org/story?sid=48685" rel="nofollow" target="_blank">Google 快照</a>）<br/>
+《<a href="http://www.solidot.org/story?sid=48685" rel="nofollow" target="_blank">中国向GitHub发出删除通知 @ Solidot</a>》<br/>
+（本文已经被 Solidot 的管理员删除了，俺贴出此文的 <a href="https://webcache.googleusercontent.com/search?strip=0&amp;q=cache:http://www.solidot.org/story?sid=48685" rel="nofollow" target="_blank">Google 快照</a>）<br/>
 <br/>
-<a href="https://imtx.me/archives/1984.html" rel="nofollow" target="_blank">2016 年了，从 GitHub 的黑名单谈「网络审查」 @ I'm TualatriX </a><br/>
+《<a href="https://imtx.me/archives/1984.html" rel="nofollow" target="_blank">2016 年了，从 GitHub 的黑名单谈「网络审查」 @ I'm TualatriX </a>》<br/>
 <br/>
-<a href="http://www.percya.com/2016/06/cyberspace-administration-of-china-send.html" rel="nofollow" target="_blank">Cyberspace Administration of China sent take down request to Github @ percya</a><br/>
-<a href="http://www.percya.com/2016/06/chinas-censorship-order-to-github.html" rel="nofollow" target="_blank">China's censorship order to Github caused Streisand effect @ percya</a><br/>
-（上面这位 percya 是俺博客的热心读者，也是 GreatFire 的骨干成员）<br/>
+《<a href="http://www.percya.com/2016/06/cyberspace-administration-of-china-send.html" rel="nofollow" target="_blank">Cyberspace Administration of China sent take down request to Github @ Percya</a>》<br/>
+《<a href="http://www.percya.com/2016/06/chinas-censorship-order-to-github.html" rel="nofollow" target="_blank">China's censorship order to Github caused Streisand effect @ Percya</a>》<br/>
+（注：上面这位 percya 是俺博客的热心读者，也是 GreatFire 的骨干成员）<br/>
 <br/>
-<a href="https://zhuanlan.zhihu.com/p/21432458" rel="nofollow" target="_blank">HTTP状态码451——基于法律上的原因，我不能向你展示网页内容 @ 知乎专栏</a><br/>
-（本文已经被知乎的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&amp;q=cache:https://zhuanlan.zhihu.com/p/21432458" rel="nofollow" target="_blank">Google 快照</a>）<br/>
+《<a href="https://zhuanlan.zhihu.com/p/21432458" rel="nofollow" target="_blank">HTTP状态码451——基于法律上的原因，我不能向你展示网页内容 @ 知乎专栏</a>》<br/>
+（本文已经被知乎的管理员删除了，俺贴出此文的 <a href="https://webcache.googleusercontent.com/search?strip=0&amp;q=cache:https://zhuanlan.zhihu.com/p/21432458" rel="nofollow" target="_blank">Google 快照</a>）<br/>
 <br/>
-<a href="https://gold.xitu.io/entry/576d00bb128fe1005a1d713e" rel="nofollow" target="_blank">Github 上线了 gov-takedowns 项目，接受各国政府删帖申请</a><br/>
+《<a href="https://gold.xitu.io/entry/576d00bb128fe1005a1d713e" rel="nofollow" target="_blank">Github 上线了 gov-takedowns 项目，接受各国政府删帖申请</a>》<br/>
 <br/>
 <br/>
 <h2>★顺便聊聊 GitHub 的人品和骨气</h2><br/>
@@ -87,6 +88,7 @@
 　　但是经过这个事情之后，俺对 GitHub 管理层的人品和骨气，要打一个大大的问号了。<br/>
 　　其它的不提，单说朝廷发出的“删除令”。这个删除令【并不是】针对俺那个项目的内容，而是针对该项目的某一条 issue（并且这条 issue 并不是俺本人发的）。然而 GitHub 的管理员却对俺整个项目进行选择性屏蔽，导致墙内网民（在不翻墙的情况下）无法正常打开该项目。<br/>
 　　照理说，GitHub 方面应该只屏蔽那条 issue，而不是整个项目。为啥 GitHub 的网管要这么干？令人浮想联翩啊。<br/>
+<br/>
 <br/>
 <h2>★给同道中人的建议</h2><br/>
 　　下面，俺要第 N 次强调“多重代理”的重要性。（博客的老读者们，请原谅俺的唠叨）<br/>
@@ -101,12 +103,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br/>
-<a href="../../2016/01/Zhao-Family.md">聊聊“赵家人”走红网络的重要意义</a><br/>
-<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a><br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2016/03/GitHub-Security-Tips.md">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a><br/>
-<a href="../../2015/06/My-GitHub.md">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》<br/>
+《<a href="../../2016/01/Zhao-Family.md">聊聊“赵家人”走红网络的重要意义</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2016/03/GitHub-Security-Tips.md">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>》<br/>
+《<a href="../../2015/06/My-GitHub.md">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a>》
 </div>
 
 

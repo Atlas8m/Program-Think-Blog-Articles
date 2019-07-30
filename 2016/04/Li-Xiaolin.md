@@ -178,16 +178,19 @@ Sher：<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a><br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br/>
-<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2011/12/revolution-0.md">谈革命</a>（系列）<br/>
-<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>
+《<a href="../../2019/07/weekly-share-134.md">每周转载：李鹏毙命，普天同庆（大量网友评论）</a>》<br/>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
+《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 

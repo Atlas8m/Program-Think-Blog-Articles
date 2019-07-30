@@ -9,7 +9,7 @@
 <h2>★背景介绍</h2><br/>
 　　照例先聊一下此事的背景。<br/>
 <br/>
-<h3>◇何为“离岸公司”</h3><br/>
+<h3>◇何为【离岸公司】？</h3><br/>
 　　关于离岸公司的作用，可以参考 BBC 下面的这篇报道。<br/>
 <a href="https://www.bbc.com/zhongwen/simp/world/2016/04/160404_panama_paper_assets_taxes_hidden" rel="nofollow" target="_blank">巴拿马文件——揭开隐藏资产及逃税黑幕 @ BBC/英国广播公司</a><br/>
 <br/>
@@ -57,42 +57,42 @@
 <br/>
 <br/>
 <h2>★外媒的评论文章</h2><br/>
-<a href="https://cn.nytimes.com/world/20160405/c05leak/" rel="nofollow" target="_blank">“巴拿马文件”泄密，多国政要隐秘资产曝光 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/world/20160405/c05leak/" rel="nofollow" target="_blank">“巴拿马文件”泄密，多国政要隐秘资产曝光 @ 纽约时报</a>》<br/>
 <br/>
-<a href="https://www.dw.com/a-19170657" rel="nofollow" target="_blank">中国大陆和香港是“巴拿马文件”的主要客户 @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-19170657" rel="nofollow" target="_blank">中国大陆和香港是“巴拿马文件”的主要客户 @ 德国之声</a>》<br/>
 <blockquote>“巴拿马文件”的主角——莫萨克·冯赛卡律所在中国大陆和香港揽有大宗生意。<b>该律师事务所近三分之一的客户来源以上两地。</b><br/>
 ......<br/>
 记者的调查显示，<b>莫萨克·冯赛卡律所在中国大陆和香港的8个城市拥有分所，这一数量超过其他任何一个国家。</b>在中国大陆，该所主要在上海、深圳、青岛、大连、杭州、济南、宁波等地展开活动。<br/>
 </blockquote><br/>
-<a href="https://www.voachinese.com/content/panama-paper-china-20160406/3273226.html" rel="nofollow" target="_blank">九位中共领导人亲属涉入“避税港” @ VOA/美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/panama-paper-china-20160406/3273226.html" rel="nofollow" target="_blank">九位中共领导人亲属涉入“避税港” @ VOA/美国之音</a>》<br/>
 <br/>
-<a href="https://www.voachinese.com/content/alexa-olesen-interview-20160408/3277072.html" rel="nofollow" target="_blank">专访调查记者：望巴拿马文件成为王岐山反腐重要线索 @ VOA/美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/alexa-olesen-interview-20160408/3277072.html" rel="nofollow" target="_blank">专访调查记者：望巴拿马文件成为王岐山反腐重要线索 @ VOA/美国之音</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/ajqgRrPIcAmGqayGJ1lohX83Y5u6aJownxNWCtRKQiy2JQGsl9k3yaqrkrLGurQJGuc9RklhVyvmgLcsUXlvpr6aaR0CmmjiefStgTosWsj8o-BLmhZHPAmdrkaaw-Of1r7D3lOlZJ8"/></center><br/>
-<a href="https://cn.nytimes.com/china/20160407/c07chinapanama/" rel="nofollow" target="_blank">巴拿马文件再撼中共高层：刘云山张高丽家人上榜 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20160407/c07chinapanama/" rel="nofollow" target="_blank">巴拿马文件再撼中共高层：刘云山张高丽家人上榜 @ 纽约时报</a>》<br/>
 <blockquote>负责宣传工作的常委刘云山——他的儿媳是一家在英属维尔京群岛注册的公司的股东和董事。<br/>
 <center><img alt="不见图 请翻墙" src="images/VxsXNnmP0HfAvmDnLu-BCILAA-gNzLtQXJFRD_4J1NfZTjS4fGTcrUTEXADoqZWuq12TlhjSVxIb23tMi2Cw6iikJvdgW-9BC3nQ--bWHSGnkY7K4zxMoghkaVq1eCj6aBcwz1dwYvQ"/></center><br/>
 担任副总理的常委张高丽——他的女婿是三家在英属维尔京群岛注册的公司的股东。<br/>
 <center><img alt="不见图 请翻墙" src="images/zFQROouSDM0sS3Q2ZobkygRL5LAeNiXomdDETHaejYUjR2RJaXCbER8c1qvFn9ed_Izl00jvRRLsNGksh1D0h17z5sAsP2edQA7lZrXXPLahod9RwCC5lGr1Puc9Qmo2tlQu7vl4_j0"/></center></blockquote><br/>
-<a href="https://www.voachinese.com/content/voa-news-panama-papers-20160406/3271398.html" rel="nofollow" target="_blank">更多中共政治局常委亲属涉“避税天堂” @ VOA/美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/voa-news-panama-papers-20160406/3271398.html" rel="nofollow" target="_blank">更多中共政治局常委亲属涉“避税天堂” @ VOA/美国之音</a>》<br/>
 <br/>
-<a href="https://www.voachinese.com/content/panama-papers-china-red-nobility-20160406/3273672.html" rel="nofollow" target="_blank">剥茧抽丝见巨资——避税港内的中国红色贵族 @ VOA/美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/panama-papers-china-red-nobility-20160406/3273672.html" rel="nofollow" target="_blank">剥茧抽丝见巨资——避税港内的中国红色贵族 @ VOA/美国之音</a>》<br/>
 <br/>
-<a href="https://cn.nytimes.com/china/20140123/c23offshore/" rel="nofollow" target="_blank">中国权贵设离岸公司隐藏巨额财富 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20140123/c23offshore/" rel="nofollow" target="_blank">中国权贵设离岸公司隐藏巨额财富 @ 纽约时报</a>》<br/>
 （编程随想注：这篇报道写于2014年，那年发生了“离岸金融解密”事件，具体详情参见俺另一篇博文《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》）<br/>
 <br/>
-<a href="https://cn.nytimes.com/china/20160406/c06chinapanama/" rel="nofollow" target="_blank">权贵家族上榜，中国封锁“巴拿马文件”相关报道 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20160406/c06chinapanama/" rel="nofollow" target="_blank">权贵家族上榜，中国封锁“巴拿马文件”相关报道 @ 纽约时报</a>》<br/>
 <br/>
-<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160413/bkncn-20160413000319076-0413_05411_001.html" rel="nofollow" target="_blank">章文：你看你看　都在「離岸」 @ 東網</a><br/>
+《<a href="https://hk.on.cc/cn/bkn/cnt/commentary/20160413/bkncn-20160413000319076-0413_05411_001.html" rel="nofollow" target="_blank">章文：你看你看　都在「離岸」 @ 東網</a>》<br/>
 <blockquote>说到“离岸”，不能不提到之前流行的“弃船说”：中国好比一艘大船，本来同船人应该同舟共济，但其中有些人悄悄为自己预备了快艇，好在沉船之前开溜。有条件准备快艇的不会是一般的水手，只能是水手的上级——大副甚至船长。<br/>
 前些年媒体报道的“裸官现象”就是“弃船说”的现实演绎版：老婆、孩子，还有大量不义之财都送到国外，自己一个人留在中国当官。其实不仅是处长、局长如此，部长以及政治局委员、乃至常委级别的都一样，或者可以这样说，“上梁不正下梁歪”，小干部是跟大干部学样的，你大腐败我小腐败，你把妻儿送到哪里，我也把妻儿送到哪里。<br/>
 前国家领导的儿孙辈在海外生活的消息屡见境外报端：亿元豪宅住着，世界名校读着，“公子”“名媛”流转于各种上流社交场合，人生好不得意！<br/>
 退休后的官员打个飞的去和妻儿会合，在气候宜人、食品安全的他国颐养天年。今年2月境外媒体报道离退休干部为领取养老金挤爆中国驻加拿大多伦多总领事馆，结果导致现场异常混乱，被维持秩序的加国警察叫停。图文并茂的消息让国人惊呼：究竟有多少离退休干部生活在国外？</blockquote><br/>
-<a href="https://cn.wsj.com/articles/CN-BGH-20160408105728" rel="nofollow" target="_blank">“巴拿马文件”折射出隐藏资金的难度越来越大 @ WSJ/华尔街日报</a><br/>
+《<a href="https://cn.wsj.com/articles/CN-BGH-20160408105728" rel="nofollow" target="_blank">“巴拿马文件”折射出隐藏资金的难度越来越大 @ WSJ/华尔街日报</a>》<br/>
 <br/>
-<a href="https://cn.nytimes.com/world/20160407/c07panamamedia/" rel="nofollow" target="_blank">谁公开了巴拿马文件？揭秘调查记者团队 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/world/20160407/c07panamamedia/" rel="nofollow" target="_blank">谁公开了巴拿马文件？揭秘调查记者团队 @ 纽约时报</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/nQ_aPX4E0Rl_srx5zdU_qeouowMwml7gE7rrtV1bxrEznRoKGc_s1c3_EAO1iIG9U18I61K2Pbow4DoqAn-D0fWnCRU3UH7sisJeJ4AXomlaOEVR7hWct1eadk6PLP0f31X7y1-kIoo"/></center><br/>
 <br/>
-<h2>★关于“离岸的权贵”</h2><br/>
+<h2>★网友热议“离岸的权贵”</h2><br/>
 青蒜腊肉：<br/>
 巴拿马文件新出炉的名单，五毛狗看清楚了。<br/>
 <center><img alt="不见图 请翻墙" src="images/fCkbhV84G2r0l9s__cORjAxsHNweFBhRmjvbQjEqn95Z649O-HoKWCr2F82fENL5Ktg7vR2mCLYt8PGHAEBWL-vUlWAFpM5YBPoONLu9IUt7A-rJHbMseNgzRih5DzlYr49a1i1NHPk"/></center><br/>
@@ -690,13 +690,15 @@ Red Fire Age：<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a><br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br/>
-<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 

@@ -144,16 +144,17 @@
 散户听K线图的，K线图听庄家的，庄家听财阀的，财阀又听赵家人的。所以，但凡有看不懂的行情，背后一定是庄家在做局。有看不懂的局，肯定是财阀在背后抢地盘。有看不懂的财阀们的命运沉浮，那么背后一定又是一帮赵家人在北戴河谈心，不知道又谈出了什么结果。</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/11/political-propaganda-become-less-effective.md">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a><br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2014/01/anti-brainwashing-and-enlightenment.md">如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验</a><br/>
-<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a><br/>
-<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制</a><br/>
-<a href="../../2014/12/brainwash-using-real-data.md">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a><br/>
-<a href="../../2011/12/revolution-0.md">谈革命</a>（系列）<br/>
-<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a><br/>
-<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>
+《<a href="../../2014/11/political-propaganda-become-less-effective.md">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2014/01/anti-brainwashing-and-enlightenment.md">如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验</a>》<br/>
+《<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>
+《<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制</a>》<br/>
+《<a href="../../2014/12/brainwash-using-real-data.md">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a>》<br/>
+《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 
