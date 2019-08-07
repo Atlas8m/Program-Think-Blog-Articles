@@ -109,7 +109,7 @@ Liuvictor：<br/>
 <h2>★谁才是【六四元凶】？</h2><br/>
 编程随想注：<br/>
 关于“元凶”的问题，可以参考俺写的《<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>》系列博文。<br/>
-下面这几张是1989年李鹏在电视上宣布戒严<br/>
+下面这几张是——1989年5月，李鹏在电视上宣布戒严<br/>
 <center><img alt="不见图 请翻墙" src="images/xW9wnkFVI8xHsayIbu4mkLRCoNKtJ_t5LsolIPrVo9bC9j7z9fteIFlhAdDTbNCOafnyRaO3oDZv84toBPsTKK5Kp-3HVX2SoOQ1Rk5bqWz1anHtab4JkFLLGQRBLTcN9v1VGg_ZPk4"/></center><center><img alt="不见图 请翻墙" src="images/6IQChszM_1scfrK-7vlQj2dp1BBlvtiGlhn69XYEaRyy0tmL3DPKVPgisDugQ5fIDjmzjErpbczxTJ3Kvw7oNQtrrqWfxILu4x_uB2M-vrorp0XP5f2ntFpJQhFiG3bQou33jZFUn4I"/></center><br/>
 封從德：<br/>
 「六四」屠殺，邓小平是元凶，<br/>
@@ -172,7 +172,7 @@ jw：<br/>
 李鹏以日记形式对导致镇压行动的事件提供了他自己的版本，这份描述被香港一家出版商在2010年购得。<br/>
 李鹏为自己的行为做了辩护，把他描述为党的一名负责任、头脑清醒的仆人，把邓小平描述为做出对抗议者使用武力的知情决定的主导力量。<br/>
 <br/>
-（编程随想注：<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了《<a href="https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/" target="_blank">关键时刻——李鹏日记</a>》电子版）<br/>
+（编程随想注：<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了《<a href="https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/" target="_blank">关键时刻——李鹏六四日记</a>》的电子版）<br/>
 <br/>
 药丸时报：<br/>
 2019年7月29日，李小琳在李鹏追悼会当天写了一篇短文！<br/>
@@ -270,7 +270,7 @@ Jeasonl：<br/>
 李方：<br/>
 【中国最无能总理的尴尬时刻】<br/>
 1989年5月18日，李鹏与北京绝食学生代表谈话。<br/>
-因其废话冗长啰嗦，饥饿中的吾而开希打断他的话。<br/>
+因其废话冗长啰嗦，饥饿中的吾尔开希打断他的话。<br/>
 李鹏顿时不知所措，“你，你，你，你多多。。。大。。。”<br/>
 吾而开希替他补充：“多大年龄？这没关系。”吾而开希要求直入主题。<br/>
 <br/>

@@ -198,7 +198,7 @@
 <br/>
 <h3>◇比“autoconfig”更强大的【omni.ja】</h3><br/>
 　　Firefox 是一个很复杂的开源项目，代码量超大。它的核心代码（比如：渲染引擎、JS 引擎）是基于 C++ 语言开发（并在逐步迁移到 Rust 语言）。而软件界面（UI）相关的部分，大体上还是 Web 那套东西（不外乎就是：XML、JS、JSON、CSS ...）。<br/>
-　　这些与 UI 相关的东西，大部分都打包在 <code>omni.ja</code> 中。如果你摸透了 <code>omni.ja</code> 的结构，就可以对 Firefox 的界面进行任意定制。<br/>
+　　这些与 UI 相关的东西，大部分都打包在（安装包自带的）<code>omni.ja</code> 文件中。如果你摸透了 <code>omni.ja</code> 的结构，就可以对 Firefox 的界面进行任意定制。<br/>
 　　说到这里，某些熟悉 Firefox 的用户会反问：为啥不用 <code>userChrome.css</code> 定制 Firefox？<br/>
 　　这个东东俺当然知道（而且还写过专门的教程，链接在“<a href="../../2016/10/custom-firefox-theme-without-extension.md">这里</a>”）。但它的能力很【有限】——只能修改 CSS 样式，【无法】定制界面的功能。<br/>
 <br/>
@@ -212,14 +212,19 @@
 　　当你在 Firefox 界面上按了这个组合键，会触发某个 JS 代码，然后由这个 JS 代码来改变当前标签页的状态。<br/>
 　　而这段 JS 代码就包含在 <code>omni.ja</code> 这个压缩包的某个文件中（<code>chrome/browser/content/browser/browser.xul</code>）。如果你能修改这段 JS 代码，就可以实现自己想要的某些效果。<br/>
 <br/>
-<h3>◇“omni.ja”简述</h3><br/>
-　　<code>omni.ja</code> 是 Firefox 安装包自带的文件。虽然它的扩展名是 <code>.ja</code>，但其实是个 zip 压缩包。<br/>
-　　但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。俺在 Linux 下用 <code>unzip</code> 命令解压缩是 OK 滴；对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 <code>.zip</code> 再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。<br/>
+　　<b>友情提醒：</b><br/>
 　　安装好的 Firefox 有【两个】 <code>omni.ja</code> ——大的那个有30多兆，小的那个有十多兆。<br/>
 　　当你要折腾的时候，别搞错了！！！<br/>
 　　比如说：当俺在折腾键盘快捷键时，修改的是【大的】那个。<br/>
 <br/>
-　　当你【修改完】<code>omni.ja</code> 内部的文件之后，要【重新打包】它。<br/>
+<h3>◇简述“omni.ja”的格式</h3><br/>
+　　<b>如何“解压缩”？</b><br/>
+　　虽然 <code>omni.ja</code> 的扩展名是 <code>.ja</code>，但其实是个 zip 压缩包；但它又【不是】标准的 zip 压缩包——因为它的文件头有点特殊。<br/>
+　　俺在 Linux 下用 <code>unzip</code> 命令进行解压缩，完全 OK（使用 Mac OS 的同学也可以用这个命令）；<br/>
+　　对于使用 Windows 的同学，（Mozilla 官网的文档建议）先把扩展名改为 <code>.zip</code> 再用资源管理器自带的解压功能（注：其它解压 zip 的工具不一定能行）。<br/>
+<br/>
+　　<b>如何“压缩（重新打包）”？</b><br/>
+　　当你【修改完】<code>omni.ja</code> 内部的文件之后，要【重新打包】该文件。<br/>
 　　对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用命令 <code>zip -qr9XD omni.ja *</code><br/>
 <br/>
 <h3>◇定制“omni.ja”的注意事项</h3><br/>
@@ -237,7 +242,7 @@
 <br/>
 　　<b>第4条</b><br/>
 　　<code>omni.ja</code> 会随着 Firefox 的版本而变化。也就是说，每次有新版本，你还需要在新版本上再修改一次。<br/>
-　　如果结合第3条与第4条，你更应该写一个脚本，帮你自动化完成整个定制流程。<br/>
+　　如果结合第3条与第4条，你更应该写一个脚本，帮你【自动化】完成整个定制流程。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
