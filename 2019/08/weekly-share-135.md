@@ -5,6 +5,8 @@
 <div class="post-body entry-content">
 　　8月5日，香港的“反送中抗议活动”迎来新高潮——全市发起“三罢”（罢工、罢课、罢市）。俺有必要再当一回“搬运工”，让读者（尤其是内地读者）了解香港的情况。<br/>
 　　6月份俺发过两篇关于香港的《每周转载》（链接在“<a href="../../2019/06/weekly-share-132.md">这里</a>”和“<a href="../../2019/06/weekly-share-133.md">这里</a>”）。由于7月份没有发过香港的博文，今天这篇就汇总一下最近一个月的【大事记】。<br/>
+　　<b>事先声明：</b><br/>
+　　由于真理部的严厉审查和舆论导向，在【墙内】只能看到（有利于朝廷的）一面之辞。所以，本文的转载，会更侧重【另一面】之辞。<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★6月份的三位【自杀抗议者】</h2><br/>
@@ -427,7 +429,7 @@
 <center><img alt="不见图 请翻墙" src="images/hkIU-rNi7jJ6TnaacrADPy8YpxxaQx9lK5XMa7cZBIkbsoGCtbAIJH0DxupaQDWew8bB3f1CoNaLKlrPn1kOGoOnFjCQy-u0w9PtFlgqNtOMGGc6lNBZOqzBy1aLy2B97UjCK9FsKtA"/><br/>
 （警方於黃大仙一帶放催淚彈，追打示威者。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8B3P8Df6ZN52kJjJXnP8dChSGj_izaQYEIHujzQTIvqvnIjY4V1hSq4zSOpOSXaBjRzVD-vlEnE82LGYZSJ5D5UK3U_U38Cy2L8MqayLz1eJvjWaiLVMP3fTJtnWhUVuY_suKqtYg68"/><br/>
-（香港网友爆料——防暴警察讲普通话：“同志们...” <a href="https://www.facebook.com/ChanKamShui/videos/717859425321095/?v=717859425321095" rel="nofollow" target="_blank">视频链接</a>）</center><br/>
+（香港网友爆料——防暴警察讲普通话 <a href="https://www.facebook.com/ChanKamShui/videos/717859425321095/?v=717859425321095" rel="nofollow" target="_blank">视频链接</a>）</center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）</a>》<br/>

@@ -111,11 +111,12 @@
 <center><img alt="不见图 请翻墙" src="images/iiz4FRSx4K7UHxqJt5uC4iF3A4z0Be_Db8kO8RZNzKV-b3vp7ImE1tbPjCTapDmDCh2KA19Z_dUdqzUd-mGMcukoJK3HF7m1UJKddODOpev64iBi33M"/></center><center><img alt="不见图 请翻墙" src="images/XCrm4hnR0iqiKOYfvYP_4kBx2hutmsI1ibxSy-eRZL2ehiAYdmsgRVX1v_UHC7ljoNDxgF2dGLh5DsSgaTMEM1vM9eWWIQhn-rRka3aAV6TZu44tYw"/></center><center><img alt="不见图 请翻墙" src="images/PY8tJ3Uld5p0Z6nUYzFBlGMdJbkrNCuRCcRniqoELZyafOMyCmekSFcQk-7tgsJNfWPW6WShFAg6-NCd6yBFHNW7bFRP2haatxcUDVsSrkOcrFqS5Q"/></center><center><img alt="不见图 请翻墙" src="images/F7VOZqNGvFG5iyndRQM4GrLzkNQKmTKaSc5X3am64t9bDXC18rrbTdjpgPZIrAbZGPJXig4YNN31qm6_MHn2uaRhgVjS5OVq-jR2N1uSYuKJPTuYpw"/></center><center><img alt="不见图 请翻墙" src="images/ga7dhlX3VPDZiQiSU-r7V4ilj2292-1Myvl01XVpc6IvCO7rvPexuZUwYlZ8Ce-Q6_k9EzhHPqmiAGe3YpFjcluyZdsriEZ7YLafyeZBo4JlgF_t8p8"/></center><center><img alt="不见图 请翻墙" src="images/pB5U2PIXhWhlNYSwWnr7OKu5wyEpga_K0iRMnzgwkYTo8j6bkQ7rzdXcb3a3o7j7Tkrudsa3PqUcn_9Q7fMdnoJzMGLloL-PsUS5oz9GBcCYX4HtLA4"/></center><center><img alt="不见图 请翻墙" src="images/BOLa9jNADsUjMbsRfkNNvI7gLIwH-iXpZBUxa3zFdITNJ1gDWiatpaCGAuNUi1AwrQsbVgps9kyEUkuQ7AVGcXjLBVaPZmUaJIAqj2D67TLbeIbGSNQ"/></center><center><img alt="不见图 请翻墙" src="images/hA32JG0fRvohgOQU01T3AzOuWDLKZ6_KgUzRS0dEt8JvZ6TKmSTNuqAV1IEUH7U3INPCARCDWUn0wk8Fh4rOKUsYpGH441Gh0XLeS7JjJbmen5ItvbU"/></center><center><img alt="不见图 请翻墙" src="images/AkYInliV2nSVwZ3gJfYbyhLuXHPBaf8daOPShO6iR0Cm6RwL9u5FBgWTLTez3SsAmQcYEfcxMD2Hh6qG2IxphXPCKzhV421cTjTi2jQnubw54ssvmTw"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2019/06/weekly-share-133.md">每周转载：香港“反送中”抗议活动的外媒报道和网友评论（6月16日至6月22日）</a>》<br/>
 《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）</a>》<br/>
-《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
-《<a href="../../2014/10/weekly-share-74.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）</a>》<br/>
+《<a href="../../2019/06/weekly-share-133.md">每周转载：香港“反送中”抗议活动的外媒报道和网友评论（6月16日至6月22日）</a>》<br/>
+《<a href="../../2019/08/weekly-share-135.md">每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</a>》<br/>
 《<a href="../../2014/10/weekly-share-73.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月22日至9月28日）</a>》<br/>
+《<a href="../../2014/10/weekly-share-74.md">每周转载：香港“占中民主运动”的外媒报道和【大量】照片（9月29日至10月2日）</a>》<br/>
+《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
 《<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>
 《<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑——基于【双重思想】的思维控制</a>》<br/>
 《<a href="../../2014/12/brainwash-using-real-data.md">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a>》<br/>
