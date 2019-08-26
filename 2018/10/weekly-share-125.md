@@ -79,8 +79,9 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a>》<br/>
 《<a href="../../2015/07/China-Stock-Market-Reform-or-Lever.md">股市点评：一头伪装成“改革牛”的“杠杆牛”</a>》<br/>
-《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
+《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》<br/>
 《<a href="../../2018/10/weekly-share-126.md">每周转载：汇市的三个咒符（人民币汇率、官方外汇储备、中国持有的美国国债）</a>》<br/>
+《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
 《<a href="../../2019/05/weekly-share-129.md">每周转载：中国智商税简史</a>》
 </div>

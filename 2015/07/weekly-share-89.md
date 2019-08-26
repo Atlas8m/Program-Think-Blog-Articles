@@ -61,7 +61,7 @@
 《<a href="https://cn.nytimes.com/china/20150708/c08db-chinareform/" rel="nofollow" target="_blank">股市大跌可能拖累中国经济改革 @ 纽约时报</a>》<br/>
 <br/>
 <br/>
-<h2>★天朝股市的“掠夺性”本质</h2><br/>
+<h2>★天朝股市的【掠夺性】</h2><br/>
 吴敬琏：<br/>
 中国股市比赌场还不如。因为在中国股市，某些人可以看别人的底牌。<br/>
 （编程随想注：俺在博客评论区多次引用此名言。）<br/>
@@ -844,11 +844,12 @@ lijiansion：<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2015/07/China-Stock-Market-Reform-or-Lever.md">股市点评：一头伪装成“改革牛”的“杠杆牛”</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a><br/>
-<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a><br/>
-<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>
+《<a href="../../2015/07/China-Stock-Market-Reform-or-Lever.md">股市点评：一头伪装成“改革牛”的“杠杆牛”</a>》<br/>
+《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a>》<br/>
+《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
+《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》
 </div>
 
 

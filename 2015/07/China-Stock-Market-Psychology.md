@@ -118,13 +118,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2015/07/China-Stock-Market-Reform-or-Lever.md">股市点评：一头伪装成“改革牛”的“杠杆牛”</a><br/>
-<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a><br/>
-<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a><br/>
-<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待成败的？——兼谈有效归因</a><br/>
-<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a><br/>
-<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a><br/>
-<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>
+《<a href="../../2015/07/China-Stock-Market-Reform-or-Lever.md">股市点评：一头伪装成“改革牛”的“杠杆牛”</a>》<br/>
+《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
+《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>
+《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
+《<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>
+《<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a>》<br/>
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待成败的？——兼谈有效归因</a>》
 </div>
 
 

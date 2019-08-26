@@ -179,10 +179,10 @@
 　　一位将部分厂房出租出去了的老板，在接受记者采访的第二天，就飞往苏北。他的一个朋友在那里搞房地产，他也想参与其中换个出路。他说“现在这么严厉的调控政策，房价还是没见什么跌，房地产的生意怎么也比搞工厂强。”</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2013/03/weekly-share-42.md">每周转载：帮你分析天朝的房地产市场</a><br/>
-<a href="../../2011/11/lang-xianping-speech-in-shenyang.md">解读《郎咸平10月22日在沈阳的演讲》</a>
+《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2013/03/weekly-share-42.md">每周转载：帮你分析天朝的房地产市场</a>》
 </div>
 
 

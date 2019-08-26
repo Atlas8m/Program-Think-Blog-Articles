@@ -452,7 +452,10 @@
 （此图剽窃自维基百科关于“心流”的介绍）</center><br/>
 　　俺想要强调的是——<b>“心流”与兴趣的关系</b>。你对某个领域的兴趣越大，你越有可能在上述模型的两个维度同时达到 high。在【没】兴趣的情况下，或许也能达到心流的状态，但俺认为更【不】容易出现。<br/>
 <br/>
-　　考虑到本文已经很长，关于“心流”就不细聊啦，感兴趣的同学请参见“<a href="https://en.wikipedia.org/wiki/Flow_(psychology)" rel="nofollow" target="_blank">这个链接</a>”。<br/>
+　　引申阅读：<br/>
+　　考虑到本文已经很长，关于“心流”就不细聊啦，感兴趣的同学自己去看如下两本书，其作者就是刚才提到的那位“米哈里·契克森米哈伊”。<br/>
+《<a href="https://docs.google.com/document/d/14kE-1g6W_nyRNHMqV2D5wT0QDNvwb0Nh3WBvswOtz9k/" target="_blank">心流——最优体验心理学</a>》<br/>
+《<a href="https://docs.google.com/document/d/15N_9eg0yIDapSKC6Xff-aYVAEMAH0ShvzZnVcdjNkpk/" target="_blank">发现心流——日常生活中的最优体验 </a>》<br/>
 <br/>
 <h3>◇“兴趣”产生的【良性正反馈】</h3><br/>
 　　前面两个小节分别提到了“多巴胺”和“心流”。这两者东西都有助于【消除认知负担】。<br/>
