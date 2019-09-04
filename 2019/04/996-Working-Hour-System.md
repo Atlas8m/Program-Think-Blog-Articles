@@ -103,7 +103,7 @@
 <br/>
 <h2>★“996工作制”如何影响天朝的人力资源市场？</h2><br/>
 <h3>◇除了“供给和需求”，【博弈】也会影响商品的价格</h3><br/>
-　　早期的经济学理论认为：“价格”完全是由“供给和需求”决定滴。到了20世纪，超级跨界大牛<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC" rel="nofollow" target="_blank">冯·诺依曼</a>与另一个经济学家合写了一篇划时代的论文，指出了【博弈论】对经济学的重要性。关于这事儿，俺在博文《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》一文中也有提及。<br/>
+　　早期的经济学理论认为：“价格”完全是由“供给和需求”决定滴。到了20世纪，超级跨界大牛<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC" rel="nofollow" target="_blank">冯·诺依曼</a>完成了一篇划时代的论文《<a href="https://docs.google.com/document/d/1rV8OFkInke6MJul6uKd8utuDViBJbph11PmpvNMIyCU/" target="_blank">博弈论与经济行为</a>》，指出了【博弈论】对经济学的重要性。关于这事儿，俺在博文《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》一文中也有提及。<br/>
 　　也就是说，不光是商品的“供应量和消费量”会影响商品的价格，供应方和需求方的【博弈】，也会影响商品的价格。<br/>
 　　下面俺来介绍一下：“996工作制”作为【资方】的博弈工具，是如何影响人力资源价格滴。<br/>
 <br/>

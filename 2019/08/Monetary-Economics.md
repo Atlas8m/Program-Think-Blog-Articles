@@ -146,7 +146,7 @@ M2＝M1＋小额定期存款＋储蓄存款与货币市场存款账户＋货币�
 <h3>◇名义利率 VS 实际利率</h3><br/>
 　　刚才对“利率”的讨论，是【不】考虑通胀（通货膨胀）因素滴。这种利率也称为【名义利率】（nominal interest rate）。<br/>
 　　如果考虑了通胀（通货膨胀）因素之后，得出的利率则称为【实际利率】（real interest rate）。<br/>
-　　那么这两者有啥关系捏？经济学大牛“欧文·费雪”（<a href="https://en.wikipedia.org/wiki/Irving_Fisher" rel="nofollow" target="_blank">Irving Fisher</a>）指出：<br/>
+　　那么这两者有啥关系捏？经济学大牛“欧文·费雪”（<a href="https://en.wikipedia.org/wiki/Irving_Fisher" rel="nofollow" target="_blank">Irving Fisher</a>）在《<a href="https://docs.google.com/document/d/1pdXo0_daBfouBy_Xen14ShF2LSQq_3VaDYF6XB0nMGo/" target="_blank">货币购买力</a>》一书中指出：<br/>
 <blockquote style="background-color:#DDD;">实际利率＝名义利率－通胀率</blockquote>　　这就是大名鼎鼎的【费雪方程式】（<a href="https://en.wikipedia.org/wiki/Fisher_equation" rel="nofollow" target="_blank">Fisher Equation</a>）。<br/>
 　　这个方程式告诉大伙儿——如果“通胀率”超过了“名义利率”，那么你在银行中的存款实际上是在【衰减】滴！<br/>
 <br/>

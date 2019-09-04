@@ -765,6 +765,7 @@ FBI 在谭的笔记本电脑上发现一家中国公司的就业协议，该公�
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>

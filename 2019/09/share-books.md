@@ -1,16 +1,18 @@
-# 分享各类电子书（政治、经济、IT 等，56本） 
+# 分享各类电子书（经济、心理学、政治、等，63本） 
 
 -----
 
 <div class="post-body entry-content">
-<hr/><span style="font-weight:bold;font-size:150%;"><br/>
-本文发布于2019年5月，文中的电子书清单已经【不是】最新滴！<br/>
-请猛击如下链接，就可以看到【最新的】电子书清单。<br/>
-<a href="https://github.com/programthink/books" target="_blank">https://github.com/programthink/books</a></span><br/>
-<a name="more"></a><br/>
-<hr/><br/>
-　　又到了分享电子书的时候，这次有56本。考虑到今年是“六四事件”的30周年，俺近期上传了几本“六四”相关的书籍。<br/>
-　　顺便说一下：由于众所周知的原因，每年“六四”纪念日前后，GFW 都会加强封锁；今年是30周年，大伙儿要多备几个翻墙梯子，以防万一。<br/>
+　　又到了分享电子书的时候，本次新增63本。<br/>
+　　话说前不久写的那篇《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》，俺发现关注的人还挺多，所以最近这些天又上传了一些【经济类】方面的书籍。<br/>
+　　另外，【心理学类】最近一年都只有零星的更新，这次也增加了比较多。<br/>
+<br/>
+　　本次更新的电子书，有4本扫描版 PDF【比较大】（大小在 40MB ~ 120 MB 之间）。这几本都已经上传到微软网盘，但还【没】放到 BT sync 的自动同步目录。俺会在未来一两周之内，逐步放到自动同步目录（以避免太过明显的【上行流量】）<br/>
+<blockquote style="background-color:#DDD;">【经济类 / 经济学 / 教材】 斯蒂芬·威廉森：宏观经济学 (第3版 扫描版).pdf<br/>
+【经济类 / 经济学 / 理论】 路德维希·冯·米塞斯：Human Action——A Treatise on Economics (扫描版).pdf<br/>
+【经济类 / 博弈论 / 理论】 约翰·冯·诺伊曼 &amp; 奥斯卡·摩根斯坦：Theory of Games and Economic Behavior (扫描版).pdf<br/>
+【IT类 / 网络 / 分布式 / (综述)】 George Coulouris 等：分布式系统——概念与设计@2013 (第5版 扫描版).pdf</blockquote>　　愿意帮忙的读者，可以从微软网盘下载这4本书，然后放到 BT sync 同步目录的【相同位置】下。那么，当俺在几天之后把这4本书放上 BT sync，（对俺而言）就【不】产生【上行流量】（注：BT sync 在传输之前会预先交换两边文件的哈希值，以判断两边的文件是否已经相同）<br/>
+<br/>
 <br/>
 <h2>★阅读说明</h2><br/>
 　　对于【近期更新】的电子书，为了醒目起见，用<span style="background: LightGreen;">这种颜色</span>表示【新增书籍】；用<span style="background: PowderBlue;">这种颜色</span>表示【补充格式】。<br/>
@@ -32,6 +34,7 @@
 　　微软网盘在墙外，有时候可能会被 GFW 封杀。如果你无法打开微软网盘的页面，【请尝试翻墙】。<br/>
 　　<b>如果打开微软网盘界面，出现错误提示，</b>通常是同时下载的人太多，导致服务器超载。解决方法：耐心等几天，再去下载。<br/>
 　　（每次公布新增电子书，之后的那几天都会出现这个现象；然后就又恢复正常。怀疑是服务器超载）<br/>
+<a name="more"></a><br/>
 <hr/><br/>
 <h2>★政治</h2><br/>
 <b>【网盘】</b><br/>
@@ -128,14 +131,16 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2016-05-14</td><td><a href="https://docs.google.com/document/d/1y0-LP5oyWdGfXPqWDP5W88rENbYIOFt-6xwoTPbVOwo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>自由论<br/>
 <i>其它中文名：</i><br/>
-《自由四论》扩充版</td><td>Four Essays on Liberty</td><td>(英) 以赛亚·伯林</td><td>简体PDF(扫描版)<br/>
+《自由四论》扩充版</td><td>Four Essays on Liberty</td><td>(俄/英) 以赛亚·伯林</td><td>简体PDF(扫描版)<br/>
 英文PDF</td><td>2013-08-22<br/>
 2013-12-15</td><td><a href="https://docs.google.com/document/d/1UjpbcOXKFf8PHyRDZRYzD77Tt6fHdm5FJxc2eeYdqRU/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>自由及其背叛<br/>
 ——人类自由的六个敌人</td><td>Freedom and Its Betrayal<br/>
-——Six Enemies of Human Liberty</td><td>(英) 以赛亚·伯林</td><td>简体PDF(扫描版)</td><td>2014-05-23</td><td><a href="https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>自由与繁荣的国度</td><td>The Free and Prosperous Commonwealth</td><td>(奥地利) 路德维希·冯·米塞斯</td><td>简体PDF<br/>
-简体HTML</td><td>2016-12-23<br/>
+——Six Enemies of Human Liberty</td><td>(俄/英) 以赛亚·伯林</td><td>简体PDF(扫描版)</td><td>2014-05-23</td><td><a href="https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>自由与繁荣的国度</td><td>The Free and Prosperous Commonwealth</td><td>(奥/美) 路德维希·冯·米塞斯</td><td><span style="color:Red;">简体PDF(大字版)</span><br/>
+简体PDF<br/>
+简体HTML</td><td><span style="color:Red;">2019-08-29</span><br/>
+2016-12-23<br/>
 2018-12-04</td><td><a href="https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>正义论</td><td>A Theory of Justice</td><td>(美) 约翰·罗尔斯</td><td>简体EPUB<br/>
 简体MOBI<br/>
@@ -181,6 +186,19 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2015-11-14<br/>
 2015-11-14</td><td><a href="https://docs.google.com/document/d/1Lyn3S8DSAzLLQtE11W2RCRdarlTM9XjAiDmTys7mISA/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<h3>◇政治 / 政治理论 / 保守主义</h3><br/>
+（“<a href="https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E4%B8%BB%E4%B9%89" rel="nofollow" target="_blank">保守主义</a>”与“古典自由主义”存在相当一部分交集；属于两者重叠部分的书，放置到上述“自由主义”分类目录下）<br/>
+<br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:LightGreen;"><td>保守主义思想<br/>
+——从伯克到艾略特<br/>
+<i>其它中文名：</i><br/>
+保守主义思想<br/>
+——从伯克到桑塔亚那<br/>
+保守主义的心灵</td><td>The Conservative Mind<br/>
+——From Burke to Eliot</td><td>(美) 拉塞尔·柯克</td><td><span style="color:Red;">英文PDF(浓缩版)</span></td><td><span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/1kpzHnb7HgSI9R-_VR3d9CvZMpwFxyE2tGmtgzZvc2Lk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>保守主义</td><td>Conservatism</td><td>(英) 休·塞西尔勋爵</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/1fmxkx47yJj8KYLVMVb1Vgu7rOS32n1so2bnCfO-LwNg/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
 <h3>◇政治 / 政治理论 / 资本主义</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>后资本主义社会</td><td>Post-Capitalist Society</td><td>(美) 彼得·德鲁克</td><td>简体PDF(扫描版)</td><td>2018-09-14</td><td><a href="https://docs.google.com/document/d/1Nxsqf02d5uYu8FGn3K9uNJx_D8Ixh7UCmBvqHnd6LB4/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -192,13 +210,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2015-12-13</td><td><a href="https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 政治理论 / 共产主义</h3><br/>
+（本类别主要放置“<a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%80%9D%E5%88%97%E5%AE%81%E4%B8%BB%E4%B9%89" rel="nofollow" target="_blank">马列主义</a>”相关书籍）<br/>
+<br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>大失败<br/>
 ——二十世纪共产主义的兴亡</td><td>The Grand Failure<br/>
-——The Birth and The Death of Communism in the Twentieth Century</td><td>(美) 布热津斯基</td><td>简体PDF(扫描版)</td><td>2012-10-06</td><td><a href="https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>共产主义实录</td><td>Communism<br/>
-——A History</td><td>(美) 理查德·派普斯</td><td>简体PDF</td><td>2012-10-05</td><td><a href="https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>历史决定论的贫困</td><td>The Poverty of Historicism</td><td>(英) 卡尔·波普尔</td><td>简体PDF<br/>
+——The Birth and The Death of Communism in the Twentieth Century</td><td>(波兰/美) 兹比格涅夫·布热津斯基</td><td>简体PDF(扫描版)</td><td>2012-10-06</td><td><a href="https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>历史决定论的贫困<br/>
+<i>其它中文名：</i><br/>
+历史主义的贫困</td><td>The Poverty of Historicism</td><td>(奥/英) 卡尔·波普尔</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体HTML<br/>
 简体MOBI</td><td>2014-07-27<br/>
@@ -210,7 +230,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ——An Analysis of the Communist System</td><td>(南斯拉夫) 密洛凡·德热拉斯</td><td>简体PDF(扫描版)<br/>
 英文PDF(扫描版)</td><td>2012-10-06<br/>
 2018-09-06</td><td><a href="https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>恐怖主义与共产主义</td><td>Terrorism and Communism</td><td>(德) 卡尔·考茨基</td><td>简体PDF</td><td>2013-04-11</td><td><a href="https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>共产主义实录</td><td>Communism<br/>
+——A History</td><td>(美) 理查德·派普斯</td><td>简体PDF</td><td>2012-10-05</td><td><a href="https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>恐怖主义与共产主义</td><td>Terrorism and Communism<br/>
+——A Contribution to the Natural History of Revolution</td><td>(德) 卡尔·考茨基</td><td>简体PDF<br/>
+<span style="color:Red;">英文PDF(扫描版)</span></td><td>2013-04-11<br/>
+<span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>共产主义黑皮书<br/>
 ——罪行、恐怖、镇压</td><td>The Black Book of Communism<br/>
 ——Crimes, Terror, Repression</td><td>(多人)</td><td>英文PDF(扫描版)</td><td>2015-02-17</td><td><a href="https://docs.google.com/document/d/1S78JoconEDBPdi31EDDgNQppoD9tQ-d93_2iziMIKcs/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -220,7 +245,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 </table><br/>
 <h3>◇政治 / 政治理论 / 社会主义</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>通往奴役之路</td><td>The Road to Serfdom</td><td>(英) 弗里德里希·哈耶克</td><td>简体PDF(台湾版)<br/>
+<tr><td>通往奴役之路</td><td>The Road to Serfdom</td><td>(奥/英) 弗里德里希·哈耶克</td><td>简体PDF(台湾版)<br/>
 简体PDF(大字版)<br/>
 简体PDF<br/>
 简体EPUB<br/>
@@ -235,7 +260,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2019-01-04</td><td><a href="https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>致命的自负<br/>
 ——社会主义的谬误</td><td>The Fatal Conceit<br/>
-——The Errors of Socialism</td><td>(英) 弗里德里希·哈耶克</td><td>简体PDF<br/>
+——The Errors of Socialism</td><td>(奥/英) 弗里德里希·哈耶克</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
 简体TXT</td><td>2013-03-24<br/>
@@ -244,42 +269,44 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2016-05-14</td><td><a href="https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>社会主义<br/>
 ——经济与社会学的分析</td><td>Socialism<br/>
-——An Economic and Sociological Analysis</td><td>(奥地利) 路德维希·冯·米塞斯</td><td>简体PDF(扫描版)</td><td>2013-03-31</td><td><a href="https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>社会主义国家的经济计算</td><td>Economic Calculation in the Socialist Commonwealth</td><td>(奥地利) 路德维希·冯·米塞斯</td><td>英文PDF</td><td>2018-09-22</td><td><a href="https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/" rel="nofollow" target="_blank">简介</a></td></tr>
+——An Economic and Sociological Analysis</td><td>(奥/美) 路德维希·冯·米塞斯</td><td>简体PDF(扫描版)</td><td>2013-03-31</td><td><a href="https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>社会主义国家的经济计算</td><td>Economic Calculation in the Socialist Commonwealth</td><td>(奥/美) 路德维希·冯·米塞斯</td><td>英文PDF</td><td>2018-09-22</td><td><a href="https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛津通识读本：社会主义</td><td>Socialism</td><td>Michael Newman</td><td>英文PDF</td><td>2015-12-13</td><td><a href="https://docs.google.com/document/d/16sGEZjHcErdi98gLRhOIcpemi5CGBibxipsdxctHt30/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 政治理论 / 极权主义与威权主义</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>开放社会及其敌人</td><td>The Open Society and Its Enemies</td><td>(英) 卡尔·波普尔</td><td>简体PDF<br/>
+<tr><td>开放社会及其敌人</td><td>The Open Society and Its Enemies</td><td>(奥/英) 卡尔·波普尔</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
 简体PDF(扫描版)</td><td>2012-12-11<br/>
 2013-09-14<br/>
 2018-11-10<br/>
 2017-03-24</td><td><a href="https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>极权主义的起源</td><td>The Origins of Totalitarianism</td><td>(美) 汉娜·阿伦特</td><td>简体PDF<br/>
+<tr style="background:PowderBlue;"><td>极权主义的起源</td><td>The Origins of Totalitarianism</td><td>(德/美) 汉娜·阿伦特</td><td>简体PDF<br/>
 简体CHM<br/>
 简体MOBI<br/>
-简体TXT</td><td>2012-10-06<br/>
+简体TXT<br/>
+<span style="color:Red;">英文PDF(扫描版)</span></td><td>2012-10-06<br/>
 2012-10-14<br/>
 2014-02-23<br/>
-2016-04-29</td><td><a href="https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/" rel="nofollow" target="_blank">简介</a></td></tr>
+2016-04-29<br/>
+<span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>东方专制主义<br/>
 ——对于极权力量的比较研究</td><td>Oriental Despotism<br/>
-——A Comparative Study of Total Power</td><td>(美) 卡尔·魏特夫 (中文名：魏复古)</td><td>简体PDF(扫描版)</td><td>2019-02-25</td><td><a href="https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>极权主义民主的起源</td><td>The Origins of Totalitarian Democracy</td><td>(以色列) 雅各布·塔尔蒙</td><td>简体PDF(扫描版)</td><td>2015-07-14</td><td><a href="https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/" rel="nofollow" target="_blank">简介</a></td></tr>
+——A Comparative Study of Total Power</td><td>(德/美) 卡尔·魏特夫 (中文名：魏复古)</td><td>简体PDF(扫描版)</td><td>2019-02-25</td><td><a href="https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>极权主义民主的起源</td><td>The Origins of Totalitarian Democracy</td><td>(波兰/以色列) 雅各布·塔尔蒙</td><td>简体PDF(扫描版)</td><td>2015-07-14</td><td><a href="https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>威权统治的转型<br/>
 ——关于不确定民主的试探性结论</td><td>Transitions from Authoritarian Rule<br/>
 ——Tentative Conclusions About Uncertain Democracies</td><td>(阿根廷) 吉列尔莫·奥唐奈<br/>
 (美) 菲利普·施密特</td><td>简体PDF(扫描版)</td><td>2013-08-21</td><td><a href="https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>独裁者手册<br/>
+<tr><td>独裁者手册<br/>
 ——为什么恶劣行为总是政治成功的通行证</td><td>The Dictator's Handbook<br/>
 ——Why Bad Behavior is Almost Always Good Politics</td><td>(美) 布鲁诺·德·梅斯奎塔<br/>
 (美) 阿拉斯泰尔·史密斯</td><td>英文PDF(无删节)<br/>
-<span style="color:Red;">简体EPUB(有删节)</span><br/>
-<span style="color:Red;">简体MOBI(有删节)</span></td><td>2018-11-18<br/>
-<span style="color:Red;">2019-03-02</span><br/>
-<span style="color:Red;">2019-03-02</span></td><td><a href="https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/" rel="nofollow" target="_blank">简介</a></td></tr>
+简体EPUB(有删节)<br/>
+简体MOBI(有删节)</td><td>2018-11-18<br/>
+2019-03-02<br/>
+2019-03-02</td><td><a href="https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>新常识<br/>
 ——一党专制的性质与后果</td><td>New Common Sense<br/>
 ——The Nature and Consequences of One-Party Dictatorship</td><td>张雪忠</td><td>简体EPUB(精校版)<br/>
@@ -299,18 +326,20 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2018-12-08<br/>
 2018-11-10<br/>
 2016-04-30</td><td><a href="https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>大棋局<br/>
+<tr style="background:PowderBlue;"><td>大棋局<br/>
 ——美国的首要地位及其地缘战略</td><td>The Grand Chessboard<br/>
-——American Primacy and Its Geostrategic Imperatives</td><td>(美) 布热津斯基</td><td>简体PDF<br/>
+——American Primacy and Its Geostrategic Imperatives</td><td>(波兰/美) 兹比格涅夫·布热津斯基</td><td>简体PDF<br/>
 简体PDF(扫描版)<br/>
 简体TXT<br/>
-简体MOBI</td><td>2013-04-14<br/>
+简体MOBI<br/>
+<span style="color:Red;">英文PDF</span></td><td>2013-04-14<br/>
 2017-02-17<br/>
 2016-04-29<br/>
-2018-11-10</td><td><a href="https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>大外交</td><td>Diplomacy</td><td>(美) 亨利·基辛格</td><td>简体PDF(扫描版)<br/>
-<span style="color:Red;">英文PDF(扫描版)</span></td><td>2014-02-05<br/>
-<span style="color:Red;">2019-05-30</span></td><td><a href="https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/" rel="nofollow" target="_blank">简介</a></td></tr>
+2018-11-10<br/>
+<span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>大外交</td><td>Diplomacy</td><td>(美) 亨利·基辛格</td><td>简体PDF(扫描版)<br/>
+英文PDF(扫描版)</td><td>2014-02-05<br/>
+2019-05-30</td><td><a href="https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>论中国</td><td>On China</td><td>(美) 亨利·基辛格</td><td>简体EPUB<br/>
 简体MOBI<br/>
 英文EPUB</td><td>2014-02-05<br/>
@@ -349,12 +378,18 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ——非暴力抗争一百年</td><td>A Force More Powerful<br/>
 ——A Century of Nonviolent Conflict</td><td>(美) 彼得·阿克曼<br/>
 (美) 杰克·杜瓦尔</td><td>简体MOBI(上下册)</td><td>2013-05-13</td><td><a href="https://docs.google.com/document/d/1yUSLshqbtCIRkqwGQl2AhvmGg0hDA4SeMyyvCSfSSQ4/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>论战略性非暴力冲突<br/>
+<tr style="background:LightGreen;"><td>和平抗议何以有效<br/>
+——非暴力冲突的策略逻辑</td><td>Why Civil Resistance Works<br/>
+——The Strategic Logic of Nonviolent Conflict</td><td>(美) 艾丽卡·切诺韦思<br/>
+(美) 玛丽亚·斯蒂芬</td><td><span style="color:Red;">英文PDF</span><br/>
+<span style="color:Red;">英文EPUB</span></td><td><span style="color:Red;">2019-07-28</span><br/>
+<span style="color:Red;">2019-07-28</span></td><td><a href="https://docs.google.com/document/d/1ZUpDozVWhzJTf9ueTD6ec1nF45POlJBXpEMm_yFrwV8/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>论战略性非暴力冲突<br/>
 ——关于基本原则的思考</td><td>On Strategic Nonviolent Conflict<br/>
 ——Thinking About the Fundamentals</td><td>(美) 罗伯特·赫尔维</td><td>简体PDF<br/>
-<span style="color:Red;">简体EPUB</span><br/>
+简体EPUB<br/>
 英文PDF</td><td>2019-01-02<br/>
-<span style="color:Red;">2019-05-21</span><br/>
+2019-05-21<br/>
 2019-01-02</td><td><a href="https://docs.google.com/document/d/1NrCJAiDH3Hw8mQRAfnBz-jL-KPDsjLEjnEGGx9URNSk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>西方公民不服从的传统</td><td>The Tradition of the Civil Disobedience</td><td>何怀宏 (主编)</td><td>简体PDF(扫描版)</td><td>2016-07-18</td><td><a href="https://docs.google.com/document/d/1-qyH0KvdPSB8uy1dB0oO5KZJCyXeDVi3OfT4tRVr0sc/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -384,9 +419,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 等</td><td>简体PDF(第9版 扫描版)<br/>
 简体PDF(第6版 扫描版)</td><td>2014-02-13<br/>
 2014-02-06</td><td><a href="https://docs.google.com/document/d/199G22A3xpjDMohMkEWN5yC8DVI7NSvhHDbU5PUzQYRA/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>变化社会中的政治秩序</td><td>Political Order in Changing Societies</td><td>(美) 塞缪尔·亨廷顿</td><td>简体PDF(精校版)<br/>
-简体PDF(扫描版)</td><td>2013-10-30<br/>
-2018-12-04</td><td><a href="https://docs.google.com/document/d/1gU__lDhGGu2V1b7OMU1VzKYV3ow7sQWpEH4v9WwuYn4/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>变化社会中的政治秩序</td><td>Political Order in Changing Societies</td><td>(美) 塞缪尔·亨廷顿</td><td>简体PDF(精校版)<br/>
+简体PDF(扫描版)<br/>
+<span style="color:Red;">英文PDF(扫描版)</span></td><td>2013-10-30<br/>
+2018-12-04<br/>
+<span style="color:Red;">2019-08-29</span></td><td><a href="https://docs.google.com/document/d/1gU__lDhGGu2V1b7OMU1VzKYV3ow7sQWpEH4v9WwuYn4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>政治秩序的起源<br/>
 ——从前人类时代到法国大革命</td><td>The Origins of Political Order<br/>
 ——From Prehuman Times to the French Revolution</td><td>(美) 弗朗西斯·福山</td><td>简体PDF(扫描版)<br/>
@@ -394,8 +431,8 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2017-05-01</td><td><a href="https://docs.google.com/document/d/1CG0K1lIPV-huoPE_l4fA2Cg4Pa06irdwLY5Dwi9DpNw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>国家为什么失败<br/>
 ——权力、富裕与贫困的根源</td><td>Why Nations Fail<br/>
-——The Origins of Power, Prosperity, and Poverty</td><td>(美) Daron Acemoglu<br/>
-(美) James Robinson</td><td>简体TXT<br/>
+——The Origins of Power, Prosperity, and Poverty</td><td>(土耳其/美) 德隆·阿西莫格鲁<br/>
+(美) 詹姆斯·罗宾逊</td><td>简体TXT<br/>
 繁體PDF(豎排掃描版)</td><td>2014-03-20<br/>
 2014-03-20</td><td><a href="https://docs.google.com/document/d/1wmUKeF8o35ymc7YIQICzxBVcvJF91YE3ExentaqtiJ0/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>狂热分子<br/>
@@ -451,9 +488,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 2013-10-20<br/>
 2014-02-23<br/>
 2012-01-11</td><td><a href="https://docs.google.com/document/d/1jeeFYsnlXXTvJllbbDN_75N82VHfFtuweuwf4_Rxx4I/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>美丽新世界</td><td>Brave New World</td><td>(英) 奥尔德斯·赫胥黎</td><td>简体EPUB<br/>
+<tr style="background:PowderBlue;"><td>美丽新世界<br/>
+<i>其它中文名：</i><br/>
+美妙的新世界</td><td>Brave New World</td><td>(英) 奥尔德斯·赫胥黎</td><td>简体EPUB<br/>
+<span style="color:Red;">简体HTML</span><br/>
 简体TXT<br/>
 简体MOBI</td><td>2013-09-15<br/>
+<span style="color:Red;">2019-08-23</span><br/>
 2012-10-05<br/>
 2015-02-17</td><td><a href="https://docs.google.com/document/d/1QvZGHM7l_pviOkBwu-Eoux5GEK_H1q8lLY8T7e1JPmg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>我们<br/>
@@ -461,12 +502,12 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 反乌托邦与自由</td><td>We</td><td>(苏) 尤金·扎米亚京</td><td>简体EPUB<br/>
 简体MOBI</td><td>2013-09-15<br/>
 2015-02-17</td><td><a href="https://docs.google.com/document/d/1VO76RE3pXB2BTq39EAXUtaFBBgX2VHoygPZN4hJNwSE/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>严厉的月亮<br/>
+<tr><td>严厉的月亮<br/>
 <i>其它中文名：</i><br/>
 怒月<br/>
-月亮是位严厉的主妇</td><td>The Moon Is a Harsh Mistress</td><td>(美) 罗伯特·海因莱因</td><td><span style="color:Red;">简体EPUB</span><br/>
-<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-03-04</span><br/>
-<span style="color:Red;">2019-03-04</span></td><td><a href="https://docs.google.com/document/d/1M3ZSDc6JF80T7wvfm7L-kpFyTnDds0wJlzc6CT6GQGM/" rel="nofollow" target="_blank">简介</a></td></tr>
+月亮是位严厉的主妇</td><td>The Moon Is a Harsh Mistress</td><td>(美) 罗伯特·海因莱因</td><td>简体EPUB<br/>
+简体MOBI</td><td>2019-03-04<br/>
+2019-03-04</td><td><a href="https://docs.google.com/document/d/1M3ZSDc6JF80T7wvfm7L-kpFyTnDds0wJlzc6CT6GQGM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>云图</td><td>Cloud Atlas</td><td>(英) 大卫·米切尔</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
@@ -532,16 +573,16 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 <h3>◇政治 / 中国 / 中共历史 / 六四事件</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>天安门血腥清场内幕</td><td>N/A</td><td>吴仁华</td><td>繁體PDF</td><td>2012-05-25</td><td><a href="https://docs.google.com/document/d/1oa1eXcbW4cU1bwiMnhH5p05hoeY7gMAtDBS3QJFcTbE/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>人民不会忘记<br/>
+<tr><td>人民不会忘记<br/>
 ——八九民运实录</td><td>People Will Not Forget<br/>
-——A Chronicle by 64 Hong Kong Reporters</td><td>香港记者协会</td><td><span style="color:Red;">繁體HTML</span><br/>
-<a href="http://1989report.hkja.org.hk/site/portal/site.aspx" rel="nofollow" target="_blank">繁體WEB</a></td><td><span style="color:Red;">2019-04-03</span><br/>
+——A Chronicle by 64 Hong Kong Reporters</td><td>香港记者协会</td><td>繁體HTML<br/>
+<a href="http://1989report.hkja.org.hk/site/portal/site.aspx" rel="nofollow" target="_blank">繁體WEB</a></td><td>2019-04-03<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1MM1WDl1CzbRLc7ioU_xYuLW3zyMGv7PduLM6Pjo2iVo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>八九民运史</td><td>The History of the 1989 Tiananmen Square Protests</td><td>陈小雅</td><td>繁體PDF<br/>
 <a href="http://www.64memo.com/b5/4.htm" rel="nofollow" target="_blank">繁體WEB</a></td><td>2014-05-23<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1DbsAJAqJjb_bw22ommgSbVlf4itnXpeBWbRkr8Tw4TU/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>天安门对峙</td><td>Standoff at Tiananmen</td><td>程鹗</td><td><span style="color:Red;">简体TXT</span><br/>
-<a href="https://books.google.com/books?id=qQ9K6IoSLYUC&amp;pg=PR5&amp;source=gbs_selected_page" rel="nofollow" target="_blank">简体WEB</a></td><td><span style="color:Red;">2019-05-20</span><br/>
+<tr><td>天安门对峙</td><td>Standoff at Tiananmen</td><td>程鹗</td><td>简体TXT<br/>
+<a href="https://books.google.com/books?id=qQ9K6IoSLYUC&amp;pg=PR5&amp;source=gbs_selected_page" rel="nofollow" target="_blank">简体WEB</a></td><td>2019-05-20<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1WKB1ajnB1a-mdcLrp3xfVXzeEXKuxrO-tLPrb74Yu8Y/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>天安门文件<br/>
 <i>其它中文名：</i><br/>
@@ -552,10 +593,12 @@ N/A</td><td><a href="https://docs.google.com/document/d/1WKB1ajnB1a-mdcLrp3xfVXz
 ——六四事件全景实录</td><td>The Big Bang of History<br/>
 ——June Fourth Movement Record</td><td>张万舒 (原名：张清海)</td><td>繁體PDF(掃描版)</td><td>2017-04-29</td><td><a href="https://docs.google.com/document/d/116NfvgxihQSKm0CI-56NWbKqIeg6iJXridMTOrsutoA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>八九天安门事件大事记</td><td>N/A</td><td>吴仁华</td><td>简体PDF</td><td>2012-05-25</td><td><a href="https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>广场活碑<br/>
-——一个香港女记者眼中的六四血光</td><td>N/A</td><td>蔡淑芳</td><td>简体PDF</td><td>2014-05-23</td><td><a href="https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>血洗京华实录<br/>
-——香港文汇报1989年特刊</td><td>N/A</td><td>香港《文汇报》</td><td><span style="color:Red;">繁體PDF(掃描版)</span></td><td><span style="color:Red;">2019-04-03</span></td><td><a href="https://docs.google.com/document/d/14XXBwvlDnNGBx2QR7D0xHvGUQl1OUJgS8EINF_N32ZM/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>广场活碑<br/>
+——一个香港女记者眼中的六四血光</td><td>N/A</td><td>蔡淑芳</td><td>繁體PDF<br/>
+<span style="color:Red;">繁體TXT</span></td><td>2014-05-23<br/>
+<span style="color:Red;">2019-06-04</span></td><td><a href="https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>血洗京华实录<br/>
+——香港文汇报1989年特刊</td><td>N/A</td><td>香港《文汇报》</td><td>繁體PDF(掃描版)</td><td>2019-04-03</td><td><a href="https://docs.google.com/document/d/14XXBwvlDnNGBx2QR7D0xHvGUQl1OUJgS8EINF_N32ZM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>中国民运反思</td><td>N/A</td><td>胡平</td><td>简体PDF<br/>
 简体TXT<br/>
 <a href="http://www.64memo.com/b5/48.htm" rel="nofollow" target="_blank">繁體WEB</a></td><td>2013-05-01<br/>
@@ -564,8 +607,8 @@ N/A</td><td><a href="https://docs.google.com/document/d/15mmH_jERdMEeIS7yXyJtboR
 <tr><td>天安门的力量<br/>
 ——国家-社会关系与1989学生运动</td><td>The Power of Tiananmen<br/>
 ——State-Society Relations and the 1989 Beijing Student Movement</td><td>赵鼎新</td><td>繁體PDF(掃描版)</td><td>2012-12-26</td><td><a href="https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>回顾与反思<br/>
-——六四流亡学生17人</td><td>N/A</td><td>(多人)</td><td><span style="color:Red;">繁體PDF</span></td><td><span style="color:Red;">2019-04-03</span></td><td><a href="https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>回顾与反思<br/>
+——六四流亡学生17人</td><td>N/A</td><td>(多人)</td><td>繁體PDF</td><td>2019-04-03</td><td><a href="https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>末日幸存者的独白<br/>
 ——关于我和“六四”</td><td>N/A</td><td>刘晓波</td><td>繁體PDF(掃描版)</td><td>2014-05-23</td><td><a href="https://docs.google.com/document/d/1fDfjG47LZ3y1RtDKAPvGHbtLrhOYzgJwshupswgVq5s/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>六四日记<br/>
@@ -577,8 +620,8 @@ N/A</td><td><a href="https://docs.google.com/document/d/15mmH_jERdMEeIS7yXyJtboR
 繁體DOCX</td><td>2014-03-29<br/>
 2018-11-10<br/>
 2013-11-26</td><td><a href="https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>逃亡者</td><td>Escape From China<br/>
-——The Long Journey from Tiananmen to Freedom</td><td>张伯笠</td><td><span style="color:Red;">简体TXT(缺最后2章)</span></td><td><span style="color:Red;">2019-05-20</span></td><td><a href="https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>逃亡者</td><td>Escape From China<br/>
+——The Long Journey from Tiananmen to Freedom</td><td>张伯笠</td><td>简体TXT(缺最后2章)</td><td>2019-05-20</td><td><a href="https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>铭记天安门</td><td>Remembering Tiananmen Square</td><td>(英) Robin Munro</td><td>简体PDF<br/>
 <a href="https://www.thenation.com/article/remembering-tiananmen-square/" rel="nofollow" target="_blank">英文WEB</a></td><td>2012-05-25<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -636,14 +679,18 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 丁东<br/>
 徐友渔</td><td>简体PDF(扫描版)</td><td>2013-03-16</td><td><a href="https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛鬼蛇神录<br/>
-——文革囚禁中的精灵</td><td>The Captive Spirits</td><td>杨小凯 (原名：杨羲光)</td><td>简体PDF</td><td>2012-12-09</td><td><a href="https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/" rel="nofollow" target="_blank">简介</a></td></tr>
+——文革囚禁中的精灵</td><td>The Captive Spirits</td><td>(中/澳大利亚) 杨小凯 (原名：杨羲光)</td><td>简体PDF</td><td>2012-12-09</td><td><a href="https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>1966<br/>
 ——我们那一代的回忆</td><td>N/A</td><td>徐友渔 (主编)</td><td>简体PDF(扫描版)</td><td>2017-08-13</td><td><a href="https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>上海生死劫<br/>
+<tr style="background:PowderBlue;"><td>上海生死劫<br/>
 <i>其它中文名：</i><br/>
 上海生与死</td><td>Life and Death in Shanghai</td><td>郑念 (原名：姚念媛)</td><td>简体EPUB<br/>
-简体PDF(扫描版)</td><td>2017-05-06<br/>
-2013-05-30</td><td><a href="https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/" rel="nofollow" target="_blank">简介</a></td></tr>
+简体PDF(扫描版)<br/>
+<span style="color:Red;">英文EPUB</span><br/>
+<span style="color:Red;">英文MOBI</span></td><td>2017-05-06<br/>
+2013-05-30<br/>
+<span style="color:Red;">2019-07-26</span><br/>
+<span style="color:Red;">2019-07-26</span></td><td><a href="https://docs.google.com/document/d/1N1A7xvuycblUNxMXsLRpdkY3-uelzDdD8S6jl15L8Go/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>劫后长忆<br/>
 ——十年动乱纪事</td><td>N/A</td><td>穆欣 (原名：杜蓬莱)</td><td>繁體PDF(豎排掃描版)</td><td>2019-02-04</td><td><a href="https://docs.google.com/document/d/1kio78z1JUCfwM2Sn-Dx_4iEdIPtthLwel5JlOPepFmw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>中国的眸子</td><td>N/A</td><td>胡平 (与民运人士胡平同名)</td><td>简体PDF(扫描版)</td><td>2013-03-31</td><td><a href="https://docs.google.com/document/d/1-FALFKfgUe6A5gVBR25z7lQfroqakweXWO-FFBAwVvo/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -824,8 +871,8 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 <h3>◇政治 / 中国 / 政治人物 / 共产党</h3><br/>
 <h3>◇政治 / 中国 / 政治人物 / 共产党 / 陈独秀</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:LightGreen;"><td>陈独秀的最后见解<br/>
-——论文和书信</td><td>陈独秀</td><td><span style="color:Red;">繁體PDF(竪排掃描版)</span></td><td><span style="color:Red;">2019-05-19</span></td><td><a href="https://docs.google.com/document/d/1quapB2yVXeIeMVOxSB4AMulUgBCdF87_7Jr5776p8Kc/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>陈独秀的最后见解<br/>
+——论文和书信</td><td>陈独秀</td><td>繁體PDF(竪排掃描版)</td><td>2019-05-19</td><td><a href="https://docs.google.com/document/d/1quapB2yVXeIeMVOxSB4AMulUgBCdF87_7Jr5776p8Kc/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>陈独秀与莫斯科的恩恩怨怨</td><td>姚金果</td><td>简体PDF(扫描版)</td><td>2017-08-13</td><td><a href="https://docs.google.com/document/d/1kpiEC9KmnF_bR6huRWmG-2JNe7LX3qlExGiVb4uZGj0/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 中国 / 政治人物 / 共产党 / 毛泽东</h3><br/>
@@ -896,6 +943,7 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 </table><br/>
 <h3>◇政治 / 中国 / 政治人物 / 共产党 / (其他)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:LightGreen;"><td>多余的话</td><td>N/A</td><td>瞿秋白 (原名：瞿懋淼)</td><td><span style="color:Red;">繁體TXT</span></td><td><span style="color:Red;">2019-08-23</span></td><td><a href="https://docs.google.com/document/d/1_P-_0-frKD6bamEWOaBsJuYbWFMWbBWCooFidGOHukg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>林彪浮沉录</td><td>The rise and fall of Lin Piao</td><td>(荷) 雅普·冯·吉内肯</td><td>简体PDF(扫描版)</td><td>2013-05-19</td><td><a href="https://docs.google.com/document/d/1Cq7X3ixWjC6iZGEzpy4cnuO5INnz7kg8tSrnqxxthWo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>我的回忆</td><td>N/A</td><td>张国焘</td><td>简体PDF</td><td>2012-10-26</td><td><a href="https://docs.google.com/document/d/19LnCJZgkhMt5JKcenPPaLLKCEPQhW0Lg778SOBw8hUU/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>杨尚昆日记</td><td>N/A</td><td>杨尚昆</td><td>简体PDF(扫描版)</td><td>2017-08-13</td><td><a href="https://docs.google.com/document/d/1c5_0O9YZ446p8Cdz6vlRKC_KTPg-MnqRNXG1M6yfACg/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -908,19 +956,40 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 <tr><td>邱会作回忆录</td><td>N/A</td><td>邱会作</td><td>简体EPUB</td><td>2014-03-29</td><td><a href="https://docs.google.com/document/d/1VNpf8W0bPsWXtHiFiBpXXiBptlkegLitPnXOYxM2YFU/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 中国 / 政治人物 / 国民党</h3><br/>
+<h3>◇政治 / 中国 / 政治人物 / 国民党 / 蒋中正</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>蒋中正思想言论总集</td><td>N/A</td><td>蒋中正</td><td>繁體CHM</td><td>2015-02-08</td><td><a href="https://docs.google.com/document/d/186_5s7cGfLSBDXFqni3K9IgRSJ8SSURFuenNgpUgRdk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>蒋介石传</td><td>The Man Who Lost China<br/>
+——The First Full Biography of Chiang Kai-shek</td><td>(美) 布赖恩·克罗泽</td><td><span style="color:Red;">简体EPUB</span></td><td><span style="color:Red;">2019-08-23</span></td><td><a href="https://docs.google.com/document/d/1TuZUsT-vbwow1n7i-MzGBirjB6L5KSO2dqsiWb30M0U/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
+<h3>◇政治 / 中国 / 政治人物 / 国民党 / 蒋经国</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>蒋经国自述</td><td>N/A</td><td>蒋经国</td><td>简体PDF</td><td>2015-02-09</td><td><a href="https://docs.google.com/document/d/1Uf7alDv5QDkdclr0VenGURv1NY8w8L8Hb5AtzHEXd8w/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>我在苏联的生活</td><td>N/A</td><td>蒋经国</td><td>繁體PDF(竪排掃描版)</td><td>2015-07-17</td><td><a href="https://docs.google.com/document/d/10mjAay4yrgXRONbTzEPrCytN4xW-50fYE9MHoPbSnp0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>蒋经国传</td><td>Biography of Chiang Ching-Kuo</td><td>江南 (原名：刘宜良)</td><td>简体EPUB<br/>
+<tr><td>蒋经国传</td><td>Biography of Chiang Ching-Kuo</td><td>(中/美) 江南 (原名：刘宜良)</td><td>简体EPUB<br/>
 简体PDF(扫描版)<br/>
 简体TXT</td><td>2017-05-06<br/>
 2015-11-21<br/>
 2016-05-01</td><td><a href="https://docs.google.com/document/d/1WbtfIqf5JaHeFYHltCQ2BFUB_KcR97N6IK-bI1rWW0I/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
+<h3>◇政治 / 中国 / 政治人物 / 国民党 / (其他)</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>胡汉民自传</td><td>N/A</td><td>胡汉民</td><td>繁體DJVU(竪排掃描版)</td><td>2015-07-16</td><td><a href="https://docs.google.com/document/d/1Qwj6kbAo2KknFR-IrGhZ1N1wXNCNjGSpKjpcViCaYIw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>李宗仁回忆录</td><td>Memoirs of Li Zongren</td><td>李宗仁 (口述)<br/>
+(中/美) 唐德刚 (整理)</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-08-23</span><br/>
+<span style="color:Red;">2019-08-23</span></td><td><a href="https://docs.google.com/document/d/1rzkS83xuJNc1mHBuUg9DE095ZRYZVxWYF2HlsrLv6bk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>张学良口述历史</td><td>N/A</td><td>张学良 (口述)<br/>
+(中/美) 唐德刚 (整理)</td><td>简体PDF(扫描版)<br/>
+简体EPUB<br/>
+简体MOBI</td><td>2015-01-07<br/>
+2015-05-11<br/>
+2015-05-11</td><td><a href="https://docs.google.com/document/d/1fTJaiojKIIdSMzieMU1V3eVBQG4AxecmkXZliFwZGoU/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>白崇禧回忆录</td><td>N/A</td><td>白崇禧</td><td>简体PDF(扫描版)</td><td>2015-07-16</td><td><a href="https://docs.google.com/document/d/1BHJMOBh26G2_FgueFTmPmR2r40-2KLvTkOyzkO7zMy4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>成败之鉴<br/>
 ——陈立夫回忆录</td><td>N/A</td><td>陈立夫</td><td>繁體PDF(竪排掃描版)</td><td>2015-07-16</td><td><a href="https://docs.google.com/document/d/1k4W_4ncI1O9Z5yrJEn8RTcf8KmuY3qSw1lnp2ZNGfZM/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>旷世风雷一梦痕<br/>
+——九十年人生经历见证</td><td>N/A</td><td>王思诚</td><td>繁體PDF(竪排掃描版)</td><td>2013-07-07</td><td><a href="https://docs.google.com/document/d/1U-Q2c63auRmYj7xD7HRZ2Q6WBCcWeav-0kTqph1mbus/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 中国 / 政治人物 / 太子党关系网络</h3><br/>
 这是俺花了不少时间整理的，包括十多张详细的网状图，涵盖几百个权贵家族。<br/>
@@ -1273,7 +1342,7 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 </table><br/>
 <h3>◇政治 / 苏联 / 政治人物 / 勃列日涅夫</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:LightGreen;"><td>勃列日涅夫的力量和弱点</td><td>The Power and Powerlessness of Brezhnev</td><td>(俄) 阿卜杜拉赫曼·阿夫托尔汉诺夫</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-05-27</span></td><td><a href="https://docs.google.com/document/d/1KUvfGXjijh9RxQlLAAxK0BePeTqD9Suikui6ERht1kI/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>勃列日涅夫的力量和弱点</td><td>The Power and Powerlessness of Brezhnev</td><td>(俄) 阿卜杜拉赫曼·阿夫托尔汉诺夫</td><td>简体PDF(扫描版)</td><td>2019-05-27</td><td><a href="https://docs.google.com/document/d/1KUvfGXjijh9RxQlLAAxK0BePeTqD9Suikui6ERht1kI/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>走近衰亡<br/>
 ——苏联勃列日涅夫时期研究</td><td>N/A</td><td>陆南泉</td><td>简体PDF(扫描版)</td><td>2016-12-08</td><td><a href="https://docs.google.com/document/d/1Ihl8Uw6IW6RtsvviOmoqncVIToqHBSEXBH48qqekMkA/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -1328,13 +1397,13 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw
 等</td><td>简体PDF(上中下 扫描版)</td><td>2013-01-01</td><td><a href="https://docs.google.com/document/d/1K54A5nD5MVza4anh1IR66Bx62GMpk5iHKeYSuKZLwWk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>苏联的心灵<br/>
 ——共产主义时代的俄国文化</td><td>The Soviet Mind<br/>
-——Russian Culture under Communism</td><td>(英) 以赛亚·伯林</td><td>简体PDF(扫描版)</td><td>2013-08-21</td><td><a href="https://docs.google.com/document/d/1XAiAtPnr-HkFh2Rh1NFAWUQZwrUA19wK4QfleOeik_8/" rel="nofollow" target="_blank">简介</a></td></tr>
+——Russian Culture under Communism</td><td>(俄/英) 以赛亚·伯林</td><td>简体PDF(扫描版)</td><td>2013-08-21</td><td><a href="https://docs.google.com/document/d/1XAiAtPnr-HkFh2Rh1NFAWUQZwrUA19wK4QfleOeik_8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>访苏归来<br/>
 <i>其它中文名：</i><br/>
 从苏联归来</td><td>Return From The USSR</td><td>(法) 安德烈·纪德</td><td>英文PDF(扫描版)</td><td>2019-02-08</td><td><a href="https://docs.google.com/document/d/10V7nWhWPw08KoQFMhC7z3FZzmAq6aGKXGHh8zJEgNBo/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>莫斯科日记<br/>
+<tr><td>莫斯科日记<br/>
 <i>其它中文名：</i><br/>
-我和妻子的苏联之行</td><td>N/A</td><td>(法) 罗曼·罗兰</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-05-18</span></td><td><a href="https://docs.google.com/document/d/1FUagwwWR_kF2hfM_VFZlDHuoqjEhsWuJnLD-u-srtAM/" rel="nofollow" target="_blank">简介</a></td></tr>
+我和妻子的苏联之行</td><td>N/A</td><td>(法) 罗曼·罗兰</td><td>简体PDF(扫描版)</td><td>2019-05-18</td><td><a href="https://docs.google.com/document/d/1FUagwwWR_kF2hfM_VFZlDHuoqjEhsWuJnLD-u-srtAM/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇政治 / 英国</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -1424,15 +1493,38 @@ Philippe Grangereau</td><td>繁體EPUB</td><td>2014-06-22</td><td><a href="https
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!761" rel="nofollow" target="_blank">微软网盘</a><br/>
 BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法，参见页面开头的“网盘下载须知”）<br/>
 <br/>
+<h3>◇心理学 / 通俗读物</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:PowderBlue;"><td>这才是心理学<br/>
+——看穿伪心理学的本质<br/>
+<i>其它中文名：</i><br/>
+与众不同的心理学<br/>
+——如何正视心理学<br/>
+对“伪心理学”说不</td><td>How to Think Straight about Psychology</td><td>(加) 基思·斯坦诺维奇</td><td><span style="color:Red;">简体PDF(第10版 大字版)</span><br/>
+简体PDF(第8版 扫描版)<br/>
+简体EPUB(第8版)<br/>
+简体MOBI(第8版)<br/>
+简体PDF(第7版 扫描版)</td><td><span style="color:Red;">2019-09-03</span><br/>
+2015-05-11<br/>
+2015-02-16<br/>
+2015-02-16<br/>
+2012-12-29</td><td><a href="https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>牛津通识读本：生活中的心理学</td><td>Psychology</td><td>(英) 吉莉恩·巴特勒<br/>
+(英) 弗雷达·麦克马纳斯</td><td>简体EPUB(第1版)<br/>
+简体AZW3(第1版)</td><td>2015-12-14<br/>
+2015-12-14</td><td><a href="https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
 <h3>◇心理学 / 认知心理学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>学会提问<br/>
+<tr style="background:PowderBlue;"><td>学会提问<br/>
 ——批判性思维指南</td><td>Asking the Right Questions<br/>
 ——A Guide to Critical Thinking</td><td>(美) 尼尔·布朗<br/>
-(美) 斯图尔特·基利</td><td>简体PDF(第7版)<br/>
+(美) 斯图尔特·基利</td><td><span style="color:Red;">简体PDF(第10版 扫描版)</span><br/>
+简体PDF(第7版)<br/>
 简体EPUB(第7版)<br/>
 简体MOBI(第7版)<br/>
-英文PDF(第8版)</td><td>2012-01-20<br/>
+英文PDF(第8版)</td><td><span style="color:Red;">2019-08-21</span><br/>
+2012-01-20<br/>
 2013-09-13<br/>
 2015-11-14<br/>
 2012-01-20</td><td><a href="https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -1446,38 +1538,66 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 2013-09-13<br/>
 2014-02-23<br/>
 2012-12-29</td><td><a href="https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>无从选择<br/>
-——为何多即是少</td><td>The Paradox of Choice<br/>
-——Why More Is Less</td><td>(美) 巴里·施瓦茨</td><td>简体PDF(扫描版)<br/>
-英文PDF</td><td>2012-12-29<br/>
-2012-12-29</td><td><a href="https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>思考，快与慢<br/>
 <i>其它中文名：</i><br/>
-快思慢想</td><td>Thinking, Fast and Slow</td><td>(美) 丹尼尔·卡尼曼</td><td>简体EPUB<br/>
+快思慢想</td><td>Thinking, Fast and Slow</td><td>(以色列/美) 丹尼尔·卡尼曼</td><td>简体EPUB<br/>
 简体MOBI<br/>
 简体TXT</td><td>2015-11-10<br/>
 2014-07-15<br/>
 2016-05-15</td><td><a href="https://docs.google.com/document/d/1qZ7DGoMepUsoZPPHMgdR2dd2FOLKsvSEYO1vmio0894/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>超越智商<br/>
+——为什么聪明人也会做蠢事</td><td>What Intelligence Tests Miss<br/>
+——The Psychology of Rational Thought</td><td>(加) 基思·斯坦诺维奇</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-09-03</span><br/>
+<span style="color:Red;">2019-09-03</span></td><td><a href="https://docs.google.com/document/d/13j-DGxvZY_C083_nF8ZveaE5UDWzeTI9T3CbTpSlAEo/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>无从选择<br/>
+——为何多即是少<br/>
+<i>其它中文名：</i><br/>
+选择的悖论<br/>
+——用心理学解读人的经济行为</td><td>The Paradox of Choice<br/>
+——Why More Is Less</td><td>(美) 巴里·施瓦茨</td><td><span style="color:Red;">简体PDF(大字版)</span><br/>
+简体PDF(扫描版)<br/>
+英文PDF</td><td><span style="color:Red;">2019-09-03</span><br/>
+2012-12-29<br/>
+2012-12-29</td><td><a href="https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>清醒思考的艺术（上篇）、明智行动的艺术（下篇）</td><td>The Art of Thinking Clearly</td><td>(瑞士) 罗尔夫·多贝里</td><td>简体PDF(上篇 扫描版)<br/>
+简体EPUB (上篇 插图版)<br/>
+简体EPUB (下篇 插图版)<br/>
+简体MOBI (下篇 插图版)<br/>
+英文PDF<br/>
+英文EPUB</td><td>2014-07-15<br/>
+2015-12-01<br/>
+2019-04-20<br/>
+2019-04-20<br/>
+2015-11-13<br/>
+2015-11-13</td><td><a href="https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>怪诞行为学1<br/>
+——可预测的非理性</td><td>Predictably Irrational<br/>
+——The Hidden Forces That Shape Our Decisions</td><td>(美) 丹·艾瑞里</td><td>简体PDF(扫描版)<br/>
+简体EPUB</td><td>2014-07-27<br/>
+2015-01-07</td><td><a href="https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>怪诞行为学2<br/>
+——非理性的积极力量</td><td>The Upside of Irrationality<br/>
+——The Unexpected Benefits of Defying Logic at Work and at Home</td><td>(美) 丹·艾瑞里</td><td>简体EPUB</td><td>2015-01-07</td><td><a href="https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>浅薄<br/>
 ——互联网如何毒化我们的大脑</td><td>The Shallows<br/>
 ——What the Internet Is Doing to Our Brains</td><td>(美) 尼古拉斯·卡尔</td><td>简体PDF<br/>
 简体MOBI</td><td>2015-02-23<br/>
 2015-11-14</td><td><a href="https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>心流<br/>
+——最优体验心理学</td><td>Flow<br/>
+——The Psychology of Optimal Experience</td><td>(意/美) 米哈里·契克森米哈伊</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-08-19</span><br/>
+<span style="color:Red;">2019-08-19</span></td><td><a href="https://docs.google.com/document/d/14kE-1g6W_nyRNHMqV2D5wT0QDNvwb0Nh3WBvswOtz9k/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>发现心流<br/>
+——日常生活中的最优体验</td><td>Finding Flow<br/>
+——The Psychology of Engagement with Everyday Life</td><td>(意/美) 米哈里·契克森米哈伊</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-08-19</span><br/>
+<span style="color:Red;">2019-08-19</span></td><td><a href="https://docs.google.com/document/d/15N_9eg0yIDapSKC6Xff-aYVAEMAH0ShvzZnVcdjNkpk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>粘住<br/>
 ——为什么我们记住了这些，忘掉了那些？</td><td>Made to Stick<br/>
 ——Why Some Ideas Survive and Others Die?</td><td>(美) 奇普·希思<br/>
 (美) 丹·希思</td><td>简体PDF(扫描版)</td><td>2018-11-11</td><td><a href="https://docs.google.com/document/d/1ASqBoMKG-WNtWGzU6DeiAaK3ngegAw9Ex0URrQI6ouw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>清醒思考的艺术（上篇）、明智行动的艺术（下篇）</td><td>The Art of Thinking Clearly</td><td>(瑞士) 罗尔夫·多贝里</td><td>简体PDF(上篇 扫描版)<br/>
-简体EPUB (上篇 插图版)<br/>
-<span style="color:Red;">简体EPUB (下篇 插图版)</span><br/>
-<span style="color:Red;">简体MOBI (下篇 插图版)</span><br/>
-英文PDF<br/>
-英文EPUB</td><td>2014-07-15<br/>
-2015-12-01<br/>
-<span style="color:Red;">2019-04-20</span><br/>
-<span style="color:Red;">2019-04-20</span><br/>
-2015-11-13<br/>
-2015-11-13</td><td><a href="https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>统计陷阱<br/>
 <i>其它中文名：</i><br/>
 统计数字会撒谎</td><td>How to Lie with Statistics</td><td>(美) 达莱尔·哈夫</td><td>简体PDF<br/>
@@ -1486,6 +1606,17 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 </table><br/>
 <h3>◇心理学 / 人格心理学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:PowderBlue;"><td>动机与人格</td><td>Motivation and Personality</td><td>(美) 亚伯拉罕·马斯洛</td><td>简体EPUB<br/>
+简体MOBI<br/>
+简体PDF(扫描版)<br/>
+<span style="color:Red;">英文PDF</span></td><td>2013-09-13<br/>
+2018-11-11<br/>
+2012-12-29<br/>
+<span style="color:Red;">2019-08-21</span></td><td><a href="https://docs.google.com/document/d/1_1dx0RWO2LToiOq-wiLb-NEibyKEqjVYFkTIa0TotXA/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>自卑与超越</td><td>What Life Could Mean to You<br/>
+——The Psychology of Personal Development</td><td>(奥) 阿尔弗雷德·阿德勒</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span></td><td><span style="color:Red;">2019-08-22</span><br/>
+<span style="color:Red;">2019-08-22</span></td><td><a href="https://docs.google.com/document/d/1e6Emphy_AQOr1UbKj_EwjheXUZYbj18WYZYFV8Lj4TI/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>少有人走的路<br/>
 ——心智成熟的旅程</td><td>The Road Less Traveled<br/>
 ——A New Psychology of Love, Traditional Values and Spiritual Growth</td><td>(美) 斯科特·派克</td><td>简体PDF(扫描版)<br/>
@@ -1497,39 +1628,40 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 2014-02-23<br/>
 2012-06-29<br/>
 2013-04-14</td><td><a href="https://docs.google.com/document/d/1_7nGbugGR_q9np92sNAyZz8HkhaFYv8oxmTcVUlx8tc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>动机与人格</td><td>Motivation and Personality</td><td>(美) 亚伯拉罕·马斯洛</td><td>简体EPUB<br/>
-简体MOBI<br/>
-简体PDF(扫描版)</td><td>2013-09-13<br/>
-2018-11-11<br/>
-2012-12-29</td><td><a href="https://docs.google.com/document/d/1_1dx0RWO2LToiOq-wiLb-NEibyKEqjVYFkTIa0TotXA/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>自控力</td><td>The Willpower Instinct</td><td>(美) 凯利·麦格尼格尔</td><td><span style="color:Red;">简体EPUB</span></td><td><span style="color:Red;">2019-08-19</span></td><td><a href="https://docs.google.com/document/d/1yvlW7b3QGjeievN4T18GFPAFJnS2C93g4CA1JN-mgGw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>人的潜能和价值<br/>
 ——人本主义心理学译文集</td><td>N/A</td><td>(多人)</td><td>简体PDF(扫描版)</td><td>2013-02-05</td><td><a href="https://docs.google.com/document/d/1sb99Ki-mLGMpAN7Btams8wkgZrEfysHpzC8Ku_I6s3w/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>身份的焦虑</td><td>Status Anxiety</td><td>(瑞士) 阿兰·德波顿</td><td>简体PDF(扫描版)</td><td>2014-07-15</td><td><a href="https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>梦的解析<br/>
 <i>其它中文名：</i><br/>
-释梦</td><td>The Interpretation of Dreams</td><td>(奥) 弗洛伊德</td><td>简体PDF<br/>
-英文PDF<br/>
-简体TXT</td><td>2012-12-29<br/>
-2013-04-14<br/>
-2016-05-16</td><td><a href="https://docs.google.com/document/d/1uLmFeP0iJqHL8CCANEX1Ekc1c35sA0o2h5lTd4RRdm0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>精神分析引论</td><td>A General Introduction to Psychoanalysis</td><td>(奥) 弗洛伊德</td><td>简体PDF<br/>
+释梦</td><td>The Interpretation of Dreams</td><td>(奥) 西格蒙德·弗洛伊德</td><td>简体PDF<br/>
+简体TXT<br/>
+英文PDF</td><td>2012-12-29<br/>
+2016-05-16<br/>
+2013-04-14</td><td><a href="https://docs.google.com/document/d/1uLmFeP0iJqHL8CCANEX1Ekc1c35sA0o2h5lTd4RRdm0/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>精神分析引论</td><td>A General Introduction to Psychoanalysis</td><td>(奥) 西格蒙德·弗洛伊德</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体TXT</td><td>2012-12-29<br/>
 2013-04-16<br/>
 2016-05-02</td><td><a href="https://docs.google.com/document/d/1MuDmFvH0JEUogX-wqugOA29NTX2QrPlcxxA95gREOg0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>身份的焦虑</td><td>Status Anxiety</td><td>(瑞士) 阿兰·德波顿</td><td>简体PDF(扫描版)</td><td>2014-07-15</td><td><a href="https://docs.google.com/document/d/1liTbpjbXqip4ADsxMUx8tuNBFrlOdGYOTaY6Xp9sI-w/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>心灵的面具<br/>
+——101种心理防御</td><td>101 Defenses<br/>
+——How the Mind Shields Itself</td><td>(美) 杰瑞姆·布莱克曼</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-08-22</span></td><td><a href="https://docs.google.com/document/d/1KhMtgUj6ymRU-R88KfmE0dwyJsi2Ilatcx2YdublIl0/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇心理学 / 社会心理学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>社会性动物</td><td>The Social Animal</td><td>(美) 埃利奥特·阿伦森</td><td>简体PDF<br/>
-简体MOBI<br/>
-简体TXT</td><td>2014-01-09<br/>
+<tr style="background:PowderBlue;"><td>社会性动物</td><td>The Social Animal</td><td>(美) 埃利奥特·阿伦森</td><td>简体PDF(第8版)<br/>
+<span style="color:Red;">简体EPUB(第8版)</span><br/>
+简体MOBI(第8版)<br/>
+简体TXT(第8版)</td><td>2014-01-09<br/>
+<span style="color:Red;">2019-08-21</span><br/>
 2014-02-23<br/>
 2016-05-01</td><td><a href="https://docs.google.com/document/d/1--Nf8FL9_erC8hvxkiMRNcWrrFuZI-a-jrPhUbLVs-8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>乌合之众<br/>
+<tr style="background:PowderBlue;"><td>乌合之众<br/>
 ——大众心理研究</td><td>The Crowd<br/>
-——A Study of the Popular Mind</td><td>(法) 古斯塔夫·勒庞</td><td>简体PDF(扫描版)<br/>
+——A Study of the Popular Mind</td><td>(法) 古斯塔夫·勒庞</td><td><span style="color:Red;">简体PDF(扫描版)</span><br/>
 简体MOBI<br/>
-简体TXT</td><td>2012-12-29<br/>
+简体TXT</td><td><span style="color:Red;">2019-07-16</span><br/>
 2014-02-23<br/>
 2016-05-16</td><td><a href="https://docs.google.com/document/d/1DFBGB6tMhSQvFRmQFDip2MCSR5lVjW97S_3hKtlBdgc/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>路西法效应<br/>
@@ -1542,13 +1674,15 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 </table><br/>
 <h3>◇心理学 / 性心理学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:LightGreen;"><td>性心理学</td><td>Psychology of Sex<br/>
+——A Manual for Students</td><td>(英) 哈维洛克·艾利斯 (旧译名：霭理士)</td><td><span style="color:Red;">简体TXT</span></td><td><span style="color:Red;">2019-08-22</span></td><td><a href="https://docs.google.com/document/d/1Xqt95V3jIZ-EkpxK-ZrlK3TBOPXmlpxHP5rY_oFqJVw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>男人来自火星，女人来自金星</td><td>Men Are from Mars, Women Are from Venus</td><td>(美) 约翰·格雷</td><td>简体PDF(扫描版)</td><td>2018-09-09</td><td><a href="https://docs.google.com/document/d/17uDOlccJ6NmpeRVKvXPNDWUv2h9V_PRrVEZTqlwZy2A/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇心理学 / 教育心理学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>正面管教</td><td>Positive Discipline</td><td>(美) 简·尼尔森</td><td>简体PDF</td><td>2014-02-11</td><td><a href="https://docs.google.com/document/d/1Ntc0DAi-IUFHrJfLuUyFY39MkWLrmsu5dUZzcyLBXs8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>家庭会伤人<br/>
-——自我重生的新契机</td><td>The Family<br/>
+——自我重生的新契机</td><td>Bradshaw on the Family<br/>
 ——A Revolutionary Way of Self Discovery</td><td>(美) 约翰·布雷萧</td><td>简体PDF(扫描版)</td><td>2014-07-15</td><td><a href="https://docs.google.com/document/d/13o9sJjREEJ-29uBWujsi95gItgqfxoiQJj7O3LesG_w/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇心理学 / 进化心理学</h3><br/>
@@ -1575,15 +1709,16 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 2013-03-17</td><td><a href="https://docs.google.com/document/d/1e3sPkvj-Bgcwv5JuWBbxVjAkH6c2Kv9RWmxM_aq3Yn0/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>思想改造和极权主义心理学<br/>
 ——中国的洗脑研究</td><td>Thought Reform and the Psychology of Totalism<br/>
-——A Study of Brainwashing in China</td><td>(美) Robert Jay Lifton</td><td>英文MOBI</td><td>2012-10-14</td><td><a href="https://docs.google.com/document/d/1KOzO7CYayT_8k4FPTvKtv637Kb6mTC8WPXZ72hFWGWo/" rel="nofollow" target="_blank">简介</a></td></tr>
+——A Study of Brainwashing in China</td><td>(美) 罗伯特·利夫顿</td><td>英文MOBI</td><td>2012-10-14</td><td><a href="https://docs.google.com/document/d/1KOzO7CYayT_8k4FPTvKtv637Kb6mTC8WPXZ72hFWGWo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>洗脑<br/>
 ——思维控制的科学<br/>
 <i>其它中文名：</i><br/>
 洗脑心理学</td><td>Brainwashing<br/>
-——The Science of Thought Control</td><td>(英) Kathleen Taylor</td><td>简体PDF(扫描版)<br/>
+——The Science of Thought Control</td><td>(英) 凯瑟琳·泰勒</td><td>简体PDF(扫描版)<br/>
 英文PDF</td><td>2015-07-12<br/>
 2012-10-14</td><td><a href="https://docs.google.com/document/d/1AK7JmkpAbpulCy6GJslKHUNWmYMyWPwf10RPsCFLMJk/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>洗脑的历史</td><td>N/A</td><td>傅志彬</td><td>简体PDF<br/>
+<tr><td>洗脑的历史<br/>
+——祸害世界三千年的极端思想控制术解析</td><td>N/A</td><td>傅志彬</td><td>简体PDF<br/>
 简体PDF(扫描版)</td><td>2015-02-15<br/>
 2015-05-11</td><td><a href="https://docs.google.com/document/d/1EBhr7WjholDkf3Aji9azaVmSrIaoPPZiEv25tJmlNlU/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -1594,33 +1729,11 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 <tr><td>审讯与反审讯文章汇集</td><td>(热心读者)</td><td>简体TXT</td><td>2014-07-28</td><td><a href="https://docs.google.com/document/d/1MgzYbvtTnvdceP6mEUFHYoJCyrLc8ffHlm2KoIDOA9M/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇心理学 / (其它)</h3><br/>
-<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>与众不同的心理学<br/>
-——如何正视心理学<br/>
-<i>其它中文名：</i><br/>
-对“伪心理学”说不</td><td>How to Think Straight about Psychology</td><td>(加) Keith Stanovich</td><td>简体PDF(第8版 扫描版)<br/>
-简体PDF(第7版 扫描版)<br/>
-简体EPUB(第8版)<br/>
-简体MOBI(第8版)</td><td>2015-05-11<br/>
-2012-12-29<br/>
-2015-02-16<br/>
-2015-02-16</td><td><a href="https://docs.google.com/document/d/16-GOAoIar2zpwGwsWq0vl_0wbsnehoWYgz2srYGgzzY/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>怪诞行为学<br/>
-——可预测的非理性</td><td>Predictably Irrational<br/>
-——The Hidden Forces That Shape Our Decisions</td><td>(美) 丹·艾瑞里</td><td>简体PDF(扫描版)<br/>
-简体EPUB</td><td>2014-07-27<br/>
-2015-01-07</td><td><a href="https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>怪诞行为学2<br/>
-——非理性的积极力量</td><td>The Upside of Irrationality<br/>
-——The Unexpected Benefits of Defying Logic at Work and at Home</td><td>(美) 丹·艾瑞里</td><td>简体EPUB</td><td>2015-01-07</td><td><a href="https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>牛津通识读本：生活中的心理学</td><td>Psychology</td><td>Gillian Butler<br/>
-Freda McManus</td><td>简体EPUB<br/>
-简体AZW3</td><td>2015-12-14<br/>
-2015-12-14</td><td><a href="https://docs.google.com/document/d/10YN1eJndOQSLdQtE7pGkwxINbupWEuIu0Gwd2rWhDZU/" rel="nofollow" target="_blank">简介</a></td></tr>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>如何变得有思想<br/>
-——阮一峰博文集</td><td>N/A</td><td>阮一峰</td><td>简体EPUB</td><td>2015-05-12</td><td><a href="https://docs.google.com/document/d/13ObaY3VcPmHwHE5PmYXlDrvKOlUVYv6JDBpV-_hbiQ8/" rel="nofollow" target="_blank">简介</a></td></tr>
+——阮一峰博文集</td><td>阮一峰</td><td>简体EPUB</td><td>2015-05-12</td><td><a href="https://docs.google.com/document/d/13ObaY3VcPmHwHE5PmYXlDrvKOlUVYv6JDBpV-_hbiQ8/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
-<hr><h2>★历史</h2><br/>
+<hr/><h2>★历史</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!997" rel="nofollow" target="_blank">微软网盘</a><br/>
 BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法，参见页面开头的“网盘下载须知”）<br/>
@@ -1705,21 +1818,23 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 简体HTML</td><td>2013-09-13<br/>
 2018-11-10<br/>
 2018-08-08</td><td><a href="https://docs.google.com/document/d/1ppk-ESfUzOhJ2JG4gnKNiIBe7XH8_Mn-8lcmXzea6Zk/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>中国历代政治得失</td><td>N/A</td><td>钱穆</td><td>简体EPUB<br/>
+<tr style="background:PowderBlue;"><td>中国历代政治得失</td><td>N/A</td><td>钱穆</td><td>简体EPUB<br/>
 简体MOBI<br/>
+<span style="color:Red;">简体PDF(扫描版)</span><br/>
 简体TXT</td><td>2013-09-14<br/>
 2018-12-08<br/>
+<span style="color:Red;">2019-08-18</span><br/>
 2013-08-22</td><td><a href="https://docs.google.com/document/d/1VICCzIRbJr8kyEd9-db53_GOlpVmodVJfmqXe7vOjzA/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>中国大历史</td><td>China<br/>
-——A Macro History</td><td>(美) 黄仁宇</td><td>简体PDF<br/>
-<span style="color:Red;">简体PDF(大字版)</span><br/>
-<span style="color:Red;">简体MOBI</span></td><td>2013-02-05<br/>
-<span style="color:Red;">2019-05-23</span><br/>
-<span style="color:Red;">2019-05-23</span></td><td><a href="https://docs.google.com/document/d/1Btw6HQ1bQBCtlM2-6mNgZY2WZcGtU1FoNT5k3EyGLDI/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>万历十五年</td><td>1587, A Year Of No Significance</td><td>(美) 黄仁宇</td><td>简体PDF<br/>
-<span style="color:Red;">简体PDF(大字版)</span><br/>
+<tr><td>中国大历史</td><td>China<br/>
+——A Macro History</td><td>(中/美) 黄仁宇</td><td>简体PDF<br/>
+简体PDF(大字版)<br/>
+简体MOBI</td><td>2013-02-05<br/>
+2019-05-23<br/>
+2019-05-23</td><td><a href="https://docs.google.com/document/d/1Btw6HQ1bQBCtlM2-6mNgZY2WZcGtU1FoNT5k3EyGLDI/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>万历十五年</td><td>1587, A Year Of No Significance</td><td>(中/美) 黄仁宇</td><td>简体PDF<br/>
+简体PDF(大字版)<br/>
 简体TXT</td><td>2014-01-08<br/>
-<span style="color:Red;">2019-05-23</span><br/>
+2019-05-23<br/>
 2016-05-17</td><td><a href="https://docs.google.com/document/d/1QZqXBv7vh1LkB7DCJ5BgSFKAH9xW1uM4Hyqle2CugRI/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>潜规则<br/>
 ——中国历史中的真实游戏</td><td>N/A</td><td>吴思</td><td>简体PDF<br/>
@@ -1742,9 +1857,11 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 刘青峰</td><td>简体PDF<br/>
 简体HTML</td><td>2013-02-07<br/>
 2017-08-14</td><td><a href="https://docs.google.com/document/d/1iO1zpYh2hpCIY1PfWyUBwxYqn7Onbvjjif1YiL1NCgc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>赫逊河畔谈中国历史</td><td>Conversation on Chinese History by the Hudson River</td><td>(美) 黄仁宇</td><td>简体HTML<br/>
-简体TXT</td><td>2018-08-08<br/>
-2016-05-20</td><td><a href="https://docs.google.com/document/d/1IFd0_ayU8TgUwOFVXGQgerJqEWAR8XIHhJiDYVAk_88/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>赫逊河畔谈中国历史</td><td>Conversation on Chinese History by the Hudson River</td><td>(中/美) 黄仁宇</td><td>简体HTML<br/>
+简体TXT<br/>
+<span style="color:Red;">繁體MOBI</span></td><td>2018-08-08<br/>
+2016-05-20<br/>
+<span style="color:Red;">2019-08-23</span></td><td><a href="https://docs.google.com/document/d/1IFd0_ayU8TgUwOFVXGQgerJqEWAR8XIHhJiDYVAk_88/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>明朝那些事</td><td>N/A</td><td>当年明月 (原名：石悦)</td><td>简体PDF<br/>
 简体PDF(大字版)<br/>
 简体EPUB<br/>
@@ -1760,8 +1877,12 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 <tr><td>中国近代史</td><td>The Rise of Modern China</td><td>徐中约</td><td>简体PDF(上下)<br/>
 简体EPUB</td><td>2013-03-22<br/>
 2013-09-13</td><td><a href="https://docs.google.com/document/d/1RVggCvxZ51pB64nSJLAzQKLIYOrWIN6fWSa88UBsgcY/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>停滞的帝国<br/>
-——两个世界的撞击</td><td>The Immobile Empire</td><td>(法) Alain Peyrefitte</td><td>简体PDF(扫描版)</td><td>2014-05-23</td><td><a href="https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>停滞的帝国<br/>
+——两个世界的撞击</td><td>The Immobile Empire</td><td>(法) 阿兰·佩雷菲特</td><td><span style="color:Red;">简体EPUB</span><br/>
+<span style="color:Red;">简体MOBI</span><br/>
+简体PDF(扫描版)</td><td><span style="color:Red;">2019-07-17</span><br/>
+<span style="color:Red;">2019-07-17</span><br/>
+2014-05-23</td><td><a href="https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>追寻现代中国</td><td>The Search for Modern China</td><td>(美) Jonathan Spence (中文名：史景迁)</td><td>繁體PDF<br/>
 简体EPUB<br/>
 简体PDF</td><td>2014-06-22<br/>
@@ -1770,10 +1891,12 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 <tr><td>论中国<br/>
 ——中国新史</td><td>China<br/>
 ——A New History</td><td>(美) 费正清</td><td>繁體PDF(竪排掃描版)</td><td>2015-02-08</td><td><a href="https://docs.google.com/document/d/1Ammd-CQdUzB0rgLYBHWfRsO2dCvV71cyJosYJZF2w94/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>晚清七十年</td><td>The Final Seventy Years of Qing Dynasty</td><td>(美) 唐德刚</td><td>简体MOBI<br/>
+<tr style="background:PowderBlue;"><td>晚清七十年</td><td>The Final Seventy Years of Qing Dynasty</td><td>(中/美) 唐德刚</td><td><span style="color:Red;">简体PDF(大字版)</span><br/>
 繁體EPUB<br/>
-繁體MOBI</td><td>2018-08-08<br/>
+简体MOBI<br/>
+繁體MOBI</td><td><span style="color:Red;">2019-08-23</span><br/>
 2019-01-05<br/>
+2018-08-08<br/>
 2019-01-05</td><td><a href="https://docs.google.com/document/d/1a-ZDC8JA-eYNDkg0QI1ekBQZmYp53eBHfGKZzYR_3pY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>帝国落日<br/>
 ——晚清大变局</td><td>N/A</td><td>袁伟时</td><td>简体TXT</td><td>2016-05-16</td><td><a href="https://docs.google.com/document/d/19nD189Suaxm-Mkei_X8M90u-cVpp1oGaMXYjJuEasqI/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -1788,7 +1911,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 <tr><td>五四新论<br/>
 ——既非文艺复兴，亦非启蒙运动</td><td>N/A</td><td>(美) 余英时<br/>
 等</td><td>简体PDF(扫描版)</td><td>2017-05-06</td><td><a href="https://docs.google.com/document/d/1VvU2Kub7R73TbiX2hsX4LloOVQPcRCMBj39NkSpEDb4/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>袁氏当国</td><td>N/A</td><td>(美) 唐德刚</td><td>简体PDF(扫描版)<br/>
+<tr><td>袁氏当国</td><td>N/A</td><td>(中/美) 唐德刚</td><td>简体PDF(扫描版)<br/>
 简体MOBI<br/>
 简体TXT</td><td>2015-02-09<br/>
 2015-02-09<br/>
@@ -1810,14 +1933,6 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 (英) 埃德蒙德·贝克豪斯爵士</td><td>简体PDF(扫描版)</td><td>2017-08-15</td><td><a href="https://docs.google.com/document/d/1OgWwwgKWBdhWW18irp4sJsRNaWy_kCP3RCjEW-KIszo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>重返五四现场<br/>
 ——1919，一个国家的青春记忆</td><td>N/A</td><td>叶曙明</td><td>简体PDF(扫描版)</td><td>2013-05-01</td><td><a href="https://docs.google.com/document/d/1eUnBmx88G_byvv-Byu_m8e6P9GU04uVB_-uxu15w4gw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>张学良口述历史</td><td>N/A</td><td>张学良 (口述)<br/>
-(美) 唐德刚 (整理)</td><td>简体PDF(扫描版)<br/>
-简体EPUB<br/>
-简体MOBI</td><td>2015-01-07<br/>
-2015-05-11<br/>
-2015-05-11</td><td><a href="https://docs.google.com/document/d/1fTJaiojKIIdSMzieMU1V3eVBQG4AxecmkXZliFwZGoU/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>旷世风雷一梦痕<br/>
-——九十年人生经历见证</td><td>N/A</td><td>王思诚</td><td>繁體PDF(竪排掃描版)</td><td>2013-07-07</td><td><a href="https://docs.google.com/document/d/1U-Q2c63auRmYj7xD7HRZ2Q6WBCcWeav-0kTqph1mbus/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇历史 / 中国 / 丛书</h3><br/>
 <h3>◇历史 / 中国 / 丛书 / 剑桥中国史</h3><br/>
@@ -1841,9 +1956,11 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 （与古希腊的战争相关的书籍，放在【军事类 / 古代军事史 / 古希腊】分类目录下）<br/>
 <br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>希腊城邦制度<br/>
+<tr style="background:PowderBlue;"><td>希腊城邦制度<br/>
 ——读希腊史笔记</td><td>N/A</td><td>顾准</td><td>简体PDF<br/>
+<span style="color:Red;">简体PDF(扫描版)</span><br/>
 简体MOBI</td><td>2013-02-07<br/>
+<span style="color:Red;">2019-08-18</span><br/>
 2015-02-13</td><td><a href="https://docs.google.com/document/d/15Rc3KZKlgewwGrzkR-Ig3E1KCuMGL-tClQKVM1j3jMo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>爱琴海沿岸的奇异王国</td><td>Wondrous Realms of the Aegean</td><td>(美) 戴尔·布朗</td><td>简体PDF(扫描版)</td><td>2015-11-03</td><td><a href="https://docs.google.com/document/d/1Pv3n0D9aand8LU3-2bjjiAxYd3Plt9e2uoRKODOE3z8/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -1897,6 +2014,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 (英) Colin Matthew</td><td>英文PDF</td><td>2015-12-15</td><td><a href="https://docs.google.com/document/d/1eAolgNZIm9Mq8ZZygzwEab5dE7cQ1wVxhmwGWfTW5b8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛津通识读本：二十世纪的英国</td><td>Twentieth-Century Britain</td><td>(英) Kenneth Morgan</td><td>英文PDF</td><td>2015-12-15</td><td><a href="https://docs.google.com/document/d/1B7GkPDXhLlIe9rIE9-T8GwZbRVIvtPNpHp5BPz2XRxM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛津通识读本：诺曼征服</td><td>The Norman Conquest</td><td>(英) George Garnett</td><td>英文PDF</td><td>2016-12-16</td><td><a href="https://docs.google.com/document/d/1ym_MaiOID1XywlSDHdCP6N0lsuzD600fOUu8JRSRI1M/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>从旧帝国到新帝国<br/>
+——1783~1815年英帝国史纲要</td><td>N/A</td><td>郭家宏</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-08-24</span></td><td><a href="https://docs.google.com/document/d/1BAHRNmQzlEP68KQREo1pu8ddzFM2DilBmG_VWrRaur8/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇历史 / 法国</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -1906,16 +2025,18 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 </table><br/>
 <h3>◇历史 / 德国</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>第三帝国的兴亡</td><td>The Rise and Fall of the Third Reich<br/>
+<tr style="background:PowderBlue;"><td>第三帝国的兴亡</td><td>The Rise and Fall of the Third Reich<br/>
 ——A History of Nazi Germany</td><td>(美) 威廉·夏伊勒</td><td>简体PDF(上中下)<br/>
 简体EPUB<br/>
 简体MOBI<br/>
 简体TXT<br/>
-英文PDF</td><td>2013-02-22<br/>
+英文PDF<br/>
+<span style="color:Red;">英文EPUB</span></td><td>2013-02-22<br/>
 2013-09-13<br/>
 2015-02-08<br/>
 2016-05-01<br/>
-2018-08-08</td><td><a href="https://docs.google.com/document/d/195hZEzm2Q4mzSEhWgJNyOVA_AQ-T1xZoRuQcje0jQBQ/" rel="nofollow" target="_blank">简介</a></td></tr>
+2018-08-08<br/>
+<span style="color:Red;">2019-08-24</span></td><td><a href="https://docs.google.com/document/d/195hZEzm2Q4mzSEhWgJNyOVA_AQ-T1xZoRuQcje0jQBQ/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>纳粹德国<br/>
 ——一部新的历史</td><td>Nazi Germany<br/>
 ——A New History</td><td>(德) 克劳斯·费舍尔</td><td>简体PDF(扫描版)</td><td>2017-08-17</td><td><a href="https://docs.google.com/document/d/1XeSMLHauWpiIqjW9Dz1mJCHzWvhwJl-y9LB4agkI86U/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -1924,7 +2045,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 ——Plunder, Racial War, and the Nazi Welfare State</td><td>(德) 格茨·阿利</td><td>简体PDF(扫描版)</td><td>2013-08-21</td><td><a href="https://docs.google.com/document/d/1FAPteLhYwkcQHDT_l45rT5QPNhTHETLsogqDLpj9r8I/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>希特勒的土地<br/>
 ——美国人亲历的纳粹疯狂之路</td><td>Hitlerland<br/>
-——American Eyewitnesses to the Nazi Rise to Power</td><td>(美) Andrew Nagorski</td><td>英文EPUB<br/>
+——American Eyewitnesses to the Nazi Rise to Power</td><td>(美) 安德鲁·纳戈尔斯基</td><td>英文EPUB<br/>
 英文MOBI</td><td>2015-02-09<br/>
 2015-02-09</td><td><a href="https://docs.google.com/document/d/1FH1c44Tht3cgoMrp-CtGbH6Xi9rPxSWZYXN5D9H6tH4/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -1934,7 +2055,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 ——第二次世界大战后的日本</td><td>Embracing Defeat<br/>
 ——Japan in the Wake of World War II</td><td>(美) 约翰·道尔</td><td>简体PDF(扫描版)</td><td>2017-08-14</td><td><a href="https://docs.google.com/document/d/1XQzW-hur8gIaC-f0AB5fN4h7EJxL8pF5AXWdx9hE4Mo/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
-<hr><h2>★经济</h2><br/>
+<hr/><h2>★经济</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!998" rel="nofollow" target="_blank">微软网盘</a><br/>
 BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法，参见页面开头的“网盘下载须知”）<br/>
@@ -1953,16 +2074,26 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 2015-02-14<br/>
 2015-02-14<br/>
 2016-05-02</td><td><a href="https://docs.google.com/document/d/1WerDbX5HjqFI4-rtwiIKSEEdSCM3QxEtwkn3BSLr15k/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>宏观经济学</td><td>Macroeconomics</td><td>(德) 鲁迪格·多恩布什</td><td>简体PDF(第7版 扫描版)</td><td>2015-07-12</td><td><a href="https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>宏观经济学</td><td>Macroeconomics</td><td>(德) 鲁迪格·多恩布什<br/>
+(美) 斯坦利·费希尔<br/>
+(美) 理查德·斯塔兹</td><td>简体PDF(第7版 扫描版)</td><td>2015-07-12</td><td><a href="https://docs.google.com/document/d/1I83iQ9dclfm4uIMYXnkLfnh35GPW2yWoxbQUY742few/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>宏观经济学<br/>
+<i>其它中文名：</i><br/>
+威廉森宏观经济学</td><td>Macroeconomics</td><td>(加) 斯蒂芬·威廉森</td><td><span style="color:Red;">简体PDF(第3版 扫描版)</span></td><td><span style="color:Red;">2019-09-03</span></td><td><a href="https://docs.google.com/document/d/1Hzprj4Hh3mDC99_8xmgaOtxqExPF-92QauVk2RrRrws/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>高级宏观经济学</td><td>Advanced Macroeconomics</td><td>(美) 戴维·罗默</td><td>简体PDF(第2版 扫描版)<br/>
 英文PDF(第1版 扫描版)</td><td>2014-07-15<br/>
 2018-06-23</td><td><a href="https://docs.google.com/document/d/16GzZseyAoy5zr4zziDYi5ux2dAlBPIaJ8_4cSs6OKPo/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>中级微观经济学<br/>
-——现代观点</td><td>Intermediate Microeconomics<br/>
+——现代观点<br/>
+<i>其它中文名：</i><br/>
+范里安微观经济学</td><td>Intermediate Microeconomics<br/>
 ——A Modern Approach</td><td>(美) 哈尔·范里安</td><td>简体PDF(第8版)<br/>
 英文PDF(第8版)</td><td>2015-07-12<br/>
 2018-06-23</td><td><a href="https://docs.google.com/document/d/1aTlOHjB3fnEmazZ6j37_HY4fSLsUpPRaLUbnhCtGPvE/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>微观经济分析</td><td>Microeconomic Analysis</td><td>(美) 哈尔·范里安</td><td>简体PDF(第3版)</td><td>2014-07-15</td><td><a href="https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>微观经济分析</td><td>Microeconomic Analysis</td><td>(美) 哈尔·范里安</td><td>简体PDF(第3版)<br/>
+<span style="color:Red;">英文PDF(第3版 扫描版)</span></td><td>2014-07-15<br/>
+<span style="color:Red;">2019-08-30</span></td><td><a href="https://docs.google.com/document/d/1LIdHnkOE3Nir9U5wHyY6yPa200OZmylVsejkwuD88bw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>经济学原理</td><td>N/A</td><td>(中/澳大利亚) 杨小凯 (原名：杨羲光)</td><td>简体PDF(扫描版)</td><td>2015-07-12</td><td><a href="https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇经济 / 经济学 / 理论</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -1975,26 +2106,28 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 2018-12-08<br/>
 2015-02-14<br/>
 2016-05-15</td><td><a href="https://docs.google.com/document/d/1uRlISjTaReYfoLzMlnQV3dY3ZDE4BF1CWt06A1rQYhU/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>就业、利息和货币通论</td><td>The General Theory of Employment, Interest, and Money</td><td>(美) 约翰·梅纳德·凯恩斯</td><td>简体PDF<br/>
+<tr><td>就业、利息和货币通论</td><td>The General Theory of Employment, Interest and Money</td><td>(英) 约翰·梅纳德·凯恩斯</td><td>简体PDF<br/>
 简体MOBI</td><td>2014-02-22<br/>
 2015-02-14</td><td><a href="https://docs.google.com/document/d/1IFz770UZNyiVDPnwTCej3o-uIvOv33JvZ1vzKtUKW9Y/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr style="background:PowderBlue;"><td>人的行为<br/>
 ——经济学专论<br/>
 <i>其它中文名：</i><br/>
 人类行为的经济学分析</td><td>Human Action<br/>
-——A Treatise on Economics</td><td>(奥) 路德维希·冯·米塞斯</td><td><span style="color:Red;">繁體PDF(掃描版)</span><br/>
-英文EPUB</td><td><span style="color:Red;">2019-04-15</span><br/>
-2018-09-15</td><td><a href="https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>个人主义与经济秩序</td><td>Individualism and Economic Order</td><td>(英) 弗里德里希·哈耶克</td><td>简体PDF<br/>
+——A Treatise on Economics</td><td>(奥/美) 路德维希·冯·米塞斯</td><td>繁體PDF(掃描版)<br/>
+英文EPUB<br/>
+<span style="color:Red;">英文PDF(扫描版)</span></td><td>2019-04-15<br/>
+2018-09-15<br/>
+<span style="color:Red;">2019-08-18</span></td><td><a href="https://docs.google.com/document/d/1SoD0lCENOGExibp1v7ZcMpAcXREbf4MPGn5c9QGd02g/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>个人主义与经济秩序</td><td>Individualism and Economic Order</td><td>(奥/英) 弗里德里希·哈耶克</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI</td><td>2013-04-10<br/>
 2013-09-13<br/>
 2015-02-14</td><td><a href="https://docs.google.com/document/d/1n7pZ8RhkgfqAsNctjBw7Lu0IK_6w_V7MehA_mzcGtk0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>经济发展理论</td><td>The Theory of Economic Development</td><td>(奥) 约瑟夫·熊彼特</td><td>简体TXT</td><td>2016-05-17</td><td><a href="https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>企业的性质<br/>
+<tr><td>经济发展理论</td><td>The Theory of Economic Development</td><td>(奥/美) 约瑟夫·熊彼特</td><td>简体TXT</td><td>2016-05-17</td><td><a href="https://docs.google.com/document/d/1k9rBue4fNR0XQ-vmZD2NzpVMbA6Jm7gXd0H5IB9kyCk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>企业的性质<br/>
 <i>其它中文名：</i><br/>
-公司的本质</td><td>The Nature of the Firm</td><td>(英) 罗纳德·科斯</td><td><span style="color:Red;">简体PDF</span><br/>
-英文PDF</td><td><span style="color:Red;">2019-04-17</span><br/>
+公司的本质</td><td>The Nature of the Firm</td><td>(英) 罗纳德·科斯</td><td>简体PDF<br/>
+英文PDF</td><td>2019-04-17<br/>
 2018-09-18</td><td><a href="https://docs.google.com/document/d/1z589Ha_g1SpmRmp033pSjhfCHzs2PbpnSSZfPHaSdhg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>社会成本问题</td><td>The Problem of Social Cost</td><td>(英) 罗纳德·科斯</td><td>英文PDF(扫描版)</td><td>2018-09-19</td><td><a href="https://docs.google.com/document/d/1xx1cswtt6pznijDGdoFf9p-NP99Mb1VTY8Z-F_Gnu_g/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>市场经济<br/>
@@ -2003,48 +2136,59 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 (美) 德威特·李</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/16DAGRW_d0jMAeUBH_rCYaRZ7AbkfKjkgJoqnbx-SXZ4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>以自由看待发展</td><td>Development as Freedom</td><td>(印度) 阿马蒂亚·森</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1wADMOFG37vsLWRDca-QSVgOrGrJEh8e4fKHTNgWcbOY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>短缺经济学</td><td>Economics of Shortage</td><td>(匈) 雅诺什·科尔奈</td><td>简体PDF(扫描版)</td><td>2015-01-11</td><td><a href="https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>经济学原理</td><td>N/A</td><td>杨小凯 (原名：杨羲光)</td><td>简体PDF(扫描版)</td><td>2015-07-12</td><td><a href="https://docs.google.com/document/d/1APvnZGLvlghqKLFfpLvKVzeKJAX9doFuw8r0gn2rTXc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>经济学原理<br/>
+<tr style="background:LightGreen;"><td>货币购买力<br/>
+——其决定因素及其与信贷、利息和危机的关系</td><td>The Purchasing Power of Money<br/>
+——Its Determination and Relation to Credit, Interest and Crises</td><td>(美) 欧文·费雪</td><td><span style="color:Red;">英文PDF</span></td><td><span style="color:Red;">2019-08-30</span></td><td><a href="https://docs.google.com/document/d/1pdXo0_daBfouBy_Xen14ShF2LSQq_3VaDYF6XB0nMGo/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>利息与价格</td><td>Interest and Prices</td><td>(瑞典) 克努特·维克塞尔</td><td>英文PDF(扫描版)<br/>
+英文EPUB</td><td>2018-09-19<br/>
+2019-05-02</td><td><a href="https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>资本与利息</td><td>Capital and Interest</td><td>(奥) 欧根·冯·庞巴维克</td><td>繁體PDF(第1卷 掃描版)<br/>
+英文EPUB(第1卷)</td><td>2018-09-05<br/>
+2019-05-02</td><td><a href="https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>自然价值</td><td>Natural Value</td><td>(奥) 弗里德里希·冯·维塞尔</td><td><span style="color:Red;">简体PDF</span><br/>
+英文PDF<br/>
+英文HTML</td><td><span style="color:Red;">2019-08-18</span><br/>
+2018-09-15<br/>
+2019-05-02</td><td><a href="https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>经济学原理<br/>
 <i>其它中文名：</i><br/>
 国民经济学原理</td><td>Principles of Economics</td><td>(奥) 卡尔·门格尔</td><td>简体PDF(扫描版)<br/>
 英文PDF<br/>
-<span style="color:Red;">英文EPUB</span></td><td>2018-09-15<br/>
+英文EPUB</td><td>2018-09-15<br/>
 2018-09-15<br/>
-<span style="color:Red;">2019-05-02</span></td><td><a href="https://docs.google.com/document/d/1AEyTYHEzJVi2o4aZvCbxCeKbep68MXHKjA5NTzCqrMY/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>自然价值</td><td>Natural Value</td><td>(奥) 弗里德里希·冯·维塞尔</td><td>英文PDF<br/>
-<span style="color:Red;">英文HTML</span></td><td>2018-09-15<br/>
-<span style="color:Red;">2019-05-02</span></td><td><a href="https://docs.google.com/document/d/1Gpjhx1X6tvsm0qy-BeiFIrnX-wTpUw9IMgx6Hcf1I0I/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>资本与利息</td><td>Capital and Interest</td><td>(奥) 欧根·冯·庞巴维克</td><td>繁體PDF(第1卷 掃描版)<br/>
-<span style="color:Red;">英文EPUB(第1卷)</span></td><td>2018-09-05<br/>
-<span style="color:Red;">2019-05-02</span></td><td><a href="https://docs.google.com/document/d/1Tj87aYVmTLimd3xYDrjpv-UPkOmbKuNKpO1mVcHl2Tc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>利息与价格</td><td>Interest and Prices</td><td>(瑞典) 克努特·维克塞尔</td><td>英文PDF(扫描版)<br/>
-<span style="color:Red;">英文EPUB</span></td><td>2018-09-19<br/>
-<span style="color:Red;">2019-05-02</span></td><td><a href="https://docs.google.com/document/d/1eMRCuNPF-rk2gVjQ37Ek-_JXRWEk4CKp-C2ehUlgh1Y/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>卡尔·马克思及其体系的终结</td><td>Karl Marx and the Close of His System</td><td>(奥) 欧根·冯·庞巴维克</td><td><span style="color:Red;">英文EPUB</span><br/>
-英文PDF(扫描版)</td><td><span style="color:Red;">2019-05-01</span><br/>
+2019-05-02</td><td><a href="https://docs.google.com/document/d/1AEyTYHEzJVi2o4aZvCbxCeKbep68MXHKjA5NTzCqrMY/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>卡尔·马克思及其体系的终结<br/>
+<i>其它中文名：</i><br/>
+马克思主义体系的崩溃</td><td>Karl Marx and the Close of His System</td><td>(奥) 欧根·冯·庞巴维克</td><td>英文EPUB<br/>
+英文PDF(扫描版)</td><td>2019-05-01<br/>
 2018-09-22</td><td><a href="https://docs.google.com/document/d/1bymMDtoDnYNDMFNQd93qspc11F_caMG2YfXD9zSrsKg/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>资本论</td><td>Capital</td><td>(德) 卡尔·马克思</td><td>简体PDF(大字版)<br/>
-<span style="color:Red;">英文PDF(大字版)</span></td><td>2018-09-05<br/>
-<span style="color:Red;">2019-05-01</span></td><td><a href="https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>资本论</td><td>Capital</td><td>(德) 卡尔·马克思</td><td>简体PDF(大字版)<br/>
+英文PDF(大字版)</td><td>2018-09-05<br/>
+2019-05-01</td><td><a href="https://docs.google.com/document/d/1BX4SKfF_DS8s2QA5sZw__Ui52q3O535l3kdbu_govRs/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇经济 / 经济学 / 评论</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>自由选择<br/>
+<tr style="background:PowderBlue;"><td>自由选择<br/>
 ——个人声明<br/>
 <i>其它中文名：</i><br/>
 选择的自由</td><td>Free to Choose<br/>
-——A personal statement</td><td>(美) 米尔顿·弗里德曼</td><td>简体PDF<br/>
+——A Personal Statement</td><td>(美) 米尔顿·弗里德曼</td><td>简体PDF<br/>
+<span style="color:Red;">简体PDF(大字版)</span><br/>
 简体EPUB<br/>
 简体MOBI<br/>
 英文PDF</td><td>2013-03-24<br/>
+<span style="color:Red;">2019-08-31</span><br/>
 2013-09-13<br/>
 2015-02-14<br/>
 2013-04-09</td><td><a href="https://docs.google.com/document/d/1H_BmzwpGMFDAOLxDsdCRcsH0sPQkaoV74dddeFQ3f-k/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>资本主义与自由</td><td>Capitalism and Freedom</td><td>(美) 米尔顿·弗里德曼</td><td>简体PDF<br/>
+<tr style="background:PowderBlue;"><td>资本主义与自由</td><td>Capitalism and Freedom</td><td>(美) 米尔顿·弗里德曼</td><td>简体PDF<br/>
+<span style="color:Red;">简体PDF(大字版)</span><br/>
 简体PDF(扫描版)<br/>
 简体MOBI</td><td>2014-02-13<br/>
+<span style="color:Red;">2019-08-31</span><br/>
 2018-09-05<br/>
 2015-02-14</td><td><a href="https://docs.google.com/document/d/1iuISZPsxgCBjKLB5VYgrDMgYZbSpaFPX_Y8nMdw_d0s/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>论经济学和经济学家</td><td>Essays on Economics and Economists</td><td>(英) 罗纳德·科斯</td><td><span style="color:Red;">简体PDF(扫描版)</span></td><td><span style="color:Red;">2019-08-31</span></td><td><a href="https://docs.google.com/document/d/1CRjV8Ac3lElKlBo9935qcWs2iWBAT81af5xxn_H1XuE/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>对我们生活的误测<br/>
 ——为什么 GDP 增长不等于社会进步</td><td>Mismeasuring Our Lives<br/>
 ——Why GDP Doesn't Add Up</td><td>(美) 约瑟夫·斯蒂格利茨<br/>
@@ -2053,7 +2197,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 ——市场失灵的神话</td><td>Famous Fables of Economics<br/>
 ——Myths of Market Failures</td><td>(美) Daniel Spulber (主编)</td><td>简体PDF(扫描版)</td><td>2015-11-05</td><td><a href="https://docs.google.com/document/d/1a8GQKJ97IPE7VVVoVZY2kgoLFjfpKG3tgvobgVd60mM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>充满灵性的经济学</td><td>Economics from the Heart<br/>
-——A Samuelson Sampler</td><td>(美) 萨缪尔森</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1VlGvC0-fz7BNrvRpiuR7mpeLq83G_3F4WpmdEnR1mwQ/" rel="nofollow" target="_blank">简介</a></td></tr>
+——A Samuelson Sampler</td><td>(美) 保罗·萨缪尔森</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1VlGvC0-fz7BNrvRpiuR7mpeLq83G_3F4WpmdEnR1mwQ/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>从来就没有救世主</td><td>N/A</td><td>许小年</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1iANj2JwZggHvjQmKZZAQk2haF7n-4EKm8ZnIBt53FHk/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇经济 / 经济学 / 通俗读物</h3><br/>
@@ -2066,13 +2210,13 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 简体EPUB(不全)</td><td>2013-04-09<br/>
 2015-11-14<br/>
 2015-02-14</td><td><a href="https://docs.google.com/document/d/1D_h8RG_C1Skq9o-biJtyMChow969ZbLch24O0rstwnc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>经济为什么会崩溃<br/>
+<tr><td>经济为什么会崩溃<br/>
 ——鱼、美元与经济学的故事<br/>
 <i>其它中文名：</i><br/>
 小岛经济学<br/>
 ——鱼、美元和经济的故事</td><td>How an Economy Grows and Why It Crashes</td><td>(美) 彼得·希夫<br/>
-(美) 安德鲁·希夫</td><td><span style="color:Red;">简体EPUB</span><br/>
-简体PDF(扫描版)</td><td><span style="color:Red;">2019-04-18</span><br/>
+(美) 安德鲁·希夫</td><td>简体EPUB<br/>
+简体PDF(扫描版)</td><td>2019-04-18<br/>
 2014-03-31</td><td><a href="https://docs.google.com/document/d/1QSRmvoDGNfp40LgUy72dCP6SSkCYMFI0je5q9ZWOvgk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛津通识读本：大众经济学</td><td>Economics</td><td>(英) Partha Dasgupta</td><td>简体EPUB<br/>
 简体AZW3<br/>
@@ -2100,31 +2244,35 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 </table><br/>
 <h3>◇经济 / 投资</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>证券分析</td><td>Security Analysis</td><td>(美) 本杰明·格雷厄姆<br/>
-(美) 戴维·多德</td><td>简体PDF(扫描版)<br/>
+<tr style="background:PowderBlue;"><td>证券分析</td><td>Security Analysis</td><td>(美) 本杰明·格雷厄姆<br/>
+(美) 戴维·多德</td><td>简体PDF(第5版 扫描版)<br/>
 简体EPUB(第6版)<br/>
-简体MOBI</td><td>2013-04-29<br/>
+简体MOBI(第6版)<br/>
+<span style="color:Red;">英文PDF(第6版)</span></td><td>2013-04-29<br/>
 2013-09-13<br/>
-2018-12-08</td><td><a href="https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>聪明的投资者<br/>
+2018-12-08<br/>
+<span style="color:Red;">2019-09-01</span></td><td><a href="https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>聪明的投资者<br/>
 <i>其它中文名：</i><br/>
 投资指南</td><td>The Intelligent Investor</td><td>(美) 本杰明·格雷厄姆</td><td>简体PDF(第4版 扫描版)<br/>
-<span style="color:Red;">英文PDF(第4版)</span></td><td>2014-02-20<br/>
-<span style="color:Red;">2019-05-25</span></td><td><a href="https://docs.google.com/document/d/1F6oV0vQ6YAYW9622pOwg0Zn_x-iX8XZaDAIxFy-sEkg/" rel="nofollow" target="_blank">简介</a></td></tr>
+英文PDF(第4版)</td><td>2014-02-20<br/>
+2019-05-25</td><td><a href="https://docs.google.com/document/d/1F6oV0vQ6YAYW9622pOwg0Zn_x-iX8XZaDAIxFy-sEkg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>格雷厄姆-多德都市的超级投资者们</td><td>The Superinvestors of Graham-and-Doddsville</td><td>(美) 沃伦·巴菲特</td><td>简体TXT<br/>
 英文PDF(扫描版)</td><td>2015-05-24<br/>
 2015-05-24</td><td><a href="https://docs.google.com/document/d/17ii4qyZooC32cv6PD9nAY0jII9bewTDAn2c-OIG7Y6c/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>非理性繁荣</td><td>Irrational Exuberance</td><td>(美) 罗伯特·希勒</td><td>简体TXT(第2版 不全)<br/>
+<tr style="background:PowderBlue;"><td>非理性繁荣</td><td>Irrational Exuberance</td><td>(美) 罗伯特·希勒</td><td><span style="color:Red;">简体PDF(第2版 大字版)</span><br/>
+简体TXT(第2版 不全)<br/>
 简体PDF(第1版 扫描版)<br/>
-<span style="color:Red;">英文PDF(第1版)</span></td><td>2016-05-02<br/>
+英文PDF(第1版)</td><td><span style="color:Red;">2019-09-01</span><br/>
+2016-05-02<br/>
 2014-05-23<br/>
-<span style="color:Red;">2019-05-25</span></td><td><a href="https://docs.google.com/document/d/19Ad-DbeWl7XpnkdCihZwQdKoXPU2hicJbBZ75FSHgPI/" rel="nofollow" target="_blank">简介</a></td></tr>
+2019-05-25</td><td><a href="https://docs.google.com/document/d/19Ad-DbeWl7XpnkdCihZwQdKoXPU2hicJbBZ75FSHgPI/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>随机致富的傻瓜<br/>
 ——发现市场和人生中的隐藏机遇<br/>
 <i>其它中文名：</i><br/>
 随机漫步的傻瓜</td><td>Fooled by Randomness<br/>
-——The Hidden Role of Chance in Life and in the Markets</td><td>(美) 纳西姆·塔勒布</td><td>简体PDF(扫描版)</td><td>2018-08-27</td><td><a href="https://docs.google.com/document/d/1MBz8w1NC_5gT8PuqMkRR5dFzIJol7V92EmgOXgJQvTE/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>金融炼金术</td><td>The Alchemy of Finance</td><td>(美) 乔治·索罗斯</td><td>简体PDF<br/>
+——The Hidden Role of Chance in Life and in the Markets</td><td>(黎巴嫩/美) 纳西姆·塔勒布</td><td>简体PDF(扫描版)</td><td>2018-08-27</td><td><a href="https://docs.google.com/document/d/1MBz8w1NC_5gT8PuqMkRR5dFzIJol7V92EmgOXgJQvTE/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>金融炼金术</td><td>The Alchemy of Finance</td><td>(匈/美) 乔治·索罗斯</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
 简体TXT</td><td>2013-04-29<br/>
@@ -2141,7 +2289,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>从马克思到凯恩斯<br/>
 ——十大经济学家</td><td>Ten Great Economists<br/>
-——from Marx to Keynes</td><td>(奥) 约瑟夫·熊彼特</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/" rel="nofollow" target="_blank">简介</a></td></tr>
+——from Marx to Keynes</td><td>(奥/美) 约瑟夫·熊彼特</td><td>简体PDF(扫描版)</td><td>2013-04-09</td><td><a href="https://docs.google.com/document/d/1wqzVgyl-J48EAqt2TTer7HQbfQxvCpr8i_9rydo7t_U/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>经济学大师们</td><td>New Ideas from Dead Economists<br/>
 ——An Introduction to Modern Economic Thought</td><td>(美) 托德·布赫霍尔茨</td><td>简体PDF(扫描版)</td><td>2018-06-24</td><td><a href="https://docs.google.com/document/d/174V2UIpMrm-ODKm5pOnj_gubJ7m2lpZ_W-1BlIjF1Go/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>思想者的足迹<br/>
@@ -2152,6 +2300,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 <h3>◇经济 / 博弈论</h3><br/>
 （本类别是偏重于经济领域的博弈论）<br/>
 <br/>
+<h3>◇经济 / 博弈论 / 通俗读物</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>策略思维<br/>
 ——商界、政界及日常生活中的策略竞争</td><td>Thinking Strategically<br/>
@@ -2161,17 +2310,25 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 简体MOBI</td><td>2014-01-09<br/>
 2018-06-23<br/>
 2015-05-10</td><td><a href="https://docs.google.com/document/d/1JQQgjbzQazzeKic4Rh5OU1O2TwWh9_bGngtmzzdUb2w/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>纳什均衡与博弈论<br/>
+——纳什博弈论及对自然法则的研究</td><td>A Beautiful Math<br/>
+——John Nash, Game Theory and the Modern Quest for a Code of Nature</td><td>(美) 汤姆·齐格弗里德</td><td><span style="color:Red;">简体PDF(大字版)</span></td><td><span style="color:Red;">2019-09-02</span></td><td><a href="https://docs.google.com/document/d/1ikoD8EIL7XK8qEAxHG2ZShHVDzPY-E2isMFfOACsh0Y/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>剪刀、石头、布<br/>
 ——趣味博弈论</td><td>Rock, Paper, Scissors<br/>
 ——Game Theory in Everyday Life</td><td>(英) Len Fisher</td><td>简体PDF(扫描版)</td><td>2014-04-06</td><td><a href="https://docs.google.com/document/d/1YiLSigj-2nrdzI4x6hLs6p-JWMhuMXv4AqHJzUizP5w/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<h3>◇经济 / 博弈论 / 理论</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:LightGreen;"><td>博弈论与经济行为</td><td>Theory of Games and Economic Behavior</td><td>(匈/美) 约翰·冯·诺伊曼<br/>
+(奥/美) 奥斯卡·摩根斯坦</td><td><span style="color:Red;">英文PDF(扫描版)</span></td><td><span style="color:Red;">2019-09-02</span></td><td><a href="https://docs.google.com/document/d/1rV8OFkInke6MJul6uKd8utuDViBJbph11PmpvNMIyCU/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
 <h3>◇经济 / 市场营销</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>定位</td><td>Positioning<br/>
+<tr><td>定位</td><td>Positioning<br/>
 ——The Battle for Your Mind</td><td>(美) 杰克·特劳特<br/>
-(美) 阿尔·里斯</td><td><span style="color:Red;">简体EPUB</span><br/>
+(美) 阿尔·里斯</td><td>简体EPUB<br/>
 简体PDF(扫描版)<br/>
-简体TXT</td><td><span style="color:Red;">2019-04-19</span><br/>
+简体TXT</td><td>2019-04-19<br/>
 2018-08-27<br/>
 2016-05-16</td><td><a href="https://docs.google.com/document/d/1w0ccxjkmQP8VzR69wOb_Ct_JbP6F05FSPSmfgs0YwkA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>营销战</td><td>Marketing Warfare</td><td>(美) 杰克·特劳特<br/>
@@ -2239,22 +2396,22 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 </table><br/>
 <h3>◇社会学 / (其它)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>反脆弱<br/>
+<tr><td>反脆弱<br/>
 ——从不确定性中获益</td><td>Antifragile<br/>
 ——Things That Gain from Disorder</td><td>(美) 纳西姆·塔勒布</td><td>简体EPUB<br/>
-<span style="color:Red;">简体MOBI</span></td><td>2018-12-12<br/>
-<span style="color:Red;">2019-03-03</span></td><td><a href="https://docs.google.com/document/d/1brx872GoHYVqodKoWNet5e_uXGkACeLIORcEAdWsSME/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>黑天鹅<br/>
+简体MOBI</td><td>2018-12-12<br/>
+2019-03-03</td><td><a href="https://docs.google.com/document/d/1brx872GoHYVqodKoWNet5e_uXGkACeLIORcEAdWsSME/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>黑天鹅<br/>
 ——如何应对不可预知的未来<br/>
 <i>其它中文名：</i><br/>
 黑天鹅效应</td><td>The Black Swan<br/>
 ——The Impact of the Highly Improbable</td><td>(美) 纳西姆·塔勒布</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
-<span style="color:Red;">简体PDF(扫描版)</span></td><td>2014-01-09<br/>
+简体PDF(扫描版)</td><td>2014-01-09<br/>
 2017-08-15<br/>
 2015-02-13<br/>
-<span style="color:Red;">2019-05-05</span></td><td><a href="https://docs.google.com/document/d/1KXiUCl08DMYrPqS2OhdjchI88-ZjUgl8d2yoctWJkKM/" rel="nofollow" target="_blank">简介</a></td></tr>
+2019-05-05</td><td><a href="https://docs.google.com/document/d/1KXiUCl08DMYrPqS2OhdjchI88-ZjUgl8d2yoctWJkKM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>社会学的基本概念</td><td>Basic Concepts in Sociology</td><td>(德) 马克斯·韦伯</td><td>简体PDF(扫描版)</td><td>2015-11-09</td><td><a href="https://docs.google.com/document/d/10T7dfKKxEyLwxyUxiIKTbcQYXJx1H6BUN7aptBydueA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>社会科学方法论</td><td>N/A</td><td>(德) 马克斯·韦伯</td><td>简体PDF(扫描版)</td><td>2015-11-09</td><td><a href="https://docs.google.com/document/d/1xMvsZ1fUhqOtB5JYLDy1fYsmTnpumI8mjOF4zruUGi4/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -2307,18 +2464,18 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 </table><br/>
 <h3>◇文艺 / 中国 / (其它)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>灵山</td><td>Soul Mountain</td><td>(法) 高行健</td><td>简体PDF<br/>
+<tr><td>灵山</td><td>Soul Mountain</td><td>(法) 高行健</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体CHM<br/>
-<span style="color:Red;">英文PDF</span></td><td>2013-07-07<br/>
+英文PDF</td><td>2013-07-07<br/>
 2013-09-14<br/>
 2013-07-07<br/>
-<span style="color:Red;">2019-03-16</span></td><td><a href="https://docs.google.com/document/d/1_5xT1HMawJIu9O8w0sxSdW32icnxQeukHFHTmEb2SZ8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>一个人的圣经</td><td>One Man's Bible</td><td>(法) 高行健</td><td>简体PDF<br/>
+2019-03-16</td><td><a href="https://docs.google.com/document/d/1_5xT1HMawJIu9O8w0sxSdW32icnxQeukHFHTmEb2SZ8/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>一个人的圣经</td><td>One Man's Bible</td><td>(法) 高行健</td><td>简体PDF<br/>
 简体CHM<br/>
-<span style="color:Red;">英文PDF</span></td><td>2013-07-07<br/>
+英文PDF</td><td>2013-07-07<br/>
 2013-07-07<br/>
-<span style="color:Red;">2019-03-16</span></td><td><a href="https://docs.google.com/document/d/1Hg8A1InUKzL26IXGtItVkgt3JGfFR7d-5gKdp2Zdn4g/" rel="nofollow" target="_blank">简介</a></td></tr>
+2019-03-16</td><td><a href="https://docs.google.com/document/d/1Hg8A1InUKzL26IXGtItVkgt3JGfFR7d-5gKdp2Zdn4g/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>寻找家园</td><td>N/A</td><td>高尔泰</td><td>简体PDF<br/>
 简体MOBI</td><td>2013-06-03<br/>
 2015-02-13</td><td><a href="https://docs.google.com/document/d/1ybP1kGapmi1xnJli2MwGIBb8WnXB487SK08xDFXzohA/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -2513,11 +2670,13 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 </table><br/>
 <h3>◇哲学 / 逻辑学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>简单的逻辑学</td><td>Being Logical<br/>
-——A Guide to Good Thinking</td><td>(美) 丹尼斯·麦克伦尼</td><td>简体PDF(扫描版)<br/>
+<tr style="background:PowderBlue;"><td>简单的逻辑学</td><td>Being Logical<br/>
+——A Guide to Good Thinking</td><td>(美) 丹尼斯·麦克伦尼</td><td><span style="color:Red;">简体EPUB</span><br/>
 简体MOBI<br/>
-英文PDF</td><td>2015-01-07<br/>
+简体PDF(扫描版)<br/>
+英文PDF</td><td><span style="color:Red;">2019-07-18</span><br/>
 2015-02-13<br/>
+2015-01-07<br/>
 2015-11-10</td><td><a href="https://docs.google.com/document/d/13Vx8BNBB9GRVJsLYyQKTELLoVRwIzrKx0mnUP6IrBcY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>牛津通识读本：简明逻辑学</td><td>Logic<br/>
 ——A Very Short Introduction</td><td>(英) 格雷厄姆·普里斯特</td><td>简体EPUB<br/>
@@ -2595,10 +2754,10 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 <a href="https://zh.wikisource.org/zh-hans/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95" rel="nofollow" target="_blank">简体WEB</a></td><td>2018-08-20<br/>
 2018-08-20<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByhaxB4O7IWe9Do0eJa7kuw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>战争论</td><td>On War</td><td>(普鲁士) 卡尔·冯·克劳塞维茨</td><td>简体PDF(共3卷)<br/>
-<span style="color:Red;">简体PDF(大字版 共3卷)</span><br/>
+<tr><td>战争论</td><td>On War</td><td>(普鲁士) 卡尔·冯·克劳塞维茨</td><td>简体PDF(共3卷)<br/>
+简体PDF(大字版 共3卷)<br/>
 简体PDF(扫描版 共3卷)</td><td>2013-03-22<br/>
-<span style="color:Red;">2019-04-14</span><br/>
+2019-04-14<br/>
 2017-08-12</td><td><a href="https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>战略论<br/>
 ——间接路线</td><td>Strategy<br/>
@@ -2633,20 +2792,45 @@ N/A</td><td><a href="https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByh
 2013-03-22<br/>
 2018-08-20</td><td><a href="https://docs.google.com/document/d/12N9nwvnW6McL4rn5hrwBoIz8CsSFynXxP8I4V71fOJE/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>第二次世界大战史</td><td>N/A</td><td>(德) 库尔特·冯·蒂佩尔斯基希</td><td>简体PDF(上下册 扫描版)</td><td>2018-11-11</td><td><a href="https://docs.google.com/document/d/1LLFyYZqoIkWx3eNMF2F2mSbxk-l2NU5MXqmBYH51W1c/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>大海战<br/>
-——第二次世界大战海战史</td><td>N/A</td><td>(美) 切斯特·尼米兹<br/>
-(美) E.B.波特</td><td>简体PDF(扫描版)</td><td>2016-12-11</td><td><a href="https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>大海战<br/>
+——第二次世界大战海战史<br/>
+<i>其它中文名：</i><br/>
+伟大的海战</td><td>The Great Sea War<br/>
+——The Story of Naval Action in World War II</td><td>(美) 切斯特·尼米兹<br/>
+(美) 埃尔默·波特</td><td><span style="color:Red;">简体PDF(大字版)</span><br/>
+简体PDF(扫描版)</td><td><span style="color:Red;">2019-08-24</span><br/>
+2016-12-11</td><td><a href="https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>第二次世界大战的决定性战役</td><td>Decisive Battles of World War II<br/>
 ——The German View</td><td>(美) Hans Jacobsen</td><td>简体CHM</td><td>2013-08-22</td><td><a href="https://docs.google.com/document/d/1kB3hdYUAg8AxPiLn4YU7aXG1GHFTpOYHvkcatq13f9g/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>大东亚战争全史</td><td>The Complete History of the Great East Asia War</td><td>(日) 服部卓四郎</td><td>简体PDF(扫描版)</td><td>2015-09-17</td><td><a href="https://docs.google.com/document/d/1lC96xJD9p7aHKnFCuNf0sDMSRrMfmvRAhkndkOb1Y3I/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>山的那一边<br/>
 ——被俘德国将领谈二战</td><td>The Other Side of the Hill</td><td>(英) 李德·哈特</td><td>简体PDF(扫描版)</td><td>2017-08-11</td><td><a href="https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<h3>◇军事 / 现代军事史 / 二战 / 东欧战场</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr><td>失去的胜利<br/>
+<i>其它中文名：</i><br/>
+曼施泰因元帅战争回忆录</td><td>Lost Victories<br/>
+——The War Memoirs of Hitler's Most Brilliant General</td><td>(德) 曼施泰因</td><td>简体TXT<br/>
+英文PDF</td><td>2016-05-16<br/>
+2018-08-20</td><td><a href="https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
+<h3>◇军事 / 现代军事史 / 二战 / 西欧与北非战场</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr><td>远征欧陆<br/>
+<i>其它中文名：</i><br/>
+艾森豪威尔回忆录</td><td>Crusade in Europe</td><td>(美) 德怀特·艾森豪威尔</td><td>简体PDF(扫描版)</td><td>2018-08-21</td><td><a href="https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>隆美尔战时文件</td><td>The Rommel Papers</td><td>(英) 李德·哈特 (主编)</td><td><span style="color:Red;">简体TXT</span></td><td><span style="color:Red;">2019-06-02</span></td><td><a href="https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>巴黎烧了吗？<br/>
+——盟军解放巴黎纪实</td><td>Is Paris Burning?</td><td>(美) 拉莱·科林斯<br/>
+(法) 多米尼克·拉皮埃尔</td><td>简体PDF(扫描版)</td><td>2016-12-11</td><td><a href="https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
 <h3>◇军事 / 现代军事史 / 二战 / 太平洋战场</h3><br/>
-<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>袭击珍珠港</td><td>(日) 渊田美津雄</td><td>简体PDF(扫描版)</td><td>2015-10-25</td><td><a href="https://docs.google.com/document/d/1RNM7VsUSnj9OH_ymsiLe_nlFPKn-hn_uuRktNfzHkIc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>浩瀚的大洋是赌场<br/>
-——日本海军的兴亡</td><td>俞天任 (网名：冰冷雨天)</td><td>简体PDF</td><td>2016-12-11</td><td><a href="https://docs.google.com/document/d/1hQJGxs6wyhpxBL47QphvQXuDGEZnBaTdbGNgZ5hPnX0/" rel="nofollow" target="_blank">简介</a></td></tr>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
+<tr style="background:LightGreen;"><td>联合舰队的覆灭</td><td>The Fate of Japanese United Fleet</td><td>(日) 伊藤正德</td><td><span style="color:Red;">简体TXT</span></td><td><span style="color:Red;">2019-07-27</span></td><td><a href="https://docs.google.com/document/d/1Wa-V2zsibZPoFLrTZGHVNcYxsS4MAxQlwhjj-rtsMoI/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>浩瀚大洋是赌场<br/>
+——大日本帝国海军兴亡史</td><td>N/A</td><td>俞天任 (网名：冰冷雨天)</td><td>简体PDF</td><td>2016-12-11</td><td><a href="https://docs.google.com/document/d/1hQJGxs6wyhpxBL47QphvQXuDGEZnBaTdbGNgZ5hPnX0/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>袭击珍珠港</td><td>N/A</td><td>(日) 渊田美津雄</td><td>简体PDF(扫描版)</td><td>2015-10-25</td><td><a href="https://docs.google.com/document/d/1RNM7VsUSnj9OH_ymsiLe_nlFPKn-hn_uuRktNfzHkIc/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇军事 / 现代军事史 / 二战 / 中国战场</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -2675,24 +2859,6 @@ N/A</td><td><a href="https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByh
 ——纪念抗战胜利70年访谈纪实</td><td>Journey 1945</td><td>美国之音</td><td>简体PDF(扫描版)</td><td>2016-07-17</td><td><a href="https://docs.google.com/document/d/1ykSsC4wNnkkbsGeZ32sjzw9Pmy0l0TXyMHEE3m82up8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>中日战争时期的通敌内幕（1937-1945）</td><td>China and Japan at War 1937-1945<br/>
 ——The Politics of Collaboration</td><td>(美) 约翰·亨特·博伊尔</td><td>简体PDF(大字版)</td><td>2017-08-11</td><td><a href="https://docs.google.com/document/d/1pWcINJhncJ5wkOi9AtN7QgTZCMcEzWDtFt_XVvPh0ZI/" rel="nofollow" target="_blank">简介</a></td></tr>
-</table><br/>
-<h3>◇军事 / 现代军事史 / 二战 / 东欧战场</h3><br/>
-<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>失去的胜利<br/>
-<i>其它中文名：</i><br/>
-曼施泰因元帅战争回忆录</td><td>Lost Victories<br/>
-——The War Memoirs of Hitler's Most Brilliant General</td><td>(德) 曼施泰因</td><td>简体TXT<br/>
-英文PDF</td><td>2016-05-16<br/>
-2018-08-20</td><td><a href="https://docs.google.com/document/d/1cA2OzsLKTM3sNVcMqDheF8RmsS5UxmX6G2wvVtRwrY8/" rel="nofollow" target="_blank">简介</a></td></tr>
-</table><br/>
-<h3>◇军事 / 现代军事史 / 二战 / 西欧战场</h3><br/>
-<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>远征欧陆<br/>
-<i>其它中文名：</i><br/>
-艾森豪威尔回忆录</td><td>Crusade in Europe</td><td>(美) 德怀特·艾森豪威尔</td><td>简体PDF(扫描版)</td><td>2018-08-21</td><td><a href="https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>巴黎烧了吗？<br/>
-——盟军解放巴黎纪实</td><td>Is Paris Burning?</td><td>(美) 拉莱·科林斯<br/>
-(法) 多米尼克·拉皮埃尔</td><td>简体PDF(扫描版)</td><td>2016-12-11</td><td><a href="https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇军事 / 现代军事史 / 韩战</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -2728,9 +2894,9 @@ N/A</td><td><a href="https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByh
 <h3>◇军事 / 现代军事史 / 冷战</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>冷战，1945~1991</td><td>The Cold War, 1945~1991</td><td>(英) 约翰·梅森</td><td>简体PDF(大字版)</td><td>2018-11-11</td><td><a href="https://docs.google.com/document/d/19027mFVegw_FMxKbXbwUoiilaKmFZRW9rgi-8SlD9b8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>苏联行为的根源</td><td>The Sources of Soviet Conduct</td><td>(美) 乔治·凯南</td><td>简体TXT<br/>
-<span style="color:Red;">英文TXT</span></td><td>2018-08-14<br/>
-<span style="color:Red;">2019-05-28</span></td><td><a href="https://docs.google.com/document/d/1VvdoZPblgG8vKcFMclQdCm2XkUWjbdxYCu4xRTJM7w8/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>苏联行为的根源</td><td>The Sources of Soviet Conduct</td><td>(美) 乔治·凯南</td><td>简体TXT<br/>
+英文TXT</td><td>2018-08-14<br/>
+2019-05-28</td><td><a href="https://docs.google.com/document/d/1VvdoZPblgG8vKcFMclQdCm2XkUWjbdxYCu4xRTJM7w8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>凯南长电</td><td>Long Telegram</td><td>(美) 乔治·凯南</td><td>简体TXT</td><td>2018-08-14</td><td><a href="https://docs.google.com/document/d/1B1QX8RTPVtywba1VFhHD-ohZzSpo3CwrKr0LgZpXZgg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>冷战史<br/>
 ——遏制与共存备忘录</td><td>A Journey Through the Cold War<br/>
@@ -2941,10 +3107,10 @@ N/A</td><td><a href="https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFC
 <tr><td>超越 C++ 标准库<br/>
 ——Boost 库导论</td><td>Beyond the C++ Standard Library<br/>
 ——An Introduction to Boost</td><td>Björn Karlsson</td><td>英文CHM</td><td>2018-08-04</td><td><a href="https://docs.google.com/document/d/1n4ZLjOHl420PIjWo4GVlr5x8dcswNLx23Gg7ZEDfsLs/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>C++ 编程思想</td><td>Thinking in C++</td><td>(美) Bruce Eckel</td><td><span style="color:Red;">英文PDF(第2版 卷1)</span><br/>
-<span style="color:Red;">英文PDF(第2版 卷2)</span><br/>
-简体PDF(第1版)</td><td><span style="color:Red;">2019-03-29</span><br/>
-<span style="color:Red;">2019-03-29</span><br/>
+<tr><td>C++ 编程思想</td><td>Thinking in C++</td><td>(美) Bruce Eckel</td><td>英文PDF(第2版 卷1)<br/>
+英文PDF(第2版 卷2)<br/>
+简体PDF(第1版)</td><td>2019-03-29<br/>
+2019-03-29<br/>
 2018-07-20</td><td><a href="https://docs.google.com/document/d/1HOhVvDd2So2L-KUBBjF_VOAHbg5RfiWh2laDpuVWRps/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>深度探索 C++ 对象模型</td><td>Inside the C++ Object Model</td><td>(美) Stanley Lippman</td><td>英文CHM<br/>
 简体PDF(扫描版)</td><td>2013-10-20<br/>
@@ -2975,16 +3141,20 @@ N/A</td><td><a href="https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFC
 </table><br/>
 <h3>◇IT / 软件开发 / 编程语言 / Python</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>Python 学习手册</td><td>Learning Python</td><td>(美) Mark Lutz</td><td>英文EPUB (第5版)<br/>
-英文PDF (第4版)</td><td>2013-10-21<br/>
+<tr style="background:PowderBlue;"><td>Python 学习手册</td><td>Learning Python</td><td>(美) Mark Lutz</td><td><span style="color:Red;">英文PDF(第5版)</span><br/>
+英文EPUB(第5版)<br/>
+英文PDF(第4版)</td><td><span style="color:Red;">2019-08-23</span><br/>
+2013-10-21<br/>
 2017-08-10</td><td><a href="https://docs.google.com/document/d/16vPfijGfUWDpeUmAT-gtknS0dLbSxFGSfJ8sZJMcvKk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>深入 Python3</td><td>Dive into Python3</td><td>(美) Mark Pilgrim</td><td>英文PDF<br/>
+<a href="https://www.diveinto.org/python3/" rel="nofollow" target="_blank">英文WEB</a><br/>
 简体PDF</td><td>2013-10-21<br/>
+N/A<br/>
 2013-10-21</td><td><a href="https://docs.google.com/document/d/1q-Adoq6KJXbQ-0GrLnSEaMJSOuMuhWZyL_Dy-rqFqJI/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>Python Cookbook</td><td>Python Cookbook</td><td>(美) David Beazley<br/>
-(美) Brian Jones</td><td><span style="color:Red;">简体PDF(第3版)</span><br/>
+<tr><td>Python Cookbook</td><td>Python Cookbook</td><td>(美) David Beazley<br/>
+(美) Brian Jones</td><td>简体PDF(第3版)<br/>
 <a href="https://python3-cookbook.readthedocs.io/" rel="nofollow" target="_blank">简体WEB</a><br/>
-英文PDF(第3版)</td><td><span style="color:Red;">2019-03-26</span><br/>
+英文PDF(第3版)</td><td>2019-03-26<br/>
 N/A<br/>
 2013-10-21</td><td><a href="https://docs.google.com/document/d/19ryZDnCjNWyZzwmgXG9UbmsWkzM74Kl-41KjGPi4bfs/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>像计算机科学家一样思考 Python</td><td>Think Python<br/>
@@ -3018,13 +3188,13 @@ Binu John</td><td>英文PDF(第1版)</td><td>2015-11-08</td><td><a href="https:/
 英文CHM(第5版)</td><td>2015-11-15<br/>
 2015-11-08<br/>
 2016-12-21</td><td><a href="https://docs.google.com/document/d/1cUfjSD8XD57yi9KPmqbTz2ElwVlhAk5TREK9cE3g83k/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>JavaScript 高级程序设计</td><td>Professional JavaScript for Web Developers</td><td>(美) Nicholas Zakas</td><td>简体PDF(第3版 扫描版)<br/>
-<span style="color:Red;">英文PDF(第1版)</span></td><td>2017-08-10<br/>
-<span style="color:Red;">2019-03-29</span></td><td><a href="https://docs.google.com/document/d/1AHd28cq-sT36E6nEj1ot7W_FahlPDhYCaZyD79tRJNw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>JavaScript 语言精粹</td><td>JavaScript<br/>
-——The Good Parts</td><td>(美) Douglas Crockford</td><td><span style="color:Red;">简体PDF(修订版 扫描版)</span><br/>
+<tr><td>JavaScript 高级程序设计</td><td>Professional JavaScript for Web Developers</td><td>(美) Nicholas Zakas</td><td>简体PDF(第3版 扫描版)<br/>
+英文PDF(第1版)</td><td>2017-08-10<br/>
+2019-03-29</td><td><a href="https://docs.google.com/document/d/1AHd28cq-sT36E6nEj1ot7W_FahlPDhYCaZyD79tRJNw/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>JavaScript 语言精粹</td><td>JavaScript<br/>
+——The Good Parts</td><td>(美) Douglas Crockford</td><td>简体PDF(修订版 扫描版)<br/>
 简体PDF(扫描版)<br/>
-英文PDF</td><td><span style="color:Red;">2019-03-29</span><br/>
+英文PDF</td><td>2019-03-29<br/>
 2018-07-19<br/>
 2016-12-21</td><td><a href="https://docs.google.com/document/d/18RsrrIS1uQCoQXp8zzhIqNypkW31huvh8hGVYm3UtCc/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
@@ -3034,13 +3204,22 @@ Binu John</td><td>英文PDF(第1版)</td><td>2015-11-08</td><td><a href="https:/
 (美) Gerald Jay Sussman<br/>
 (美) Julie Sussman</td><td>简体PDF(第2版 扫描版)<br/>
 英文PDF(第2版)<br/>
-<a href="https://mitpress.mit.edu/sicp/full-text/book/book.html" rel="nofollow" target="_blank">英文WEB</a></td><td>2015-07-20<br/>
+<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html" rel="nofollow" target="_blank">英文WEB</a></td><td>2015-07-20<br/>
 2016-12-21<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1gS6ON92bvELZbEm1W8P-koO-lnNCU0WQEyQ6yLGJ7aM/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>程序设计方法</td><td>How to Design Programs<br/>
+——An Introduction to Computing and Programming</td><td>(美) Matthias Felleisen<br/>
+(美) Robby Findler<br/>
+(美) Matthew Flatt<br/>
+(美) Shriram Krishnamurthi</td><td><span style="color:Red;">英文PDF(第1版)</span><br/>
+<a href="https://htdp.org/2018-01-06/Book/" rel="nofollow" target="_blank">英文WEB(第2版)</a><br/>
+<a href="https://htdp.org/2003-09-26/Book/" rel="nofollow" target="_blank">英文WEB(第1版)</a></td><td><span style="color:Red;">2019-07-30</span><br/>
+N/A<br/>
+N/A</td><td><a href="https://docs.google.com/document/d/1dDDGo8ok0f_qOyVkGyIeRvJZ0H7dlCsFPfQFujn91lM/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>ANSI Common Lisp</td><td>ANSI Common Lisp</td><td>(美) Paul Graham</td><td>简体PDF<br/>
 英文PDF<br/>
-<a href="http://acl.readthedocs.org/en/latest/zhCN/index.html" rel="nofollow" target="_blank">简体WEB</a><br/>
-<a href="http://acl.readthedocs.org/en/latest/zhTW/index.html" rel="nofollow" target="_blank">繁體WEB</a></td><td>2018-06-28<br/>
+<a href="https://acl.readthedocs.org/en/latest/zhCN/index.html" rel="nofollow" target="_blank">简体WEB</a><br/>
+<a href="https://acl.readthedocs.org/en/latest/zhTW/index.html" rel="nofollow" target="_blank">繁體WEB</a></td><td>2018-06-28<br/>
 2015-01-11<br/>
 N/A<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0YPRimOkftX3I5ifuO9eE/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -3049,7 +3228,7 @@ N/A</td><td><a href="https://docs.google.com/document/d/1CsL7qThJKwtc-d-pNVRk6y0
 ——The Language</td><td>Common Lisp<br/>
 ——The Language</td><td>(美) Guy Steele</td><td>英文PDF(第2版)<br/>
 英文PS(第2版)<br/>
-<a href="http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html" rel="nofollow" target="_blank">英文WEB</a></td><td>2017-05-09<br/>
+<a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html" rel="nofollow" target="_blank">英文WEB</a></td><td>2017-05-09<br/>
 2016-12-21<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/10eQa2K98RhcGGf_gHWqMIfzVlsuKj58cc3nrFKlUkNY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>On Lisp<br/>
@@ -3077,10 +3256,10 @@ N/A</td><td><a href="https://docs.google.com/document/d/1RskcdY9Ga7O8YV_ciefzukV
 <i>其它中文名：</i><br/>
 Go 语言圣经</td><td>The Go Programming Language</td><td>(美) Alan Donovan<br/>
 (加) Brian Kernighan</td><td>简体PDF(第1版)</td><td>2018-07-20</td><td><a href="https://docs.google.com/document/d/1k8ieqvuIjUNIq9e6qzAhcIKb5z6nQkAbq7LIPs-1zBw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>Go 入门指南</td><td>The Way To Go<br/>
-——A Thorough Introduction to the Go Programming Language</td><td>(比利时) Ivo Balbaert</td><td><span style="color:Red;">简体PDF</span><br/>
+<tr><td>Go 入门指南</td><td>The Way To Go<br/>
+——A Thorough Introduction to the Go Programming Language</td><td>(比利时) Ivo Balbaert</td><td>简体PDF<br/>
 <a href="https://github.com/Unknwon/the-way-to-go_ZH_CN" rel="nofollow" target="_blank">简体WEB</a><br/>
-英文PDF</td><td><span style="color:Red;">2019-03-30</span><br/>
+英文PDF</td><td>2019-03-30<br/>
 N/A<br/>
 2018-07-20</td><td><a href="https://docs.google.com/document/d/12pQNTp__2AYiKXfOZ13DMnQY1zF5akkgrXnq44g78ls/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>Go 语言程序设计</td><td>Programming in Go<br/>
@@ -3095,11 +3274,11 @@ N/A<br/>
 2018-11-09<br/>
 2018-07-20<br/>
 2018-11-09</td><td><a href="https://docs.google.com/document/d/1rV_ZmiXqjC9QZIH8QpsqFmXrRBWSLhHwtqt_-PYwBXA/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>Programming Rust</td><td>Programming Rust<br/>
+<tr><td>Programming Rust</td><td>Programming Rust<br/>
 ——Fast, Safe Systems Development</td><td>(美) Jim Blandy<br/>
 (美) Jason Orendorff</td><td>英文PDF(第1版 不全)<br/>
-<span style="color:Red;">英文EPUB(第1版 不全)</span></td><td>2018-07-20<br/>
-<span style="color:Red;">2019-03-30</span></td><td><a href="https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/" rel="nofollow" target="_blank">简介</a></td></tr>
+英文EPUB(第1版 不全)</td><td>2018-07-20<br/>
+2019-03-30</td><td><a href="https://docs.google.com/document/d/12wXcRR-BJXkabG6IiHFGf9H2lZevav-zoGi8aMo1uCY/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 软件开发 / 编程语言 / Prolog</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -3135,8 +3314,10 @@ Shane Warden</td><td>简体PDF(扫描版)</td><td>2015-05-12</td><td><a href="ht
 Elisabeth Robson<br/>
 Bert Bates<br/>
 Kathy Sierra</td><td>简体PDF(扫描版)</td><td>2016-12-23</td><td><a href="https://docs.google.com/document/d/1oTe5BQoQVYgSjrk7-dzi88qIsSgiLuDlWrOe8P9VU84/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>七周七并发模型</td><td>Seven Concurrency Models in Seven Weeks<br/>
-——When Threads Unravel</td><td>(美) Paul Butcher</td><td>简体PDF(扫描版)</td><td>2018-07-25</td><td><a href="https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>七周七并发模型</td><td>Seven Concurrency Models in Seven Weeks<br/>
+——When Threads Unravel</td><td>(美) Paul Butcher</td><td>简体PDF(扫描版)<br/>
+<span style="color:Red;">英文PDF</span></td><td>2018-07-25<br/>
+<span style="color:Red;">2019-07-31</span></td><td><a href="https://docs.google.com/document/d/19vZDj1dZW8ufQmFso3WDj0k5DZg5-IdTiqUSu5VDzt0/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 软件开发 / 算法与数据结构</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -3166,15 +3347,17 @@ Kathy Sierra</td><td>简体PDF(扫描版)</td><td>2016-12-23</td><td><a href="ht
 <br/>
 <h3>◇IT / 软件开发 / 操作系统相关 / UNIX 与 Linux</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>UNIX 编程艺术</td><td>The Art of UNIX Programming</td><td>(美) Eric Raymond</td><td>简体PDF(扫描版)<br/>
-英文CHM<br/>
+<tr style="background:PowderBlue;"><td>UNIX 编程艺术</td><td>The Art of UNIX Programming</td><td>(美) Eric Raymond</td><td>简体PDF(扫描版)<br/>
+<span style="color:Red;">英文PDF</span><br/>
 英文EPUB<br/>
-英文MOBI</td><td>2017-05-06<br/>
-2013-10-20<br/>
+英文MOBI<br/>
+英文CHM</td><td>2017-05-06<br/>
+<span style="color:Red;">2019-08-17</span><br/>
 2018-08-04<br/>
-2018-08-04</td><td><a href="https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>UNIX 环境高级编程</td><td>Advanced Programming in the UNIX Environment</td><td>(美) 理查德·史蒂文斯<br/>
-Stephen Rago</td><td>简体PDF(第3版 扫描版)<br/>
+2018-08-04<br/>
+2013-10-20</td><td><a href="https://docs.google.com/document/d/1ye7MwcaM2s24-uopFBCJBXFjtQ_Y9qJ3Iki8l_PglYk/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>UNIX 环境高级编程</td><td>Advanced Programming in the UNIX Environment</td><td>(美) Richard Stevens<br/>
+(美) Stephen Rago</td><td>简体PDF(第3版 扫描版)<br/>
 简体PDF(第2版 扫描版)<br/>
 英文PDF(第3版)<br/>
 英文CHM(第2版)</td><td>2017-08-09<br/>
@@ -3184,7 +3367,7 @@ Stephen Rago</td><td>简体PDF(第3版 扫描版)<br/>
 <tr><td>UNIX 系统编程</td><td>UNIX Systems Programming<br/>
 ——Communication, Cocurrency, and Threads</td><td>Kay Robbins<br/>
 Steven Robbins</td><td>英文CHM</td><td>2013-10-21</td><td><a href="https://docs.google.com/document/d/1xsvD8-MyO309VGTOdJJGQEkLKpSDzq1d66WAttWaI90/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>如何编写动态库</td><td>How to Write Shared Libraries</td><td>(美) Ulrich Drepper</td><td><span style="color:Red;">英文PDF</span></td><td><span style="color:Red;">2019-03-17</span></td><td><a href="https://docs.google.com/document/d/1UpwXITuBP4cIiKZSg6gl89tjV58BDr6uussqIAaozps/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>如何编写动态库</td><td>How to Write Shared Libraries</td><td>(美) Ulrich Drepper</td><td>英文PDF</td><td>2019-03-17</td><td><a href="https://docs.google.com/document/d/1UpwXITuBP4cIiKZSg6gl89tjV58BDr6uussqIAaozps/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>精通 Linux 设备驱动程序开发</td><td>Essential Linux Device Drivers</td><td>(印度) Venkateswaran</td><td>简体PDF(扫描版)</td><td>2015-11-06</td><td><a href="https://docs.google.com/document/d/1KZuHFCKZkF1cjdLAXVvIq4TJp9XHIcM1WRt5t3I6LR8/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 软件开发 / 操作系统相关 / Windows</h3><br/>
@@ -3196,13 +3379,21 @@ Steven Robbins</td><td>英文CHM</td><td>2013-10-21</td><td><a href="https://doc
 <h3>◇IT / 软件开发 / 网络相关</h3><br/>
 （本类别放置“网络相关”的编程类电子书）<br/>
 <br/>
+<h3>◇IT / 软件开发 / 网络相关 / C &amp; C++</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>UNIX 网络编程</td><td>UNIX Network Programming</td><td>(美) 理查德·史蒂文斯</td><td>英文PDF(卷1 第3版)</td><td>2013-10-20</td><td><a href="https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>UNIX 网络编程</td><td>UNIX Network Programming</td><td>(美) Richard Stevens</td><td><span style="color:Red;">英文PDF(卷1 第3版)</span><br/>
+英文CHM(卷1 第3版)<br/>
+<span style="color:Red;">英文PDF(卷2 第2版)</span></td><td><span style="color:Red;">2019-08-17</span><br/>
+2013-10-20<br/>
+<span style="color:Red;">2019-08-17</span></td><td><a href="https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>ZeroMQ</td><td>ZeroMQ<br/>
 ——Use ZeroMQ and Learn How to Apply Different Message Patterns</td><td>Faruk Akgul</td><td>英文PDF</td><td>2018-07-02</td><td><a href="https://docs.google.com/document/d/1cKZuh8U-mdrGNqMLVsgmIq1El-qoN_hj79GqfB-B9kE/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>C++ 网络编程</td><td>C++ Network Programming</td><td>(美) Douglas Schmidt</td><td>英文CHM(卷1)<br/>
 英文CHM(卷2)</td><td>2013-10-21<br/>
 2013-10-21</td><td><a href="https://docs.google.com/document/d/1-_EWftyk3_hVKNs1_cuKrEnK4QxSO0qPeeemj9I7bsM/" rel="nofollow" target="_blank">简介</a></td></tr>
+</table><br/>
+<h3>◇IT / 软件开发 / 网络相关 / Python</h3><br/>
+<table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>Twisted Network Programming Essentials</td><td>Twisted Network Programming Essentials<br/>
 ——Developing With Python's Event-driven Framework</td><td>Abe Fettig<br/>
 (美) Jessica McKellar</td><td>英文CHM(第1版)</td><td>2016-12-22</td><td><a href="https://docs.google.com/document/d/10xotkTyITV-OdtjapXwVsyh8UnD9MoZDffZ7mElCLJY/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -3221,9 +3412,11 @@ N/A</td><td><a href="https://docs.google.com/document/d/1Utlkt8CHPJq7t385XkvrGaP
 </table><br/>
 <h3>◇IT / 软件开发 / 硬件相关</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>编码<br/>
+<tr style="background:PowderBlue;"><td>编码<br/>
 ——隐匿在计算机软硬件背后的语言</td><td>Code<br/>
-——The Hidden Language of Computer Hardware and Software</td><td>(美) Charles Petzold</td><td>简体PDF(扫描版)</td><td>2017-08-08</td><td><a href="https://docs.google.com/document/d/1rGWcr4K-icMUm_SwC_Zq-8pTt08fHwUxnC4DqS3lU40/" rel="nofollow" target="_blank">简介</a></td></tr>
+——The Hidden Language of Computer Hardware and Software</td><td>(美) Charles Petzold</td><td>简体PDF(扫描版)<br/>
+<span style="color:Red;">英文PDF</span></td><td>2017-08-08<br/>
+<span style="color:Red;">2019-08-17</span></td><td><a href="https://docs.google.com/document/d/1rGWcr4K-icMUm_SwC_Zq-8pTt08fHwUxnC4DqS3lU40/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>每个程序员都应该了解的内存知识</td><td>What Every Programmer Should Know About Memory</td><td>(美) Ulrich Drepper</td><td>英文PDF</td><td>2017-08-10</td><td><a href="https://docs.google.com/document/d/1GZpQKWRs1dt-VguVC-om1qFi1tkVwvsRIAZQqvDOa7E/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 软件开发 / (其它)</h3><br/>
@@ -3255,13 +3448,13 @@ N/A</td><td><a href="https://docs.google.com/document/d/1Utlkt8CHPJq7t385XkvrGaP
 （考虑到“黑客”一词已经被严重误解，俺单独放一个目录介绍黑客文化。希望大伙儿搞清楚：“黑客/Hacker”与“骇客/Cracker”是有天壤之别的）<br/>
 <br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:LightGreen;"><td>自由软件，自由社会<br/>
+<tr><td>自由软件，自由社会<br/>
 ——理查德·斯托曼选集</td><td>Free Software, Free Society<br/>
-——Selected Essays of Richard M. Stallman</td><td>(美) Richard Stallman</td><td><span style="color:Red;">简体PDF(第3版)</span><br/>
-<span style="color:Red;">简体EPUB(第3版)</span><br/>
-<span style="color:Red;">英文PDF(第3版)</span></td><td><span style="color:Red;">2019-03-14</span><br/>
-<span style="color:Red;">2019-03-14</span><br/>
-<span style="color:Red;">2019-03-14</span></td><td><a href="https://docs.google.com/document/d/1kTL8VE6AoUZCJY2OJ3qv39nJpFn7zj6EacAHXyNXfEY/" rel="nofollow" target="_blank">简介</a></td></tr>
+——Selected Essays of Richard M. Stallman</td><td>(美) Richard Stallman</td><td>简体PDF(第3版)<br/>
+简体EPUB(第3版)<br/>
+英文PDF(第3版)</td><td>2019-03-14<br/>
+2019-03-14<br/>
+2019-03-14</td><td><a href="https://docs.google.com/document/d/1kTL8VE6AoUZCJY2OJ3qv39nJpFn7zj6EacAHXyNXfEY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>大教堂与集市<br/>
 <i>其它中文名：</i><br/>
 黑客五部曲<br/>
@@ -3296,19 +3489,26 @@ N/A</td><td><a href="https://docs.google.com/document/d/1Utlkt8CHPJq7t385XkvrGaP
 2015-05-12</td><td><a href="https://docs.google.com/document/d/1hxZBCKQAk9bfiaxugGqmkG1Nn0a8v8SBxuT3MneaMbg/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr style="background:PowderBlue;"><td>若为自由故<br/>
 ——自由软件之父理查德·斯托曼传</td><td>Free as in Freedom<br/>
-——Richard Stallman's Crusade for Free Software</td><td>(美) Sam Williams</td><td><span style="color:Red;">简体TXT(第2版)</span><br/>
+——Richard Stallman's Crusade for Free Software</td><td>(美) Sam Williams</td><td>简体TXT(第2版)<br/>
 英文PDF(第2版)<br/>
-<a href="https://www.oreilly.com/openbook/freedom/" rel="nofollow" target="_blank">英文WEB</a></td><td><span style="color:Red;">2019-03-09</span><br/>
+<span style="color:Red;">英文PDF(第1版)</span><br/>
+<a href="https://www.oreilly.com/openbook/freedom/" rel="nofollow" target="_blank">英文WEB(第1版)</a></td><td>2019-03-09<br/>
 2016-12-21<br/>
+<span style="color:Red;">2019-08-01</span><br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1J6AfA8Z4uUiMS7-Or9WchCuiDEc-G6Ar5D3600jxYSQ/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>乐者为王<br/>
+<tr style="background:PowderBlue;"><td>乐者为王<br/>
 ——自由软件 Linux 之父李纳斯·托沃兹自述<br/>
 <i>其它中文名：</i><br/>
 只是为了好玩<br/>
 ——Linux 之父林纳斯自传</td><td>Just for Fun<br/>
-——The Story of an Accidental Revolutionary</td><td>(芬兰) Linus Torvalds</td><td>简体EPUB<br/>
-简体PDF(扫描版)</td><td>2015-11-15<br/>
-2016-12-12</td><td><a href="https://docs.google.com/document/d/1FCfoVjJlBHQJAkUB3Gj7ocSRKhC5bCnM83o-jOqAUgU/" rel="nofollow" target="_blank">简介</a></td></tr>
+——The Story of an Accidental Revolutionary</td><td>(芬兰/美) Linus Torvalds</td><td>简体EPUB<br/>
+简体PDF(扫描版)<br/>
+<span style="color:Red;">英文EPUB</span></td><td>2015-11-15<br/>
+2016-12-12<br/>
+<span style="color:Red;">2019-08-01</span></td><td><a href="https://docs.google.com/document/d/1FCfoVjJlBHQJAkUB3Gj7ocSRKhC5bCnM83o-jOqAUgU/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:LightGreen;"><td>线上幽灵<br/>
+——世界头号黑客凯文·米特尼克自传</td><td>Ghost in the Wires<br/>
+——My Adventures as the World's Most Wanted Hacker</td><td>(美) Kevin Mitnick</td><td><span style="color:Red;">英文PDF</span></td><td><span style="color:Red;">2019-08-03</span></td><td><a href="https://docs.google.com/document/d/1UpMA-feuqKKCZDsH1_zSDd3f9FUiVJgoRMFdojArDoY/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>自由文化</td><td>Free Culture<br/>
 ——How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity</td><td>(美) Lawrence Lessig</td><td>英文PDF</td><td>2015-12-09</td><td><a href="https://docs.google.com/document/d/1LYJ92vSfRHdEXwgBoR3IjwxIDyBw8BHSyIShHz_XipE/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>制造开源软件<br/>
@@ -3329,7 +3529,7 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QsMCFk1zCJ9voQ0DUn6peKE
 <h3>◇IT / 信息安全 / 社会工程学</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>欺骗的艺术</td><td>The Art of Deception<br/>
-——Controlling the Human Element of Security</td><td>(美) 凯文·米特尼克</td><td>简体PDF<br/>
+——Controlling the Human Element of Security</td><td>(美) Kevin Mitnick</td><td>简体PDF<br/>
 简体EPUB<br/>
 简体MOBI<br/>
 英文PDF</td><td>2013-10-20<br/>
@@ -3350,12 +3550,12 @@ N/A</td><td><a href="https://docs.google.com/document/d/1QsMCFk1zCJ9voQ0DUn6peKE
 英文PDF(第2版)</td><td>2013-11-26<br/>
 2015-07-21<br/>
 2013-10-21</td><td><a href="https://docs.google.com/document/d/1-Y1fvHcM-UcWl5Ich-Dy1-Q36r4L0jXZO-i2PdI_2YQ/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>密码编码学与网络安全<br/>
+<tr><td>密码编码学与网络安全<br/>
 ——原理与实践</td><td>Cryptography and Network Security<br/>
 ——Principles and Practice</td><td>(美) William Stallings</td><td>英文PDF(第5版)<br/>
-<span style="color:Red;">英文PDF(第4版)</span><br/>
+英文PDF(第4版)<br/>
 简体PDF(第3版 扫描版)</td><td>2013-11-18<br/>
-<span style="color:Red;">2019-03-25</span><br/>
+2019-03-25<br/>
 2013-11-18</td><td><a href="https://docs.google.com/document/d/17j7YU3oVijVxEawynMkKksX0WscdK7LzuM69i3tzVa4/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 信息安全 / 安全加固</h3><br/>
@@ -3378,43 +3578,45 @@ N/A</td><td><a href="https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfN
 <h3>◇IT / 信息安全 / 入侵与渗透测试</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>入侵的艺术</td><td>The Art of Intrusion<br/>
-——The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers</td><td>(美) 凯文·米特尼克</td><td>简体PDF(扫描版)<br/>
+——The Real Stories Behind the Exploits of Hackers, Intruders and Deceivers</td><td>(美) Kevin Mitnick</td><td>简体PDF(扫描版)<br/>
 简体EPUB<br/>
 英文PDF</td><td>2014-02-04<br/>
 2015-07-17<br/>
 2014-01-09</td><td><a href="https://docs.google.com/document/d/1J8WZvqvgTGLZkkEbK1WBvBAkdqp-7Lmw2dJmnJGroJA/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>黑客之道<br/>
+<tr style="background:PowderBlue;"><td>黑客之道<br/>
 ——漏洞发掘的艺术</td><td>Hacking<br/>
-——The Art of Exploitation</td><td>(美) Jon Erickson</td><td>英文PDF(第2版)</td><td>2018-07-29</td><td><a href="https://docs.google.com/document/d/1uqRc_gNdOCqgSmQVqeCeGg8OnsAMlww8GPgvRTFJ2mc/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:PowderBlue;"><td>灰帽攻击安全手册<br/>
+——The Art of Exploitation</td><td>(美) Jon Erickson</td><td>英文PDF(第2版)<br/>
+<span style="color:Red;">英文CHM(第1版)</span></td><td>2018-07-29<br/>
+<span style="color:Red;">2019-08-02</span></td><td><a href="https://docs.google.com/document/d/1uqRc_gNdOCqgSmQVqeCeGg8OnsAMlww8GPgvRTFJ2mc/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>灰帽攻击安全手册<br/>
 ——渗透测试与漏洞分析技术</td><td>Gray Hat Hacking<br/>
 ——The Ethical Hacker's Handbook</td><td>Allen Harper<br/>
 等</td><td>英文PDF(第3版)<br/>
-<span style="color:Red;">英文PDF(第2版)</span><br/>
+英文PDF(第2版)<br/>
 简体PDF(第1版)</td><td>2018-07-25<br/>
-<span style="color:Red;">2019-03-24</span><br/>
+2019-03-24<br/>
 2018-11-09</td><td><a href="https://docs.google.com/document/d/1zid6lw6kVYkCbRSd-Jw8sBOXjXVXIC3_TyitTok-ei0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>黑客攻防技术宝典<br/>
+<tr><td>黑客攻防技术宝典<br/>
 ——Web 实战篇</td><td>The Web Application Hacker's Handbook<br/>
 ——Finding and Exploiting Security Flaws</td><td>(英) Dafydd Stuttard (网名：PortSwigger)<br/>
-(英) Marcus Pinto</td><td><span style="color:Red;">英文PDF(第2版)</span></td><td><span style="color:Red;">2019-03-24</span></td><td><a href="https://docs.google.com/document/d/1qmNBoGEVwI3WFy_y1C0aqphQ6V-rU7ubGJQA2TA_nF4/" rel="nofollow" target="_blank">简介</a></td></tr>
+(英) Marcus Pinto</td><td>英文PDF(第2版)</td><td>2019-03-24</td><td><a href="https://docs.google.com/document/d/1qmNBoGEVwI3WFy_y1C0aqphQ6V-rU7ubGJQA2TA_nF4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>Shellcoder 编程揭秘</td><td>Shellcoder's Programming Uncovered</td><td>(俄) Kris Kaspersky</td><td>简体PDF(扫描版)</td><td>2018-07-25</td><td><a href="https://docs.google.com/document/d/1wBJQBF3OQNvsOaQBd6v3JLjRI-rIboI40eLXvdlPmeY/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>Shellcoder 手册<br/>
+<tr><td>Shellcoder 手册<br/>
 ——发现和利用安全漏洞</td><td>The Shellcoder's Handbook<br/>
-——Discovering and Exploiting Security Holes</td><td>(多人)</td><td><span style="color:Red;">英文PDF(第2版)</span><br/>
-<span style="color:Red;">英文CHM(第1版)</span></td><td><span style="color:Red;">2019-03-18</span><br/>
-<span style="color:Red;">2019-03-18</span></td><td><a href="https://docs.google.com/document/d/1gxt1-o6c6PfPnQ8705tQIfZrdaTAmw5By6Me6_OqWKw/" rel="nofollow" target="_blank">简介</a></td></tr>
+——Discovering and Exploiting Security Holes</td><td>(多人)</td><td>英文PDF(第2版)<br/>
+英文CHM(第1版)</td><td>2019-03-18<br/>
+2019-03-18</td><td><a href="https://docs.google.com/document/d/1gxt1-o6c6PfPnQ8705tQIfZrdaTAmw5By6Me6_OqWKw/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>内核漏洞的利用与防范</td><td>A Guide to Kernel Exploitation<br/>
 ——Attacking the Core</td><td>(美) Enrico Perla<br/>
 (美) Massimiliano Oldani</td><td>英文PDF(第1版)</td><td>2018-07-29</td><td><a href="https://docs.google.com/document/d/15_pQ1TBuvRPy9fVz9JWqLbjW0bOoKcMq20yMZH_vZSo/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 信息安全 / 破解与逆向工程</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>逆向工程权威指南<br/>
+<tr><td>逆向工程权威指南<br/>
 <i>其它中文名：</i><br/>
 逆向工程入门指南</td><td>Reverse Engineering for Beginners<br/>
-——Understanding Assembly Language</td><td>(乌克兰) Dennis Yurichev</td><td><span style="color:Red;">简体EPUB</span><br/>
-英文PDF</td><td><span style="color:Red;">2019-03-28</span><br/>
+——Understanding Assembly Language</td><td>(乌克兰) Dennis Yurichev</td><td>简体EPUB<br/>
+英文PDF</td><td>2019-03-28<br/>
 2018-08-04</td><td><a href="https://docs.google.com/document/d/1wHhEagVYr-lS2YJWurkzGH1oGnl76CprsuqNw7BXBhk/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 信息安全 / 编程语言相关</h3><br/>
@@ -3422,33 +3624,39 @@ N/A</td><td><a href="https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfN
 <br/>
 <h3>◇IT / 信息安全 / 编程语言相关 / C &amp; C++</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:LightGreen;"><td>C 语言安全编程规范</td><td>SEI CERT C Coding Standard</td><td>(美) CERT/CC</td><td><span style="color:Red;">英文PDF(2016版)</span></td><td><span style="color:Red;">2019-04-02</span></td><td><a href="https://docs.google.com/document/d/1gYOn_6nFNWkcJ62MsBIhs57bA0ydHpfqp11lQ2R1Ko4/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>C++ 语言安全编程规范</td><td>SEI CERT C++ Coding Standard</td><td>(美) CERT/CC</td><td><span style="color:Red;">英文PDF(2016版)</span></td><td><span style="color:Red;">2019-04-02</span></td><td><a href="https://docs.google.com/document/d/1zi7_dcLXnVCc9ePEgdhnU1xxuYgM5RavsmkEp7gKRnM/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>C 语言安全编程规范</td><td>SEI CERT C Coding Standard</td><td>(美) CERT/CC</td><td>英文PDF(2016版)</td><td>2019-04-02</td><td><a href="https://docs.google.com/document/d/1gYOn_6nFNWkcJ62MsBIhs57bA0ydHpfqp11lQ2R1Ko4/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>C++ 语言安全编程规范</td><td>SEI CERT C++ Coding Standard</td><td>(美) CERT/CC</td><td>英文PDF(2016版)</td><td>2019-04-02</td><td><a href="https://docs.google.com/document/d/1zi7_dcLXnVCc9ePEgdhnU1xxuYgM5RavsmkEp7gKRnM/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 信息安全 / 编程语言相关 / Python</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>Python 灰帽子<br/>
 ——黑客与逆向工程师的 Python 编程之道</td><td>Gray Hat Python<br/>
 ——Python Programming for Hackers and Reverse Engineers</td><td>(加) Justin Seitz</td><td>英文PDF</td><td>2018-07-29</td><td><a href="https://docs.google.com/document/d/1mnCjAvsog2gWugOzN_ZZAIt7RYPlAkOrRiKTV9SmBg0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>Python 黑帽子<br/>
+<tr><td>Python 黑帽子<br/>
 ——黑客与渗透测试编程之道</td><td>Black Hat Python<br/>
-——Python Programming for Hackers and Pentesters</td><td>(加) Justin Seitz</td><td><span style="color:Red;">英文PDF</span></td><td><span style="color:Red;">2019-03-28</span></td><td><a href="https://docs.google.com/document/d/11HV7oJ_xXxII-mNCNc8H4SFe1kNSMu1f_tQEFWipLx8/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr><td>Python 绝技<br/>
+——Python Programming for Hackers and Pentesters</td><td>(加) Justin Seitz</td><td>英文PDF</td><td>2019-03-28</td><td><a href="https://docs.google.com/document/d/11HV7oJ_xXxII-mNCNc8H4SFe1kNSMu1f_tQEFWipLx8/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr style="background:PowderBlue;"><td>Python 绝技<br/>
 ——运用 Python 成为顶级黑客</td><td>Violent Python<br/>
 ——A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers</td><td>(美) TJ O'Connor</td><td>简体PDF(第1版)<br/>
+<span style="color:Red;">英文PDF(第1版)</span><br/>
 英文EPUB(第1版)</td><td>2018-07-29<br/>
+<span style="color:Red;">2019-08-02</span><br/>
 2015-07-21</td><td><a href="https://docs.google.com/document/d/1zEkq4Sx7Eq7b75_Y6tiC6LnSyfHPgzxmT7kELtO9eXI/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 操作系统</h3><br/>
 <h3>◇IT / 操作系统 / 使用教程</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>Shell 脚本学习指南</td><td>Classic Shell Scripting</td><td>(美) Arnold Robbins<br/>
+<tr><td>Shell 脚本学习指南</td><td>Classic Shell Scripting</td><td>(美) Arnold Robbins<br/>
 (美) Nelson Beebe</td><td>简体PDF(扫描版)<br/>
-<span style="color:Red;">英文PDF</span></td><td>2014-05-18<br/>
-<span style="color:Red;">2019-03-25</span></td><td><a href="https://docs.google.com/document/d/1Zw8XD56F6rCi899UxIE-0sKoXWr2WGqiUNcRl70kIYk/" rel="nofollow" target="_blank">简介</a></td></tr>
+英文PDF</td><td>2014-05-18<br/>
+2019-03-25</td><td><a href="https://docs.google.com/document/d/1Zw8XD56F6rCi899UxIE-0sKoXWr2WGqiUNcRl70kIYk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>Linux 与 UNIX Shell 编程指南</td><td>Linux and UNIX Shell Programming</td><td>David Tansley</td><td>简体PDF(扫描版)</td><td>2013-12-06</td><td><a href="https://docs.google.com/document/d/1Nk83xAbRUdcgqUBSfDCwozA3-EUFeBz-nrpf1G7x-j0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>高级 Bash 脚本编程指南</td><td>Advanced Bash-Scripting Guide</td><td>Mendel Cooper</td><td><span style="color:Red;">英文PDF(文档版本 6.6)</span><br/>
-<a href="https://www.tldp.org/LDP/abs/html/" rel="nofollow" target="_blank">英文WEB</a></td><td><span style="color:Red;">2019-03-25</span><br/>
+<tr style="background:PowderBlue;"><td>高级 Bash 脚本编程指南</td><td>Advanced Bash-Scripting Guide</td><td>Mendel Cooper</td><td><span style="color:Red;">简体EPUB(文档版本 10.0)</span><br/>
+<span style="color:Red;">英文PDF(文档版本 10.0)</span><br/>
+英文PDF(文档版本 6.6)<br/>
+<a href="https://www.tldp.org/LDP/abs/html/" rel="nofollow" target="_blank">英文WEB</a></td><td><span style="color:Red;">2019-07-15</span><br/>
+<span style="color:Red;">2019-07-15</span><br/>
+2019-03-25<br/>
 N/A</td><td><a href="https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>鸟哥的 Linux 私房菜</td><td>N/A</td><td>鸟哥</td><td>简体PDF<br/>
 简体MOBI</td><td>2013-12-06<br/>
@@ -3482,14 +3690,14 @@ Marco Cesati</td><td>英文PDF(第3版)<br/>
 </table><br/>
 <h3>◇IT / 操作系统 / 操作系统原理 / Windows</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:PowderBlue;"><td>深入解析 Windows 操作系统<br/>
+<tr><td>深入解析 Windows 操作系统<br/>
 <i>其它中文名：</i><br/>
 Windows 内部揭密</td><td>Windows Internals</td><td>(西班牙) Mark Russinovich<br/>
 David Solomon<br/>
-Alex Ionescu</td><td><span style="color:Red;">英文PDF(第6版 上下册)</span><br/>
+Alex Ionescu</td><td>英文PDF(第6版 上下册)<br/>
 英文PDF(第5版)<br/>
 英文PDF(第4版)<br/>
-简体PDF(第4版 扫描版)</td><td><span style="color:Red;">2019-04-13</span><br/>
+简体PDF(第4版 扫描版)</td><td>2019-04-13<br/>
 2018-08-03<br/>
 2018-08-03<br/>
 2018-11-09</td><td><a href="https://docs.google.com/document/d/1lb_QR-35FqkW-qKFM-DPU-xnFN2Q13-qe-28_AqoOVU/" rel="nofollow" target="_blank">简介</a></td></tr>
@@ -3497,7 +3705,7 @@ Alex Ionescu</td><td><span style="color:Red;">英文PDF(第6版 上下册)</span
 <h3>◇IT / 网络</h3><br/>
 <h3>◇IT / 网络 / 网络协议</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>TCP-IP 详解</td><td>TCP-IP Illustrated</td><td>(美) 理查德·史蒂文斯</td><td>英文CHM(卷1)<br/>
+<tr><td>TCP-IP 详解</td><td>TCP-IP Illustrated</td><td>(美) Richard Stevens</td><td>英文CHM(卷1)<br/>
 简体PDF(卷1)<br/>
 简体PDF(卷2)<br/>
 简体PDF(卷3)</td><td>2013-10-21<br/>
@@ -3516,12 +3724,14 @@ Anshu Aggarwal</td><td>简体PDF(扫描版)<br/>
 <h3>◇IT / 网络 / 分布式</h3><br/>
 <h3>◇IT / 网络 / 分布式 / (综述)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr><td>分布式系统<br/>
+<tr style="background:PowderBlue;"><td>分布式系统<br/>
 ——概念与设计</td><td>Distributed Systems<br/>
 ——Concepts and Design</td><td>(英) George Coulouris<br/>
 (英) Jean Dollimore<br/>
 (英) Tim Kindberg<br/>
-(英) Gordon Blair</td><td>英文PDF(第5版)</td><td>2018-11-02</td><td><a href="https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/" rel="nofollow" target="_blank">简介</a></td></tr>
+(英) Gordon Blair</td><td><span style="color:Red;">简体PDF(第5版 扫描版)</span><br/>
+英文PDF(第5版)</td><td><span style="color:Red;">2019-08-17</span><br/>
+2018-11-02</td><td><a href="https://docs.google.com/document/d/159RgYwexuQnL4IwHD6wyiLiek95l0WHKWzhuxvS70k8/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>分布式系统<br/>
 ——原理与范型</td><td>Distributed Systems<br/>
 ——Principles and Paradigms</td><td>(美) Andrew Tanenbaum<br/>
@@ -3573,27 +3783,27 @@ Guillaume Pierre<br/>
 </table><br/>
 <h3>◇IT / 网络 / 分布式 / 区块链</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
-<tr style="background:LightGreen;"><td>比特币<br/>
+<tr><td>比特币<br/>
 ——一种点对点式的电子现金系统<br/>
 <i>其它中文名：</i><br/>
 比特币白皮书</td><td>Bitcoin<br/>
-——A Peer-to-Peer Electronic Cash System</td><td>Satoshi Nakamoto</td><td><span style="color:Red;">英文PDF</span><br/>
-<span style="color:Red;">简体PDF</span></td><td><span style="color:Red;">2019-03-27</span><br/>
-<span style="color:Red;">2019-03-27</span></td><td><a href="https://docs.google.com/document/d/1Pf3uSE5xyN7gMcCtFhNLOFVByewgFBcYubanEr97cr0/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>区块链启示录<br/>
+——A Peer-to-Peer Electronic Cash System</td><td>Satoshi Nakamoto</td><td>英文PDF<br/>
+简体PDF</td><td>2019-03-27<br/>
+2019-03-27</td><td><a href="https://docs.google.com/document/d/1Pf3uSE5xyN7gMcCtFhNLOFVByewgFBcYubanEr97cr0/" rel="nofollow" target="_blank">简介</a></td></tr>
+<tr><td>区块链启示录<br/>
 ——中本聪文集</td><td>The Book of Satoshi<br/>
-——The Collected Writings of Bitcoin Creator Satoshi Nakamoto</td><td>(美) Phil Champagne</td><td><span style="color:Red;">简体PDF</span></td><td><span style="color:Red;">2019-03-27</span></td><td><a href="https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/" rel="nofollow" target="_blank">简介</a></td></tr>
+——The Collected Writings of Bitcoin Creator Satoshi Nakamoto</td><td>(美) Phil Champagne</td><td>简体PDF</td><td>2019-03-27</td><td><a href="https://docs.google.com/document/d/1Gy0iL_3N5HmAdvp3ua54BBn1Q8ThoOPmPIXjiXZsIOA/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 网络 / 分布式 / DFS(分布式文件系统)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>Google 文件系统</td><td>The Google File System</td><td>(美) Sanjay Ghemawat<br/>
 (美) Howard Gobioff<br/>
 Shun-Tak Leung</td><td>英文PDF</td><td>2018-11-05</td><td><a href="https://docs.google.com/document/d/1AW_EsDLrxRARwSyueCrU07BTNmB0Py_Rml3TgS4mcIw/" rel="nofollow" target="_blank">简介</a></td></tr>
-<tr style="background:LightGreen;"><td>IPFS<br/>
+<tr><td>IPFS<br/>
 ——内容寻址的版本化点对点文件系统<br/>
 <i>其它中文名：</i><br/>
 IPFS 白皮书</td><td>IPFS<br/>
-——Content Addressed, Versioned, P2P File System</td><td>(美) Juan Benet</td><td><span style="color:Red;">英文PDF</span></td><td><span style="color:Red;">2019-05-08</span></td><td><a href="https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/" rel="nofollow" target="_blank">简介</a></td></tr>
+——Content Addressed, Versioned, P2P File System</td><td>(美) Juan Benet</td><td>英文PDF</td><td>2019-05-08</td><td><a href="https://docs.google.com/document/d/1XV6AmX-quKDpFkCjH2XU2rk8MsnahCf5OItaRvsIQRs/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
 <h3>◇IT / 网络 / (其它)</h3><br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
@@ -3659,14 +3869,10 @@ IPFS 白皮书</td><td>IPFS<br/>
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>暗时间<br/>
 ——刘未鹏博文集</td><td>刘未鹏</td><td>简体EPUB</td><td>2015-05-12</td><td><a href="https://docs.google.com/document/d/1DMVlFx1x3JmcqmbBk1sUnVigXO4QxgeatrvZwtQIMeg/" rel="nofollow" target="_blank">简介</a></td></tr>
-</table><br/>
-<!--BANNED
-[1559483564963,1559484740879,1559484982731,1559486319518,1559524979542
-,1559525188945,1559526444239,1559529750173]
--->
-</hr></hr></hr></div>
+</table>
+</hr></div>
 
 
 ------------------------------------------------
 
-版权声明本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者编程随想和本文原始地址：https://program-think.blogspot.com/2019/05/share-books.html
+版权声明本博客所有的原创文章，作者皆保留版权。转载必须包含本声明，保持本文完整，并以超链接形式注明作者编程随想和本文原始地址：https://program-think.blogspot.com/2019/09/share-books.html

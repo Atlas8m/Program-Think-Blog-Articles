@@ -122,7 +122,7 @@ The fact is, however, that most serious English-speaking economists regard Marxi
 <br/>
 　　<b>现代博弈论</b><br/>
 　　率先把博弈论引入经济学的，是那个超级跨界牛人<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC" rel="nofollow" target="_blank">冯·诺依曼</a>。他不但被称作【计算机之父】，还是顶级的数学家、顶级的理论物理学家。<br/>
-　　1944年，冯·诺伊曼与奥斯卡·摩根斯坦（Oskar Morgenstern）合作发表了《博弈论与经济行为》（Theory of Games and Economic Behavior）。这篇论文对经济学而言是【划时代】滴！那之后，他又获得一个新的称号：“现代博弈论之父”。（可惜诺贝尔经济学奖设立太晚，否则他应该能得）<br/>
+　　1944年，冯·诺伊曼与奥斯卡·摩根斯坦（Oskar Morgenstern）合作发表了《<a href="https://docs.google.com/document/d/1rV8OFkInke6MJul6uKd8utuDViBJbph11PmpvNMIyCU/" target="_blank">博弈论与经济行为</a>》（Theory of Games and Economic Behavior）。这篇论文对经济学而言是【划时代】滴！那之后，他又获得一个新的称号：“现代博弈论之父”。（可惜诺贝尔经济学奖设立太晚，否则他应该能得）<br/>
 　　除了冯·诺依曼，还有一个名气挺大的牛人<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E5%B8%83%E6%96%AF%C2%B7%E7%BA%B3%E4%BB%80" rel="nofollow" target="_blank">约翰·纳什</a>，也对博弈论有重要贡献——在1950年的博士论文中引入了“纳什均衡”的概念，并因此获得1994年诺贝尔经济学奖。<br/>
 　　经济学在引入了博弈论之后，可以更好地解释各种概念（比如：价格水平、工资水平）<br/>
 <br/>
