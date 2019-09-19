@@ -164,7 +164,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：《反脆弱——从不确定性中获益》</a>》<br/>
+《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
 《<a href="../../2019/03/Why-Thinking-Hard-So-Hard.md">为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验</a>》<br/>
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
 《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>

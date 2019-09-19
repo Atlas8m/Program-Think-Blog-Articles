@@ -139,10 +139,10 @@
 <br/>
 　　我所要考虑的这一群成功投资者，拥有一位共同的智力族长——本杰明·格雷厄姆。但是，这些离开此智力家族的孩童，都是依据非常不同的方法猜测他们自己的“硬币”。他们各自前往不同的地方，买卖不同的股票和企业，但他们的综合绩效绝对无法用随机因素加以解释。他们做相同的猜测，并不是因为领导者下达某一项指令，因此也无法用这种方式解释他们的表现。族长只提供了猜测硬币的智力理论，每位学生都必须自行决定如何运用这项理论。<br/>
 ......</blockquote>　　整个演讲很长，限于篇幅，就不全文转述了。<br/>
-　　已经把这篇演讲的全文（中文、英文）放到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>（位于“经济类 / 投资”这个目录下）。想看的同学，可以用 BT Sync【免翻墙】自动同步——经济大类的同步密钥是 <b>B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX</b><br/>
+　　已经把这篇演讲的全文（中文、英文）放到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>（位于“经济类 / 投资”这个目录下）。想看的同学，可以用 BT Sync【免翻墙】自动同步——经济大类的同步密钥是：<b style="font-family:Courier,monospace;">B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX</b><br/>
 　　对那些不太了解的同学，再作一下背景介绍：<br/>
 　　刚才提到巴菲特那篇演讲的标题是：《<a href="https://docs.google.com/document/d/17ii4qyZooC32cv6PD9nAY0jII9bewTDAn2c-OIG7Y6c/" target="_blank">格雷厄姆-多德都市的超级投资者们</a>》。“格雷厄姆-多德”是两个人名——“<a href="https://en.wikipedia.org/wiki/Benjamin_Graham" rel="nofollow" target="_blank">本杰明·格雷厄姆</a> 和 <a href="https://en.wikipedia.org/wiki/David_Dodd" rel="nofollow" target="_blank">大卫·多德</a>”。这两个美国佬合著了《<a href="https://docs.google.com/document/d/1iMssHxYngnqBOa4PzprF8-0KKvQGWUMXxPq1duw8EN8/" target="_blank">证券分析</a>》一书（洋文叫“Security Analysis”）。此书被誉为【价值投资领域的圣经】；格雷厄姆本人被誉为【价值投资之父】。（<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了此书的电子版，同样位于“经济类 / 投资”这个目录下）<br/>
-　　上世纪50年代，巴菲特曾经在哥伦比亚大学选修了格雷厄姆开设的“证券分析课程”，并得了 A+ 的成绩。据传闻：格雷厄姆在哥伦比亚大学开设这门课程长达【22年】后，才首次有学生（巴菲特）得到 A+ 的成绩。<br/>
+　　上世纪50年代，巴菲特曾经在哥伦比亚大学选修了格雷厄姆开设的“证券分析课程”，并得了 A+ 的成绩。据坊间传闻：格雷厄姆在哥伦比亚大学开设这门课程长达【22年】后，才首次有学生（巴菲特）得到 A+ 的成绩。<br/>
 <br/>
 <br/>
 <h2>★结尾</h2><br/>
@@ -152,13 +152,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a><br/>
-<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a><br/>
-<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a><br/>
-<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a><br/>
-<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a><br/>
-<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a><br/>
-<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a>
+《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
+《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>
+《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
+《<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a>》<br/>
+《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>
+《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》<br/>
+《<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a>》
 </div>
 
 

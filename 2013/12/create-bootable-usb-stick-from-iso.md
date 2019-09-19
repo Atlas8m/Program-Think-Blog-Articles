@@ -80,7 +80,7 @@
 　　假设你有一个 iso 镜像文件，路径是 <code>~/xxx.iso</code><br/>
 　　假设你的 U盘对应的设备是 <code>/dev/sdb</code><br/>
 　　那么就可以用如下命令搞定：<br/>
-<pre>dd bs=4M if=~/xxx.iso of=/dev/sdb</pre>稍微解释一下：<br/>
+<pre class="shell">dd bs=4M if=~/xxx.iso of=/dev/sdb</pre>稍微解释一下：<br/>
 <code>bs</code> 参数表示每次批量读写 4MB 字节的数据（俺一般都用 4M，你也可以用 8M、2M 或 1M）。<br/>
 <code>if</code> 参数表示输入（文件/设备）的路径，在这里用的是光盘镜像文件。<br/>
 <code>of</code> 参数表示输出（文件/设备）的路径，在这里用的是U盘设备。<br/>
@@ -94,7 +94,7 @@
 　　Windows 下的 dd，其用法与 Linux 下差不多。唯一要留意的是——U盘的【设备路径】。<br/>
 　　（通常U盘上只有一个分区）你插入 U盘 后，假如盘符是 <code>F:</code> 那么对应的设备路径就是 <code>\\.\f:</code><br/>
 　　如果你的 iso 镜像文件放在 <code>C:\xxx.iso</code> 那么就用如下的 dd 命令把镜像刻录到 U盘<br/>
-<pre>dd bs=4M if=C:\xxx.iso of=\\.\f:</pre>（参数刚才解释过，这儿就不再罗嗦了）<br/>
+<pre class="shell">dd bs=4M if=C:\xxx.iso of=\\.\f:</pre>（参数刚才解释过，这儿就不再罗嗦了）<br/>
 <br/>
 <br/>
 <h2>★优缺点对比</h2><br/>
@@ -105,7 +105,7 @@
 　　rufus 和 UNetbootin 的兼容性好于 dd。dd 的缺点在于：如果某个镜像本身不是 hybrid 模式（hybrid 的解释，本文开头已经说过），用 dd 刻录之后会【无法】启动。而 rufus 和 UNetbootin 可以在刻录U盘的时候进行相应的处理。<br/>
 　　针对 dd 的这个缺点，有一个补救的办法：<br/>
 　　对于 Linux/Unix 平台，先使用 <code>isohybrid</code> 命令把 iso 镜像转换成 hybrid 模式（该命令来自于 <a href="https://zh.wikipedia.org/wiki/SYSLINUX" rel="nofollow" target="_blank">SysLinux/ISOLinux 软件包</a>）。假设你的光盘镜像位于 <code>～/xxx.iso</code> 那么使用如下命令转换：（可惜该命令【没有】windows 版本）<br/>
-<pre>isohybrid ~/xxx.iso</pre><br/>
+<pre class="shell">isohybrid ~/xxx.iso</pre><br/>
 　　至于 rufus 和 UNetbootin 的对比，俺个人觉得 rufus 不但优于 UNetbootin，而且也优于某些其它工具（比如 Universal USB Installer）。俺曾经碰到过：同一个ISO镜像，同一个物理U盘，用 UNetbootin 刻录后无法启动，而 rufus 刻录后可以启动。<br/>
 <br/>
 <h3>◇速度方面</h3><br/>

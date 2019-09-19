@@ -8,7 +8,8 @@
 　　可能某些读者发觉俺连续两周没有发博文，担心俺出事了。其实最近2周，俺一直在评论区出没。经常逛评论区的同学，应该晓得俺没事儿。<br/>
 　　（判断俺是否出事了，【不要】光看“发博”间隔，要看俺的网络活动——有时候虽然没有发博文，但是俺可以通过回复评论体现出网络活动，以表明俺还活着）<br/>
 <br/>
-<hr/><h2>★引子</h2><br/>
+<hr/><br/>
+<h2>★引子</h2><br/>
 　　刚才说了，最近半个月都在倒腾页面代码（HTML/JS/CSS），业余时间几乎都花在这上面。搞得晚上做梦都梦见博客界面出 bug。在这种状态下，今天继续来讨论技术话题——关于 Firefox 的界面定制。<br/>
 　　网上已经有很多 Firefox 的插件或扩展，可以定制 Firefox 的界面。不过今天俺要聊的是——<b>【无需任何插件/扩展】</b>，就可以定制 Firefox 的各种界面。<br/>
 <a name="more"></a><br/>
@@ -44,15 +45,12 @@
 <h3>◇方法2——根据名称进入</h3><br/>
 　　不同的操作系统，profile 目录的位置也不同。<br/>
 　　对于 Windows，你在资源管理器的地址栏输入如下，然后按回车，就进入了。<br/>
-<pre style="font-family:Courier,monospace;">%APPDATA%\Mozilla\Firefox\Profiles
-</pre><br/>
+<pre>%APPDATA%\Mozilla\Firefox\Profiles</pre><br/>
 　　对于 Linux 系统，profile 目录的位置如下<br/>
-<pre style="font-family:Courier,monospace;">~/.mozilla/firefox/
-</pre><br/>
+<pre>~/.mozilla/firefox/</pre><br/>
 　　对于 Mac OS 系统，profile 目录的位置如下（有两种可能的位置）<br/>
-<pre style="font-family:Courier,monospace;">~/Library/Application Support/Firefox/Profiles/
-~/Library/Mozilla/Firefox/Profiles/
-</pre><br/>
+<pre>~/Library/Application Support/Firefox/Profiles/
+~/Library/Mozilla/Firefox/Profiles/</pre><br/>
 <br/>
 <h2>★预备知识——啥是 CSS 文件</h2><br/>
 　　CSS 是洋文“Cascading Style Sheets”的缩写词。中文也称为“层叠样式表”或“级联样式表”。它可以用来定制 Web 页面的排版、布局、字体、颜色......<br/>
@@ -78,9 +76,8 @@
 <br/>
 <h3>◇文件名</h3><br/>
 　　放到 <code>chrome</code> 目录下的配置文件有两个，名称分别为如下：<br/>
-<pre style="font-family:Courier,monospace;">userChrome.css
-userContent.css
-</pre><br/>
+<pre>userChrome.css
+userContent.css</pre><br/>
 　　这两个文件分别有啥用途捏？且听俺细细道来：<br/>
 <code>userChrome.css</code> 是专门用来定制 Firefox 【自身的界面】（比如 Firefox 自己的“地址栏、搜索栏、快捷菜单、滚动条......”）<br/>
 <code>userContent.css</code> 是专门用来定制 Firefox 浏览的网站的界面（假如你对俺博客的某些界面效果不爽，就可以用它来定制）<br/>
@@ -173,13 +170,13 @@ userContent.css
   <span class="nb">display</span><span class="o">:</span> <span class="nb">none</span> <span class="cp">!important</span><span class="p">;</span>
 <span class="p">}</span>
 </pre></div><br/>
-　　如果你想隐藏别的菜单项，可以到 Firefox 官网的“<a href="https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/List_of_commands" rel="nofollow" target="_blank">这个链接</a>”查看各种内置菜单项的“命令名称”，然后稍作修改就变成菜单项的“标识”了——这就是俺所说的“依样画葫芦” :)<br/>
+　　如果你想隐藏别的菜单项，可以到 Firefox 官网的“<a href="https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/List_of_commands" rel="nofollow" target="_blank">这个链接</a>”查看各种内置菜单项的“命令名称”，然后稍作修改就变成菜单项的“标识”了——这就是俺所说的【依样画葫芦】 :)<br/>
 　　举例：<br/>
 “全选”这个功能的命令名是<br/>
-<pre style="font-family:Courier,monospace;">cmd_selectAll
-</pre>该命令在快捷菜单中对应的 CSS 标识是<br/>
-<pre style="font-family:Courier,monospace;">#context-selectall
-</pre><b>第2种方式：根据菜单显示的文字进行隐藏</b><br/>
+<pre>cmd_selectAll</pre><br/>
+该命令在快捷菜单中对应的 CSS 标识是<br/>
+<pre>#context-selectall</pre><br/>
+<b>第2种方式：根据菜单显示的文字进行隐藏</b><br/>
 <br/>
 　　上面那招是根据菜单的“标识”，但是菜单标识有时候不太好找，于是俺介绍另一个方式——根据显示在菜单项上的文字进行隐藏。<br/>
 　　下面是俺的举例，摘自本人的 Firefox 配置文件。<br/>

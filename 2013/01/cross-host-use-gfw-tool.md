@@ -28,12 +28,12 @@
 <br/>
 <h3>◇如何看本机开启的监听端口</h3><br/>
 　　对于 Windows 系统，在命令行窗口（先运行 cmd 就会出现命令行窗口）运行如下命令，可以看到本机开启的【所有】监听端口。<br/>
-<pre>netstat -an | find "LISTEN"</pre><br/>
+<pre class="shell">netstat -an | find "LISTEN"</pre><br/>
 　　刚才有读者在留言中提问，俺再补充一下。用 <code>netstat</code> 的 <code>o</code> 选项可以看到每个监听端口分别是【哪个进程】开启滴。命令如下<br/>
-<pre>netstat -ano | find "LISTEN"</pre><br/>
+<pre class="shell">netstat -ano | find "LISTEN"</pre><br/>
 <h3>◇什么是监听端口的“绑定地址”</h3><br/>
-　　以俺手头的虚拟机为例，执行刚才那个命令后，会显示如下<br/>
-<pre>TCP  127.0.0.1:8118  0.0.0.0:0  LISTENING</pre><br/>
+　　以俺手头的虚拟机为例，执行刚才那个命令后，会显示如下输出<br/>
+<pre class="shell">TCP  127.0.0.1:8118  0.0.0.0:0  LISTENING</pre><br/>
 　　其中的 <code>127.0.0.1</code> 表示这个监听端口绑定的网卡地址，而 <code>8118</code> 表示监听的端口号。所谓的“绑定地址”，意思就是说，这个监听端口只接受来自该网卡的连接。<br/>
 　　因为 <code>127.0.0.1</code> 表示本机网卡地址；所以，绑定在 <code>127.0.0.1</code> 表示该监听端口只接受来自本机的连接。<br/>
 　　如果要让某个监听端口接受任意连接（包括外部电脑的连接），把绑定地址设置为 <code>0.0.0.0</code> 即可。<br/>
@@ -83,17 +83,17 @@ A 监听端口是新开的，而且绑定地址是 <code>0.0.0.0</code><br/>
 　　<b>命令详解</b><br/>
 　　（以下命令需要管理员身份才能执行）<br/>
 　　添加端口转发的命令<br/>
-<pre style="white-space:pre-wrap;">netsh interface portproxy add v4tov4 listenport=<i>新开的监听端口</i> listenaddress=<i>新开端口的绑定地址</i> connectaddress=<i>要转发的地址</i> connectport=<i>要转发的端口</i> protocol=tcp</pre><br/>
+<pre class="shell">netsh interface portproxy add v4tov4 listenport=<i>新开的监听端口</i> listenaddress=<i>新开端口的绑定地址</i> connectaddress=<i>要转发的地址</i> connectport=<i>要转发的端口</i> protocol=tcp</pre><br/>
 　　删除端口转发的命令<br/>
-<pre style="white-space:pre-wrap;">netsh interface portproxy delete v4tov4 listenport=<i>新开的监听端口</i> listenaddress=<i>新开端口的绑定地址</i></pre><br/>
+<pre class="shell">netsh interface portproxy delete v4tov4 listenport=<i>新开的监听端口</i> listenaddress=<i>新开端口的绑定地址</i></pre><br/>
 　　<b>命令举例</b><br/>
 　　比方说，俺本地已经运行了 Tor，端口是 <code>8118</code>，绑定在 <code>127.0.0.1</code><br/>
 　　如果俺希望建立一个新的端口，端口号是 <code>12345</code>（这个端口号是俺随手编的，你也可以用其它端口号），绑定在 <code>0.0.0.0</code> 上，那么就执行如下命令。然后，发往 <code>12345</code> 端口的数据流就会被转发到 <code>8118</code> 端口。<br/>
-<pre style="white-space:pre-wrap;">netsh interface portproxy add v4tov4 listenport=<b>12345</b> listenaddress=<b>0.0.0.0</b> connectaddress=<b>127.0.0.1</b> connectport=<b>8118</b> protocol=tcp</pre><br/>
-　　为了保险起见，再用前面介绍的 netstat 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行<br/>
-<pre>TCP  0.0.0.0:12345  0.0.0.0:0  LISTENING</pre><br/>
+<pre class="shell">netsh interface portproxy add v4tov4 listenport=<b>12345</b> listenaddress=<b>0.0.0.0</b> connectaddress=<b>127.0.0.1</b> connectport=<b>8118</b> protocol=tcp</pre><br/>
+　　为了保险起见，再用前面介绍的 netstat 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行输出<br/>
+<pre class="shell">TCP  0.0.0.0:12345  0.0.0.0:0  LISTENING</pre><br/>
 　　如果要删除该端口转发，就执行如下命令<br/>
-<pre>netsh interface portproxy delete v4tov4 listenport=<b>12345</b> listenaddress=<b>0.0.0.0</b></pre>　　删除之后，再用 <code>netstat</code> 命令查一下，这个 <code>12345</code> 的监听端口就看不到了<br/>
+<pre class="shell">netsh interface portproxy delete v4tov4 listenport=<b>12345</b> listenaddress=<b>0.0.0.0</b></pre>　　删除之后，再用 <code>netstat</code> 命令查一下，这个 <code>12345</code> 的监听端口就看不到了<br/>
 <br/>
 　　<b>优点</b><br/>
 1. 无需安装任何第三方软件<br/>
@@ -120,9 +120,9 @@ A 监听端口是新开的，而且绑定地址是 <code>0.0.0.0</code><br/>
 2. 运行 <code>cmd</code> 进入 Windows 的命令行窗口（黑窗口）<br/>
 3. 使用 <code>cd</code> 命令切换当前目录，使得“当前目录”是 <code>rinetd.exe</code> 所在的目录（不会用 <code>cd</code> 命令的同学，请自行 Google 之）<br/>
 4. 然后执行如下命令<br/>
-<pre>rinetd.exe -c <b>config.txt</b></pre><br/>
-　　<b>上述命令执行之后，命令行窗口的光标会停止不动。不要以为 rinetd 死了，其实它已经开始工作。【这时候千万不要关闭这个 cmd 窗口】</b>。为了保险起见，另外开一个 cmd 窗口，再用前面介绍的 <code>netstat</code> 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行<br/>
-<pre>TCP  0.0.0.0:12345  0.0.0.0:0  LISTENING</pre><br/>
+<pre class="shell">rinetd.exe -c config.txt</pre><br/>
+　　<b>上述命令执行之后，命令行窗口的光标会停止不动。不要以为 rinetd 死了，其实它已经开始工作。【这时候千万不要关闭这个 cmd 窗口】</b>。为了保险起见，另外开一个 cmd 窗口，再用前面介绍的 <code>netstat</code> 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行输出<br/>
+<pre class="shell">TCP  0.0.0.0:12345  0.0.0.0:0  LISTENING</pre><br/>
 　　<b>优点</b><br/>
 1. 该软件很小巧（整个下载包才 100 多 KB），而且是绿色软件。几乎不占用啥系统资源<br/>
 2. 无需管理员即可运行<br/>
@@ -152,8 +152,8 @@ A 监听端口是新开的，而且绑定地址是 <code>0.0.0.0</code><br/>
 <br/>
 　　<b>运行</b><br/>
 　　直接双击 <code>privoxy.exe</code><br/>
-　　为了保险起见，再用前面介绍的 <code>netstat</code> 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行<br/>
-<pre>TCP  0.0.0.0:8118  0.0.0.0:0  LISTENING</pre><br/>
+　　为了保险起见，再用前面介绍的 <code>netstat</code> 命令，看一下本机开启的端口。如果正常的话，你就可以看到如下一行输出<br/>
+<pre class="shell">TCP  0.0.0.0:8118  0.0.0.0:0  LISTENING</pre><br/>
 　　引申阅读：<br/>
 　　Privoxy 是一款功能很强大的工具。为了帮大伙儿更好地利用它，俺专门写了《<a href="../../2014/12/gfw-privoxy.md">如何用 Privoxy 辅助翻墙？</a>》，有兴趣的同学可以去看一下。<br/>
 <br/>

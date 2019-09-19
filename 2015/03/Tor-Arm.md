@@ -7,7 +7,7 @@
 　　对于 Tor 的大多数用户，应该都用过 Vidalia——这是 Tor 的 GUI 前端图形界面，基于 Qt 开发，能够跨平台使用。俺使用它已经有好些年头了，用得很顺手。<br/>
 　　非常遗憾的是，Vidalia 已经【停止开发】了。最主要的征兆是——Tor 官网上已经把它的相关介绍页面移除了。另一个征兆是：某些 Linux 的发行版已经把 Vidalia 从内置的软件仓库中移除。<br/>
 　　有鉴于此，俺必须要介绍一下 Vidalia 的替代品——Arm。<b>今天这篇的重点是：如何用 Arm 搭配使用“裸tor”</b>。<br/>
-　　因为 Vidalia 死亡之后，Tor 官网上很多基于 Vidalia 的软件包自然也消失了。如今 <a href="https://www.torproject.org/download/download" rel="nofollow" target="_blank">Tor 官网的下载页面</a>只剩下两种下载选项：“Tor Browser”和“裸 Tor”。“裸 Tor”只有命令行界面，很难用。这时候 Arm 就派上用场啦。<br/>
+　　因为 Vidalia 死亡之后，Tor 官网上很多基于 Vidalia 的软件包自然也消失了。如今 <a href="https://www.torproject.org/download/download" rel="nofollow" target="_blank">Tor 官网的下载页面</a>只剩下两种下载选项：“Tor Browser”和“裸 Tor”。“裸 Tor”只有命令行界面（CLI），很难用。这时候 Arm 就派上用场啦。<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★Arm 是啥？</h2><br/>
@@ -22,7 +22,7 @@
 　　Arm 相比 Vidalia 的优点在于：<br/>
 1. 支持纯命令行的仿真图形界面（用字符方式仿真窗口和菜单），可以在【纯文本终端】上使用。<br/>
 2. 非常轻量级——本身的源代码压缩包不到 300kb<br/>
-3. 如果只用它的命令行方式，不需要依赖 GTK 和 Qt（相比之下，Vidalia 需要 Qt 运行库）<br/>
+3. 如果只用它的命令行方式，【无须】依赖 GTK 或 Qt 之类的运行库（相比之下，Vidalia 需要 Qt）<br/>
 4. 提供一个高级的交互模式，可以直接跟运行中的 TOR 客户端进行交互（面向那些非常熟悉 Tor 的高级用户）<br/>
 5. 同时也支持图形模式（需要依赖 GTK 和 python 的某个第三方图表库）<br/>
 <br/>
@@ -48,11 +48,10 @@
 <h3>◇从 Linux 发行版的软件仓库安装</h3><br/>
 　　主流的几个 Linux 发行版，已经把 Arm 内置到发行版的软件仓库中。如果你使用的是如下的发行版，应该可以直接安装，无需去 Arm 官网下载。<br/>
 软件仓库内置 Arm 的 Linux 发行版至少包括：<br/>
-Debian<br/>
+<blockquote style="background-color:#DDD;">Debian<br/>
 Arch<br/>
 Gentoo<br/>
-Slackware<br/>
-（另外， FreeBSD 的软件仓库也内置了 Arm 了）<br/>
+Slackware</blockquote>（另外，FreeBSD 的软件仓库也内置了 Arm 了）<br/>
 <br/>
 　　提醒一下：<br/>
 　　某些发行版中，软件包的名称是“arm”；还有些发行版中，软件包的名称是“tor-arm”<br/>
@@ -116,16 +115,16 @@ Slackware<br/>
 <h3>◇增加“前置代理”</h3><br/>
 　　如果你位于墙内，“裸 Tor”是无法独立联网的。因此，你需要为 Tor 设置“前置代理”，组合成俺经常唠叨的“双重代理”。关于“双重代理”的原理和优点，之前已经写过专门的博文（请看“<a href="../../2010/04/howto-cover-your-tracks-0.md">这个系列</a>”的其中一篇）。关于这方面的内容，本文就不再重复罗嗦了。今天重点说一下如何修改 Tor 的配置文件。<br/>
 　　虽然 Arm 的界面上提供了对 Tor 的配置选项的修改，但是那个界面很难用。而且有时候修改了还没法保存（原因未知，疑似 Bug）。所以，俺强烈建议大伙儿直接手动修改 Tor 的配置文件。<br/>
-　　如果你的 Tor 是被 Arm 启起来的，arm 会在 <code>~/.arm/torrc</code> 生产 Tor 的默认配置文件。你只需修改这个文件，加入前置代理的配置信息。具体步骤如下：<br/>
+　　如果你的 Tor 是被 Arm 启起来的，arm 会在 <code>~/.arm/torrc</code> 生成 Tor 的默认配置文件。你只需修改这个文件，加入前置代理的配置信息。具体步骤如下：<br/>
 1.<br/>
 先把 Arm 和 Tor 都停掉（通过 Arm 菜单中的“Exit”）<br/>
 2.<br/>
 用你喜欢的文本编辑器打开 <code>~/.arm/torrc</code><br/>
 3.<br/>
-如果你的前置代理提供的是 HTTPS 代理，在该文件尾部加入如下一行（把 xxxx 替换为前置代理的 IP，把 xx 替换为代理的端口）<br/>
-<pre>HTTPSProxy  xxxx:xx</pre>如果你的前置代理提供的是 SOCKS 代理，在该文件尾部加入如下一行（SOCKS 代理有两种协议，分别是 SOCKS4 和 SOCKS5，别搞错喽）<br/>
-<pre>Socks4Proxy  xxxx:xx</pre>或<br/>
-<pre>Socks5Proxy  xxxx:xx</pre>4.<br/>
+如果你的前置代理提供的是 HTTPS 代理，在该文件尾部加入如下一行（把 x.x.x.x 替换为前置代理的 IP，把 xx 替换为代理的端口）<br/>
+<pre>HTTPSProxy  x.x.x.x:xx</pre>如果你的前置代理提供的是 SOCKS 代理，在该文件尾部加入如下一行（SOCKS 代理有两种协议，分别是 SOCKS4 和 SOCKS5，别搞错喽）<br/>
+<pre>Socks4Proxy  x.x.x.x:xx</pre>或<br/>
+<pre>Socks5Proxy  x.x.x.x:xx</pre>4.<br/>
 重新启动 Arm，这时候它会用洋文问你“是否使用上次保存的配置”，你【<b>必须选择这个选项</b>】。<br/>
 <br/>
 　　当你把前置代理配置好，重新运行 Arm，这时候 Tor 就会通过前置代理联网。当 Tor 客户端完成联网，在 Arm 的第一个标签页上，就可以看到 Tor 的流量（截图如下）<br/>
@@ -143,11 +142,11 @@ Slackware<br/>
 <br/>
 <br/>
 <h2>★Arm 的配置</h2><br/>
-　　Arm 本身也提供了配置功能。其配置文件的示例位于如下路径：<br/>
-<pre>/usr/share/doc/arm/armrc.sample</pre>　　用文本编辑器打开这个示例文件，基本上能看明白各个选项是啥意思。<br/>
-　　要定制 Arm 的配置选项，先把这个示例文件 copy 到 <code>~/.arm/armrc</code> 进行修改。<br/>
+　　Arm 本身也提供了配置功能。其配置文件的示例位于：<code>/usr/share/doc/arm/armrc.sample</code><br/>
+　　用文本编辑器打开这个示例文件，基本上能看明白各个选项是啥意思。<br/>
+　　要定制 Arm 的配置选项，先把这个示例文件复制到 <code>~/.arm/armrc</code> 进行修改。<br/>
 　　修改完这个配置文件之后，使用如下命令启动 Arm<br/>
-<pre>arm -c ~/.arm/armrc</pre><br/>
+<pre class="shell">arm -c ~/.arm/armrc</pre><br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　关于 Arm 的使用，如果你碰到啥困难或问题，可以到本文留言。<br/>

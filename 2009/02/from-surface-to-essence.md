@@ -18,9 +18,10 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2009/07/book-review-are-your-lights-on.md">书评：《你的灯亮着吗？——找到问题的真正所在》</a><br/>
-<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a><br/>
-<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>
+《<a href="../../2009/07/book-review-are-your-lights-on.md">书评：＜你的灯亮着吗？——找到问题的真正所在＞</a>》<br/>
+《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
+《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
+《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>
 </div>
 
 

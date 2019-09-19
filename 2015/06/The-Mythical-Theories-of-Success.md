@@ -5,8 +5,8 @@
 <div class="post-body entry-content">
 <h2>★引子</h2><br/>
 　　今天来聊一聊成功学的话题。这个话题是俺早就想聊的，之前也有若干热心读者提过此建议。<br/>
-　　上个月，俺发了一篇《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见</a>》。实际上是为今天这篇作铺垫。在看本文之前，建议你先复习一下：何为“幸存者偏见”。<a name="more"></a><br/>
-<br/>
+　　上个月，俺发了一篇《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见</a>》。实际上是为今天这篇作铺垫。在看本文之前，建议你先复习一下：何为“幸存者偏见”。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★成功学的危害——【单一化】“价值取向”和“人生追求”</h2><br/>
 　　在聊“谬误”之前，先聊聊“危害性”。<br/>
@@ -153,13 +153,14 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈《自我管理》——《哈佛商业评论》史上最受欢迎的文章</a><br/>
-<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：《反脆弱——从不确定性中获益》</a><br/>
-<a href="../../2014/09/oversimplification.md">各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”</a><br/>
-<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a><br/>
-<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a><br/>
-<a href="../../2015/10/What-is-Science.md">科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误</a><br/>
-<a href="../../2009/02/80-20-principle-0-overview.md">无处不在的二八原理</a>
+《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
+《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
+《<a href="../../2014/09/oversimplification.md">各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
+《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
+《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
+《<a href="../../2015/10/What-is-Science.md">科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误</a>》<br/>
+《<a href="../../2009/02/80-20-principle-0-overview.md">无处不在的二八原理</a>》（系列）
 </div>
 
 

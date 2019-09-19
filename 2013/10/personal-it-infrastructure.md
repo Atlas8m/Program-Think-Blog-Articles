@@ -104,10 +104,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a><br/>
-<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机（系列）</a><br/>
-<a href="https://program-think.blogspot.de/2013/07/online-backup-virtual-encrypted-disk.html">文件备份技巧：组合"虚拟加密盘"和"网盘"</a><br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验（系列）</a><br/>
+《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
+《<a href="https://program-think.blogspot.de/2013/07/online-backup-virtual-encrypted-disk.html">文件备份技巧：组合"虚拟加密盘"和"网盘"</a>》<br/>
+《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验</a>》（系列）<br/>
 <a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源（系列）</a>
 </div>
 

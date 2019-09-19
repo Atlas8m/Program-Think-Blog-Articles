@@ -20,7 +20,7 @@
 <h3>◇关于【匿名化】</h3><br/>
 　　本文的主题是——<b>如何让【没有】代理功能的软件，也通过代理进行联网</b>。<br/>
 　　对于特别注重隐私和匿名的同学，仅仅使用“代理”当然是【不够】滴！<b>为了实现【匿名性】，你不仅要让网络软件走代理，而且还要通过【匿名网络】来消除网络痕迹。</b><br/>
-　　所以，在本文每一个方法论的末尾，都附上一个<q style="background-color:#DDD;">如何匿名化</q>的小节。讲述该方法论如何搭配【匿名网络】。（为了打字省力，俺以 Tor 来举例；使用 I2P 的同学，请依样画葫芦。）<br/>
+　　所以，在本文每一个方法论的末尾，都附上一个<q>如何匿名化</q>的小节。讲述该方法论如何搭配【匿名网络】。（为了打字省力，俺以 Tor 来举例；使用 I2P 的同学，请依样画葫芦。）<br/>
 <br/>
 　　由于本文讨论的是【代理】的话题，所以本文涉及的【隐匿性措施】都仅仅是【网络层面】。但俺要强调的是——<b>为了做到彻底的防范，你需要在【每一个层面】保护你的隐匿性</b>。很多人虽然使用 Tor，但还是暴露了身份。因为他们【忽视】了其它某些层面的防范。<br/>
 　　下面这篇教程介绍了<b>【每一个层面】的防范</b>：<br/>
@@ -85,7 +85,7 @@
 　　简而言之，VPN 具有类似于“全局代理”的效果。也就是说，只要操作系统中开启了 VPN，整个系统中所有软件的网络传输，都会自动通过 VPN 服务器中转。所以，就算某个软件本身不支持代理，只要该软件运行在 VPN 的环境中，该软件的网络传输也会经过 VPN 服务器中转。此时，目标网站看到的是【VPN 服务器】的 IP 地址。<br/>
 <br/>
 　　数据流的示意图如下：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 <h3>◇优点——配置简单</h3><br/>
 　　由于 VPN 本身具有“全局代理”的效果，网络软件【无需任何配置】。<br/>
 　　这是该方案最主要的优点。<br/>
@@ -102,9 +102,9 @@
 　　某些 VPN 软件（比如 VPNgate）本身提供了【代理设置】的功能——也就是说，可以让【VPN 客户端】通过代理联网。<br/>
 　　对于这类 VPN，你可以采用【VPN over Tor】的方式，就可以实现【匿名化】。由于 VPN 本身具有【全局】性质，所以你在搞“VPN over Tor”的招数时，“Tor 客户端”必须位于【另一台主机】。<br/>
 　　对于【VPN over Tor】的方式，就算 VPN 服务器记录了【访问者 IP】，这个 IP 也只不过是【Tor 出口节点】的 IP，与你本人的公网 IP 毫无关系。由于 Tor 的匿名网络会经过【三次随机跳转】，而且每隔几分钟就会变换线路（详情参见《<a href="../../2013/11/tor-faq.md">关于 Tor 的常见问题解答</a>》）；这种情况下，逆向追溯非常非常难。数据流的示意图如下：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　如果你采用俺常年唠叨的【基于 TOR 的双重代理】，让某个翻墙工具作为 Tor 的【前置代理】，则数据流变得更加复杂（逆向追溯【更加不可能】）：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==&gt;&gt;  VPN客户端  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  VPN服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　请注意：<br/>
 　　由于 Tor 有很长一段时间（2010~2014）无法在天朝独立联网（GFW 屏蔽了 Tor 在全球的节点），因此很多墙内的同学会采用“Tor over VPN”的方式，让 Tor 联网。“Tor over VPN”与“VPN over Tor”，这两者是【相反】滴，别搞混喽。<br/>
 <br/>
@@ -136,7 +136,7 @@
 　　<b>SocksCap（Windows）</b><br/>
 　　在 Windows 的同类软件中，SocksCap 大概是最老牌滴。使用教程参见“<a href="https://www.socksproxychecker.com/sockscap.html" rel="nofollow" target="_blank">这个页面</a>”。<br/>
 　　目前网上流传最广的是 2.40 版本，大约2006年左右发布。开发该软件的“Permeo 公司”如今已经没了，当年的官网也没了。如果你要找这个软件，要从【靠谱的】网站下载。保险起见，附上 2.40 版本安装包的 SHA256 校验码（如下）<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">f381cae0f28d72bd1380159ca80b09e5526aa53d49d8dc963f7eace0c8f32d97</blockquote>　　由于 SocksCap 只能对32位的软件进行注入。如今“64位系统”越来越流行，它就显得有点落伍了；后来有人开发了一个 SocksCap64，基本模仿 SocksCap 的功能，但可以支持64位系统。<br/>
+<pre>f381cae0f28d72bd1380159ca80b09e5526aa53d49d8dc963f7eace0c8f32d97</pre>　　由于 SocksCap 只能对32位的软件进行注入。如今“64位系统”越来越流行，它就显得有点落伍了；后来有人开发了一个 SocksCap64，基本模仿 SocksCap 的功能，但可以支持64位系统。<br/>
 　　请注意，SocksCap64 与 SocksCap 虽然名称差不多，但这俩的作者【完全没关系】。<br/>
 　　使用过程中，有个细节要提醒一下——小心 DNS 泄露信息。<br/>
 　　SocksCap 的界面上可以配置“域名解析”（Name Resolution）。你要记得用【远程解析】。<br/>
@@ -144,7 +144,7 @@
 　　<b>tsocks（Linux &amp; Mac OS &amp; BSD）</b><br/>
 　　你可以把这个软件理解为“Linux 版的 SocksCap”。其官网在“<a href="http://tsocks.sourceforge.net/" rel="nofollow" target="_blank">这里</a>”。<br/>
 　　它的最后一个版本发布于2002年10月。可能是因为功能本身很简单，而且也不需要再加新功能，所以就没有更新了。<br/>
-　　顺便说一下：几大主流的 Linux 发行版（Debian、Fedora、Arch、Gentoo ......），其软件仓库中都已经包含了 tsocks。<br/>
+　　顺便说一下：几大主流的 Linux 发行版（Debian 家族、Fedora 家族、Arch 家族、Gentoo 家族 ......），其软件仓库中都已经包含了 tsocks。<br/>
 <br/>
 　　<b>ProxyChains（Linux &amp; Mac OS &amp; BSD）</b><br/>
 　　proxychains 相当于 tsocks 的增强版，包括如下特性：<br/>
@@ -152,7 +152,7 @@
 2. 可以实现【链式】的代理（ProxyChains 这个名称就来自于此）<br/>
 3. 用户可以定义一堆代理，让它“随机选择”<br/>
 　　它的官网在“<a href="http://proxychains.sourceforge.net/" rel="nofollow" target="_blank">这里</a>”。后来又出了 proxychains-ng （ng 表示“new generation”），官网在“<a href="https://github.com/rofl0r/proxychains-ng" rel="nofollow" target="_blank">这里</a>”<br/>
-　　顺便说一下：几大主流的 Linux 发行版（Debian、Fedora、openSUSE、Arch、Gentoo ......），其软件仓库中都已经包含了 ProxyChains 或 ProxyChains-ng。<br/>
+　　顺便说一下：几大主流的 Linux 发行版（Debian 家族、Fedora 家族、openSUSE 家族、Arch 家族、Gentoo 家族 ......），其软件仓库中都已经包含了 ProxyChains 或 ProxyChains-ng。<br/>
 <br/>
 　　<b>PySocks（专用于 python）</b><br/>
 　　作为曾经的程序猿，而且还比较喜欢 Python，顺便介绍一个库（如果你不是搞 Python 开发的，这个东东与你无关）。<br/>
@@ -165,11 +165,11 @@
 <br/>
 <h3>◇如何匿名化？</h3><br/>
 　　如果你使用普通的翻墙代理，数据流的示意图如下：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　为了强化【隐匿性】，你可以改用 Tor 匿名网络，数据流的示意图如下（逆向追溯已经非常难）<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　如果你采用俺常年唠叨的【基于 TOR 的双重代理】，让某个翻墙工具作为 Tor 的【前置代理】，则数据流变得更加复杂（逆向追溯【更加不可能】）：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(进程注入工具转发)==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 <br/>
 <h2>★方案3：对“端口转发工具”的进程注入（某些情况需要改 hosts）</h2><br/>
 　　（注：本文开头部分的“预备知识”已经提到了【端口转发】的概念）<br/>
@@ -231,7 +231,7 @@
 <br/>
 <h2>★方案4：防火墙转发——本机模式</h2><br/>
 　　前面介绍的几个招数，都有一些严重缺陷，令人不爽：<br/>
-<blockquote style="background-color:#DDD;">方案1：VPN——不够灵活<br/>
+<blockquote>方案1：VPN——不够灵活<br/>
 方案2：对网络软件的进程注入——兼容性差<br/>
 方案3：hosts + 端口转发——只适用于“通讯对端比较固定”的网络软件</blockquote>　　<b>下面要介绍的是【终极大杀器】，可以解决前面所有弊端</b>，那就是——<br/>
 “防火墙”转发给“透明代理”（Transparent Proxy），然后“透明代理”再转给真实代理（比如 Tor）。<br/>
@@ -301,7 +301,7 @@
 　　【注意事项1】<br/>
 　　对于“本机模式”，redsocks 监听端口可以绑定到 <code>127.0.0.1</code>，也可以绑定到 <code>0.0.0.0</code>，但【不要】绑定到网卡的 IP 地址。<br/>
 　　【注意事项2】<br/>
-　　如果你要转发的“实际代理”是“HTTP 代理”，要区分不同类型（参见本文开头的<q style="background-color:#DDD;">预备知识</q>章节）。<br/>
+　　如果你要转发的“实际代理”是“HTTP 代理”，要区分不同类型（参见本文开头的<q>预备知识</q>章节）。<br/>
 　　在 redsocks 配置文件中，用 <code>http-connect</code> 表示“HTTP 隧道”，用 <code>http-relay</code> 表示“HTTP 转发”。<br/>
 　　【注意事项3】<br/>
 　　redsocks 每次接收到数据会记录日志（你可以在它的配置文件中指定日志文件的位置）<br/>
@@ -325,11 +325,11 @@
 　　（下面以 redsocks 为例）<br/>
 <br/>
 　　如果 redsocks 把数据转发给普通的翻墙代理，数据流的示意图如下：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　让 redsocks 把数据转发给本机的 Tor，就可以实现匿名化。数据流的示意图如下（逆向追溯已经非常难）<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 　　如果你采用俺常年唠叨的【基于 TOR 的双重代理】，让某个翻墙工具作为 Tor 的【前置代理】，则数据流变得更加复杂（逆向追溯【更加不可能】）：<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
+<blockquote>网络软件  &lt;&lt;==(内核防火墙转发)==&gt;&gt;  redsocks  &lt;&lt;==&gt;&gt;  Tor客户端  &lt;&lt;==&gt;&gt;  翻墙工具客户端  &lt;&lt;==&gt;&gt;  翻墙服务器  &lt;&lt;==&gt;&gt;  Tor匿名网络（3重跳转）  &lt;&lt;==&gt;&gt;  目标网站</blockquote><br/>
 <br/>
 <h2>★方案5：防火墙转发——网关模式</h2><br/>
 　　接下来聊“防火墙转发”的另一个模式——网关模式。<br/>
@@ -378,7 +378,7 @@
 　　类似“方案4”，通过配置网关的防火墙规则，使得所有“隔离主机”的 DNS 数据包被转向 redsocks 的 UDP 端口。<br/>
 <br/>
 　　<b>方法2</b><br/>
-　　你也可以让“网关主机”充当 DNS server，然后在“隔离主机”中配置 DNS，指向“网关主机”。如此一来，所有“隔离主机”的 DNS 请求都由“网关主机”完成，然后“网关主机”采用【DNS proxy】的技巧（具体参见前一个章节的<q style="background-color:#DDD;">关于 DNS 的转发</q>）。<br/>
+　　你也可以让“网关主机”充当 DNS server，然后在“隔离主机”中配置 DNS，指向“网关主机”。如此一来，所有“隔离主机”的 DNS 请求都由“网关主机”完成，然后“网关主机”采用【DNS proxy】的技巧（具体参见前一个章节的<q>关于 DNS 的转发</q>）。<br/>
 <br/>
 　　以上两种方法，都可以确保你的所有主机的所有 DNS 请求通过自己指定的代理，而你只需在网关一个地方进行配置。<br/>
 <br/>
@@ -389,7 +389,7 @@
 　　对于特别注重隐匿性的同学，肯定希望让每个“隔离主机”都用上【匿名网络】（比如 Tor）。这时候就涉及到——“Tor 如何部署”这个问题。<br/>
 　　关于这个话题，可能很多人会觉得——把 Tor 和 Tor 的前置代理都放到“网关主机”。<br/>
 　　这么干，配置会比较简单。但俺认为这种部署方式【不好】！<br/>
-　　因为这样部署，你的 N 个“隔离主机”会共用同一个 Tor 环境。这样有啥风险捏？具体解释请参见《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》一文中的 <q style="background-color:#DDD;">★【网络】层面的防范</q> 这个章节。<br/>
+　　因为这样部署，你的 N 个“隔离主机”会共用同一个 Tor 环境。这样有啥风险捏？具体解释请参见《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》一文中的 <q>★【网络】层面的防范</q> 这个章节。<br/>
 　　所以，更好的部署是：【每个隔离主机】都有自己的 Tor 客户端，“网关主机”只部署“透明代理”和“Tor 的前置代理”。如此一来，每个隔离主机都有【各自独立】的 Tor 环境。<br/>
 <br/>
 <br/>
@@ -403,7 +403,7 @@
 《<a href="../../2014/12/gfw-privoxy.md">如何用 Privoxy 辅助翻墙？</a>》<br/>
 《<a href="../../2018/10/Comparison-of-DNS-Protocols.md">对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS</a>》<br/>
 《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》<br/>
-《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
 《<a href="../../2015/03/Tor-Arm.md">扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）</a>》<br/>

@@ -4,8 +4,8 @@
 
 <div class="post-body entry-content">
 <h2>★背景介绍</h2><br/>
-　　今天转载的这篇《管理自己》，洋文叫做《Managing Oneself》。此文刊登在十年前（2008）的《哈佛商业评论》（HBR）上，号称是 HBR“有屎以来”（创刊后）重印次数最多的文章。<a name="more"></a><br/>
-<br/>
+　　今天转载的这篇《管理自己》，洋文叫做《Managing Oneself》。此文刊登在十年前（2008）的《哈佛商业评论》（HBR）上，号称是 HBR“有屎以来”（创刊后）重印次数最多的文章。<br/>
+<a name="more"></a><br/>
 <h3>◇关于《<a href="https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E6%A5%AD%E8%A9%95%E8%AB%96" rel="nofollow" target="_blank">哈佛商业评论</a>》（<a href="https://en.wikipedia.org/wiki/Harvard_Business_Review" rel="nofollow" target="_blank">Harvard Business Review</a>）</h3><br/>
 　　《哈佛商业评论》，简称“HBR”。在管理界，那可算是大名鼎鼎、如雷贯耳。别的不说，单凭它出自同样大名鼎鼎的【<a href="https://zh.wikipedia.org/wiki/%E5%93%88%E4%BD%9B%E5%95%86%E5%AD%A6%E9%99%A2" rel="nofollow" target="_blank">哈佛大学商学院</a>】，就知道这刊物的逼格有多高。<br/>
 　　顺便说一下：再过4年（2022），该刊物就将迎来百年庆。<br/>
@@ -28,10 +28,10 @@
 《下一个社会的管理》（Managing in the Next Society）　2002年</blockquote><br/>
 <h3>◇关于此文</h3><br/>
 　　今天分享的这篇《Managing Oneself》实际上是摘自他1999年出版的《<b>21世纪的管理挑战</b>》一书的第6章（也是最后一章）。<br/>
-　　为啥俺要分享此文？因为【<b>这篇长文对每个人都很有帮助</b>】。通过此文的借鉴，可以帮助你更好地规划自己的职业生涯和人生。<br/>
+　　为啥俺要分享此文？因为，这篇长文【<b>对每个人都很有帮助</b>】。通过此文的借鉴，可以帮助你更好地规划自己的职业生涯和人生。<br/>
 　　这篇文章在网上有很多转载，但有些转载不全（删节了部分段落）。俺对比了几个不同的网站，汇总了一个比较全的版本；然后根据俺自己的理解，标注了重点（文中的粗体）。另外，文章中的插图也是俺从网上找来滴。<br/>
 <br/>
-　　（这篇博文发出后，俺顺便把《21世纪的管理挑战》一书也放到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上）<br/>
+　　（这篇博文发出后，俺顺便把《<a href="https://docs.google.com/document/d/17XIUfhd7pjuGLMyqjjh9TY8Q5oWcEUqPmwU49fGGaHY/" rel="nofollow" target="_blank">21世纪的管理挑战</a>》一书也放到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上）<br/>
 <br/>
 ================================ 华丽的分割线 ================================<br/>
 <br/>
@@ -263,13 +263,14 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a><br/>
-<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a><br/>
-<a href="../../2015/12/Hobbies-and-Interests.md">什么是【真正的】兴趣爱好？以及它有啥好处？</a><br/>
-<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a><br/>
-<a href="../../2016/04/Andy-Grove-Quotes-on-Leadership.md">硅谷 CEO 们的教父——分享安迪·格鲁夫的管理经验</a><br/>
-<a href="../../2009/01/0.md">如何成为优秀开发人员</a>（系列）<br/>
-<a href="../../2013/04/why-write-blog.md">为啥俺要写这个博客——动机的自我分析</a>
+《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
+《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>
+《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT HOW WHY</a>》<br/>
+《<a href="../../2015/12/Hobbies-and-Interests.md">什么是【真正的】兴趣爱好？以及它有啥好处？</a>》<br/>
+《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
+《<a href="../../2016/04/Andy-Grove-Quotes-on-Leadership.md">硅谷 CEO 们的教父——分享安迪·格鲁夫的管理经验</a>》<br/>
+《<a href="../../2009/01/0.md">如何成为优秀开发人员</a>》（系列）<br/>
+《<a href="../../2013/04/why-write-blog.md">为啥俺要写这个博客——动机的自我分析</a>》
 </div>
 
 

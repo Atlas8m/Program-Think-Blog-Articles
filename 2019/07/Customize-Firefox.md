@@ -225,8 +225,8 @@
 <br/>
 　　<b>如何“压缩（重新打包）”？</b><br/>
 　　当你【修改完】<code>omni.ja</code> 内部的文件之后，要【重新打包】该文件。<br/>
-　　对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用命令 <code>zip -qr9XD omni.ja *</code><br/>
-<br/>
+　　对于 POSIX 环境（Linux &amp; UNIX），Mozilla 官网的文档建议使用如下命令：<br/>
+<pre class="shell">zip -qr9XD omni.ja *</pre><br/>
 <h3>◇定制“omni.ja”的注意事项</h3><br/>
 　　简单说几个注意事项：<br/>
 <br/>

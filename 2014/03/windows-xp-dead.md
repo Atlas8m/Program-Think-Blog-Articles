@@ -5,8 +5,8 @@
 <div class="post-body entry-content">
 <center><img alt="不见图 请翻墙" src="images/jdgUihQpERLBGSpfMgImK0eQC3DKtamlRwX966UjyFB1q2T2WsbAVB0ee1grPi3y24D2_fmrjyFusKYwgkJURAxEVulmrhSNSy94GFLf0HJCA5uUtvo_SSxD6CMbqBPs"/></center>　　再过三星期（到4月8日），微软就完全停止对 Windows XP 的支持了。据某些第三方统计的数字，天朝还有很高比例的用户继续在使用 XP（据说高达 60%）。<br/>
 　　刚才看了一下俺博客的后台统计，最近2个月的博客访问者中，Windows 系统占总数的 82.8% 左右，在使用 Windows 的读者中，有 22.4% 左右使用 WinXP（相当于总数的 18.5%）。看来会翻墙的读者，安全意识明显高于全国平均水平 :)<br/>
-　　即便如此，俺的读者中 XP 的比例依然太高。所以今天来介绍一下 XP 的替代品。<a name="more"></a><br/>
-<br/>
+　　即便如此，俺的读者中 XP 的比例依然太高。所以今天来介绍一下 XP 的替代品。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★“微软停止支持”意味着啥？</h2><br/>
 <h3>◇“Windows 系列”的生命周期</h3><br/>
@@ -49,11 +49,9 @@
 <br/>
 <br/>
 <h2>★如何替换 WinXP？</h2><br/>
-　　对于 WinXP 的替代品，可以有如下几种选择。<br/>
-<blockquote style="background-color:#DDD;">　　在具体介绍之前，先给大伙儿打个招呼：<br/>
-　　自从博客的访问量增大之后，貌似引起了微软的注意。去年有人在博客留言中提到 Windows 的注册码，然后俺就收到微软律师的 DMCA 警告信。因为俺博客搭建在 Google 的 BlogSpot 平台，必须得遵守美国的 DMCA 版权法。<br/>
-　　鉴于上述原因，俺不能在博客中详细介绍“如何破解 Windows”，也不能直接给出破解链接或盗版链接。对于这点，还望大伙儿体谅。大伙儿也不要在留言中发布这类信息（会被 Google 删除）。</blockquote><br/>
-<h3>◇Win7 / Win8</h3><br/>
+　　对于 WinXP 的替代品，可以有如下几种选择：<br/>
+<br/>
+<h3>◇Win7 or Win8</h3><br/>
 　　估计大多数网友首先想到的是这招。而且 Win7 和 Win8 已经是广为人知。所以俺只简单提一下。<br/>
 <br/>
 　　<b>优点1——支持的时间还很长</b><br/>
@@ -170,11 +168,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机(系列)</a><br/>
-<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用ISO镜像制作U盘安装盘（通用方法、无需WinPE）</a><br/>
-<a href="../../2014/02/hdd-install-windows.md">如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8</a><br/>
-<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统</a><br/>
-<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>
+《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
+《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用ISO镜像制作U盘安装盘（通用方法、无需WinPE）</a>》<br/>
+《<a href="../../2014/02/hdd-install-windows.md">如何用【内置硬盘】全新安装 Windows 2000/XP/2003/Vista/2008/7/8</a>》<br/>
+《<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统</a>》<br/>
+《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>》
 </div>
 
 

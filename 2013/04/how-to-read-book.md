@@ -142,14 +142,13 @@
 <h2>★如何读不同类型的书籍</h2><br/>
 　　这本书的如下章节，分别介绍了具体类型的书籍，有哪些阅读技巧。<br/>
 <br/>
-第13章 如何阅读实用型的书<br/>
+<blockquote>第13章 如何阅读实用型的书<br/>
 第14章 如何阅读想像文学<br/>
 第15章 如何阅读故事、戏剧、诗歌<br/>
 第16章 如何阅读历史书<br/>
 第17章 如何阅读科学与数学<br/>
 第18章 如何阅读哲学书<br/>
-第19章 如何阅读社会科学<br/>
-<br/>
+第19章 如何阅读社会科学</blockquote><br/>
 <br/>
 <h2>★阅读与心智的成长</h2><br/>
 　　这是此书最后一章的内容，包括如下几个小节：<br/>
@@ -189,13 +188,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a><br/>
-<a href="../../2010/10/book-review-asking-right-questions.md">书评：《学会提问——批判性思维指南》</a><br/>
-<a href="../../2013/05/difference-between-fact-and-opinion.md">批判性思维扫盲：学会区分"事实"与"观点"</a><br/>
-<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT HOW WHY</a><br/>
-<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a><br/>
-<a href="../../2010/02/about-mental-model.md">认识你自己——有关心智模式的扫盲介绍</a><br/>
-<a href="../../2009/01/choose-it-book.md">如何选择 IT 技术书籍</a>
+《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
+《<a href="../../2010/10/book-review-asking-right-questions.md">书评：＜学会提问——批判性思维指南＞</a>》<br/>
+《<a href="../../2013/05/difference-between-fact-and-opinion.md">批判性思维扫盲：学会区分"事实"与"观点"</a>》<br/>
+《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT HOW WHY</a>》<br/>
+《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2009/01/choose-it-book.md">如何选择 IT 技术书籍</a>》
 </div>
 
 

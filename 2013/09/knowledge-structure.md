@@ -103,7 +103,7 @@
 　　想解决某个主题，一般要运用许多“知识点”。所以再来聊聊“知识点”这个话题<br/>
 <br/>
 <h3>◇什么是“知识点”？</h3><br/>
-　　所谓的“知识点”，通常表示某个<b>有价值</b>的信息。为啥俺特地强调“有价值”这个定语捏？因为世间的信息有千千万万，绝大部分都是没有价值，不能算是“知识点”。<br/>
+　　所谓的“知识点”，通常表示某个【<b>有价值</b>】的信息。为啥俺特地强调“有价值”这个定语捏？因为世间的信息有千千万万，绝大部分都是没有价值，不能算是“知识点”。<br/>
 　　关于“知识”和“信息”的关系，有一个 <a href="https://en.wikipedia.org/wiki/DIKW_Pyramid" rel="nofollow" target="_blank">DIKW 模型</a>（Data Information Knowledge Wisdom），有兴趣的同学可以去看看。<br/>
 <br/>
 <h3>◇知识点的类型</h3><br/>
@@ -144,12 +144,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a><br/>
-<a href="../../2012/03/think-what-how-why.md">用提问促进思维——再谈 WHAT HOW WHY 三部曲</a><br/>
-<a href="../../2015/12/Hobbies-and-Interests.md">什么是【真正的】兴趣爱好？以及它有啥好处？</a><br/>
-<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——《哈佛商业评论》史上最受欢迎的文章</a><br/>
-<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a><br/>
-<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑手法——基于“双重思想”的思维控制</a>
+《<a href="../../2015/12/Hobbies-and-Interests.md">什么是【真正的】兴趣爱好？以及它有啥好处？</a>》<br/>
+《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a>》<br/>
+《<a href="../../2012/03/think-what-how-why.md">用提问促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2019/03/Why-Thinking-Hard-So-Hard.md">为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验</a>》<br/>
+《<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑手法——基于“双重思想”的思维控制</a>》<br/>
+《<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>》（系列）
 </div>
 
 

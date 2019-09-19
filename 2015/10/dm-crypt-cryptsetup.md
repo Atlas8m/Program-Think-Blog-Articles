@@ -9,10 +9,10 @@
 <br/>
 <h2>★引子</h2><br/>
 　　9月底，TrueCrypt 曝光了高危安全漏洞。于是俺在10月初写了<a href="../../2015/10/VeraCrypt.md">一篇教程</a>，介绍 VeraCrypt 这个替代品——它可以完全覆盖 TrueCrypt 原有的功能，并且在安全方面还所有增强（比如用 PIM 来对抗“抗暴力破解”）。<br/>
-　　那篇博文发出后，有些读者担心这个 VeraCrypt 本身是否可靠，是否会有后门。从目前 VeraCrypt 的口碑来看，这款工具应该还是比较靠谱的。当然，俺无法向你担保 VeraCrypt 一定没有后门（谁都没法打这个保票）。<br/>
-　　为了照顾那些“对安全要求特别高的同学”，今天俺来介绍另一款磁盘加密工具——Linux 内核自带的“dm-crypt”。<a name="more"></a><br/>
-　　在本文的结尾部分，俺也会聊到：如何在【不使用】TrueCrypt/VeraCrypt 软件的情况下使用它们的加密盘。<br/>
-<br/>
+　　那篇博文发出后，有些读者担心这个 VeraCrypt 本身是否可靠，是否会有后门。从目前 VeraCrypt 的口碑来看，这款工具应该还是比较靠谱滴！当然，俺无法向你担保 VeraCrypt 一定没有后门（谁都没法打这个包票）。<br/>
+　　为了照顾那些“对安全性要求【特别高】的同学”，今天来介绍另一款磁盘加密工具——Linux 内核自带的“dm-crypt”。<br/>
+　　另外，在本文的结尾部分，俺还会聊到：如何在【不使用】TrueCrypt/VeraCrypt 软件的情况下，使用它们的加密盘。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★本文的目标读者</h2><br/>
 　　既然是“扫盲”，本文主要面向那些不太懂技术的读者（技术菜鸟）。如今 Linux 已经比较普及了，有些技术菜鸟也开始玩 Linux。<br/>
@@ -114,18 +114,18 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <h3>◇查看版本号</h3><br/>
 　　使用如下命令行查看版本号。<br/>
-<pre>cryptsetup --version</pre>　　因为 dm-crypt/cryptsetup 的某些新功能，只有新版本才提供。比如 cryptsetup 的版本号必须大于等于【1.6.0】才能支持 TrueCrypt 的加密盘格式。<br/>
+<pre class="shell">cryptsetup --version</pre>　　因为 dm-crypt/cryptsetup 的某些新功能，只有新版本才提供。比如 cryptsetup 的版本号必须大于等于【1.6.0】才能支持 TrueCrypt 的加密盘格式。<br/>
 　　如果你要用到这些新功能，先看一下版本号，以确保已经支持。<br/>
 <br/>
 <h3>◇查看性能指标</h3><br/>
 　　使用如下命令查看 dm-crypt/cryptsetup 针对不同“加密算法”和“散列算法”的性能指标。<br/>
-<pre>cryptsetup benchmark</pre><br/>
+<pre class="shell">cryptsetup benchmark</pre><br/>
 <h3>◇创建加密盘</h3><br/>
 　　前面提到 dm-crypt/cryptsetup 支持的几种加密盘格式。作为扫盲教程，本文只介绍如何创建 LUKS 格式加密盘。<br/>
 　　另外，dm-crypt/cryptsetup 只能用来打开 TrueCrypt 或 VeraCrypt 的加密盘，但是【无法】创建。<br/>
 <br/>
 　　创建（格式化） LUKS 加密盘的命令，大致写法如下：<br/>
-<pre>cryptsetup 相关参数 luksFormat 物理设备或逻辑设备</pre>　　运行该命令之后，首先警告你，格式化会导致原有数据被覆盖。如果你确实要格式化，需要输入【大写】的 YES 进行确认。<br/>
+<pre class="shell">cryptsetup 命令参数 luksFormat 物理设备或逻辑设备</pre>　　运行该命令之后，首先警告你，格式化会导致原有数据被覆盖。如果你确实要格式化，需要输入【大写】的 YES 进行确认。<br/>
 　　然后会提示你输入两次密码（passphrase）。<br/>
 　　输入完密码，还要再稍等片刻（创建加密盘需要时间，具体的时长取决于加密盘的大小以及相关的加密参数）。<br/>
 <br/>
@@ -140,24 +140,24 @@ Serpent-Twofish-AES</td></tr>
 <tr><td>--hash</td><td>散列算法</td><td>sha512</td><td>N/A</td></tr>
 <tr><td>--iter-time</td><td>迭代时间</td><td>最好大于10000</td><td>单位是毫秒。该值越大，暴力破解越难；但是你在打开加密盘时也要等待更久</td></tr>
 </tbody></table></center>　　下面给一个具体的例子——用 LUKS 方式创建（格式化）加密盘，该加密盘位于 <code>/dev/sda2</code> 分区<br/>
-<pre>cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
+<pre class="shell">cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
 <h3>◇打开加密盘</h3><br/>
 　　dm-crypt/cryptsetup 可以打开前面提及的各种格式的加密（只要是它支持的格式，就可以打开）。<br/>
 　　命令行大致的写法如下：<br/>
-<pre>cryptsetup open --type 类型名 已加密的物理设备或逻辑设备 映射名</pre>　　上述命令行中的 <code>open --type 类型名</code>，也可以改用某种简写形式。<br/>
+<pre class="shell">cryptsetup open --type 类型名 已加密的物理设备或逻辑设备 映射名</pre>　　上述命令行中的 <code>open --type 类型名</code>，也可以改用某种简写形式。<br/>
 　　比如下面这个命令：<br/>
-<pre>cryptsetup open --type luks 已加密的物理设备或逻辑设备 映射名</pre>　　其实等价于如下：<br/>
-<pre>cryptsetup luksOpen 物理设备或逻辑设备 映射名</pre>　　下面举个具体的例子：<br/>
+<pre class="shell">cryptsetup open --type luks 已加密的物理设备或逻辑设备 映射名</pre>　　其实等价于如下：<br/>
+<pre class="shell">cryptsetup luksOpen 物理设备或逻辑设备 映射名</pre>　　下面举个具体的例子：<br/>
 　　假设物理分区 <code>/dev/sda2</code> 采用 LUKS 加密，那么你可以用如下命令打开（命令中的 <code>xxx</code> 是映射名，你可以换成其它单词）<br/>
-<pre>cryptsetup luksOpen /dev/sda2 xxx</pre>　　执行上述命令后，原有的加密分区 <code>/dev/sda2</code> 就被解密并映射到 <code>/dev/mapper/xxx</code><br/>
+<pre class="shell">cryptsetup luksOpen /dev/sda2 xxx</pre>　　执行上述命令后，原有的加密分区 <code>/dev/sda2</code> 就被解密并映射到 <code>/dev/mapper/xxx</code><br/>
 　　打开加密盘之后，你就【不要】再去操作 <code>/dev/sda2</code> 了，而应该去操作 <code>/dev/mapper/xxx</code><br/>
 <br/>
 <h3>◇查看加密盘状态</h3><br/>
 　　当你已经打开某个加密盘之后，可以用如下命令查看该加密盘的状态。<br/>
-<pre>cryptsetup status 映射名</pre><br/>
+<pre class="shell">cryptsetup status 映射名</pre><br/>
 <h3>◇关闭加密盘</h3><br/>
 　　当你已经打开某个加密盘之后，可以用如下命令关闭该加密盘。<br/>
-<pre>cryptsetup close 映射名</pre><br/>
+<pre class="shell">cryptsetup close 映射名</pre><br/>
 　　与 <code>open</code> 类似，cryptsetup 也对 <code>close</code> 提供了相应的别名（比如：<code>luksClose 和 tcryptClose</code>）<br/>
 　　实际上 cryptsetup 是根据已经打开的加密盘的 header 来判断该加密盘的类型。所以上述别名的意义不大。比如说，你对某个 TrueCrypt 的加密盘使用 <code>luksClose</code>，依然可以正确关闭，不会出错。<br/>
 <br/>
@@ -170,27 +170,27 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <h3>◇用 LUKS 方式加密（格式化）物理分区</h3><br/>
 　　使用前面章节提及的参数，对上述物理分区进行加密。得到一个加密分区。<br/>
-<pre>cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
+<pre class="shell">cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
 <h3>◇打开加密之后的文件容器</h3><br/>
 　　使用如下命令打开上述的加密分区，使用的映射名是 <code>xxx</code>（你也可以改用其它单词）。<br/>
-<pre>cryptsetup luksOpen /dev/sda2 xxx</pre>　　打开之后，该虚拟盘会被映射到 /dev/mapper/xxx<br/>
+<pre class="shell">cryptsetup luksOpen /dev/sda2 xxx</pre>　　打开之后，该虚拟盘会被映射到 /dev/mapper/xxx<br/>
 　　你可以用如下命令看到：<br/>
-<pre>ls /dev/mapper/</pre><br/>
+<pre class="shell">ls /dev/mapper/</pre><br/>
 <h3>◇创建文件系统</h3><br/>
 　　由于加密分区已经打开并映射到 <code>/dev/mapper/xxx</code> 你可以在 <code>/dev/mapper/xxx</code> 之上创建文件系统。命令如下（文件系统类型以 ext4 为例）<br/>
-<pre>mkfs.ext4 /dev/mapper/xxx</pre><br/>
+<pre class="shell">mkfs.ext4 /dev/mapper/xxx</pre><br/>
 <h3>◇挂载文件系统</h3><br/>
 　　创建完文件系统之后，你还需要挂载该文件系统，才能使用它。挂载的步骤如下。<br/>
 　　首先，你要先创建一个目录，作为【挂载点】。俺把“挂载点”的目录设定为 <code>/mnt/xxx</code>（当然，你可以用其它目录作为挂载点）。<br/>
-<pre>mkdir /mnt/xxx</pre>　　创建好“挂载点”对应的目录，下面就可以进行文件系统的挂载。<br/>
-<pre>mount /dev/mapper/xxx /mnt/xxx</pre>　　挂载好文件系统，用如下命令查看，就可以看到你刚才挂载的文件系统。<br/>
-<pre>df -hT</pre>　　接下来，你就可以通过 <code>/mnt/xxx</code> 目录去访问该文件系统。当你往 <code>/mnt/xxx</code> 下面创建下级目录或下级文件，这些东东将被存储到加密分区上。<br/>
+<pre class="shell">mkdir /mnt/xxx</pre>　　创建好“挂载点”对应的目录，下面就可以进行文件系统的挂载。<br/>
+<pre class="shell">mount /dev/mapper/xxx /mnt/xxx</pre>　　挂载好文件系统，用如下命令查看，就可以看到你刚才挂载的文件系统。<br/>
+<pre class="shell">df -hT</pre>　　接下来，你就可以通过 <code>/mnt/xxx</code> 目录去访问该文件系统。当你往 <code>/mnt/xxx</code> 下面创建下级目录或下级文件，这些东东将被存储到加密分区上。<br/>
 <br/>
 <h3>◇退出</h3><br/>
 　　当你使用完，要记得退出。包括下面两步：<br/>
 　　卸载文件系统<br/>
-<pre>umount /mnt/xxx</pre>　　关闭加密盘<br/>
-<pre>cryptsetup close xxx</pre><br/>
+<pre class="shell">umount /mnt/xxx</pre>　　关闭加密盘<br/>
+<pre class="shell">cryptsetup close xxx</pre><br/>
 <br/>
 <h2>★用 cryptsetup 创建 LUKS 的虚拟加密盘（逻辑卷）</h2><br/>
 　　在前一个章节，已经介绍了“对物理分区的加密”。其实 cryptsetup 也可以支持虚拟加密盘（逻辑加密盘）——类似于 TrueCrypt 那样。<br/>
@@ -201,34 +201,34 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <h3>◇创建一个文件作为容器</h3><br/>
 　　下面用 <code>dd</code> 命令创建 1GB（1024MB）的大文件，该文件位于 <code>/root/luks.vol</code> 路径。当然，你也可以指定其它的文件大小或其它的文件路径。<br/>
-<pre>dd if=/dev/zero of=/root/luks.vol bs=1M count=1024</pre>　　（dd 命令是一个牛逼命令，之前在《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>》介绍过该命令）<br/>
+<pre class="shell">dd if=/dev/zero of=/root/luks.vol bs=1M count=1024</pre>　　（dd 命令是一个牛逼命令，之前在《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>》介绍过该命令）<br/>
 <br/>
 　　经某个热心读者提醒，还可以使用 <code>fallocate</code> 命令创建容器文件。对于特别大的容器文件，性能【高于】<code>dd</code> 命令。<br/>
 　　以下示例通过 <code>fallocate</code> 【瞬间】创建一个 64GB 的大文件。<br/>
-<pre>fallocate -l 64G /root/luks.vol</pre><br/>
+<pre class="shell">fallocate -l 64G /root/luks.vol</pre><br/>
 <h3>◇用 LUKS 方式加密（格式化）该文件容器</h3><br/>
 　　使用前面章节提及的参数，对上述文件容器进行加密。得到一个虚拟的加密盘。<br/>
-<pre>cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /root/luks.vol</pre><br/>
+<pre class="shell">cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /root/luks.vol</pre><br/>
 <h3>◇打开加密之后的文件容器</h3><br/>
 　　使用如下命令打开上述的文件容器，使用的映射名是 xxx（你也可以改用其它单词）。<br/>
-<pre>cryptsetup luksOpen /root/luks.vol xxx</pre>　　打开之后，该虚拟盘会被映射到 /dev/mapper/xxx<br/>
+<pre class="shell">cryptsetup luksOpen /root/luks.vol xxx</pre>　　打开之后，该虚拟盘会被映射到 /dev/mapper/xxx<br/>
 　　你可以用如下命令看到：<br/>
-<pre>ls /dev/mapper/</pre><br/>
+<pre class="shell">ls /dev/mapper/</pre><br/>
 <h3>◇创建文件系统</h3><br/>
 　　由于加密盘已经打开并映射到 <code>/dev/mapper/xxx</code> 你可以在 <code>/dev/mapper/xxx</code> 之上创建文件系统。命令如下（文件系统类型以 ext4 为例）<br/>
-<pre>mkfs.ext4 /dev/mapper/xxx</pre><br/>
+<pre class="shell">mkfs.ext4 /dev/mapper/xxx</pre><br/>
 <h3>◇挂载文件系统</h3><br/>
 　　创建完文件系统之后，你还需要挂载该文件系统，才能使用它。挂载的步骤如下。<br/>
 　　首先，你要先创建一个目录，作为【挂载点】。俺把“挂载点”的目录设定为 <code>/mnt/xxx</code>（当然，你可以用其它目录作为挂载点）。<br/>
-<pre>mkdir /mnt/xxx</pre>　　创建好“挂载点”对应的目录，下面就可以进行文件系统的挂载。<br/>
-<pre>mount /dev/mapper/xxx /mnt/xxx</pre>　　挂载好文件系统，用如下命令查看，就可以看到你刚才挂载的文件系统。<br/>
-<pre>df -hT</pre>　　接下来，你就可以通过 <code>/mnt/xxx</code> 目录去访问该文件系统。当你往 <code>/mnt/xxx</code> 下面创建下级目录或下级文件，这些东东将被存储到该虚拟加密盘上。<br/>
+<pre class="shell">mkdir /mnt/xxx</pre>　　创建好“挂载点”对应的目录，下面就可以进行文件系统的挂载。<br/>
+<pre class="shell">mount /dev/mapper/xxx /mnt/xxx</pre>　　挂载好文件系统，用如下命令查看，就可以看到你刚才挂载的文件系统。<br/>
+<pre class="shell">df -hT</pre>　　接下来，你就可以通过 <code>/mnt/xxx</code> 目录去访问该文件系统。当你往 <code>/mnt/xxx</code> 下面创建下级目录或下级文件，这些东东将被存储到该虚拟加密盘上。<br/>
 <br/>
 <h3>◇退出</h3><br/>
 　　当你使用完，要记得退出。包括下面两步：<br/>
 　　卸载文件系统<br/>
-<pre>umount /mnt/xxx</pre>　　关闭加密盘<br/>
-<pre>cryptsetup close xxx</pre><br/>
+<pre class="shell">umount /mnt/xxx</pre>　　关闭加密盘<br/>
+<pre class="shell">cryptsetup close xxx</pre><br/>
 <br/>
 <h2>★LUKS 加密盘使用 keyfile 作为认证因素</h2><br/>
 <h3>◇啥是“keyfile 认证因素”？</h3><br/>
@@ -242,27 +242,27 @@ Serpent-Twofish-AES</td></tr>
 　　用信息学的术语来讲就是：文件内容的“熵值”越大，越适合作 keyfile。换用通俗的人话来讲就是：文件内容越紊乱越随机，就越适合。<br/>
 　　通常而言，二进制可执行文件（比如 exe）、图片文件（比如 JPG、PNG、GIF）、视频文件，都可以用来作 keyfile。<br/>
 　　对于 Linux 的用户，可以用如下命令生产一个【内容完全随机】的文件，作为 keyfile 使用。<br/>
-<pre>dd if=/dev/urandom of=放置keyfile的文件路径 bs=1k count=64</pre>　　（上述命令生产的文件大小是 64KB，你可以自行设定其它尺寸，但是【不要小于】 1KB）<br/>
+<pre class="shell">dd if=/dev/urandom of=放置keyfile的文件路径 bs=1k count=64</pre>　　（上述命令生产的文件大小是 64KB，你可以自行设定其它尺寸，但是【不要小于】 1KB）<br/>
 　　另外，【不建议】用纯文本文件作 keyfile——因为纯文本文件的“熵值”通常都不够大。<br/>
 <br/>
 <h3>◇预备知识——关于“Key Slot”</h3><br/>
 　　在继续介绍 keyfile 之前，稍微聊点预备知识。<br/>
 　　LUKS 格式的加密盘，默认会提供8个“Key Slot”（编号从0到7）。每个“Key Slot”好比是一个独立的钥匙——都可以用来打开这个 LUKS 加密盘。<br/>
 　　你可以用如下命令，查看某个 LUKS 加密盘的“Key Slot”。<br/>
-<pre>cryptsetup luksDump 已加密的物理设备或逻辑设备</pre>　　如果你刚才已经尝试过创建一个 LUKS 加密盘，用了这个命令之后，你会发现8个“Key Slot”中，头一个（编号为0的那个）已经被用掉了（显示为“ENABLED”），其它7个还没用（显示为“DISABLED”）。因为你刚才创建加密盘的时候，已经设置过一次密码，所以用掉了一个“Key Slot”。<br/>
+<pre class="shell">cryptsetup luksDump 已加密的物理设备或逻辑设备</pre>　　如果你刚才已经尝试过创建一个 LUKS 加密盘，用了这个命令之后，你会发现8个“Key Slot”中，头一个（编号为0的那个）已经被用掉了（显示为“ENABLED”），其它7个还没用（显示为“DISABLED”）。因为你刚才创建加密盘的时候，已经设置过一次密码，所以用掉了一个“Key Slot”。<br/>
 <br/>
 <h3>◇如何给 LUKS 加密盘增加 keyfile 认证？</h3><br/>
 　　明白了“Key Slot”之后，咱们可以开始给 LUKS 加密盘增加新的“Key Slot”。<br/>
 　　采用如下命令，可以指定某个文件作为 keyfile，并指派为某个 LUKS 加密盘的认证因素。<br/>
-<pre>cryptsetup luksAddKey 已加密的物理分区或虚拟盘 所用keyfile的路径</pre>　　再次使用前一小节提及的 <code>luksDump</code> 查看一下，你会发现：又有一个“Key Slot”被用掉了。<br/>
+<pre class="shell">cryptsetup luksAddKey 已加密的物理分区或虚拟盘 所用keyfile的路径</pre>　　再次使用前一小节提及的 <code>luksDump</code> 查看一下，你会发现：又有一个“Key Slot”被用掉了。<br/>
 <br/>
 <h3>◇如何用 keyfile 打开 LUKS 加密盘？</h3><br/>
 　　如果你执行完前一个小节的步骤（设定了 keyfile），接下来就可以用如下命令打开该 LUKS 加密盘。<br/>
-<pre>cryptsetup --key-file 所用keyfile的路径 luksOpen 已加密的物理分区或虚拟盘 映射名</pre>　　（此时，你既可以用密码打开，也可以用 keyfile 打开）<br/>
+<pre class="shell">cryptsetup --key-file 所用keyfile的路径 luksOpen 已加密的物理分区或虚拟盘 映射名</pre>　　（此时，你既可以用密码打开，也可以用 keyfile 打开）<br/>
 <br/>
 <h3>◇如何删除“Key Slot”？</h3><br/>
 　　采用如下命令，可以删除某个 LUKS 加密盘的“Key Slot”。<br/>
-<pre>cryptsetup luksKillSlot 已加密的物理分区或虚拟盘 Slot的编号</pre>　　（再次提醒：编号是从0到7，头一个 Slot 的编号是0）<br/>
+<pre class="shell">cryptsetup luksKillSlot 已加密的物理分区或虚拟盘 Slot的编号</pre>　　（再次提醒：编号是从0到7，头一个 Slot 的编号是0）<br/>
 　　再次使用前一小节提及的 <code>luksDump</code> 查看一下，你会发现：某个“Key Slot”被删除了。<br/>
 <br/>
 <br/>
@@ -272,8 +272,8 @@ Serpent-Twofish-AES</td></tr>
 <h3>◇基本命令</h3><br/>
 　　在前面的“功能概述”中提及：dm-crypt/cryptsetup 可以用来打开 TrueCrypt/VeraCrypt 加密盘。<br/>
 　　命令行的大致写法如下：<br/>
-<pre>cryptsetup open --type tcrypt 已加密的物理分区或虚拟盘 映射名</pre>　　也可以使用简写的方式如下：<br/>
-<pre>cryptsetup tcryptOpen 已加密的物理分区或虚拟盘 映射名</pre><br/>
+<pre class="shell">cryptsetup open --type tcrypt 已加密的物理分区或虚拟盘 映射名</pre>　　也可以使用简写的方式如下：<br/>
+<pre class="shell">cryptsetup tcryptOpen 已加密的物理分区或虚拟盘 映射名</pre><br/>
 <h3>◇相关参数</h3><br/>
 　　在 TCRYPT 模式下，有一些相关的参数，简要说明如下：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
@@ -295,12 +295,12 @@ Serpent-Twofish-AES</td></tr>
 　　在本文开头，俺已经说了——这篇教程面向技术菜鸟。而“加密系统分区”对技术菜鸟来讲，有一定难度。万一没搞好，可能会把系统搞坏掉（导致 Linux 系统无法启动）。<br/>
 　　咋办捏？俺帮大伙儿想了一招比较简单的玩法——在安装系统的时候，就配置好“加密的系统分区”（甚至直接配置为“全盘加密”）。<br/>
 　　能否使用这招，要看具体的 Linux 发行版，在安装过程中是否提供相应的配置界面。如果俺没记错的话，如下几个主流的发行版，是可以在安装过程中加密系统分区或全盘加密的。（如果你觉得俺列举的发行版，有遗漏，欢迎到博客留言进行补充）<br/>
-<pre>Debian
-Fedora
-Ubuntu
-Linux Mint
-CentOS
-RedHat Enterprise Linux（RHEL）</pre>　　由于不同的发行版，安装界面各不相同，所以俺就偷懒一下，不提供截图了。<br/>
+<blockquote>Debian<br/>
+Fedora<br/>
+Ubuntu<br/>
+Linux Mint<br/>
+CentOS<br/>
+RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，安装界面各不相同，所以俺就偷懒一下，不提供截图了。<br/>
 　　大体上，这些发行版的安装过程，都有一个步骤是“硬盘分区”。在这个步骤，会提供相关的“加密选项”。<br/>
 　　对于想要进行全盘加密的同学，装系统过程中进行分区的时候，要把 <code>/boot</code> 单独分一个区。并且这个分区是【不能】加密的——因为 <code>/boot</code> 要用来放置引导管理器与内核。<br/>
 <br/>

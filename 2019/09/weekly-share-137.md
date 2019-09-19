@@ -244,7 +244,7 @@
 <center><img alt="不见图 请翻墙" src="images/zEnH9l3BuCstrcqA7wuDysmD-8BP0tV81d9MLVBfJL-DnIq0NodOHwd2uoz8-YuE-Nqt7BZptpvU4yFXDYQAf7kjkFD_pZ2TDbjao8yKivADeWLBxzXJcPVtt6ANWoQsium2slNfWHE"/><br/>
 （“警员亲属连线”发起人 Sunny。照片来源：立場新聞）</center><br/>
 <br/>
-<h2>★8月31日：831大游行</h2><br/>
+<h2>★8月31日：<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B48%E6%9C%8831%E6%97%A5%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E7%A4%BA%E5%A8%81" rel="nofollow" target="_blank">831大游行</a></h2><br/>
 <h3>◇缘由</h3><br/>
 　　此次游行源于——抗议【831决定】5周年。<br/>
 　　所谓的【831决定】是天朝的全国人大在2014年8月31日通过的《<b>全国人民代表大会常务委员会关于香港特别行政区行政长官普选问题和2016年立法会产生办法的决定</b>》（不得不感叹：这个标题又臭又长）。<br/>
@@ -353,7 +353,9 @@
 <center><img alt="不见图 请翻墙" src="images/Xgknppu2FNMc85L-9PNbEZ3_Vf_mokyxoCFs93HcV53_dI3GCPUew2GCYOMxk1FddTPpXr7XQAjyn3-IZn2tY_UDK0MCyOhHHfwsnIwBkpWfiM9LbKbTkrax0io6My8C6XeGPRsA6dI"/><br/>
 （玛丽医院的医护人员响应学生罢课，有400人在医院外组成人链。照片来源：德国之声）</center><br/>
 <br/>
-<h2>★9月4日：正式撤回《逃犯条例》</h2><br/>
+<h2>★9月4日：正式宣布撤回《逃犯条例》</h2><br/>
+　　（注：经热心网友提醒，更严谨的说法是——<q style="background-color:#DDD;">在立法会复会后，发起撤回动议</q>）<br/>
+<br/>
 <center><img alt="不见图 请翻墙" src="images/jTlOhI7WjZTQZFV7S3NI8RkOtCXrnDmVCktvg4nRrup5XrvjJDfo3qk-NSIROEtG3MI9u7cY9EDSg0sWU3aj5sUjV859RmV1ZkiH4Z3kOjkgXJVoLjfImO2m5tI8iupUwG7T2xUBA9Q"/><br/>
 （香港特首林郑月娥9月4日发表电视讲话。照片来源：RFI/法广）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/w2gLEJiSNB3g2pIpF-e95-wURPqKE_Ptqkd-FiZ4aRvj268mVDcjE9F0mIqUpslUcePBzl1YLVVFc1I_lJ3CY2k25fbD-ifJ7Md2msSck8fYza5SecMMG8IVBwzGtxv6Cx036eAGDwE"/><br/>

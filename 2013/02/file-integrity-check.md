@@ -6,7 +6,7 @@
 　　近期有网友在博客中留言，希望俺介绍散列值校验文件的知识。所以俺干脆写一篇“文件完整性校验”的扫盲教程。由于本文是扫盲性质，尽量不涉及太技术化的内容。<br/>
 <a name="more"></a><br/>
 <br/>
-<h2>★什么是“完整性校验”？</h2><br/>
+<h2>★啥是“完整性校验”？</h2><br/>
 　　所谓的“完整性校验”，顾名思义，就是检查文件是否完整。那么，什么情况下会导致文件不完整捏？大概有如下几种情况。<br/>
 <br/>
 　　<b>1. 感染病毒</b><br/>
@@ -46,8 +46,8 @@
 　　但反过来，如果这两段数据的散列值相同，则只能说，这两段数据【<b>非常可能</b>】相同。所谓的“非常可能”，就是说，还达不到百分百。具体原因，请看下一节“散列函数的可靠性”。<br/>
 <br/>
 <br/>
-<h2>★关于散列算法的可靠性</h2><br/>
-<h2>◇什么是“散列碰撞”？</h2><br/>
+<h2>★关于散列算法的【可靠性】</h2><br/>
+<h2>◇何为“散列碰撞”？</h2><br/>
 　　刚才说了，存在非常小的可能性，导致两段不同的原始数据，计算出相同的散列值。这种情况称之为“散列碰撞”或“散列冲突”。<br/>
 <br/>
 <h3>◇碰撞的类型</h3><br/>
@@ -78,7 +78,7 @@
 <br/>
 　　<b>举例：Firefox 浏览器的散列校验</b><br/>
 　　打开如下链接，就可以看到 Firefox 某个版本的 SHA1 列表（把网址中的 <code>版本号</code> 三个字替换为具体的【三段式】版本号，比如<code>18.0.2</code>）。这个列表很长，包括各种语言，各个平台。为了方便起见，你可以先算好 SHA1 散列值，然后到里面搜索该散列值<br/>
-<pre style="font-family:Courier,monospace;">https://ftp.mozilla.org/pub/mozilla.org/firefox/releases/版本号/SHA1SUMS</pre><br/>
+<pre>https://ftp.mozilla.org/pub/mozilla.org/firefox/releases/版本号/SHA1SUMS</pre><br/>
 　　再啰嗦一下：<br/>
 　　尽量不要用 MD5（早在好多年前，就已经被证明是【不】可靠的）。<br/>
 　　另外，随着硬件计算能力的提升，即便是 SHA1 也开始变得【不】安全了（参见如下博文中的<q>密码学相关</q>章节）。今后 SHA1 会逐步被 SHA256 或 SHA512 替代。<br/>
@@ -92,17 +92,17 @@
 <br/>
 <h3>◇计算单个文件</h3><br/>
 　　比如你有一个微软的系统安装光盘镜像，位于 <code>C:\download\Windows.iso</code> 那么，用如下命令可以计算该文件的 SHA1 散列值<br/>
-<pre style="font-family:Courier,monospace;">fciv -sha1 C:\download\Windows.iso</pre><br/>
+<pre class="shell">fciv -sha1 C:\download\Windows.iso</pre><br/>
 <h3>◇批量计算某个目录</h3><br/>
 　　FCIV 支持批量计算某个目录下的文件散列值。比方说，可以用如下命令可以计算 <code>C:\download</code> 目录下的每一个文件的 SHA1<br/>
-<pre style="font-family:Courier,monospace;">fciv -sha1 C:\download\</pre><br/>
+<pre class="shell">fciv -sha1 C:\download\</pre><br/>
 <h3>◇批量计算并存储，供前后对比</h3><br/>
 　　比如 <code>C:\download</code> 目录下有很多文件。俺想知道过一段时间之后，这些文件是否被改过。那么，可以先用如下命令，把该目录中所有文件的 SHA1 散列都存储到某个 XML 格式的文件中（本例中，俺假设保存的文件是当前目录的 <code>hash.xml</code>，你也可以保存到其它文件名）<br/>
-<pre style="font-family:Courier,monospace;">fciv -sha1 C:\download\ -xml hash.xml</pre><br/>
+<pre class="shell">fciv -sha1 C:\download\ -xml hash.xml</pre><br/>
 　　过了一段时间后，你可以用如下命令，就可以看出哪些文件被修改过。<br/>
-<pre style="font-family:Courier,monospace;">fciv -sha1 C:\download\ -xml hash.xml -v</pre><br/>
+<pre class="shell">fciv -sha1 C:\download\ -xml hash.xml -v</pre><br/>
 <br/>
-<h2>★什么是“数字签名”？</h2><br/>
+<h2>★啥是“数字签名”？</h2><br/>
 　　所谓的“数字签名”，通俗来说，就是采用某种技术手段来证明某个信息确实是由某个机构（或某个人）发布的。因为其用途有点类似于传统的手写签字，所以称之为“数字签名”。<br/>
 　　数字签名的技术实现需要依赖于“非对称加密技术”和“数字证书体系”。关于“非对称加密技术”，考虑到篇幅，今天就不展开了；关于“数字证书”，3年前写过一篇扫盲（在“<a href="../../2010/02/introduce-digital-certificate-and-ca.md">这里</a>”），有兴趣的同学可以瞧一瞧，这里就不再啰嗦了。<br/>
 <br/>
@@ -126,14 +126,16 @@
 <center><img alt="不见图 请翻墙" src="images/CB8Nl5udCNWWFTdgk3ZMkNEhmsZjvs9DngaNt0GEgzfpuPu9tCufvlLPJ13jpEyDSZtlTnPZ1DvmzxirIA4-TWIQUEG-KNOWJ5os6HriDq7kjjng85qBnbdz4VQmgZ4T-jloNFON"/></center><br/>
 <h3>◇利用命令行工具批量验证</h3><br/>
 　　用上面的图形化界面进行验证，比较傻瓜化。但有一个缺点——如果你要验证的文件比较多，一个一个去点对话框，手会抽筋滴。所以，俺再介绍一下命令行的工具，适合进行批量验证。<br/>
-　　这个命令行工具就是微软官网提供的 SigCheck，由大名鼎鼎的 SysInternals 出品（SysInternals 已经被微软收购）。跟前面提到的 FCIV 类似，它也是一个小巧、绿色、免费的命令行工具，下载页面在“<a href="https://docs.microsoft.com/sysinternals/downloads/sigcheck" rel="nofollow" target="_blank">这里</a>”。<br/>
+　　这个命令行工具就是微软官网提供的【SigCheck】，由大名鼎鼎的 SysInternals 出品（SysInternals 已经被微软收购）。跟前面提到的 FCIV 类似，它也是一个小巧、绿色、免费的命令行工具，下载页面在“<a href="https://docs.microsoft.com/sysinternals/downloads/sigcheck" rel="nofollow" target="_blank">这里</a>”。<br/>
 <br/>
 　　使用如下命令，可以批量检查某个目录下（包括多层嵌套子目录）的所有可执行程序，并且把“无签名”或者“签名无效”的文件列出来。<br/>
-<pre style="font-family:Courier,monospace;">sigcheck -u -e -s 某个目录的路径名</pre>　　先提醒一下：<br/>
+<pre class="shell">sigcheck -u -e -s 某个目录的路径名</pre>　　先提醒一下：<br/>
 　　检查数字签名的有效性本身就比较慢，如果目录下的文件很多，你要有足够的耐心等它运行完毕。<br/>
 <br/>
 　　稍微补充一下，这个 SigCheck 命令还顺便提供了散列值（命令格式如下），该功能可替代 FCIV 的头两个功能，可惜无法替代 FCIV 的第三个功能。<br/>
-<pre style="font-family:Courier,monospace;">sigcheck -h 某个目录或文件的路径名</pre><br/>
+<pre class="shell">sigcheck -h 某个【目录】的路径名
+sigcheck -h 某个【文件】的路径名
+</pre><br/>
 <br/>
 <h2>★PGP/GPG 的数字签名</h2><br/>
 　　刚才聊了 Windows 平台滴。但是，切莫以为只有 Windows 平台才提供数字签名——其它的数字签名工具还有好几种。名气比较大的数字签名工具当属 PGP/GPG。这两个缩写就像绕口令，很容易搞混。PGP 是商业软件，而 GPG 是 GnuPG 的缩写，是 GNU 的开源项目。后者是前者的开源替代品，两者的功能基本兼容。<br/>
