@@ -5,7 +5,7 @@
 <div class="post-body entry-content">
 　　Tor 是一个很老牌的翻墙工具，也是俺在博客中推荐的第一款翻墙工具——当时正赶上朝廷的60大寿，GFW 加强封锁，俺就写了一篇《<a href="../../2009/09/break-through-gfw-with-tor.md">“如何翻墙”系列：戴“套”翻墻的方法</a>》，算是 Tor 的入门教程。<br/>
 　　4年过去了，虽然新的翻墙工具不断涌现，但 Tor 的影响力和用户数仍然持续增加——<b>很多人不仅仅是用 Tor 来翻墙，更是用 Tor 来隐匿自己的上网行踪</b>。在这期间，俺也收到很多读者来信/博客留言，询问关于 Tor 的各种问题。甚至有热心读者建议俺专门写一篇博文，聊聊 Tor 的高级话题。<br/>
-　　为了帮大伙儿更好地使用 TOR，今天再发一篇教程，解答 TOR 的各种常见问题。<br/>
+　　为了帮大伙儿更好地使用 Tor，今天再发一篇教程，解答 Tor 的各种常见问题。<br/>
 <a name="more"></a><br/>
 <center><img alt="不见图 请翻墙" src="images/UEJSz_vaNCCnJZ0vFEbAM0P2etlEwSFOOC-dDI9_55uIKQElo0ewEUREdbLpGvULyr_ran6G0B8oVh2rJIy4NBaOnL9znEaDeNKh15geLSNe4CVCPlbxhSRY2oYz"/></center><br/>
 <br/>
@@ -146,29 +146,45 @@
 　　Tor 的配置文件名叫 <code>torrc</code>，这是一个文本文件，用记事本就可以打开。（如果你找不到该文件，在系统盘中搜索一下 <code>torrc</code> 这个文件名）<br/>
 　　在该文件末尾，加入下面这行（<code>ExcludeNodes</code> 表示排除这些国家/地区的节点，<code>StrictNodes</code> 表示强制执行）。<br/>
 <pre>ExcludeNodes  {cn},{hk},{mo}
-StrictNodes  1</pre>　　关于 strictnode，俺补充说明一下：<br/>
-　　如果不设置 strictnode 1，Tor 客户端首先也会规避 ExcludeNodes 列出的这些国家。但如果 Tor 客户端找不到可用的线路，就会去尝试位于排除列表中的节点。<br/>
-　　如果设置了 strictnode 1，即使 Tor 客户端找不到可用的线路，也不会去尝试这些国家的节点。<br/>
+StrictNodes  1</pre>　　关于【StrictNodes】的语法，俺补充说明一下：<br/>
+　　如果不设置 <code>StrictNodes 1</code>，Tor 客户端首先也会规避 <code>ExcludeNodes</code> 列出的这些国家。但如果 Tor 客户端找不到可用的线路，就会去尝试位于排除列表中的节点。<br/>
+　　如果设置了 <code>StrictNodes 1</code>，即使 Tor 客户端找不到可用的线路，也不会去尝试这些国家的节点。<br/>
 <br/>
 　　除了上述三个地区，还有几个国家跟天朝串通一气。如果你对安全性的要求比较高，可以把这些国家也列入 Tor 的排除节点列表。<br/>
 　　下面给出这些流氓国家的代码，你依样画葫芦加入到 <code>ExcludeNodes</code> 那一行，国家代码之间用逗号分隔。<br/>
-<pre>{kp}——北朝鲜
-{ir}——伊朗
-{sy}——叙利亚
-{pk}——巴基斯坦
-{cu}——古巴
-{vn}——越南
-{ru}——俄罗斯</pre><br/>
-<h3>◇Tor 的加密流量能否被破解？</h3><br/>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
+<tr style="background:lightgrey;"><th>代码</th><th>国别</th></tr>
+<tr><td>{kp}</td><td>北朝鲜</td></tr>
+<tr><td>{ir}</td><td>伊朗</td></tr>
+<tr><td>{sy}</td><td>叙利亚</td></tr>
+<tr><td>{pk}</td><td>巴基斯坦</td></tr>
+<tr><td>{cu}</td><td>古巴</td></tr>
+<tr><td>{vn}</td><td>越南</td></tr>
+<tr><td>{ru}</td><td>俄罗斯</td></tr>
+<tr><td>{by}</td><td>白俄罗斯</td></tr>
+</tbody></table></center>　　注：耍流氓的政权有很多，上述表格仅供参考，肯定【不全】。<br/>
+<br/>
+<br/>
+<h3>◇如何【更严格地】限制“Tor 节点”？</h3><br/>
+　　在本文发布之后6年（2019），俺在《<a href="../../2019/09/Security-News.md">近期安全动态和点评（2019年3季度）</a>》一文中介绍了【更严格】的 Tor 节点配置招数。对安全性要求【很高】的读者，可以去看看。<br/>
+　　那篇提到了三个招数（注意事项），其中一个是【白名单】，配置语法如下：<br/>
+<br/>
+　　<code>EntryNodes</code><br/>
+　　限定只使用某些国家的节点作为【入口节点】。<br/>
+<br/>
+　　<code>ExitNodes</code><br/>
+　　限定只使用某些国家的节点作为【出口节点】。<br/>
+<br/>
+<h3>◇Tor 的加密流量能否被【破解】？</h3><br/>
 　　根据斯诺登曝光的材料，NSA 目前具备的运算能力，可以解密很大一部分 Tor 流量。<br/>
-　　因为目前（2013年）的 TOR 中继服务器，大部分还在使用 1024 位的 DHE 密钥，这类密钥虽然普通人难以破解，但是 NSA 掌握的运算能力可以在几小时内暴力破解。目前只有 10% 左右的中继服务器采用 ECDHE 密钥（基于椭圆曲线）。这类 ECDHE 密钥 NSA 比较难破解（更多介绍请看“<a href="https://blog.erratasec.com/2013/09/tor-is-still-dhe-1024-nsa-crackable.html" rel="nofollow" target="_blank">这篇报道</a>”）。<br/>
+　　因为目前（2013年）的 Tor 中继服务器，大部分还在使用 1024 位的 DHE 密钥，这类密钥虽然普通人难以破解，但是 NSA 掌握的运算能力可以在几小时内暴力破解。目前只有 10% 左右的中继服务器采用 ECDHE 密钥（基于椭圆曲线）。这类 ECDHE 密钥 NSA 比较难破解（更多介绍请看“<a href="https://blog.erratasec.com/2013/09/tor-is-still-dhe-1024-nsa-crackable.html" rel="nofollow" target="_blank">这篇报道</a>”）。<br/>
 　　至于天朝方面，肯定【没有】NSA 这么牛的破解能力。所以墙内的同学们，咱们暂时还不用担心这个问题 :)<br/>
-　　另外，等到大部分中继服务器升级到 2.4 版本，ECDHE密钥 的使用就会普及，到时候这个风险会减低。<br/>
+　　另外，等到大部分中继服务器升级到 2.4 版本，ECDHE密钥 的使用就会普及。到那时候，（DHE 密钥被破解的）风险会减低。<br/>
 　　注：<br/>
 　　本小节提及了好几种【密钥交换算法】。如果你对这方面感兴趣，可以看如下这篇博文，介绍了相关算法的原理。<br/>
 《<a href="../../2016/09/https-ssl-tls-3.md">扫盲 HTTPS 和 SSL/TLS 协议[3]：密钥交换（密钥协商）算法及其原理</a>》<br/>
 <br/>
-<h3>◇啥是流量关联分析？</h3><br/>
+<h3>◇啥是【流量关联分析】？</h3><br/>
 　　先声明：流量关联分析有很多种。这里说的是【<b>针对 Tor</b>】的流量关联分析”。<br/>
 　　“关联分析”是数据挖掘的一种手段——先积累足够多的数据，然后通过某种算法找出数据之间的某些相关性特征。考虑到数据挖掘不是本文的主题，就不深入介绍了。<br/>
 　　简单而言，如果某个攻击者能够监控你接入 Tor 网络的流量（入口节点之前的流量）以及你离开 Tor 网络的流量（出口节点之后的流量）。那么经过足够长时间的数据积累，攻击者就可以利用数据挖据【猜测】出：某些网络行为其实是来自某个公网 IP 的用户。<br/>
@@ -185,14 +201,14 @@ A网站 对所有的用户留言做了记录（很多的国内网站都会记录
 朝廷针对 Tor 部署了关联分析的系统（这只是假设，到底有没有，俺不晓得）<br/>
 <br/>
 如果上述这 N 个假设【<b>同时成立</b>】，那么，经过足够长时间的积累（具体需要多长时间，取决于你发帖的频繁度），关联分析系统可以猜测出你是谁。</blockquote><br/>
-<h3>◇如何规避（针对 Tor 的）流量关联分析？</h3><br/>
+<h3>◇如何【规避】（针对 Tor 的）流量关联分析？</h3><br/>
 　　要规避“针对 Tor 的流量关联分析”，目前最直接有效的方法是：多重代理。因为一旦用了多重代理，Tor 的流量类型就被掩盖掉了。<br/>
-　　比方说：如果你使用 VPN+Tor，那么你的 ISP 监控你的流量，看到的是 VPN 流量——（因为 VPN 加密）ISP【看不到】你的 Tor 流量。在这种情况下，流量关联分析的难度大大提高了。<br/>
+　　比方说：如果你使用 VPN 作为 Tor 的前置代理（Tor over VPN），那么你的 ISP 监控你的流量，看到的是 VPN 流量——（因为 VPN 是加密滴）ISP【看不到】你的 Tor 流量。在这种情况下，“流量关联分析”的【难度】将提高 N 个数量级。<br/>
 <br/>
 　　除了“针对 Tor 的流量关联分析”，还有其它的流量分析技术。考虑到篇幅，就不深入介绍了。等俺有空，单独写一篇博文，专门聊这个话题。<br/>
 <br/>
 <br/>
-<h2>★双重代理方面的问题</h2><br/>
+<h2>★【双重代理】方面的问题</h2><br/>
 　　如果你对“双重代理”还不太了解，请先看俺之前的博文《<a href="../../2012/03/howto-cover-your-tracks-5.md">如何隐藏你的踪迹，避免跨省追捕[5]：用多重代理隐匿公网IP</a>》。<br/>
 <br/>
 <h3>◇为啥要使用双重代理？</h3><br/>

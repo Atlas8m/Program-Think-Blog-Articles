@@ -24,8 +24,12 @@
 　　关于代理的类型，俺强烈建议用<b>多重代理</b>（教程在“<a href="../../2012/03/howto-cover-your-tracks-5.md">这里</a>”，需翻墙）。为啥捏？如果你对隐匿性的要求不高，根本都不需要看本教程。你来看本教程，就说明你对隐匿性有较高的要求。既然如此，当然要用多重代理啦——这可以大大增加逆向追踪的难度。<br/>
 　　<b><span style="color:red;">注意事项：</span><br/>
 　　要确保你用的代理软件，是监听在 <code>0.0.0.0</code> 地址，而不是监听在 <code>127.0.0.1</code> 地址</b>。如果代理软件只监听在 <code>127.0.0.1</code> 地址，那么其它虚拟机的网络软件是【无法】连接到这个监听端口滴！<br/>
-　　如何查看代理软件在哪个地址上监听捏？可以在 Windows 的命令行窗口（就是那个黑窗口）中执行如下命令，就可以看到当前系统中开启的所有监听端口以及该监听绑定的地址。<br/>
-<pre style="font-family:Courier,monospace;">netstat -an | find "LISTEN"</pre><br/>
+　　如何查看代理软件在哪个地址上进行监听捏？<br/>
+　　用如下命令，就可以看到当前系统中开启的【所有】监听端口以及该监听绑定的地址。<br/>
+　　注：前一个命令用于 Windows；后一个命令用于 POSIX 系统（Linux ＆ UNIX）<br/>
+<pre class="shell">netstat -an | find "LISTEN"
+netstat -an | grep "LISTEN"
+</pre><br/>
 　　那么，万一你的翻墙工具的监听端口【没】绑定到 <code>0.0.0.0</code> 该咋办捏？别担心，俺后来又专门写了一篇教程《<a href="../../2013/01/cross-host-use-gfw-tool.md">多台电脑如何共享翻墙通道</a>》，教你如何解决监听端口绑定地址的问题。<br/>
 <br/>
 　　如果你光使用 VPN 作为“代理”。由于 VPN 本身是不开启监听端口的。那么你就必须想办法共享 VPN 的翻墙通道。至于如何共享，请看《<a href="../../2013/01/cross-host-use-gfw-tool.md">多台电脑如何共享翻墙通道</a>》。<br/>
@@ -35,6 +39,8 @@
 　　考虑到目前 Windows 系统的用户占绝大多数，本教程拿 Windows 系统来说事儿。希望 Linux 系统和 Mac OS X 系统的用户别怨俺偏心。<br/>
 　　<b><span style="color:red;">注意事项：</span><br/>
 　　要特别小心真实系统和虚拟系统的防火墙设置</b>。很多人就是因为防火墙没配好，导致代理无法连通。<br/>
+　　如果你碰到上述困难，可以参考如下博文——用 netcat 辅助你进行诊断。<br/>
+《<a href="../../2019/09/Netcat-Tricks.md">扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”</a>》<br/>
 <br/>
 <br/>
 <h2>★真实系统（Host OS）的物理网卡</h2><br/>
@@ -52,7 +58,7 @@
 <center><img alt="不见图 请翻墙" src="images/I0BZO21bRYuinYFgRO87fB-ZY4Bac3L7orMMxn7m9m7y7ZfOvn4AazIltGFDj41JWAbrFZp5ah3TdbrwI_IPTEhWVEyg81iQp3BdKLhAGIv9KcZdy5TuuzlM6KM"/></center><br/>
 　　然后，你到 VMware 主菜单上点”Edit“菜单，然后再点”Virtual Network Editor“菜单，会出现虚拟子网的对话框，通过该对话框可以看到 VMware 创建的所有虚拟子网。你会看到好多个虚拟子网，咱只要关心其中两个——分别是 Type 为【Host-Only】和 Type 为【NAT】的。然后，把这两个子网的”Subnet Address“分别记下来（<b>千万别把这俩记混了</b>），待会儿要用到。截图如下<br/>
 <center><img alt="不见图 请翻墙" src="images/z-D7eOmA1xYjGQcdPZ9cSV7RSl8nGWbkls8-_fUc1fHghH7YqcI1jvZpzO77HnXw5btC9r6wByLjf_dvL96Kzlibe6XJHs6-JhcFQ39WhZBdhcrGCgk_07beKK0"/></center><br/>
-（请注意，上述截图中列出的都是虚拟子网的<b>网络地址</b>，表示的是整个子网，所以最后一位是 0 ）<br/>
+（请注意，上述截图中列出的都是虚拟子网的【<b>网络地址</b>】，表示的是整个子网，所以最后一位是 <code>0</code> ）<br/>
 <br/>
 <h3>◇VirtualBox</h3><br/>
 　　每次安装 VirtualBox 的时候，它创建的虚拟子网，网络地址总是一样的，所以 VirtualBox 的操作比较简单。<br/>
@@ -177,7 +183,7 @@ IP 地址一共四段：<br/>
 　　因为“虚拟系统B”（网关）有两块网卡，很多人填错了，栽倒在这一步。俺以 IE 浏览器为例，截图如下<br/>
 <center><img alt="不见图 请翻墙" src="images/E4_zkEEFoQwmHuHdp9JOps50_4GNu2yfL9mxUm8uQUE3nsbzVd6p3xNSCdGlQrgLhP1VMjVeg8hsPLQ8x8wEt-oIyJDBpA5KVZM3-6tVPuFsn6dyCTENbWAq0Y8"/></center><br/>
 <h3>◇注意事项</h3><br/>
-　　在双虚拟机方案中，虚拟机在启动时有可能会出现错误提示：“网络上有重名”。如果你碰到这个错误，只需把虚拟机网卡的 NetBIOS 功能禁用，即可解决。如何禁用 NetBIOS，请看“<a href="http://technet.microsoft.com/zh-cn/library/ms143696%28v=sql.90%29.aspx" rel="nofollow" target="_blank">微软官网这里</a>”。<br/>
+　　在双虚拟机方案中，虚拟机在启动时有可能会出现错误提示：“网络上有重名”。如果你碰到这个错误，只需把虚拟机网卡的 NetBIOS 功能禁用，即可解决。如何禁用 NetBIOS，请看“<a href="https://technet.microsoft.com/zh-cn/library/ms143696%28v=sql.90%29.aspx" rel="nofollow" target="_blank">微软官网这里</a>”。<br/>
 <br/>
 <br/>
 <h2>★【双】虚拟机方案（NAT + Internal）</h2><br/>
