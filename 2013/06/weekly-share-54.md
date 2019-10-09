@@ -6,8 +6,8 @@
 　　纵观近几日的网上评论，“棱镜门”的热度依旧。今天再转载各方面的评论，让大伙儿对此事有个全面的认识。<br/>
 <br/>
 　　下面转载的文章，既包括陈述事实，也包括陈述观点。对于陈述事实的——如果陈述有误，欢迎列位看官指出。<b>对于陈述观点的——不代表俺本人赞同其观点</b>。<br/>
-　　分不清“事实”和“观点”的同学，强烈建议去看看《<a href="../../2013/05/difference-between-fact-and-opinion.md">批判性思维扫盲：学会区分“事实”与“观点”</a>》<a name="more"></a><br/>
-<br/>
+　　分不清“事实”和“观点”的同学，强烈建议去看看《<a href="../../2013/05/difference-between-fact-and-opinion.md">批判性思维扫盲：学会区分“事实”与“观点”</a>》<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★俺对此事的观点</h2><br/>
 　　在上周五的博文《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——"棱镜门"丑闻随想</a>》，其实已经阐述了俺本人的观点。<br/>
@@ -42,29 +42,24 @@
 <br/>
 <h2>★其它评论</h2><br/>
 　　网易的这篇报道，汇总了正反两面的观点，避免偏听偏信。<br/>
-<a href="http://view.163.com/special/reviews/snowden0614.html" rel="nofollow" target="_blank">斯诺登泄密：是揭露黑幕还是违法悖德? @ 网易新闻</a><br/>
+《<a href="http://view.163.com/special/reviews/snowden0614.html" rel="nofollow" target="_blank">斯诺登泄密：是揭露黑幕还是违法悖德? @ 网易新闻</a>》<br/>
 <br/>
 　　下面这篇代表了美国官方对此事的辩护<br/>
-<a href="http://www.infzm.com/content/91452" rel="nofollow" target="_blank">美国家安全局局长为"棱镜"监视项目辩护 @ 南方周末</a><br/>
+《<a href="http://www.infzm.com/content/91452" rel="nofollow" target="_blank">美国家安全局局长为"棱镜"监视项目辩护 @ 南方周末</a>》<br/>
 <br/>
 　　最后是几位网络名人对此事的评论（谈论的角度各不相同）。<br/>
-<br/>
-<a href="http://www.dw.de/a-16876173" rel="nofollow" target="_blank">艾未未："监控门"会刺激中国 @ 德国之声</a><br/>
-<br/>
-<a href="https://www.rfa.org/mandarin/pinglun/huping/yinsi-06172013150841.html" rel="nofollow" target="_blank">胡平：美国政府也在侵犯人民的隐私吗? @ RFA</a><br/>
-<br/>
-<a href="http://dajia.qq.com/blog/218405017807604" rel="nofollow" target="_blank">连清川：泄密者斯诺顿不是反美英雄 @ 腾讯</a><br/>
-<br/>
-<a href="http://dajia.qq.com/blog/285915032728842" rel="nofollow" target="_blank">安替："一九八四民主共和国" @ 腾讯网</a><br/>
-<br/>
-<a href="http://yanghengjunbk.blog.163.com/blog/static/4596419320135169532604/" rel="nofollow" target="_blank">杨恒均：情报、间谍与国家那些破事儿</a><br/>
+《<a href="https://www.dw.com/a-16876173" rel="nofollow" target="_blank">艾未未："监控门"会刺激中国 @ 德国之声</a>》<br/>
+《<a href="https://www.rfa.org/mandarin/pinglun/huping/yinsi-06172013150841.html" rel="nofollow" target="_blank">胡平：美国政府也在侵犯人民的隐私吗? @ RFA/自由亚洲电台</a>》<br/>
+《<a href="http://dajia.qq.com/blog/218405017807604" rel="nofollow" target="_blank">连清川：泄密者斯诺顿不是反美英雄 @ 腾讯网</a>》<br/>
+《<a href="http://dajia.qq.com/blog/285915032728842" rel="nofollow" target="_blank">安替："一九八四民主共和国" @ 腾讯网</a>》<br/>
+《<a href="http://yanghengjunbk.blog.163.com/blog/static/4596419320135169532604/" rel="nofollow" target="_blank">杨恒均：情报、间谍与国家那些破事儿 @ 网易博客</a>》<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a><br/>
-<a href="../../2013/04/more-supervision-less-thankfulness.md">对政府——多些“监督问责”，少些“煽情感动”</a><br/>
-<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）
+《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a>》<br/>
+《<a href="../../2013/04/more-supervision-less-thankfulness.md">对政府——多些“监督问责”，少些“煽情感动”</a>》<br/>
+《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）
 </div>
 
 

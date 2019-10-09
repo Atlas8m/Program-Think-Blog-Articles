@@ -210,7 +210,7 @@ Chrome/Chromium 从 66 版本开始支持 DoH。具体参见 Chromium 官网的 
 　　对于擅长折腾的同学，俺建议选某个 Linux 或 BSD 的【成熟】发行版，然后根据自己的需要进行【高度定制】（裁剪），只留下自己需要的部分（从而把攻击面降到最低），然后再搭配上自己需要的加固措施。<br/>
 <br/>
 <br/>
-<h2>★硬件相关</h2><br/>
+<h2>★硬件与物理安全</h2><br/>
 <h3>◇Spectre &amp; Meltdown 漏洞的普及性文章</h3><br/>
 《<a href="https://spectrum.ieee.org/computing/hardware/how-the-spectre-and-meltdown-hacks-really-worked" rel="nofollow" target="_blank">How the Spectre and Meltdown Hacks Really Worked @ IEEE</a>》<br/>
 <br/>

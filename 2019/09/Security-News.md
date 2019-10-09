@@ -21,7 +21,10 @@
 《<a href="https://www.solidot.org/story?sid=62117" rel="nofollow" target="_blank">AI 监视扩大到全世界 @ Solidot</a>》<br/>
 <blockquote style="background-color:#DDD;">在中国之后，越来越多的国家部署 AI 去跟踪公民。卡内基国际和平基金会称，有至少 75 个国家在使用人脸识别等 AI 工具。它发表了报告《<a href="https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847" rel="nofollow" target="_blank">The Global Expansion of AI Surveillance</a>》。<br/>
 使用某种形式 AI 的国家有自由民主国家如美国和法国，但更多是专制政府。报告称，华为、海康威视、大华和中兴为首的中国科技公司向世界输出了大量 AI 监控技术。其它如日本的 NEC、美国的 IBM、Palantir 和思科都是 AI 监控技术的主要供应商。<br/>
-中国还为外国政府购买中国的监控工具提供了贷款。肯尼亚、老挝、蒙古、乌干达和乌兹别克斯坦等国，如果没有中国的贷款不太可能采购 AI 监控工具。</blockquote><br/>
+中国还为外国政府购买中国的监控工具提供了贷款。肯尼亚、老挝、蒙古、乌干达和乌兹别克斯坦等国，如果没有中国的贷款不太可能采购 AI 监控工具。</blockquote>　　<b>编程随想注：</b><br/>
+　　面对技术监控的这种趋势，有必要再次重温 EFF 创始人的那篇《赛博空间独立宣言》。<br/>
+《<a href="../../2018/02/weekly-share-118.md">每周转载：EFF 创始人约翰·佩里·巴洛和他的【赛博空间独立宣言】</a>》<br/>
+<br/>
 <h3>◇面部识别</h3><br/>
 《<a href="https://www.solidot.org/story?sid=61939" rel="nofollow" target="_blank">南京中国药科大学试点面部识别 @ Solidot</a>》<br/>
 《<a href="https://www.solidot.org/story?sid=61925" rel="nofollow" target="_blank">瑞典禁止学校部署面部识别技术 @ Solidot</a>》<br/>
@@ -30,13 +33,13 @@
 　　上述两条新闻，放在一起对照，令人印象深刻啊。<br/>
 <br/>
 《<a href="http://www.sohu.com/a/338703096_452858" rel="nofollow" target="_blank">ZAO App 换脸玩大了，陌陌被工信部约谈要求自查整改 @ 搜狐</a>》<br/>
-<blockquote style="background-color:#DDD;">ZAO的火爆可以说是在一夜之间。自8月30日上线，不到24小时，这款APP就以火箭般的速度在各应用商店免费应用排行榜中蹿升至第二位，同期更是微博热搜前十话题。<br/>
+<blockquote style="background-color:#DDD;">ZAO的火爆可以说是在一夜之间。自8月30日上线，不到24小时，这款 APP 就以火箭般的速度在各应用商店免费应用排行榜中蹿升至第二位，同期更是微博热搜前十话题。<br/>
 <br/>
-但是却有细心用户发现其用户协议里暗藏玄机。协议中有一条写道：用户上传发布内容后，意味着同意授予ZAO及其关联公司以及ZAO用户在“全球范围内完全免费、不可撤销、永久、可转授权和可再许可的权利”。<br/>
+但是却有细心用户发现其用户协议里暗藏玄机。协议中有一条写道：用户上传发布内容后，意味着同意授予 ZAO 及其关联公司以及 ZAO 用户在“全球范围内完全免费、不可撤销、永久、可转授权和可再许可的权利”。<br/>
 <br/>
-这就等同于用户在使用该APP时同时也将自己的肖像权“转让”了出去。ZAO及其所属公司陌陌可以利用用户的肖像做任何其他事情。其危险可想而知。</blockquote><br/>
+这就等同于用户在使用该APP时同时也将自己的肖像权“转让”了出去。ZAO 及其所属公司陌陌可以利用用户的肖像做任何其他事情。其危险可想而知。</blockquote><br/>
 《<a href="https://www.solidot.org/story?sid=62055" rel="nofollow" target="_blank">网店出售人脸数据引发争议</a>》<br/>
-<blockquote style="background-color:#DDD;">国内媒体报道，在一网络商城上，有商家公开兜售 “人脸数据”，数量达 17 万条。报道称这些 “人脸数据” 覆盖 2000 人的肖像，除了人脸位置的信息外，还有人脸的 106 处关键点，如眼睛、耳朵、鼻子等的轮廓信息。这其中有明星也有普通市民，还有部分未成年人。店家称，自己平时从事人工智能的相关工作，因此收集了很多人脸数据，发售出来 “挣个饭钱”，并不提供当事人的人名和身份证号等信息。记者举报后，商品被下架。有律师表示，<a href="http://www.bjnews.com.cn/opinion/2019/09/11/625433.html" rel="nofollow" target="_blank">此举已涉嫌侵犯他人隐私权</a>。</blockquote><br/>
+<blockquote style="background-color:#DDD;">国内媒体报道，在一网络商城上，有商家公开兜售 “人脸数据”，数量达17万条。报道称这些 “人脸数据” 覆盖2000人的肖像，除了人脸位置的信息外，还有人脸的106处关键点，如眼睛、耳朵、鼻子等的轮廓信息。这其中有明星也有普通市民，还有部分未成年人。店家称，自己平时从事人工智能的相关工作，因此收集了很多人脸数据，发售出来 “挣个饭钱”，并不提供当事人的人名和身份证号等信息。记者举报后，商品被下架。有律师表示，<a href="http://www.bjnews.com.cn/opinion/2019/09/11/625433.html" rel="nofollow" target="_blank">此举已涉嫌侵犯他人隐私权</a>。</blockquote><br/>
 <h3>◇手机应用在【不】授予权限的情况下，依然能收集相应数据</h3><br/>
 《<a href="https://www.cnet.com/news/more-than-1000-android-apps-harvest-your-data-even-after-you-deny-permissions/" rel="nofollow" target="_blank">More than 1,000 Android apps harvest data even after you deny permissions @ CNET</a>》<br/>
 <br/>
@@ -89,6 +92,8 @@
 <center><img alt="不见图 请翻墙" src="images/0vQjG0EDgkGXsu6GPEGd2DrJM5AMykgPFJCF3cvjBczcRkMY-0JYf8OZHcW9sWIiCM4KObH5Vtp0mcYNLebAOi00wK2EBIhw4yBjr2LcHLoM-0pCv4hTZJt4rVWO15huCtL2LXcAyUY"/></center><br/>
 　　然后，美国政府对 Edward Snowden 提起民事诉讼，反而引发“<a href="https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%BF%A0%E7%8F%8A%E6%95%88%E5%BA%94" rel="nofollow" target="_blank">史翠珊效应</a>”，导致更多人关注此书。<br/>
 　　这本书刚出来，俺还没去找电子版。有空的话，会把电子版分享到<a href="https://github.com/programthink/books" rel="nofollow" target="_blank">俺的网盘</a>。<br/>
+　　引申阅读：<br/>
+《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a>》<br/>
 <br/>
 <br/>
 <h2>★高危漏洞</h2><br/>
@@ -346,10 +351,10 @@ CamScanner 曾经是一个合法应用，在大部分时间里没有恶意功能
 《<a href="https://www.sciencealert.com/a-major-cyber-attack-could-be-just-as-damaging-as-a-nuclear-weapon" rel="nofollow" target="_blank">A Major Cyber Attack Could Be Just as Deadly as Nuclear Weapons, Says Scientist @ Science Alert</a>》<br/>
 　　<b>编程随想注：</b><br/>
 　　这篇主要讨论——大部分民众完全低估了【网络战】造成的破坏。实际上，网络战可以达到类似于【核战】的破坏力。<br/>
-　　最容易想到的一点是：网络入侵者有可能会渗透到核武系统。即使不考虑这种情况，入侵者仅仅对“供电系统 ＆ 供水系统”进行破坏，就足以让大量民众死亡（上述文章有提到具体的搞法；在下一个小节，俺给出具体的案例）。<br/>
+　　最容易想到的一点是：网络入侵者有可能会渗透到战略核武器的控制系统。另外，即使不考虑这种情况，入侵者仅仅对“供电系统 ＆ 供水系统”进行破坏，就足以让大量民众死亡（上述文章有提到具体的搞法；在下一个小节，俺给出现实世界中的案例）。<br/>
 　　说到这儿，某些读者可能会反驳说，各国的核武系统肯定是与公网（互联网）物理隔离，不会被渗透。<br/>
 　　但俺要提醒一点：<br/>
-　　当年伊朗位于纳坦兹的“铀浓缩工厂”也是物理隔离，结果还是被“<a href="https://en.wikipedia.org/wiki/Stuxnet" rel="nofollow" target="_blank">Stuxnet</a>”（震网蠕虫）渗透了，并导致工厂内的离心机被彻底破坏（物理损坏）。<br/>
+　　当年伊朗位于纳坦兹的“铀浓缩工厂”也是物理隔离，结果还是被“<a href="https://en.wikipedia.org/wiki/Stuxnet" rel="nofollow" target="_blank">Stuxnet</a>”（震网蠕虫）深度渗透了，并导致工厂内的离心机被彻底破坏（物理损坏）。<br/>
 　　所以，【不要】过度迷信“物理隔离”。有些时候，入侵者可以靠【<a href="../../2009/05/social-engineering-0-overview.md">社会工程学</a>】来突破物理隔离（参见本文后续的“硬件与物理安全”章节其中一个案例）<br/>
 <br/>
 　　文中还对比了“核战”与“网络战”的差别。俺转述并引申如下——<br/>
@@ -373,8 +378,8 @@ FCC 在5月投票表决一致通过，不允许另一家中国国有电信公司
 <br/>
 FCC 发言人 Brian Hart 表示，Pai“已明确表示，该委员会正在审核其它中国电信企业，如中国电信和中国联通”。</blockquote><br/>
 　　<b>编程随想注：</b><br/>
-　　上述报道中提及了天朝 ISP 搞【劫持流量】。<br/>
-　　关于这方面的技术分析，参见如下文章。其作者是：Oracle 互联网分析部（Dyn）总监 Doug Madory。<br/>
+　　上述报道中提及了天朝 ISP 搞【流量劫持】。<br/>
+　　考虑到很多读者可能不了解相关的知识，俺引述去年的一篇文章。其作者是：Oracle 互联网分析部（Dyn）总监 Doug Madory。<br/>
 《<a href="https://dyn.com/blog/china-telecoms-internet-traffic-misdirection/" rel="nofollow" target="_blank">China Telecom's Internet Traffic Misdirection @ Oracle dyn</a>》<br/>
 　　看不懂洋文的同学，可以看如下中文翻译。然后俺贴几张图，帮你加深印象。<br/>
 《<a href="https://www.submarinenetworks.com/zh/internet/2018111001" rel="nofollow" target="_blank">甲骨文：中国电信误导国际互联网流量（译文） @ Submarine Networks</a>》<br/>
@@ -397,13 +402,14 @@ FCC 发言人 Brian Hart 表示，Pai“已明确表示，该委员会正在审�
 维基百科发言人证实了这次攻击，表示网站的工程师正努力恢复访问。发言人表示，此类的攻击威胁到了每一个人自由访问和分享信息的基本权利，维基媒体和维基运动致力于保护这些权利。受到影响的国家包括了英国、法国、德国、波兰和意大利等。</blockquote><br/>
 <br/>
 <h2>★言论审查与网络屏蔽</h2><br/>
-<h3>◇香港 ISP 协会发声：警告 GFW 的风险</h3><br/>
+<h3>◇香港 ISP 协会发声：警告香港互联网【沦陷】的风险</h3><br/>
 《<a href="https://www.ithome.com.tw/news/132724" rel="nofollow" target="_blank">香港 ISP 出面反對港府封鎖特定通訊服務的計畫 @ iThome</a>》<br/>
 <blockquote style="background-color:#DDD;">香港反送中行動引發的大規模示威及警民衝突愈演越烈，本周星島日報報導港府正在考慮啟動《緊急情況規例條例》實施緊急措施，包括管制媒體刊物內容、或透過下達行政命令，要求 ISP 封鎖特定網路應用，如 Telegram、連登等。<br/>
 <br/>
-香港網際網路服務供應商聯盟（Hong Kong Internet Service Providers Alliance, HKISPA）周三發出緊急聲明指出，現代網際網路包括複雜技術如 VPN、雲端和加密等，要有效封鎖任何服務幾乎不可能，除非是將香港網際網路全部鎖在監控性的防火牆之後。HKISPA 警告，限制手段無法遏止意志堅決的用戶，他們會透過 VPN 等管道持續存取服務，迫使當局持續升高限制。因此任何再微小的限制，可能最後擴大走向類似中國的長城防火牆。但這等於啟動香港開放網路的末日，造成國際網路公司對香港立即且永久縮減投資。</blockquote><br/>
+香港網際網路服務供應商聯盟（Hong Kong Internet Service Providers Alliance, HKISPA）周三發出緊急聲明指出，現代網際網路包括複雜技術如 VPN、雲端和加密等，要有效封鎖任何服務幾乎不可能，除非是將香港網際網路全部鎖在監控性的防火牆之後。HKISPA 警告，限制手段無法遏止意志堅決的用戶，他們會透過 VPN 等管道持續存取服務，迫使當局持續升高限制。<b>因此任何再微小的限制，可能最後擴大走向類似中國的長城防火牆。</b>但這等於啟動香港開放網路的末日，造成國際網路公司對香港立即且永久縮減投資。</blockquote><br/>
 　　<b>编程随想注：</b><br/>
-　　俺有点担心——在不久的将来，香港网民也会撞墙（GFW）。<br/>
+　　（上述引文中的粗体是俺标注滴）<br/>
+　　俺之前就有点担心——在不久的将来，香港网民也会撞墙（GFW）。<br/>
 　　香港 ISP 协会在8月底发表上述公开声明，看来也有这方面的担忧。<br/>
 <br/>
 <h3>◇微信如何审查政治敏感的【图片】</h3><br/>
@@ -469,7 +475,7 @@ warshipping 不是新概念，它其实就是古代特洛伊木马的现代版�
 <br/>
 <h2>★安全编程</h2><br/>
 <h3>◇Rust 编程语言</h3><br/>
-　　之前在博客评论区也聊过 Rust，不止一次。<br/>
+　　之前在博文和评论区都简单聊过 Rust，还不止一次。<br/>
 　　当初设计 Rust 编程语言，其【定位】是与 C/C++ 在同一个层次。<br/>
 　　相比 C/C++，Rust 在【安全编程】方面有很多优势，可消除“无效指针、内存越界、数据未初始化、竞态条件......”引入的 bug。而恰恰是这类 bug 会成为【高危漏洞】。<br/>
 　　虽然在 C/C++ 社区，也可以通过一些第三方库来消除上述这些编码隐患，但【库】的使用还是要依赖【人的因素】。而人经常会犯错。<br/>
@@ -478,7 +484,6 @@ warshipping 不是新概念，它其实就是古代特洛伊木马的现代版�
 　　但俺想说的是：Go 的【定位】比 C/C++ 略高。有些比较底层的领域（比如：嵌入式、操作系统内核、设备驱动...），可以用 C、C++、Rust 来搞定（至少理论上可以）。但用 Go 就没戏（至少理论上不行）。<br/>
 <br/>
 　　下面是几篇相关的报道：<br/>
-<br/>
 《<a href="https://www.solidot.org/story?sid=61919" rel="nofollow" target="_blank">Rust 未来可用于开发 Linux 驱动 @ Solidot</a>》<br/>
 《<a href="https://tech.slashdot.org/story/19/07/19/1546224/" rel="nofollow" target="_blank">A Rust-Based TLS Library Outperformed OpenSSL in Almost Every Category @ Slashdot</a>》<br/>
 《<a href="https://developers.slashdot.org/story/19/08/31/1540225/" rel="nofollow" target="_blank">Intel Engineer Launches Working Group To Bring Rust 'Full Parity With C' @ Slashdot</a>》<br/>
@@ -495,8 +500,16 @@ warshipping 不是新概念，它其实就是古代特洛伊木马的现代版�
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
+《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
 《<a href="../../2014/01/dns.md">扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗／域名污染”</a>》<br/>
 《<a href="../../2018/10/Comparison-of-DNS-Protocols.md">对比4种强化域名安全的协议——DNSSEC，DNSCrypt，DNS over TLS，DNS over HTTPS</a>》<br/>
+《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书及 CA 的扫盲介绍</a>》<br/>
+《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL／TLS 协议</a>》（系列）<br/>
+《<a href="../../2013/06/usa-vs-china.md">中美政府信息监控的差异——“棱镜门”丑闻随想</a>》<br/>
+《<a href="../../2018/02/weekly-share-118.md">每周转载：EFF 创始人约翰·佩里·巴洛和他的【赛博空间独立宣言】</a>》<br/>
+《<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a>》<br/>
+《<a href="../../2010/02/about-cnnic.md">CNNIC 干过的那些破事儿</a>》<br/>
+《<a href="../../2016/09/About-WoSign.md">老流氓 CNNIC 的接班人——聊聊“沃通/WoSign”的那些破事儿</a>》
 </div>
 
 

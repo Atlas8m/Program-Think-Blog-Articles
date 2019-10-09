@@ -27,7 +27,7 @@
 　　在今天介绍的4个协议中，DNSSEC 也是最早大规模部署的。在2010年的时候，所有<a href="https://zh.wikipedia.org/wiki/%E6%A0%B9%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8B%99%E5%99%A8" rel="nofollow" target="_blank">根域名服务器</a>都已经部署了 DNSSEC。到了2011年，若干顶级域名（.org 和 .com 和 .net 和 .edu）也部署了 DNSSEC。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="font-family:Courier,monospace;">--------
+<pre>--------
  DNSSEC
 --------
   UDP
@@ -59,7 +59,7 @@
 　　历史上有过两个版本，分别称：Version 1 和 Version 2。如今主要使用“版本2”<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="font-family:Courier,monospace;">----------------
+<pre>----------------
     DNSCrypt
 ----------------
    TCP or UDP
@@ -80,7 +80,7 @@
 　　顺便提醒一下：虽然 DNSCrypt 协议默认使用 443 这个端口号，但该协议与 HTTPS 毫无关系。<br/>
 <br/>
 <h3>◇缺点</h3><br/>
-　　（俺个人认为）DNSCrypt 最大的缺点就是前面提到的：从未提交过 RFC。没有 RFC 也就无法通过 IETF（互联网工程任务组）进行标准化。一个无法标准化的协议，其生命力要打很大的折扣。<br/>
+　　（俺个人认为）DNSCrypt 最大的缺点就是前面提到的：【从未】提交过 RFC。没有 RFC 也就无法通过 IETF（互联网工程任务组）进行标准化。一个无法标准化的协议，其生命力要打很大的折扣。<br/>
 　　另一个比较小的缺点是——虽然 DNSCrypt 协议是加密的，但可以被识别出来。换句话说：如果有人监控你的流量，可以识别出哪些流量属于 DNSCrypt 协议。为啥说这是个缺点捏？在本文末尾讨论 “DNSCrypt 与 TLS 的安全性对比” 的时候，会详细加以说明。<br/>
 　　再来说说【公共 DNS 系统】。截至俺写本文时，Google 和 Cloudflare 的公共域名系统【尚未】支持 DNSCrypt（参见<a href="https://en.wikipedia.org/wiki/Public_recursive_name_server" rel="nofollow" target="_blank">这个页面</a>的对照表）。这也是一个缺点。<br/>
 <br/>
@@ -93,7 +93,7 @@
 　　从时间上看，RFC7858 是2016年发布的，RFC8310 是今年（2018）发布的；显然，这个协议出现得比较晚（相比前面提到的 DNSSEC 和 DNSCrypt）。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="font-family:Courier,monospace;">--------
+<pre>--------
   DoT
 --------
   TLS
@@ -121,13 +121,12 @@
 <h2>★DNS over HTTPS</h2><br/>
 　　“DNS over HTTPS”有时也被简称为【DoH】。为了打字省力，本文以下部分用 DoH 来称呼之。<br/>
 <br/>
-<br/>
 <h3>◇历史</h3><br/>
 　　在今天介绍的4个协议中，DoH 是最新的（最晚出现的）。RFC 方面，它已经有了相应的草案，但还【没有】正式发布。截至俺写本文时，DoH 的草案已经发了 15 个版本（从 00 到 14），最新版的链接在“<a href="https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-14" rel="nofollow" target="_blank">这里</a>”。<br/>
 　　很多人把 DoH 与 DoT 混为一谈，实际上这是两种不同的协议。你可以对比这两者的协议栈，（只要你眼睛不瞎）就可看出其中的差别。<br/>
 <br/>
 <h3>◇协议栈</h3><br/>
-<pre style="font-family:Courier,monospace;">--------
+<pre>--------
   DoH
 --------
   HTTP

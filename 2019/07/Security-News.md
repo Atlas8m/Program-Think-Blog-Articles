@@ -271,7 +271,7 @@ Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹�
 　　法国政府基于【Matrix 协议】开发了一个 IM 工具（Tchap），用来替代“Telegram 和 WhatsApp”。并且这个 Tchap 最终会被用于法国所有政府部门。<br/>
 <br/>
 <br/>
-<h2>★硬件相关</h2><br/>
+<h2>★硬件与物理安全</h2><br/>
 <h3>◇针对高通芯片的攻击（可盗取密钥）</h3><br/>
 《<a href="https://www.zdnet.com/article/security-flaw-lets-attackers-recover-private-keys-from-qualcomm-chips/" rel="nofollow" target="_blank">Security flaw lets attackers recover private keys from Qualcomm chips @ ZDNet</a>》<br/>
 <br/>

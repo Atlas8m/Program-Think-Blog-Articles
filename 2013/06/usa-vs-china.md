@@ -3,8 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　这个端午节长假，比较热闹的新闻是美国爆出“棱镜门”丑闻。今天抽空聊一下中美两国政府在信息监控方面的差异。通过对比，大伙儿会意识到：虽然美国政府坏，但是中国政府更坏。<a name="more"></a><br/>
-<br/>
+　　这个端午节长假，比较热闹的新闻是美国爆出“棱镜门”丑闻。今天抽空聊一下中美两国政府在信息监控方面的差异。通过对比，大伙儿会意识到：虽然美国政府坏，但是中国政府更坏。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★写在前面的话——如何客观看待“美国”？</h2><br/>
 　　咱们天朝的网络舆论，自由派通常倾向于夸美国，而毛派和五毛倾向于骂美国。不管是哪一种人，如果只看到美国的一面，而没有看到另一面，那你多半陷入《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》。<br/>
@@ -84,11 +84,13 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/04/more-supervision-less-thankfulness.md">对于政府——多些“监督问责”，少些“煽情感动”</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）<br/>
-<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a><br/>
-<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a><br/>
-<a href="../../2011/09/usa-vs-china.md">闲聊中美文化差异——9·11十周年随想</a>
+《<a href="../../2013/04/more-supervision-less-thankfulness.md">对于政府——多些“监督问责”，少些“煽情感动”</a>》<br/>
+《<a href="../../2018/02/weekly-share-118.md">每周转载：EFF 创始人约翰·佩里·巴洛和他的【赛博空间独立宣言】</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》<br/>
+《<a href="../../2011/09/usa-vs-china.md">闲聊中美文化差异——9·11十周年随想</a>》
 </div>
 
 

@@ -5,8 +5,8 @@
 <div class="post-body entry-content">
 <h2>★引子</h2><br/>
 　　近期接到若干读者反馈，希望能够普及一下 Linux，包括某些专门为安全而优化的发行版（比如 TAILS）。所以俺考虑从几个不同的方面，扫盲一下基于 Linux 内核的操作系统。考虑到很多读者不是 IT 从业人员，俺尽量写得"傻瓜化"一些，希望能让技术菜鸟看明白。<br/>
-　　今天这篇，先来说说：一个新手该如何一步步搞定它，从"菜鸟"进化为"老鸟"。（为了打字省力，以下把"基于 Linux 内核的操作系统" 简称为 "Linux"）<a name="more"></a><br/>
-<br/>
+　　今天这篇，先来说说：一个新手该如何一步步搞定它，从"菜鸟"进化为"老鸟"。（为了打字省力，以下把"基于 Linux 内核的操作系统" 简称为 "Linux"）<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★两种思想上的误区</h2><br/>
 　　按照俺的风格，先来说说两种思想上的误区（学习其它技术，通常也存在这两个误区）。<br/>
@@ -109,7 +109,8 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>
+《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>》<br/>
+《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言）</a>》
 </div>
 
 

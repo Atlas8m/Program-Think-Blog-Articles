@@ -5,8 +5,8 @@
 <div class="post-body entry-content">
 　　俺一直在等 TLS 1.3 定稿（之所以这么期待，因为 1.3 是一次【大】升级）。<br/>
 　　前些天（2018年8月），IETF 终于发布了 <a href="https://tools.ietf.org/html/rfc8446" rel="nofollow" target="_blank">RFC 8446</a>，标志着 TLS 1.3 协议大功告成。于是俺就来继续完成本系列的后面几篇。<br/>
-　　本系列的<a href="../../2016/09/https-ssl-tls-3.md">前一篇</a>，咱们聊了“密钥交换/密钥协商”的相关算法。从这篇开始，会逐步谈及协议的细节，今天就从 Record 协议说起。由于恰逢 TLS 1.3 新鲜出炉，俺也顺便聊聊 SSL/TLS 历史上几个版本的演变及差异。<a name="more"></a><br/>
-<br/>
+　　本系列的<a href="../../2016/09/https-ssl-tls-3.md">前一篇</a>，咱们聊了“密钥交换/密钥协商”的相关算法。从这篇开始，会逐步谈及协议的细节，今天就从 Record 协议说起。由于恰逢 TLS 1.3 新鲜出炉，俺也顺便聊聊 SSL/TLS 历史上几个版本的演变及差异。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★名词解释</h2><br/>
 　　对于本文会涉及到的几个专业术语，先放上相应的解释。<br/>
@@ -44,7 +44,7 @@
 　　为了解决上述弊端，业界引入 AE（Authenticated Encryption）算法的概念。也就是说，AE 算法不但能做到【保密性】还可以做到【完整性】。<br/>
 　　刚才扫盲的三种 MAC 实现方式，【从理论上讲】就可以算 AE 啦。但上述那三种 MAC 的实现方式有个弊端——【解密】的一方还要自己进行 MAC 的验证操作。这种搞法既麻烦又增加额外风险。比如说：写解密代码的程序猿万一太粗心忘记进行验证，岂不前功尽弃？<br/>
 <br/>
-<h3>◇【真正的】 AE</h3><br/>
+<h3>◇【真正的】AE</h3><br/>
 　　为了避免上述提到的弊端，密码学界那帮专家又捣鼓出一些新的算法（比如 CCM、GCM）。这些算法可以在解密的同时验证数据的有效性，而且这些算法也【不】需要再额外存储一个独立的 MAC 数据。<br/>
 　　本文后续部分提及的 AE，如果没有特别说明，就是指这类【真正的】AE。<br/>
 　　知名的那些 AE 算法，可以组合现有的加密算法。比如说：从 TLS 1.2 开始引入的 GCM 和 CCM，这两个 AE 算法都可以组合 AES128 与 AES256 加密算法。<br/>
@@ -64,7 +64,7 @@
 <br/>
 <h3>◇SSL 1.0</h3><br/>
 　　在本系列的<a href="../../2014/11/https-ssl-tls-1.md">第一篇</a>，俺曾经提到：SSL 是上世纪90年代中期，由<a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E6%99%AF" rel="nofollow" target="_blank">网景公司</a>设计的。早期设计者是网景公司的 <a href="https://en.wikipedia.org/wiki/Taher_Elgamal" rel="nofollow" target="_blank">Taher Elgamal</a>（一位埃及的密码学家）。此人也被誉为“SSL 它爹”。<br/>
-　　SSL 1.0 【从来没有】正式发布过，所以业界对它了解不多。之所以没有正式发布，据说是设计完之后发现了若干严重的安全缺陷，就不好意思再拿出来丢人现眼。<br/>
+　　SSL 1.0 【从没】正式发布过，所以业界对它了解不多。之所以没有正式发布，据说是设计完之后发现了若干严重的安全缺陷，就不好意思再拿出来丢人现眼。<br/>
 <br/>
 <h3>◇SSL 2.0</h3><br/>
 　　SSL 2.0 是 1995 年正式发布滴，坦率地说，协议设计比较粗糙。<br/>
@@ -93,13 +93,13 @@
 <h3>◇TLS 1.2</h3><br/>
 　　TLS 1.2 是 2008 年发布滴，技术规范是 <a href="https://tools.ietf.org/html/rfc5246" rel="nofollow" target="_blank">RFC 5246</a>。<br/>
 　　相比 TLS 1.1 的变化如下：<br/>
-<blockquote style="background-color:#DDD;">支持 <a href="https://en.wikipedia.org/wiki/AEAD_block_cipher_modes_of_operation" rel="nofollow" target="_blank">AEAD</a> 加密模式（参见 <a href="https://tools.ietf.org/html/rfc5116" rel="nofollow" target="_blank">RFC 5116</a>）<br/>
+<blockquote>支持 <a href="https://en.wikipedia.org/wiki/AEAD_block_cipher_modes_of_operation" rel="nofollow" target="_blank">AEAD</a> 加密模式（参见 <a href="https://tools.ietf.org/html/rfc5116" rel="nofollow" target="_blank">RFC 5116</a>）<br/>
 加密算法废弃了 DES、DES40、IDEA、RC2<br/>
 HMAC 增加了 SHA256</blockquote><br/>
 <h3>◇TLS 1.3</h3><br/>
 　　俺写本文时，TLS 1.3 刚刚新鲜出炉没几天（2018年8月），其技术规范是 <a href="https://tools.ietf.org/html/rfc8446" rel="nofollow" target="_blank">RFC 8446</a>。<br/>
 　　从2008到2018，真所谓“十年磨一剑”。目前看来，这个 1.3 版本是一次雄心勃勃的升级，相对 TLS 1.2 加了不少东西，也删了不少东西。考虑到篇幅，俺挑几个主要的来说说：<br/>
-<blockquote style="background-color:#DDD;">首先要表扬的是：TLS 1.3 完善了 SNI（<a href="https://en.wikipedia.org/wiki/Server_Name_Indication" rel="nofollow" target="_blank">Server Name Identification</a>）扩展，非常有利于翻墙工具借助【依附的自由】对抗网络封锁；<br/>
+<blockquote>首先要表扬的是：TLS 1.3 完善了 SNI（<a href="https://en.wikipedia.org/wiki/Server_Name_Indication" rel="nofollow" target="_blank">Server Name Identification</a>）扩展，非常有利于翻墙工具借助【依附的自由】对抗网络封锁；<br/>
 其次是强制使用“完美正向加密（PFS）”，所以很多做不到 PFS 的密钥协商算法在 TLS 1.3 规范中被无情地抛弃了（比如：RSA、静态 DH、静态 ECDH...）；<br/>
 传统的 HMAC 也被无情地抛弃了，今后只使用 AEAD 方式来保障完整性（关于 AEAD，请看本文开头的名词解释）；<br/>
 原有的对称加密算法只保留 AES（3DES、RC4 废弃），另增加 <a href="https://en.wikipedia.org/wiki/ChaCha20" rel="nofollow" target="_blank">CHACHA20</a> 流加密算法；<br/>
@@ -109,7 +109,7 @@ HMAC 增加了 SHA256</blockquote><br/>
 <br/>
 <h2>★Record 协议概述</h2><br/>
 　　很多介绍 SSL/TLS 的文章都把 record 协议给忽略了。可能这些文章的作者觉得 record 协议不太重要。但俺出于负责任的心态，觉得还是有必要跟大伙儿聊一下。<br/>
-　　SSL/TLS 协议在通讯的过程中会把需要传输的数据分成一坨一坨的，每次都只发送或接收一坨。在洋文中，每一坨称为一个 record。下面要聊的“Record 协议”，就是用来定义这个 record 的格式。<br/>
+　　SSL/TLS 协议在通讯的过程中会把需要传输的数据分成一坨一坨的，每次都只发送或接收一坨。在洋文中，每一坨称作一个 record。下面要聊的“Record 协议”，就是用来定义这个 record 的格式。<br/>
 <br/>
 <br/>
 <h2>★Record 协议的结构</h2><br/>
@@ -150,7 +150,7 @@ HMAC 增加了 SHA256</blockquote><br/>
 　　“长度”字段含两个字节，表示载荷长度。<br/>
 　　对于【明文】的 record，【没有】“消息认证码”字段，也【没有】“填充”字段——“载荷长度”也就是消息的长度。<br/>
 　　对于【加密】的 record——“载荷长度”是“消息、消息验证码、填充”三者的长度之和。<br/>
-　　SSL/TLS 协议规定了长度字段最多只能表示 0~16384 字节（2<sup>14</sup> = 16384）。<br/>
+　　SSL/TLS 协议规定了长度字段最多只能表示 <code>0~16384</code> 字节（<code>2<sup>14</sup> = 16384</code>）。<br/>
 <br/>
 <h3>◇消息（message）</h3><br/>
 　　每个 record 的“消息”字段的内容取决于“类型”字段。关于这个“消息”字段，待会儿再聊。<br/>
@@ -178,18 +178,18 @@ HMAC 增加了 SHA256</blockquote><br/>
 　　从 Record 协议的头部类型字段可以看出，总共有5种类型的 Record。下面简单说一下：<br/>
 <br/>
 <h3>◇握手（Handshake）</h3><br/>
-　　Record 协议的“类型”字段为 22（0x16），表示这条 record 是 Handshake 类型。<br/>
+　　Record 协议的“类型”字段为 <code>22</code>（<code>0x16</code>），表示这条 record 是 Handshake 类型。<br/>
 　　“握手”的意思就是——通讯双方初次打交道，需要交换一些初始化的信息。<br/>
 　　对于 SSL/TLS 协议，为了建立起【可靠的】加密信道，通讯双方需要在握手的过程交换很多信息（加密算法、压缩算法、MAC 算法、等等）。所以这个握手的过程是比较复杂滴，需要耗费很多口水。俺留到本系列的下一篇，专门来聊“握手的细节”。<br/>
 　　由于握手的过程，加密信道尚未建立，所以用来进行握手的 record 是【明文】滴，并且也【没有】“MAC”字段及“填充”字段。<br/>
 <br/>
 <h3>◇切换到加密方式（ChangeCipherSpec）</h3><br/>
-　　Record 协议的“类型”字段为 20（0x14），表示这条 record 是 ChangeCipherSpec 类型。<br/>
+　　Record 协议的“类型”字段为 <code>20</code>（<code>0x14</code>），表示这条 record 是 ChangeCipherSpec 类型。<br/>
 　　这个 ChangeCipherSpec 也是跟握手过程相关滴，留到下一篇。<br/>
 　　注：从 TLS 1.3 版本开始，ChangeCipherSpec 类型的 record 已经被废弃，仅用于向后兼容。<br/>
 <br/>
 <h3>◇应用层数据（Application）</h3><br/>
-　　Record 协议的“类型”字段为 23（0x17），表示这条 record 是 Application 类型。<br/>
+　　Record 协议的“类型”字段为 <code>23</code>（<code>0x17</code>），表示这条 record 是 Application 类型。<br/>
 　　也就是说，这条 record 的载荷部分存放的是上层（应用层）协议的数据。既然传输的是上层数据，肯定得是【加密】滴！但不一定有“MAC”字段。要看具体的 SSL/TLS 版本（如下）：<br/>
 1. 对于 TLS 1.1 及之前的版本，总是使用 HMAC 进行完整性校验，所以总是含有“MAC”字段。<br/>
 2. 对于 TLS 1.2，如果握手之后采用 AEAD 加密模式，就没有 MAC；反之，则有 MAC。<br/>
@@ -197,21 +197,21 @@ HMAC 增加了 SHA256</blockquote><br/>
 　　另外，在 TLS 1.2 及【之前】的版本中，还支持“对应用层数据进行压缩”。本来俺还想聊聊这方面的实现细节。但是 TLS 1.3 已经【废弃】了压缩选项（为了防 <a href="https://en.wikipedia.org/wiki/CRIME" rel="nofollow" target="_blank">CRIME 攻击</a>），恐怕未来版本也不会再有压缩选项了。搞得俺也没积极性来聊这个话题了 :(<br/>
 <br/>
 <h3>◇告警（Alert）</h3><br/>
-　　Record 协议的“类型”字段为 21（0x15），表示这条 record 是 Alert 类型。<br/>
+　　Record 协议的“类型”字段为 <code>21</code>（<code>0x15</code>），表示这条 record 是 Alert 类型。<br/>
 　　这种类型的 record 用来发送警告或出错信息。<br/>
 　　在通讯的过程（包括握手过程）中，有时候某一方会发现不对劲（比如收到的数据出现缺失或错误），这时候就要发送一条 Alert 类型的 record 给对方。<br/>
 　　不对劲的情况分为两种，洋文分别称之为 Warning 和 Fatal。两者的差别在于：<br/>
-<blockquote style="background-color:#DDD;">Warning 表示通讯出现【不稳定】的情况（这种“不稳定”通常是【可恢复】滴）<br/>
+<blockquote>Warning 表示通讯出现【不稳定】的情况（这种“不稳定”通常是【可恢复】滴）<br/>
 Fatal 表示通讯出现【不可靠】的情况（比如：证书失效、数据被篡改。这种“不可靠”通常是【不可恢复】滴）</blockquote>　　如果不对劲的情况属于 Warning，通讯可能会继续也可能会断开；如果不对劲的情况属于 Fatal，通讯会在发送 Alert 之后立即断开。<br/>
 　　这种类型的 record，其“消息”字段仅有2字节，头一个字节表示告警的“级别/Level”（1表示 warning，2表示 fatal）；后一个字节表示具体的描述（有一个对照表，用不同的整数表示不同的情况）。<br/>
 　　如果在握手【之后】发送告警，此时双方已经建立起加密信道，则告警 record 的“消息”字段是【密文】的。<br/>
 　　如果在握手【之前】发送告警，此书尚未建立加密信道，则告警 record 的“消息”字段是【明文】的。<br/>
 <br/>
 <h3>◇心跳（Heartbeat）</h3><br/>
-　　Record 协议的“类型”字段为 24（0x18），表示这条 record 是 Heartbeat 类型。<br/>
+　　Record 协议的“类型”字段为 <code>24</code>（<code>0x18</code>），表示这条 record 是 Heartbeat 类型。<br/>
 　　这种类型的 record 用来发送心跳信息。<br/>
-　　所谓的【心跳】，主要用来确认“通讯的对端依然正常”。在 SSL/TLS 连接建立之后，有可能在某些情况下出现【通讯空闲】（上层的协议在某个时间段没有数据传输）。这时候就需要依靠【心跳机制】来判断对方是否还活着。<br/>
-　　由于“心跳”的传输是在加密信道建立之后，所以“心跳”的 record 是加密的。<br/>
+　　所谓的【心跳】，主要用来确认“通讯的对端”依然正常。在 SSL/TLS 连接建立之后，有可能在某些情况下出现【通讯空闲】（上层的协议在某个时间段没有数据传输）。这时候就需要依靠【心跳机制】来判断对方是否还活着。<br/>
+　　由于“心跳”的传输是在加密信道建立之后，所以“心跳”的 record 也是加密滴。<br/>
 　　关于这个心跳机制的技术细节，请参见 RFC6520（链接在“<a href="https://tools.ietf.org/html/rfc6520" rel="nofollow" target="_blank">这里</a>”）。<br/>
 　　这个心跳协议的 RFC 发布于2012年（晚于2008年的 TLS 1.2），因此目前只有 TLS 1.3 版本才支持它。<br/>
 <br/>

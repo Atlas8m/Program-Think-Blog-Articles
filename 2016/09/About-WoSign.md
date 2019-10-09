@@ -61,7 +61,7 @@
 <h2>★“沃通”与“StartCom”的关系</h2><br/>
 　　前面聊沃通的家丑，提到了 StartCom，下面俺来介绍一下两者的关系。先看几篇报道：<br/>
 《<a href="https://www.solidot.org/story?sid=49555" rel="nofollow" target="_blank">沃通被指秘密收购了StartCom @ solidot</a>》<br/>
-《<a href="http://www.cnbeta.com/articles/535661.htm" rel="nofollow" target="_blank">沃通(WoSign)被指秘密收购以色列CA——StartCom @ cnBeta</a>》<br/>
+《<a href="https://www.cnbeta.com/articles/535661.htm" rel="nofollow" target="_blank">沃通（WoSign）被指秘密收购以色列CA——StartCom @ cnBeta</a>》<br/>
 《<a href="https://www.ithome.com.tw/news/103939" rel="nofollow" target="_blank">韓國資安研究員踢爆：以色列StartSSL憑證主機竟在奇虎360中國機房 @ iThome</a>》<br/>
 <br/>
 　　沃通作为商业机构，并购其它 CA，本来无可厚非的。但是这几篇报道中都提到了一个定语——【秘密】收购。<br/>
@@ -99,6 +99,7 @@
 《<a href="../../2010/02/about-cnnic.md">CNNIC 干过的那些破事儿</a>》<br/>
 《<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a>》<br/>
 《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>》（系列）<br/>
+《<a href="../../2019/09/Security-News.md">近期安全动态和点评（2019年3季度）</a>》<br/>
 《<a href="../../2019/07/Security-News.md">近期安全动态和点评（2019年2季度）</a>》
 </div>
 

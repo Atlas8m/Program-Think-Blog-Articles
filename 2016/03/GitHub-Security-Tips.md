@@ -229,12 +229,12 @@ Are you sure you want to continue connecting (yes/no)?
 &nbsp;&nbsp;User                      git
 &nbsp;&nbsp;PreferredAuthentications  publickey
 &nbsp;&nbsp;IdentityFile              私钥文件路径
-&nbsp;&nbsp;ProxyCommand              nc -X 5 -x 代理地址:端口号 %h %p</pre>注意1：<br/>
-假如你的 Tor 客户端运行在<b>本机</b>，那么上述命令中的“代理地址”就替换为 <code>127.0.0.1</code><br/>
-否则就替换为： Tor 客户端的主机的 IP 地址。<br/>
-注意2：<br/>
-如果你的 Tor 客户端用的是 <b>Tor Browser</b>，“端口号”必须是 <code>9150</code><br/>
-如果你用的是 Tor 的其它软件包，则“端口号”使用 <code>9050</code><br/>
+&nbsp;&nbsp;ProxyCommand              <b>nc -X 5 -x 代理地址:端口号 %h %p</b></pre>　　<b>注意1：</b><br/>
+　　假如你的 Tor 客户端运行在【本机】，那么上述命令中的“代理地址”就替换为 <code>127.0.0.1</code><br/>
+　　否则就替换为：Tor 客户端所在主机的 IP 地址。<br/>
+　　<b>注意2：</b><br/>
+　　如果你的 Tor 客户端用的是 <b>Tor Browser</b>，“端口号”必须是 <code>9150</code><br/>
+　　如果你用的是 Tor 的其它软件包，则“端口号”使用 <code>9050</code><br/>
 <br/>
 　　引申阅读：<br/>
 　　如果你对 netcat 感兴趣，可以参考博文《<a href="../../2019/09/Netcat-Tricks.md">扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”</a>》<br/>

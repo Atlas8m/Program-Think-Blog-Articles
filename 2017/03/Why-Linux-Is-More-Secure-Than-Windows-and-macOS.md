@@ -1,4 +1,4 @@
-# 为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows &amp; macOS 而言） 
+# 为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言） 
 
 -----
 

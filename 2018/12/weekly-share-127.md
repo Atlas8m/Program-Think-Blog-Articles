@@ -205,11 +205,12 @@
 条约规定：双方将全部销毁和彻底禁止射程为500公里至1000公里的中短程导弹及射程为1000公里至5500公里的中程导弹。<br/>
 <br/>
 <b>编程随想注：</b><br/>
-很多网民误以为：退出“中导条约”是为了针对俄罗斯。其实这只是一方面，更主要的动机是针对中国。<br/>
+很多网民误以为：退出“中导条约”是为了针对俄罗斯。其实这只是一方面，<b>更主要的动机是针对中国</b>。<br/>
 因为当年签署的《中导条约》只约束美国和苏联（俄罗斯是苏联的继承者），而中国【不】受该条约限制，可随意发展中程导弹。<br/>
-（“中程导弹”不同于“洲际导弹”，留给防御方的预警时间【很短】）<br/>
-美国一旦正式退出该条约，势必大力发展中程导弹，将引发“美、俄、中”三国的军备竞赛。狂烧钱。<br/>
-俺猜测，美国退出该条约后，会在中国周边大量部属中程导弹。这种做法就如同——80年代初美国在西德大量部属【<a href="https://en.wikipedia.org/wiki/Pershing_II" rel="nofollow" target="_blank">潘兴2中程导弹</a>】（关于这事儿，详见俺的博文：《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》）<br/>
+（注：“中程导弹”不同于“洲际导弹”，留给防御方的预警时间【很短】）<br/>
+美国一旦正式退出该条约，势必大力发展中程导弹，最终将引发“美、俄、中”三国的军备竞赛。【狂烧钱】。<br/>
+俺猜测，美国退出该条约后，会在中国周边大量部属中程导弹。这种做法就如同——80年代初美国在西德大量部属【<a href="https://en.wikipedia.org/wiki/Pershing_II" rel="nofollow" target="_blank">潘兴2中程导弹</a>】。此举迫使苏联疯狂地造核弹头，以确保自己具有足够的【二次打击能力】。其后果是——北极熊的经济被拖垮。<br/>
+（关于这事儿的详情，参见俺的博文：《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/ALOJx-hGQdDo1Z-JlUsvWXHiba60ZkcU5rki_pKPLItOXtbcZjAc_xHlUTiIh2BCqIm9YC0rttI1uxSxbOhNhl5w8ADvyThThgex9oUglwEiHsyMMT8zc8FkBIYVGICuCV7ziueL6kk"/><br/>
 （1987年，里根、戈尔巴乔夫签署《中程导弹条约》）</center><br/>

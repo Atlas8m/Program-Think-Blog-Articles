@@ -4,8 +4,8 @@
 
 <div class="post-body entry-content">
 　　上一个帖子给大伙儿扫盲了<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书的基本知识</a>。今天再来说一下 CNNIC 有多坏，曾经搞过哪些龌龊、猥琐的事情。<br/>
-　　本文的主要目的，就是给 CNNIC 抹黑。这样，大伙才有动力去清除电脑中的 CNNIC 的 CA 证书（至于如何清除 CNNIC 证书，请看“<a href="../../2010/02/remove-cnnic-cert.md">这篇博文</a>”）。反正<a href="https://program-think.blogspot.com/">俺博客的主站点</a>在老美的地盘上（BlogSpot 是 Google 的平台），CNNIC 能奈我何 :)<a name="more"></a><br/>
-<br/>
+　　本文的主要目的，就是给 CNNIC 抹黑。这样，大伙才有动力去清除电脑中的 CNNIC 的 CA 证书（至于如何清除 CNNIC 证书，请看“<a href="../../2010/02/remove-cnnic-cert.md">这篇博文</a>”）。反正<a href="https://program-think.blogspot.com/">俺博客的主站点</a>在老美的地盘上（BlogSpot 是 Google 的平台），CNNIC 能奈我何 :)<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★CNNIC 是啥意思？</h2><br/>
 　　鉴于 CNNIC 是本文的主角，而有些网友尚不清楚 CNNIC 为何物？顾而俺先要介绍一下它。<br/>
@@ -15,7 +15,7 @@
 <h2>★CNNIC 是个啥类型的玩意儿？</h2><br/>
 　　在维基百科的解释里，它是一个非盈利机构。实际上捏，没这么简单！俺摘录《CNNIC 之手》里面的一段话，给大伙瞧一瞧。<br/>
 <br/>
-<blockquote style="background-color:#DDD;">－－－－－－－－华丽的分割线－－－－－－－－<br/>
+<blockquote>－－－－－－－－华丽的分割线－－－－－－－－<br/>
 <b>CNNIC 说：</b><br/>
 中国互联网络信息中心(CNNIC)是成立于1997年6月3日的非盈利管理与服务机构，行使国家互联网络信息中心的职责。<br/>
 <b>中央编委说：</b><br/>
@@ -41,14 +41,14 @@ CNNIC 在不是企业、不是事业、不是社团的情况下，已经经营�
 　　终于开始说正题了。下面凭俺的印象，大致列举它的几个罪状。如有疏漏，欢迎列位看官大伙补充。<br/>
 <br/>
 <h3>◇长期发布流氓软件</h3><br/>
-　　从很多年以前，CNNIC 就开始推行中文上网软件。该软件不光是安装的时候悄无声息，而且卸载的时候无比困难。其常年占据流氓软件排行榜的三甲之列。很多网友对它深恶痛绝，到处寻找卸载良策。所以，你在 <a href="http://www.google.cn/" rel="nofollow" target="_blank">google</a> 里面输入 cnnic，搜索框的10项自动提示里，有5项（一半）是关于“卸载/专杀 CNNIC中文上网软件”的。有2010年2月11日的 Google 截屏为证：<br/>
+　　从很多年以前，CNNIC 就开始推行中文上网软件。该软件不光是安装的时候悄无声息，而且卸载的时候无比困难。其常年占据流氓软件排行榜的三甲之列。很多网友对它深恶痛绝，到处寻找卸载良策。所以，你在 <a href="https://www.google.cn/" rel="nofollow" target="_blank">google</a> 里面输入 cnnic，搜索框的10项自动提示里，有5项（一半）是关于“卸载/专杀 CNNIC中文上网软件”的。有2010年2月11日的 Google 截屏为证：<br/>
 <br/>
 <center><img alt="不见图、请翻墙" src="images/IL0wTvQcfU1xjKPlovIJlm6IIQucV7US-jHf11r-1EqESuUD1AAii-Pb__DjXz7m_PXlyoJghBq8ItYeyp3Jvp36d6e5-TYq6Q3OTaDZ5zJCCUkbq3o1eD_--YKSb-OE89eDq9tO"/></center><br/>
 <h3>◇域名管理混乱</h3><br/>
 　　前几年，大概是为了政绩，CNNIC 开始疯狂追求 cn 域名的注册量，甚至不惜推出了一元钱注册域名的超低价。经过 CNNIC 的大力忽悠，注册数量果然上去了（cn 成为全球注册量最大的国别域名）。但是 CNNIC 只求量不求质的行为，必然导致鱼龙混杂。很多骗子网站、钓鱼网站、挂马网站都用 cn 域名。（反正注册成本很低，打一枪换一个地方）<br/>
 <br/>
 <h3>◇强行霸占域名</h3><br/>
-　　CNNIC 还经常对它看上的好域名强取豪夺。比如2008年奥运会那会儿，CNNIC 把国内奥运冠军的姓名拼音对应的域名强制收回（相关报道在“<a href="http://www.cnbeta.com/articles/62209.htm" rel="nofollow" target="_blank">这里</a>”）。所以，如果你用自己的名字注册了 cn 域名，你就要开始祈祷了：今后别跟某个奥运冠军的名字一样（哪怕同音不同字，都会被强行收回哦）<br/>
+　　CNNIC 还经常对它看上的好域名强取豪夺。比如2008年奥运会那会儿，CNNIC 把国内奥运冠军的姓名拼音对应的域名强制收回（相关报道在“<a href="https://www.cnbeta.com/articles/62209.htm" rel="nofollow" target="_blank">这里</a>”）。所以，如果你用自己的名字注册了 cn 域名，你就要开始祈祷了：今后别跟某个奥运冠军的名字一样（哪怕同音不同字，都会被强行收回哦）<br/>
 <br/>
 <h3>◇禁止个人注册域名</h3><br/>
 　　2009年12月，CCTV 在焦点访谈中，点名批评 CNNIC 对域名的监管不力，导致大量黄色网站利用“cn 域名”逃避监管（其实 CCAV 也不是啥好鸟，CCAV 和 CNNIC 是狗咬狗的关系）。这下 CNNIC 可傻眼了，赶紧发出通知，要求注册“cn 域名”必须提供“企业营业执照公章”。这等于变相阻止个人注册域名。<br/>
@@ -61,21 +61,20 @@ CNNIC 在不是企业、不是事业、不是社团的情况下，已经经营�
 <br/>
 <br/>
 <h2>★引申阅读</h2><br/>
-　　说了这么多，再转几个别人的评论给大伙儿围观一下。<br/>
-<br/>
-<a href="http://home.donews.com/donews/article/5/52629.html" rel="nofollow" target="_blank">刘韧：CNNIC 的手</a><br/>
-<a href="http://www.williamlong.info/archives/1654.html" rel="nofollow" target="_blank">警告！不要在国内注册和使用 CN 域名 @ 月光博客</a><br/>
-<a href="http://blog.donews.com/bingshu/archive/2009/11/18/1573192.aspx" rel="nofollow" target="_blank">炳叔：CNNIC 毛伟是不是北龙中网的法人？</a><br/>
-<a href="http://ipv1.blog.sohu.com/139373285.html" rel="nofollow" target="_blank">夸张的 CNNIC 注册 CN 域名策略</a><br/>
-<a href="http://www.tianya.cn/publicforum/content/itinfo/85461/1/0/1.shtml" rel="nofollow" target="_blank">CNNIC 是中国互联网的耻辱</a><br/>
-<a href="http://home.donews.com/donews/article/7/70226.html" rel="nofollow" target="_blank">我看 CNNIC 通用网址</a><br/>
+　　说了这么多，再转几个别人的评论给大伙儿围观一下：<br/>
+《<a href="http://home.donews.com/donews/article/5/52629.html" rel="nofollow" target="_blank">刘韧：CNNIC 的手 @ donews</a>》<br/>
+《<a href="http://www.williamlong.info/archives/1654.html" rel="nofollow" target="_blank">警告！不要在国内注册和使用 CN 域名 @ 月光博客</a>》<br/>
+《<a href="http://blog.donews.com/bingshu/archive/2009/11/18/1573192.aspx" rel="nofollow" target="_blank">炳叔：CNNIC 毛伟是不是北龙中网的法人？</a>》<br/>
+《<a href="http://ipv1.blog.sohu.com/139373285.html" rel="nofollow" target="_blank">夸张的 CNNIC 注册 CN 域名策略 @ 搜狐博客</a>》<br/>
+《<a href="http://www.tianya.cn/publicforum/content/itinfo/85461/1/0/1.shtml" rel="nofollow" target="_blank">CNNIC 是中国互联网的耻辱 @ 天涯社区</a>》<br/>
+《<a href="http://home.donews.com/donews/article/7/70226.html" rel="nofollow" target="_blank">我看 CNNIC 通用网址 @ donews</a>》<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2016/09/About-WoSign.md">老流氓 CNNIC 的接班人——聊聊“沃通/WoSign”的那些破事儿</a><br/>
-<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书的基本知识</a><br/>
-<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a><br/>
-<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议（系列）</a>
+《<a href="../../2016/09/About-WoSign.md">老流氓 CNNIC 的接班人——聊聊“沃通/WoSign”的那些破事儿</a>》<br/>
+《<a href="../../2010/02/introduce-digital-certificate-and-ca.md">数字证书的基本知识</a>》<br/>
+《<a href="../../2010/02/remove-cnnic-cert.md">CNNIC 证书的危害及各种清除方法</a>》<br/>
+《<a href="../../2014/11/https-ssl-tls-0.md">扫盲 HTTPS 和 SSL/TLS 协议</a>》（系列）
 </div>
 
 
