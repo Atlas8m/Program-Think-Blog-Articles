@@ -81,6 +81,8 @@
 　　<b>编程随想注：</b><br/>
 　　俺本人反对“互联网监控”，不管是来自民主政权还是专制政权。<br/>
 　　更多的讨论，参见4年前（2015）写的《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
+　　另外，经热心读者提醒，补充一下：<br/>
+　　“5眼联盟”已经逐步扩大到“9眼联盟”、“14眼联盟”（总之就是——【眼】越来越多了）具体参见维基百科的<a href="https://en.wikipedia.org/wiki/UKUSA_Agreement" rel="nofollow" target="_blank">这个链接</a>。<br/>
 <br/>
 <h3>◇美国互联网巨头被重罚</h3><br/>
 《<a href="http://www.sohu.com/a/329086636_114837" rel="nofollow" target="_blank">Facebook 支付50亿美元巨额罚款，扎克伯格失去隐私权方面的最终决定权 @ 搜狐</a>》<br/>

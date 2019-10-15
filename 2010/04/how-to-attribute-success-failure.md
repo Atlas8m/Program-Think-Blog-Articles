@@ -82,12 +82,12 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a><br/>
-<a href="../../2010/02/about-mental-model.md">“心智模式”系列：认识你自己——心智模式扫盲介绍</a><br/>
-<a href="../../2012/06/book-review-road-less-traveled.md">书评：《少有人走的路——心智成熟的旅程》</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a><br/>
-<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a><br/>
-<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>
+《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
+《<a href="../../2010/02/about-mental-model.md">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>
+《<a href="../../2012/06/book-review-road-less-traveled.md">书评：＜少有人走的路——心智成熟的旅程＞</a>》<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>
+《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》
 </div>
 
 
