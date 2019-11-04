@@ -1,4 +1,4 @@
-# 每周转载：每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初） 
+# 每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初） 
 
 -----
 
@@ -678,7 +678,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 克鲁兹表示，台湾不只对亚洲重要，对全世界来说都非常重要；<b>台湾向世界展示「自由与民主是行得通的」。正因为如此，中国的共产党政府才这么害怕台湾的成功，因为台湾成功地示范，自由民主在亚洲是可以运作的。</b><br/>
 <br/>
 克鲁兹也提到，当大家都聚焦香港以及香港人民面临的残酷压迫时，捍卫自由与民主更显重要，对世界来说，台湾具有代表意义。</blockquote><br/>
-<h3>◇香港街头的青天白日旗</h3><br/>
+<h3>◇香港街头的“中华民国国旗”</h3><br/>
 <center><img alt="不见图 请翻墙" src="images/JEVtu9M8QDu7o3pD9VSAQmiZcxwAmU1VVl_DE7x_htmgQ-q_Lne6NB-DOsZ0wiTcyqPmIvi92F2PO52S1J4oiCcOKbas_7MUmhcAeLu8EWTkKCTmIXmolDshUcW-Tl1mdKvZ6tSrMYU"/><br/>
 （港台连线 双十庆典。照片来源：Line Today）</center><br/>
 　　双十节前几天，香港政治评论人士桑普在 Facebook 提醒香港民众：<br/>
@@ -688,9 +688,9 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 <br/>
 <center><img alt="不见图 请翻墙" src="images/fVN95qDWWHlIIt6uyLScEL1eNzBo8hqa1rXqB0Dn8PbNu6rVLoOQV6eDL0YRkP7DNt0LwO7ZLKVNhiVyfa9xtb9GwS3eaiLXPDFlWcVEVep2ggpF38T9GsuzixQy_2a4s2EBfLFhutk"/></center></blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/JmNP8xm0jr8pvuY0C_GN8MXcSXYSPQQnBzUXlNwwGkhuNFo4zlYxQJR7OCaoN1ry85TOKW66427RHH8vlA8uAswnJn2YmDEHMuGkVoMPWCMRjJq55wfmoJ4eBu7ZTmu-SKiqJWAeldw"/><br/>
-（位于将军澳 Popcorn 的青天白日旗。照片来源：自由时报）</center><br/>
+（位于将军澳 Popcorn 的“青天白日满地红”。照片来源：自由时报）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/5OKAncPGt1NPfXBwg8Pb_Ms1ghzGrGuBG3_6fd6FvsrPfXNnDlaVA3u9F2qOBQRSEvFe3Cffles6t90n221MhKgRQkTUZx7DobO49IK-NSjlWpPsljDT6apOoNkBjQCGlXqGYKTYuFo"/><br/>
-（位于港铁太子站出口的青天白日旗。照片来源：Line Today）</center><br/>
+（位于港铁太子站出口的“青天白日满地红”。照片来源：Line Today）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8FEb31Ivf_lUblXRYgYnXjClPCQ-e31PG2y63cHOoqkeUmEUb-jT2RWASBJFL-7vtjYE1ohA9pJJVMyHhTHu0a072-mK-6Pr79Vv9JMMUMCjvFmML0XYdbix7UxXBySrONBROLhhJXs"/><br/>
 （标语：<q style="background-color:#DDD;">守住台湾民主自由 台湾香港民主路上一起加油</q>。照片来源：自由时报）</center><br/>
 <br/>

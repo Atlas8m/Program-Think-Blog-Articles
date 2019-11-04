@@ -162,6 +162,7 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
 《<a href="../../2014/09/oversimplification.md">各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
+《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》<br/>
 《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
 《<a href="../../2009/07/book-review-are-your-lights-on.md">书评：＜你的灯亮着吗？——找到问题的真正所在＞</a>》<br/>
 《<a href="../../2012/07/form-of-government.md">政治常识扫盲：聊聊常见的政治体制</a>》<br/>

@@ -3,9 +3,9 @@
 -----
 
 <div class="post-body entry-content">
-　　前几天，又一个中国人民的老朋友去见马克思——那就是柬埔寨的西哈努克国王（准确地说，是太上皇）。估计很多80后90后的网友不太了解柬埔寨的过去，也不太了解柬埔寨曾经的共产主义政权——红色高棉。俺一向很喜欢给党国抹黑，也很喜欢给共产运动抹黑。正好趁机扫盲一下红色高棉那惨绝人寰的历史。<a name="more"></a><br/>
-　　由于本文比较长，俺特地加了些照片，避免大伙儿阅读疲劳。有些插图比较吓人，要有心理准备哦。<br/>
-<br/>
+　　前几天，又一个中国人民的老朋友去见马克思——那就是柬埔寨的西哈努克国王（准确地说，是太上皇）。估计很多80后90后的网友不太了解柬埔寨的过去，也不太了解柬埔寨曾经的共产主义政权——红色高棉。<br/>
+　　俺一向很喜欢给党国抹黑，也很喜欢给共产运动抹黑。正好趁机扫盲一下红色高棉那惨绝人寰的历史。由于本文比较长，俺特地加了些照片，避免大伙儿阅读疲劳。有些插图比较吓人，要有心理准备哦。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★崛起</h2><br/>
 　　“红色高棉”是柬埔寨共产党的别称。“柬埔寨共产党”简称“柬共”，也称“赤柬”。它最早出现于1951年，起先只不过是越南共产党的柬埔寨支部，名不见经传。<br/>
@@ -18,7 +18,7 @@
 　　大概是在中国受训的缘故，波尔布特开始信奉毛太祖的那套理论（枪杆子出政权、农村包围城市）。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/X5zGtQzTC28KmLR1OKgkUeCqrJGh7dfxOdMKsr9_8jjTwTC4gnsa-qbWymlSCfKmfhsm_1aZVAwIsJbqapEDBwah-GprWvkBZzLnLo_yxbNFVuaBBHGy9iFH6Ek"/><br/>
-年青时的波尔布特（光看照片难以想象此人是个恶魔）</center><br/>
+（年青时的波尔布特——光看照片难以想象此人是个恶魔）</center><br/>
 <h3>◇柬共成立</h3><br/>
 　　随着柬共羽翼丰满，不愿再从属于越南共产党。1960年，柬共在首都金边召开了第一次全国代表大会（一大），正式脱离越共，成为独立的政党。那次会议确定了党章、党名（柬埔寨劳动党）、选举了中央委员会。中央委员里面有三个常委，分别是：杜斯木（Tou Samouth）、农谢、波尔布特。杜斯木任总书记。<br/>
 <br/>
@@ -52,9 +52,9 @@
 　　1976年1月，柬埔寨颁布新宪法，国家名称改为“民主柬埔寨”（简称“民柬”）。这时候的西哈努克国王，已经没有利用价值了。该年4月，西哈努克国王被迫退休，然后被软禁在王宫。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/V454Kn7HyPWxBLCBklrqgKj97LqOSFN0LFOSWOhbXc3DgKrcIM2RfpZojpaf-HvmIJjpIACXbovRpJ5leu26x25GKpFlgRQKgMr3sWTB6rx7G6qqijoCkIN6Fhw"/><br/>
-第一批进入金边的柬共士兵</center><br/>
+（第一批进入金边的柬共士兵）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/70bNRQUGhFlhTFF5f87g6-Nax6GqBcaNaIwaDSX8YRE-oG4TG0nTLepjY8SkyJGirnpS43HRdIpFC54ujT4bDWkl3cd3N_qk_wdVX61xdq1kmhNC4FU0KQ4U6-M"/><br/>
-柬共领导层进入金边</center><br/>
+（柬共领导层进入金边）</center><br/>
 <br/>
 <h2>★暴政</h2><br/>
 　　在“民柬”政权时期，因为掌握了国家政权，波尔布特企图用最快的速度实现真正的共产主义社会。为了达到这个目标，他做了很多前无古人的壮举。这些壮举，即使是斯大林和毛泽东也做不出来。<br/>
@@ -66,17 +66,17 @@
 　　柬共的士兵忠实地执行了党组织的命令。对于不愿意离开的居民，就地处决；医院里的重病号，就地处决；甚至有些医院的医生因为要照顾病人，来不及离开，也就地处决。就这样，200万人口的金边，在3天之内几乎变为空城（只留下少数政府人员）。然后，柬共军队押送200万居民，疏散到全国各地。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/ohwXSeWgICu8KpxfYSW99gqn67BqnwFtbJrgN_MO8L6WlezF93Xz6uzB2fUB9EEI-6SwB03UPEl2y1bAPcgxDwO7ABYH-uYXxRY7G6cPViEvPMj5BIKsqUGHOMw"/><br/>
-疏散时的金边</center><br/>
+（民众从金边疏散时的情景）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/mPS2k7uzZd1jAC-yjj6tLCENCu_NVF7IlFFXmXZjsHjZorQ664lhZnLVZriYqLw0JNdf1fW25ZBfhrY_mlkyc-oPDIr5hv7yCDrFw-wV0dHaCXqMTLnDudFkom0"/><br/>
-疏散时的金边</center><br/>
+（民众从金边疏散时的情景）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/44c-RQp5UsKZliUEX1kaydkD4ZPdmTuck7EU8CQ4jCrkmGpN4Aq52D2xMg-rrFb-VQUzHLiBOtMY5--v_Vn9FeCk5CNZQOeqpH2-HHyylxakW8ctsov9lv9Di2w"/><br/>
-金边变空城</center><br/>
+（金边变空城）</center><br/>
 　　这次疏散计划，事先高度保密，只有少数柬共高层领导知晓，整个疏散计划缺乏充分准备。疏散过程中，食品供应跟不上，卫生条件跟不上。单单金边的疏散过程，就造成大量的人员死亡。据中共喉舌新华网的一篇文章称，金边的疏散造成几十万人死亡（链接在“<a href="http://news.xinhuanet.com/theory/2008-05/02/content_8049776.htm" rel="nofollow" target="_blank">这里</a>”）。<br/>
 　　除了金边，其它的城市也依样画葫芦。到了1975年下半年，柬埔寨所有的城市都变为空城，堪称现代史上的一大奇观。<br/>
 　　对比一下天朝的文革：当时毛太祖仅仅让知识青年（知青）上山下乡劳动，而柬共让所有的城市居民（不分男女老幼）统统去农村劳动。怎么样？比老毛牛逼多了吧？<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/266hhIdplp1wZx8J2qTU3XN7WzaaY7K7crwxtn5Qw-XQmhXnzwyDW5wpEuVGZ57XgF_av8TpO-dvZTuKQ8lv0t2ENwU-5rYGt8PlnRHZiwIJvSbIL_1QMaSRzI4"/><br/>
-强制城市居民去农村劳动</center><br/>
+（强制【城市居民】去农村劳动）</center><br/>
 <h3>◇消灭私有制</h3><br/>
 　　马克思教导我们：真正的共产主义社会是没有私有制滴！<br/>
 　　既然要彻底实现共产主义，当然也要彻底消灭私有制。在这件事上，波尔布特再次发扬了“敢为天下先”的勇气。他出台了如下几个牛B措施。<br/>
@@ -113,11 +113,11 @@
 　　“消灭文化”这招，看来不是学马克思，而是学老毛的“文化大革命”。<br/>
 　　波尔布特认为，过去的柬埔寨社会存在的种种弊端，都是因为陈旧的思想把人腐蚀了。所以，他决定彻底消灭陈旧的文化。具体的措施有：<br/>
 关闭全国所有的学校（能做到这点，大概也是前无古人了）<br/>
-禁止【所有的】书籍和印刷品（“民柬”政权时期，连马列主义书籍也没有出版过）<br/>
+禁止【所有的】书籍和印刷品（在“民柬政权”统治时期，连马列主义书籍都【没】出版过）<br/>
 禁止【所有的】传统文化和西方文化（文革的时候，好歹还有8个样板戏；在民柬时期，啥都没有）<br/>
 禁止【所有的】宗教，强迫所有僧侣还俗<br/>
 全国只保留一个电台——柬共官方电台<br/>
-统一服装，只能穿黑色革命装或绿色军装，禁止任何首饰（这点跟文革挺像的）<br/>
+统一服装，只能穿“黑色革命装”或“绿色军装”，禁止任何首饰（这点跟咱们的文革挺像滴）<br/>
 <br/>
 <h3>◇党内大清洗</h3><br/>
 　　历史上，很多共产党政权都有大清洗的癖好，比如苏联的斯大林、中国的毛腊肉、北朝鲜的金氏父子、阿尔巴尼亚的霍查、等等。但是没有哪个共产政权的政治清洗，能够跟柬共相提并论。<br/>
@@ -128,12 +128,13 @@
 如果波尔布特认定某个党组织存在问题，就会把该组织<b>所有的</b>党政军干部全部清洗掉，一个活口也不留。被清洗的人，首先被逮捕关押，然后酷刑逼供，最后处决。大部分人都受不了酷刑，被迫承认自己及他人的罪名。因为酷刑逼供，无辜牵连的人往往会越来越多。<br/>
 （上述这些可不是俺抹黑的哦，请看朝廷喉舌新华网的“<a href="http://news.xinhuanet.com/theory/2008-05/02/content_8049776.htm" rel="nofollow" target="_blank">这篇报道</a>”）<br/>
 <br/>
-照片：柬埔寨大屠杀纪念馆展出的刑具<br/>
-<br/>
-<center><img alt="不见图 请翻墙" src="images/ArZ3IAUCHaVF5_sWjqZp-ihuWxmmqSPEcs5k2XmjOvZjBCHHFOFTTfE4_i0YJmNVm7RTTbD7U8SR0wws7SklQlSAgq6qF2SXGQ248_5b0FEyVf8bLUJZspOTzbs"/></center><br/>
-<center><img alt="不见图 请翻墙" src="images/mKXshgTLNyzb-KDpdux40MRCgMOWJzgZbye0jcpoORV06lYAI2C3oDZi4SVULRG1Nubqr9SOOydL6oSQWg7_pOkdIfy9YVzAii-ZYvYHKbkEGJaBhw2-338xhvc"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/ArZ3IAUCHaVF5_sWjqZp-ihuWxmmqSPEcs5k2XmjOvZjBCHHFOFTTfE4_i0YJmNVm7RTTbD7U8SR0wws7SklQlSAgq6qF2SXGQ248_5b0FEyVf8bLUJZspOTzbs"/><br/>
+（柬埔寨大屠杀纪念馆展出的刑具）</center><br/>
+<center><img alt="不见图 请翻墙" src="images/mKXshgTLNyzb-KDpdux40MRCgMOWJzgZbye0jcpoORV06lYAI2C3oDZi4SVULRG1Nubqr9SOOydL6oSQWg7_pOkdIfy9YVzAii-ZYvYHKbkEGJaBhw2-338xhvc"/><br/>
+（柬埔寨大屠杀纪念馆展出的刑具）</center><br/>
 　　举例1：<br/>
 　　规模最大的一次清洗，发生在1978年，针对柬共东部大区。因为柬埔寨东部跟越南接壤，波尔布特怀疑东部大区有越南间谍。他指派西南大区的塔莫负责对东部大区的清洗，整个过程持续半年，总共杀掉10多万党政军干部。<br/>
+<br/>
 　　举例2：<br/>
 　　1960年参加柬共一大的21人，到了1977年，只剩下波尔布特、农谢、英沙里3人还活着（摘自《波尔布特传》）。除了第一任总书记杜斯木属于神秘失踪，其它17个元老大都死于党内清洗。<br/>
 <br/>
@@ -141,15 +142,18 @@
 <br/>
 <h3>◇非正常死亡人口</h3><br/>
 　　波尔布特实在太能折腾了，在他统治柬埔寨的3年多时间里，造成了大量的人口死亡。1975年之前，柬埔寨每年大约【增加】20万人口。柬共1975年夺权之后，人口开始【显著下降】。以下数据摘自天朝官方的《国际统计年鉴》。<br/>
-1975年 811万<br/>
-1976年 697万<br/>
-1977年 679万<br/>
-1978年 660万<br/>
-1979年 645万<br/>
-　　上表可见：柬共夺权的第一年，人口就少了100多万；4年间人口少了166万，考虑到每年还有新生人口，考虑到天朝官方会有意调整统计数字（毕竟柬共是天朝支持的），柬共造成的非正常死亡人数，可能会超过200万。这个数字占全国总人口的比例超过 1/4<br/>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
+<tr style="background:lightgrey;"><th>年份</th><th>总人口</th></tr>
+<tr><td>1975年</td><td>811万</td></tr>
+<tr><td>1976年</td><td>697万</td></tr>
+<tr><td>1977年</td><td>679万</td></tr>
+<tr><td>1978年</td><td>660万</td></tr>
+<tr><td>1979年</td><td>645万</td></tr>
+</tbody></table></center><br/>
+　　上表可见：柬共夺权的第一年，人口就少了100多万；4年间人口少了166万，考虑到每年还有新生人口，考虑到天朝官方会有意调整统计数字（毕竟柬共是天朝支持滴），柬共造成的非正常死亡人数，【很大可能】会超过200万。这个数字占全国总人口的比例【超过 1/4】！<br/>
 　　另据柬埔寨历史资料收集中心的报告：<q>在美国、澳大利亚、荷兰3国的协助下，在柬埔寨170个县中的81个县进行了勘察，找到9138个乱葬坑，挖出近150万个骷髅。这些人死于处决、劳累、饥饿、营养不良和疾病。</q>这可不是俺瞎掰的，有天朝官网的链接为证（在“<a href="http://fujian.people.com.cn/n/2012/0418/c337160-16953204.html" rel="nofollow" target="_blank">这里</a>”）。提醒一下：他们只找了81个县，就找到这么多骷髅。柬埔寨全国有170个县，到底有多少个乱葬坑，只有天晓得。<br/>
 <br/>
-下面贴几张骷髅的照片<br/>
+　　下面贴几张骷髅的照片<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/cYgNkUzFG6rkrZguZ6hzkYXlwqYDeY17GmZXgoaBk0DkMOBt2DMHevd5SwTxG88trnM6EQuwh6I9F4Mp25H_E8VauUFRNF9fqZejjK7okVxZ6m_245iRSkeY5IE"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/xlD48ErOc6SV1pou_ojAn0SRjSNoqt9462XmOz_x0vYD1BKyeye2ep4GGYjVvdh7ZYjyeEcw8cDU6aoaPoNg3YLguKNjis0Hd8Ib2bW_sm_Z8jKlXjBIGHUXwCc"/></center><br/>
@@ -164,26 +168,26 @@
 在残暴和野蛮程度上，它超过纳粹的希特勒<br/>
 在死亡人数占总人口比例上，它创造了世界纪录</blockquote><br/>
 <h3>◇中共的力挺</h3><br/>
-　　柬共干了这么多丧尽天良的事情，但是咱们天朝对他却一直大力支持。给大伙儿看几张照片，看完你就明白，中共政权是如何力挺红色高棉的。<br/>
+　　柬共干了这么多丧尽天良的事情，但是咱们天朝对他却一直大力支持。给大伙儿看几张照片，看完你就明白，中共政权是如何【力挺】红色高棉滴。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/5d2GD5bynuZ6ozg_EXNlRJFXi3h_ldoh86KjUHr0Xs9N9fHPhfEGos1ag1id4KY2_3oBlv5KMekfO7A0QisZHVJQciLnBBHw0h16aBkO8F_x3KbQbQFD-Qlee1M"/><br/>
-波尔布特访华 上了人民日报头版头条</center><br/>
+（波尔布特访华，上了《日人民报》的头版头条）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/Td6Ws2vq7XLZu3LdX4gLGUENqP1eQiEKw0yWDltorvyjHlje26YiBSmYZc1rGI5gTIRu-izNwnXhOlkhkEjyYKn3eQ8ZT71yYGxvxceWbpZT5X5fLRt-Q1VrYP8"/><br/>
-周恩来亲自到机场迎接波尔布特</center><br/>
+（丞相周恩来亲自去机场迎接波尔布特）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/0lTO1sw_uwb5MfDZxEDID6WXKceo-auZ0Y1ZR4vsZxCd-yQcu1tReuoYFIcXvEISFq4yxMd7IH1K0br3P2yoDMaLpyWvkfIv2nwaFGAtWJQ5fmvyLrVk06VbIU8"/><br/>
-毛腊肉与英沙里亲切握手 中间微笑的那位是波尔布特</center><br/>
+（毛腊肉与英沙里亲切握手，中间微笑的那位是波尔布特）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/-fSSRFNpyMpPcTpn6KLgNcSymGRhCCpIejag0ybfaqhpADL5F3J_XxJ7RLl14IynuQxGT2QjyKYkRz1hz_TvFgjitqbFOfpNqgYEbSPliOcOU4KQmZHGbp4K4QA"/><br/>
-华国锋亲自到机场迎接波尔布特</center><br/>
+（华国锋亲自到机场迎接波尔布特）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/KHdpb-2nzFJC4ST0YHs8Bs_GnM9fu39rQbQgYXK7ZSX3uFEz8lC8fg_Um-epeA-AhoGRg8RALJ5jPh4iA48sun_76diIwtINse1lFM48i7Dr5UEBr9QQZSWXqe4"/><br/>
-北京长安街上盛大的欢迎仪式 华国锋和波尔布特站在第一辆汽车上</center><br/>
+（北京长安街上盛大的欢迎仪式，华国锋和波尔布特站在第一辆汽车上）</center><br/>
 <br/>
 <h2>★溃败</h2><br/>
 <h3>◇越南军事入侵</h3><br/>
-　　俗话说，多行不义必自毙。柬共建立的“民主柬埔寨”政权，仅仅三年多就被推翻。而且很讽刺的是，推翻它的，不是资本主义国家，反而是同为“社会主义阵营”的越南。<br/>
-　　1978年圣诞前夜，越南军队投入14个师，发动对柬埔寨的入侵。<br/>
+　　俗话说，多行不义必自毙。柬共建立的“民主柬埔寨”政权，仅仅三年多就被推翻。而且很讽刺的是，推翻它的，不是资本主义国家，反而是同为【社会主义阵营】的越南。<br/>
+　　1978年圣诞前夜，越南军队投入14个师，发动对柬埔寨的全面入侵。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/PSLByCB-QH1dHc2p5AvT72-gK_UvDi2ZuQEljxz3WcchE09eXbPq_8KfXX3Ik0L4GHsjifnhqQCwMdcu78S-Nnf2Ho-nEOrIqkrANwV0h96sZy9YVWUSf7Bv1MM"/><br/>
-越南入侵柬埔寨的战况图</center><br/>
+（越南入侵柬埔寨的战况图）</center><br/>
 　　经过波尔布特三年的折腾，无论是柬埔寨军方还是政府，都已经元气大伤。所以越南军队势如破竹，而柬共的军队节节败退。10天之后的1月4日，越军已经完全控制了湄公河东岸地区。1979年1月7日晚间，越南军队攻入金边，短命的“民主柬埔寨”政权宣告终结。<br/>
 　　虽然政权被推翻，但柬共并没有彻底消失。他们又回到西部的深山老林打游击。这个游击战，整整打了20年（下面会聊到这块）。<br/>
 <br/>
@@ -191,7 +195,7 @@
 　　由于越南军队的推进太快了，很多柬共官员根本来不及销毁机密档案，很多机密档案都落到了越军手中。比如前面提到的 S-21 集中营，有4000份死囚档案被缴获。另外，越军在柬埔寨各地发现很多乱葬坑。<br/>
 　　为了美化自己的军事入侵，越南方面对全世界公布了柬共令人发指的种种罪行。直到这时，其它国家才知道——<b>红色高棉原来比纳粹还残忍</b>。<br/>
 <br/>
-照片：S-21集中营的死囚<br/>
+　　以下照片是：S-21集中营的死囚<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/gxH6Q23KCxh91dvuH8KtmHJYGTI_ajDijKg7CCBVw8-_r3HiiITdeu-UB3JGZhYXSX-U0u7_LUvpHHTEjf2xmYEEYSHr-wYeUhf_jq01sfoo_GCqlXWrMaP4sPw"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/Y0qE04x_Pu0t5h4LCjQ-HetAYCJbNUsoqV07bJrgkr4jkHiVjB0jcIAjIR2DMv28iGUUzlqEg_uJIgx_3BWoX0Be1XgUZ5RLraDvLUhHw52FIcdLRw38DSMXrJI"/></center><br/>
@@ -199,16 +203,18 @@
 <center><img alt="不见图 请翻墙" src="images/xeblbh8WPLCDBrwGUODV9WZxNCnn-2GyaMyOxI7wvhtzLAqxSrpTDDBw0_KszsBys6cQv2-gkxjqWpmWkN51pAYMeE6ENnzSNk382QhNyPwswOuAn7Jlr0SpyE0"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/HwnvG8zoBs4z-D-1EMdoqSlraX83aFZaZFGpaacT61bkaEjiVLhio2oSzMSC3FzwHnjhC48XkZ-anMmPzIiJx_CAwpFaRwRO0N0rLTjT95fcUg8ZrIpH_5RFJMg"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/_zWsUnM_7829c_EcsM1O0pS5H6E8wwNwLFvJ-iPR1SYBvQ_Kfn7KxZXcS9AEL3vAQVuiJH1EvmBce0CjvIAnukOS2FB4VfYni_jwYI-Up5R-qqJh7UjuW6HjJeQ"/><br/>
-集中营的摄影师  红色高棉罪行的见证人</center><br/>
+（集中营的摄影师——红色高棉罪行的见证人）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/4_QrAf_h7L2gBPSthibHNimegi9_BVCJ4S8BM8gB9jUP7--9MPO3wpXjGOrSqMvrQb2hYQEPLbd6qLixG5xiJXyEJKOznMaxKSjfeo2-y-XswjzL0vdR06LY8hI"/><br/>
-集中营堆积如山的死者衣物</center><br/>
+（集中营堆积如山的死者衣物）</center><br/>
 　　全球共产运动的历史上，经历过两次重大的舆论挫折。第一次是赫鲁晓夫全面否定斯大林，把斯大林很多龌龊的老底公之于众；第二次就是越南入侵之后，公布的红色高棉罪行。这两次家丑，都是被社会主义阵营的自己人曝光，非常有说服力。<br/>
-　　通过这两次曝光，使得西方世界的很多人彻底认清了共产运动的邪恶本质。马克思曾说过：资本来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。俺觉得这句话要稍微修改一下：<b>共产主义来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。</b>在本文末尾，俺还会分享几本电子书，帮你认清共产运动的真面目。<br/>
+　　通过这两次曝光，使得西方世界的很多人彻底认清了共产运动的邪恶本质。马克思曾说过：资本来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。俺觉得这句话要稍微修改一下：<b>共产主义来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。</b><br/>
+　　在本文末尾，俺还会分享几本电子书，帮你认清共产运动的真面目。<br/>
 <br/>
 <h3>◇中共围魏救赵</h3><br/>
 　　顺便说一个小插曲：就在越南推翻柬共政权之后一个月（1979年2月），中共军队突然入侵越南。这次入侵很有意思，只打了28天，而且中共军队后来主动撤回国内。<br/>
 　　关于这次战争，中共官方的说法是：对越自卫反击战。<br/>
-　　俺觉得：这显然是忽悠。真实的情况是：当时柬共兵败如山倒，越军正在全力追击柬共残部。中共担心红色高棉被越南彻底消灭，所以玩了一个围魏救赵的把戏——通过出兵越南北部，迫使越南抽调兵力到北部边境，以此来减轻柬共的军事压力。<br/>
+　　俺的点评：<br/>
+　　朝廷的说法显然是【忽悠】。真实的情况是——当时柬共兵败如山倒，越军正在全力追击柬共残部。中共担心红色高棉被越南彻底消灭，所以玩了一个围魏救赵的把戏——通过出兵越南北部，迫使越南抽调兵力到北部边境，以此来减轻柬共的军事压力。<br/>
 <br/>
 <br/>
 <h2>★末路</h2><br/>
@@ -242,23 +248,23 @@
 <br/>
 <center><img alt="不见图 请翻墙" src="images/xqxIYoWdRJcMYh2rkvFq5oJNb3Rig1Z9AjIw13gLH2wPTUWQJQ7z2BafA41PpUMQ-3njQOnKvg-0BdhINZrek-wKcu7rzie28ORYXKanTYOK5ULpD4u88HIOlYE"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/_SCj49w5f9IYN-uq5LGYVSNqBR9l6hLY9nDvC8xy-e-VIalcPs7UII4YzxD7cU6Dkbb7731Uov5YJfEyqAWQbP0R4QmkgFc27ktt_0H6JRBcmo1AjEknyk_sOeQ"/></center><br/>
-　　波尔布特被自己的部下逮捕并审判，实在是一大讽刺。1998年4月15日，监禁中的波尔布特因心脏病死亡。这位共产主义恶魔终于去见马克思了。<br/>
+　　波尔布特被自己的部下逮捕并审判，实在是一大讽刺。1998年4月15日，监禁中的波尔布特因心脏病死亡。这位共产主义【恶魔】终于去见马克思了。<br/>
 <center><img alt="不见图 请翻墙" src="images/L5LFwEKUbSRxM8t_IvvBpAjBOwd_aoE7j3_0BFBEXtgug5_qpHvdfID6dIxyT2Iq9Btvln8pL0WZQae_Hb5n_dmbjicipekPeNBAfTOvam3kDJ0bHdbOhA0YmIc"/></center><br/>
 　　长期以来，波尔布特一直是红色高棉的灵魂和旗帜。所以，波尔布特被自己的部下审判，极大动摇了红色高棉基层士兵的斗志。另外，柬埔寨政府军也趁机加强了围剿。1999年3月，最后一支红色高棉武装投降，红色高棉终于被彻底铲除。<br/>
 <br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　在本文发布之后6年，俺又写了一篇《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
-　　马克思鼓吹的共产主义理想说要建造人间天堂，但最后的结果却常常变成人间地狱。不光柬埔寨如此、中国、苏联、北朝鲜亦如此。这个问题值得大伙儿思考。上述这篇博文介绍的著作，或许有助于你找到答案。<br/>
+　　马克思鼓吹的共产主义理想说要建造人间天堂，但最后的结果却常常变成人间地狱。不光柬埔寨如此、中国、苏联、北朝鲜亦如此。这个问题值得大伙儿思考。上述这篇博文介绍的【名著】，或许有助于你找到答案。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a><br/>
-<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a><br/>
-<a href="../../2013/02/film-soviet-story.md">影评：《苏维埃往事》——帮你看清苏联和纳粹的共同本质</a><br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2014/07/artists-and-ccp.md">面对共产党——民国人文大师的众生相</a><br/>
-<a href="../../2012/10/weekly-share-26.md">每周转载：关于西哈努克的幸福生活（3篇）</a>
+《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
+《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》<br/>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2014/07/artists-and-ccp.md">面对共产党——民国人文大师的众生相</a>》<br/>
+《<a href="../../2012/10/weekly-share-26.md">每周转载：关于西哈努克的幸福生活（3篇）</a>》
 </div>
 
 

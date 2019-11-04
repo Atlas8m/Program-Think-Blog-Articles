@@ -50,6 +50,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》<br/>
 《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>
 《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT HOW WHY</a>》<br/>
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
