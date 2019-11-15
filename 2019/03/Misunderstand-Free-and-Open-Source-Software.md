@@ -38,7 +38,7 @@
 <br/>
 　　考虑到很多人不太清楚“用户的自由”，俺来介绍一下——<br/>
 　　FSF 的创始人 <a href="https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC" rel="nofollow" target="_blank">理查德·斯托曼</a>（Richard Matthew Stallman，人称 RMS）给出了【用户的四大自由】：<br/>
-<blockquote style="background-color:#DDD;">自由度0：<br/>
+<blockquote>自由度0：<br/>
 无论用户出于何种目的，必须可以按照用户意愿，自由地运行该软件。<br/>
 <br/>
 自由度1：<br/>
@@ -68,7 +68,7 @@
 <br/>
 <h2>★误解3——以为“自由软件”排斥商业公司</h2><br/>
 　　长期以来，很多商业公司对“自由软件”进行【污名化/妖魔化】。比如微软前任 CEO 巴尔默曾经污蔑说——Linux 以及相关的（GPL）许可证是“癌症”（以下是他原话）：<br/>
-<blockquote style="background-color:#DDD;">Linux is a cancer that attaches itself in an intellectual property sense to everything it touches.<br/>
+<blockquote>Linux is a cancer that attaches itself in an intellectual property sense to everything it touches.<br/>
 That's the way that the license works.</blockquote>　　长期的妖魔化，让很多人【误以为】“自由软件与商业公司水火不容”。但其实不然！<br/>
 　　商业公司也能基于“自由软件许可协议”去开发“自由软件”并提供给用户。该过程可以是“免费的”，也可以是“付费的”。<br/>
 　　所谓的“付费”，也就是说——商业公司也可以通过“销售自由软件”来获得利润（关于这点，下一条会详细介绍）。<br/>
@@ -92,7 +92,7 @@ That's the way that the license works.</blockquote>　　长期的妖魔化，�
 <h3>◇实际案例</h3><br/>
 　　不要以为俺在本章节提到的只是【理论上的可能性】。在现实生活中已经有商业公司（在遵守 FOSS 许可的前提下）利用自由软件盈利，甚至还上市了——这就是大名鼎鼎的【<a href="https://zh.wikipedia.org/wiki/%E7%B4%85%E5%B8%BD%E5%85%AC%E5%8F%B8" rel="nofollow" target="_blank">红帽公司</a>】（洋文是：Red Hat）。该公司发布的“Red Hat Enterprise Linux”（简称 RHEL），在 Linux 社区很有影响。<br/>
 　　关于“红帽公司”的规模，以下摘自维基百科的介绍：<br/>
-<blockquote style="background-color:#DDD;">Red Hat于1999年8月11日在纳斯达克上市，2005年12月19日纳入纳斯达克100指数，2006年12月12日转到纽约证券交易所挂牌。<br/>
+<blockquote>Red Hat于1999年8月11日在纳斯达克上市，2005年12月19日纳入纳斯达克100指数，2006年12月12日转到纽约证券交易所挂牌。<br/>
 2018年10月28日，IBM 将以每股190美元的现金收购 Red Hat 所有已发行股份，总价值约为340亿美元。</blockquote><br/>
 <br/>
 <h2>★误解5——以为“自由软件 or 开源软件”的开发人员都是“义务的/无报酬的”</h2><br/>

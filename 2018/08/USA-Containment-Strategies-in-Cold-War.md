@@ -525,6 +525,7 @@ But the crisis is happening not in the free, non-Marxist West, but in the home o
 《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
 《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》<br/>
 《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
+《<a href="../../2019/11/Brief-History-of-the-Berlin-Wall.md">美苏冷战的缩影——柏林墙简史（多图）</a>》<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>》<br/>
 《<a href="../../2013/08/korean-war.md">谈谈真理部对朝鲜战争的忽悠</a>》<br/>

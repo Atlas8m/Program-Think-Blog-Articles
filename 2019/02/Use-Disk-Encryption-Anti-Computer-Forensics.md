@@ -67,7 +67,7 @@
 　　刚才说啦——成熟的磁盘加密软件，使用的加密算法肯定也是【成熟】滴。<br/>
 　　既然如此，算法使用的密钥，其“密钥空间”肯定足够大。因此在足够长时间内（几代人），并考虑到摩尔定律带来的算力增长，都【不可能】对密钥进行穷举。<br/>
 　　以 AES256 为例，其密钥有【256 比特】，所有可能的密钥数量是【2的256次方】。这个数有多大捏？<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">2^256 = 115792089237316195423570985008687907853269984665640564039457584007913129639936</blockquote><br/>
+<pre>2^256 = 115792089237316195423570985008687907853269984665640564039457584007913129639936</pre><br/>
 <h3>◇对【弱】密码/口令的【暴力猜解】——常见招数</h3><br/>
 　　这是最常见的手段，专门针对【弱密码】（weak password）。<br/>
 　　由于本文要对付的是【警方】。他们比一般的骇客具备更多的资源。比方说，天朝的警方已经建立了专门用于“暴力猜解密码”的【服务器集群】，可以大大提升密码猜解的效率。普通骇客用“单机”无法暴力猜解的密码，有可能被警方搞定。<br/>
@@ -79,7 +79,7 @@
 3. key files 的文件尺寸【至少64字节】<br/>
 　　外行的读者可能会觉得“64字节”太小了。其实“64字节”的随机文件，已经足够对抗穷举。一个字节有8比特，64字节有512比特。因此，64字节的随机内容，其可能的数量是“2的512次方”——这已经大大超过刚才提到的“AES 256 密钥空间”了。<br/>
 　　给大伙儿秀一下这个数有多大。<br/>
-<blockquote style="background-color:#DDD;font-family:Courier,monospace;">2^512 = 13407807929942597099574024998205846127479365820592393377723561443721764030073546976801874298166903427690031858186486050853753882811946569946433649006084096</blockquote><br/>
+<pre>2^512 = 13407807929942597099574024998205846127479365820592393377723561443721764030073546976801874298166903427690031858186486050853753882811946569946433649006084096</pre><br/>
 　　另外，像 TC/VC 这两款磁盘加密软件，最多只提取【每个】key file 开头的一兆字节（1MB）参与密钥生成。所以，随机生成的 key file，每个都【不必】超过 1MB。<br/>
 <br/>
 <h3>◇【窃取】加密盘的【密钥】——常见招数，本文的重点</h3><br/>
@@ -151,7 +151,7 @@
 <br/>
 <h3>◇谈谈“关机、休眠、待机”三者的安全差异</h3><br/>
 　　在《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》一文中，俺提到：<br/>
-<blockquote style="background-color:#DDD;">当你要【长时间】离开自己的电脑——应该【关机】（shutdown）；而【不要】“休眠”（hibernation）或“待机”（suspend，stand by）</blockquote>　　现在来解释一下：<br/>
+<blockquote>当你要【长时间】离开自己的电脑——应该【关机】（shutdown）；而【不要】“休眠”（hibernation）或“待机”（suspend，stand by）</blockquote>　　现在来解释一下：<br/>
 <br/>
 　　<b>休眠（hibernation）</b><br/>
 　　所谓的“休眠”（hibernation），说白了就是把【整个物理内存】保存到硬盘中的“休眠文件”。<b>这非常危险！</b>危险的原因参见“虚拟内存”那个小节的讨论。另外，如果你在【未卸载】“敏感加密盘”的情况下让系统休眠，那么“休眠文件”中【必定包含】“敏感加密盘”的【密钥】。<br/>
@@ -307,7 +307,7 @@
 <h3>◇U 盘的内部结构</h3><br/>
 　　为了方便讲解，从维基百科剽窃了一张照片，并附上相应的说明。<br/>
 <br/>
-<center><img alt="不见图 请翻墙" src="images/N4fHnlQpbhyGEmKlYa8xWL9bkfEYVF9X-SKmnlWNP7rVGathJK2O4WuCki6lxV6YLHDdK9ZKluwy3HhaWQML_e3FMbrcFlgSRW3lsr9rXCpabURK8tWjqKP-LWRtBB_5eBfZjCt4c3w"/></center><blockquote style="background-color:#DDD;">1　插头<br/>
+<center><img alt="不见图 请翻墙" src="images/N4fHnlQpbhyGEmKlYa8xWL9bkfEYVF9X-SKmnlWNP7rVGathJK2O4WuCki6lxV6YLHDdK9ZKluwy3HhaWQML_e3FMbrcFlgSRW3lsr9rXCpabURK8tWjqKP-LWRtBB_5eBfZjCt4c3w"/></center><blockquote>1　插头<br/>
 2　存储控制器<br/>
 3　测试接点<br/>
 4　【<b>闪存芯片</b>】<br/>
@@ -330,7 +330,7 @@
 　　如果你身边有锤子、扳手（或诸如此类的工具），对准结构图当中那个“傻大黑粗”的家伙狠狠砸下去，砸烂为止。<br/>
 　　由于“闪存芯片”比较硬，还可以考虑用某个尖锐的东西作为辅助（学过基础物理学的应该明白——这可以增加压强）。就比如说，把一个钉子架在“闪存芯片”上，然后再用锤子敲击钉子，更容易击穿芯片的外壳。<br/>
 　　但如今现代化的家庭或办公室中，要想找一个钉子还真不太容易。那么，啥东西可以作为钉子的替代品捏？俺列几个替代品作为参考（欢迎大伙儿补充）<br/>
-<blockquote style="background-color:#DDD;">螺丝刀（尤其是【小型的十字】螺丝刀）<br/>
+<blockquote>螺丝刀（尤其是【小型的十字】螺丝刀）<br/>
 瑞士军刀中某些尖锐的部件（如下图）</blockquote><center><img alt="不见图 请翻墙" src="images/vnY5rjSiZnNrArD0tAhApwMbteDe1EOz9IUaWr0mnFvz7XGHUa5rg9aQumGjssgk3jCpQn10t6c-9UgNXUsJRCrWr9Fgqk5TJ45JnYKI0Bv2l8DnQdV0lq9pLAlIrfNFwT6ogbBbR4o"/><br/>
 （某种款式瑞士军刀的示意图——几乎每种款式都能找到尖锐的工具）</center><br/>
 <h3>◇破坏“闪存芯片”——【不太彻底】的方式</h3><br/>
@@ -355,6 +355,7 @@
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
 <br/>
 <!--BANNED

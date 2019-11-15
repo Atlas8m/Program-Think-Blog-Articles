@@ -5,7 +5,8 @@
 <div class="post-body entry-content">
 <h2>★引子</h2><br/>
 　　前两天（05月23日）网易发了一篇《<a href="https://3g.163.com/exclusive/article/DIG3PRP1000199ET.html" rel="nofollow" target="_blank">伊朗迷你裙消亡史</a>》，俺看了之后，觉得有必要分享给博客的读者们。如果你身边有毛粉的话，建议你把这篇推荐给他们看看。<br/>
-　　毛粉有两种：第一种是上了年纪的毛粉，因为童年时代受到洗脑教育，无限崇拜毛腊肉；第二种其实并不是那么崇拜老毛，只不过因为太痛恨如今的贫富差距和社会不公，所以才转投毛粉阵营。<b>今天转贴的这篇文章特别适合后面这类毛粉观看。</b><a name="more"></a><br/>
+　　毛粉有两种：第一种是上了年纪的毛粉，因为童年时代受到洗脑教育，无限崇拜毛腊肉；第二种其实并不是那么崇拜老毛，只不过因为太痛恨如今的贫富差距和社会不公，所以才转投毛粉阵营。<b>今天转贴的这篇文章特别适合后面这类毛粉观看。</b><br/>
+<a name="more"></a><br/>
 <br/>
 ================================ 华丽的分割线 ================================<br/>
 <br/>
@@ -317,11 +318,11 @@ The verdict, which fell just hours before the International Women’s Day, is co
 <center><img alt="不见图 请翻墙" src="images/wNFdzJljppuTLymyLzOGEHEcDG1RrujVp1EM-ewc3RyNoa7Dhi1SX1mgxiXON9y7p7iQ722cFHJeqZz7LqzJIUyXx9Fwe-dhvv1s3PjFDsfVKQrN6aDSmLTkH2rQE32ABnGcY8-01QA"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a><br/>
-<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想</a><br/>
-<a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a><br/>
-<a href="../../2014/03/who-help-terrorism.md">你意想不到的恐怖主义帮手——昆明暴力袭击事件随想</a><br/>
-<a href="../../2014/05/weekly-share-67.md">每周转载：关于新疆“民族、宗教、恐怖主义”问题的报道和分析（网文8篇）</a><br/>
+《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
+《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想</a>》<br/>
+《<a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a>》<br/>
+《<a href="../../2014/03/who-help-terrorism.md">你意想不到的恐怖主义帮手——昆明暴力袭击事件随想</a>》<br/>
+《<a href="../../2014/05/weekly-share-67.md">每周转载：关于新疆“民族、宗教、恐怖主义”问题的报道和分析（网文8篇）</a>》<br/>
 <a href="../../2011/05/usama-bin-laden.md">关于本·拉登的几个误区</a>
 </div>
 

@@ -15,10 +15,10 @@
 　　虽然本文的标题号称是【扫盲】，但俺相信：<b>即使是一些 POSIX 系统的命令行【老手】，对本文中介绍的某些概念，可能也会有【欠缺】。</b><br/>
 　　因此，这篇教程既适合于命令行的新手，也值得某些【老手】看一看。<br/>
 <br/>
-　　由于本文介绍的是 POSIX 系统中【通用的】概念与知识。因此，包括 Linux、BSD 家族、Mac OS 等各种系统的用户，应该都能从中受益。<br/>
-　　（注：<a href="https://en.wikipedia.org/wiki/POSIX" rel="nofollow" target="_blank">POSIX</a> 是某种操作系统的标准/规范。各种 Linux 发行版以及所有的 UNIX 变种，包括 Mac OS，都属于“POSIX 系统”）<br/>
+　　由于本文介绍的是 POSIX 系统中【通用的】概念与知识。因此，包括 Linux、BSD 家族、macOS 等各种系统的用户，应该都能从中受益。<br/>
+　　（注：<a href="https://en.wikipedia.org/wiki/POSIX" rel="nofollow" target="_blank">POSIX</a> 是某种操作系统的标准/规范。各种 Linux 发行版以及所有的 UNIX 变种，包括 macOS，都属于“POSIX 系统”）<br/>
 <br/>
-　　如果你是这方面的菜鸟，并且想要掌握这个领域。【不要】企图只看一遍就完全理解本文的内容。可能需要看好几遍，并且要一边看，一边拿命令行的环境【实践】一下。<br/>
+　　如果你是这方面的【菜鸟】，并且想要掌握这个领域。【不要】企图只看一遍就完全理解本文的内容（可能需要看好几遍）。俺的建议是：要一边看，一边拿命令行的环境【实践】一下。<br/>
 <br/>
 <a name="teletype"> </a><br/>
 <h2>★一切都从【电传打字机】开始说起</h2><br/>
@@ -42,7 +42,6 @@
 　　如果你去留意一下 ASCII 字符表的开头部分，前面那32个字符都是控制字符，很多都源于遥远的【电报时代】。<br/>
 　　在本文后续的介绍中，还会再聊到这些“控制字符”。<br/>
 <br/>
-<br/>
 <a name="tty"> </a><br/>
 <h2>★终端（terminal/TTY）</h2><br/>
 <h3>◇历史演变</h3><br/>
@@ -56,7 +55,7 @@
 <h3>◇（跑题）“约翰·麦卡锡”其人</h3><br/>
 　　聊到这里，稍微跑题一下：<br/>
 　　最早的“分时系统”由 IT 超级大牛“约翰·麦卡锡”（<a href="https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)" rel="nofollow" target="_blank">John McCarthy</a>）设计。此人不仅仅是“分时系统它爹”，还是“Lisp 语言它爹”，另外还参与设计了编程语言“ALGOL 60”。而这个“ALGOL 60”编程语言虽然知道的人不多，但该语言深刻影响了后续的 Ada、BCPL、C、Pascal......<br/>
-　　为了让你体会这只大牛到底有多牛。俺引用另一个牛人保罗·格雷汉姆（《<a href="https://docs.google.com/document/d/17i49-SpeKz1wRG5S-HPonO-lXJHD99h62gDsQ64NWXo/" target="_blank">黑客与画家</a>》作者）的观点——他认为在所有编程语言中， Lisp 与 C 是两座无法超越的高峰。而“约翰·麦卡锡”亲自发明 Lisp 语言，然后又深刻影响了 C 语言。<br/>
+　　为了让你体会这只大牛到底有多牛。俺引用另一个牛人保罗·格雷汉姆（《<a href="https://docs.google.com/document/d/17i49-SpeKz1wRG5S-HPonO-lXJHD99h62gDsQ64NWXo/" target="_blank">黑客与画家</a>》作者）的观点——他认为在所有编程语言中， Lisp 与 C 是两座无法超越的高峰。而“约翰·麦卡锡”亲自发明了 Lisp 语言，然后又深刻地影响了 C 语言。<br/>
 　　另外，麦卡锡这只大牛还参与创立了“MIT 人工智能实验室”与“斯坦福人工智能实验室”。前者涌现出一大批早期的黑客，其中包括大名鼎鼎的 <a href="https://en.wikipedia.org/wiki/Richard_Stallman" rel="nofollow" target="_blank">Richard Stallman</a>（此人开创了：自由软件运动、GNU 社区、GCC、GDB、GNU Emacs ......）。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/0Yiucax8D7skki_Z5csmfmOhFXAc6nUnQfHik6WDoNRMPX4OJeqjq7GZcuHrjYFrBiPmqOunexkfby3c0NI7blTa1d_yDoELrPfIVVYFIHqJLHlQM8X94Ql4IKSyGsKuesGRYbJZKgU"/><br/>
@@ -205,12 +204,11 @@
 <h3>◇内部结构示意图</h3><br/>
 　　很多人把“emulator”与“PTY”混为一谈。实际上两者处于【不同】层次。<br/>
 　　在操作系统内部（内核），PTY 分为两部分实现，分别叫做“PTY master” ＆ “PTY slave”。master 负责与“terminal emulator”打交道；而用户通过 emulator 里面的 shell 启动的其它进程，则与 slave 打交道。<br/>
-　　在这个环节中，“PTY slave”又进一步缩写为“PTS”。如果你用 <code>ps</code> 命令查看系统中的所有进程，经常会看到 PTS 之类的字样，指的就是这个玩意儿。<br/>
-　　对普通用户而言，看到的是“终端模拟器”的界面，至于 PTY 内部的 master ＆ slave，通常是感觉不到滴。<br/>
+　　在这个环节中，“PTY slave”又进一步缩写为“PTS”。如果你用 <code>ps</code> 命令查看系统中的所有进程，经常会看到 PTS 之类的字样，指的就是这个玩意儿。对普通用户而言，看到的是“终端模拟器”的界面，至于 PTY 内部的 master ＆ slave，通常是感觉不到滴。<br/>
 <br/>
 　　为了让大伙儿更加直观，再放一张 PTY 的结构示意图。<br/>
 <br/>
-<center><img alt="不见图 请翻墙" src="images/KMWA2czF8HbdkSj0_H0bqVxaTdJB2yUGg46vvvAlCxGf0kwUEKH4Kn5_yr6NyFrEbOdlJTxRTt63lczZw3YsIgMrusiCn_I22jDnE2S1NMMJdhDPTDks1XwgZbkI-YFdqxw4N2Lmdz4"/><br/>
+<center><img alt="不见图 请翻墙" src="images/58f8TOJpw7rR6_oGBLI9nVPiW1jBVddKBH30UTzWL3n8pyY4RSvF19SAJK-lkymlteMNeyffOHDXOXKYnHehTF2-2Hep1Q4bhwBTHdDkax3uDy1kR-3a75DvxvH-LD2ggRTXUojHmy4"/><br/>
 （TTY 示意图3：【伪终端】的内部结构图）</center><br/>
 <a name="shell"> </a><br/>
 <h2>★shell——命令行解释器</h2><br/>
@@ -299,7 +297,7 @@ zsh</blockquote><br/>
 <a name="process"> </a><br/>
 <h2>★进程的启动与退出</h2><br/>
 <h3>◇进程的【启动】及其【父子关系】</h3><br/>
-　　一般来说，每个“进程”都是又另一个进程启动滴。如果“进程A”创建了“进程B”，则 A 是【父进程】，B 是【子进程】（这个“父子关系”很好理解——因为完全符合直觉）<br/>
+　　一般来说，每个“进程”都是由另一个进程启动滴。如果“进程A”创建了“进程B”，则 A 是【父进程】，B 是【子进程】（这个“父子关系”很好理解——因为完全符合直觉）<br/>
 　　有些同学会问，那最早的【第一个】进程是谁启动滴？<br/>
 　　一般来说，第一个进程由【操作系统内核】（kernel）亲自操刀运行起来；而 kernel 又是由“引导扇区”中的“boot loader”加载。<br/>
 <br/>
@@ -312,7 +310,7 @@ zsh</blockquote><br/>
 （“进程树”的效果图。注：为了避免暴露俺的系统信息，特意【不】用自己系统的截图）</center><br/>
 <h3>◇初始进程</h3><br/>
 　　一般情况下，POSIX 系统的“进程树”的【根节点】就是系统开机之后【第一个】创建的进程，并且其进程编号（PID）通常是 1。这个进程称之为“初始进程”。<br/>
-　　（注：上述这句话并【不够】严密——因为某些 UNIX 衍生系统的“进程树”，位于根节点的进程【不是】“初始化进程”。因为这种情况与本文的主题没太大关系，俺不打算展开讨论）<br/>
+　　（注：上述这句话并【不够】严密——因为某些 UNIX 衍生系统的“进程树”，位于根节点的进程【不是】“初始化进程”。这种情况与本文的主题没太大关系，俺不打算展开讨论）<br/>
 　　对于“大部分 UNIX 衍生系统”以及“2010年之前的 Linux 发行版”，系统中的“初始进程”名叫 <code>init</code>；<br/>
 　　如今越来越多的 Linux 发行版采用 <a href="https://en.wikipedia.org/wiki/Systemd" rel="nofollow" target="_blank">systemd</a> 来完成系统引导之后的初始化工作。在这些发行版中，“初始进程”名叫 <code>systemd</code>。<br/>
 <br/>
@@ -349,7 +347,7 @@ zsh</blockquote><br/>
 </pre><br/>
 　　如果是 Windows 系统里的 <code>ping</code> 命令，它只会进行4次“乒操作”，然后就自己退出了；<br/>
 　　但对于 POSIX 系统里面的 <code>ping</code> 命令，它会永远运行下去（直到被杀掉）。<br/>
-　　当 ping 在运行的时候，如果你按下 <code>Ctrl + C</code> 这个组合键，就可以立即干掉这个 <code>ping</code> 进程。<br/>
+　　当 ping 在运行的时候，只要你按下 <code>Ctrl + C</code> 这个组合键，就可以立即终止这个 <code>ping</code> 进程。<br/>
 <br/>
 <h3>◇“Ctrl + C”背后的原理——【信号】（signal）</h3><br/>
 　　当你按下了 <code>Ctrl + C</code> 这个组合键，当前正在执行的进程会收到一个叫做【SIGINT】的信号。<br/>
@@ -399,17 +397,28 @@ killall -9 进程名称
 killall -KILL 进程名称
 killall -SIGKILL 进程名称
 </pre><br/>
-　　请注意：<br/>
-　　<b>【它杀】是一种比较危险的做法，可能导致一些副作用。</b>只有当你用其它各种方式都无法干掉某个进程，才考虑用这招。<br/>
-<br/>
 　　为了方便对照上述这4种，俺放一个表格如下：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>信号名称</th><th>编号</th><th>能否屏蔽</th><th>默认动作</th><th>俗称</th></tr>
 <tr><td>SIGINT</td><td>2</td><td>YES</td><td>进程自己退出</td><td>自杀</td></tr>
 <tr><td>SIGTERM</td><td>15</td><td>YES</td><td>进程自己退出</td><td>自杀</td></tr>
-<tr><td>SIGQUIT</td><td>3</td><td>YES</td><td>执行 core dump<br/>进程自己退出</td><td>自杀</td></tr>
+<tr><td>SIGQUIT</td><td>3</td><td>YES</td><td>执行 core dump<br/>
+进程自己退出</td><td>自杀</td></tr>
 <tr><td>SIGKILL</td><td>9</td><td>NO</td><td>进程被内核干掉</td><td>它杀</td></tr>
 </tbody></table></center><br/>
+<h3>◇【它杀】的危险性与副作用</h3><br/>
+　　请注意：<b>【它杀】是一种比较危险的做法，可能导致一些【副作用】。</b>只有当你用其它各种方式都无法干掉某个进程，才考虑用这招。<br/>
+　　有读者在评论区问到了“它杀的副作用”，俺简单解释一下：<br/>
+　　一方面，当操作系统用这种方式杀掉某个进程，虽然可以把很多内存相关的资源释放掉，但【内存之外】的资源，内核就管不了啦；另一方面，由于进程遭遇“它杀”，无法完成某些善后工作。<br/>
+　　基于上述两点，就【有可能】会产生副作用。另外，“副作用的严重程度”取决于不同类型的软件。无法一概而论。<br/>
+<br/>
+　　<b>举例1：</b><br/>
+　　某个进程正在保存文件。这时候遭遇“它杀”可能会导致文件损坏。<br/>
+　　（注：虽然某些操作系统能做到“写操作的原子性”，但数据存储可能会涉及多个写操作。当进程在作【多个】关键性写操作时，遭遇它杀。可能导致数据文件【逻辑上】的损坏）<br/>
+<br/>
+　　<b>举例2：</b><br/>
+　　还有更复杂的情况，比如涉及跨主机的网络通讯。某个进程可能向【远程】的某个网络服务分配了某个远程的资源，当进程“自然死亡 or 自杀”，它会在“善后工作”释放这个资源；而如果死于内核的“它杀”，这个远程的资源就【没】释放。<br/>
+<br/>
 <h3>◇kill VS killall</h3><br/>
 　　这两个的差别在于——前者用“进程号”，后者用”进程名“（也就是可执行文件名）。<br/>
 　　对于新手而言，<br/>
@@ -429,7 +438,8 @@ killall -SIGKILL 进程名称
 <pre class="shell" style="background-color:Black;color:LawnGreen;">kill -TSTP 进程编号
 </pre>　　这个【SIGTSTP】信号类似前面提及的【SIGINT】——<br/>
 1. 两者默认都绑定到组合键（【SIGINT】默认绑定到组合键【<code>Ctrl + C</code>】；【SIGTSTP】默认绑定到组合键【<code>Ctrl + Z</code>】）<br/>
-2. 两者都是【可】屏蔽的信号。也就是说，如果某个进程屏蔽了【SIGTSTP】信号，你就【无法】用该方式暂停它。这时候你就得改用【粗暴】的方式（如下）。<br/>
+2. 这两个快捷键都是由【终端】截获，并发出相应的信号（具体原理参见本章节的某个小节）<br/>
+3. 两者都是【可】屏蔽的信号。也就是说，如果某个进程屏蔽了【SIGTSTP】信号，你就【无法】用该方式暂停它。这时候你就得改用【粗暴】的方式（如下）。<br/>
 <br/>
 　　<b>【粗暴】式暂停（SIGSTOP）</b><br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">kill -STOP 进程编号
@@ -448,6 +458,11 @@ killall -SIGKILL 进程名称
 <h2>★作业控制（job）</h2><br/>
 　　聊完了“进程控制”，再来聊“作业控制”。<br/>
 　　（注：这里所说的“作业”是从洋文 job 翻译过来滴）<br/>
+<br/>
+<h3>◇啥是“作业”？</h3><br/>
+　　“作业”是 shell 相关的术语，用来表示【进程组】的概念（每个作业就是一组进程）。<br/>
+　　比如说，当你用“管道符”把若干命令串起来执行，这几个命令对应的进程就被视作【一组】。<br/>
+　　（注：“管道符”的用法，后面某个章节会介绍）<br/>
 <br/>
 <h3>◇同步执行（前台执行） VS 异步执行（后台执行）</h3><br/>
 　　大部分情况下，你在 shell 中执行的命令都是“同步执行”（或者叫“前台执行”）。对于这种方式，只有当命令运行完毕，你才会重新看到 shell 的“命令行提示符”。<br/>
@@ -483,8 +498,8 @@ killall -SIGKILL 进程名称
 　　举例：<br/>
 　　假设俺同时启动了 vim 与 emacs 作为后台进程，先用 <code>jobs</code> 命令列出所有的后台进程。假设该命令的输出是如下这个样子。<br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">$ jobs
-[1] running    vim
-[2] running    emacs
+[1]  running    vim
+[2]  running    emacs
 </pre>　　在上述的终端窗口，中括号里面的数字称作“job id”。你可以用 <code>fg</code> 命令搭配“job id”，把某个后台进程切换到前台。<br/>
 　　（在本例中）如果你想切换 emacs 到前台，就运行 <code>fg %2</code>，如果想切换 vim 就运行 <code>fg %1</code>（以此类推）<br/>
 <br/>
@@ -496,13 +511,15 @@ killall -SIGKILL 进程名称
 <h3>◇“环境变量”是啥？</h3><br/>
 　　所谓的“环境变量”，你可以通俗理解为某种【名值对】——每个“环境变量”都有自己的【名称】和【值】。并且名称必须是【唯一】滴。<br/>
 <br/>
-<h3>◇如何设置/修改“环境变量”？</h3><br/>
-　　在 bash（或兼容 bash 的其它 shell），你可以用 export 设置环境变量。比如下面这个命令设置了一个“环境变量”，其名称是 <code>abc</code>，其值是 <code>xyz</code><br/>
+<h3>◇如何添加并修改“环境变量”？</h3><br/>
+　　在 bash（或兼容 bash 的其它 shell），你可以用 <code>export</code> 设置环境变量。比如下面这个命令行设置了一个“环境变量”，其名称是 <code>abc</code>，其值是 <code>xyz</code><br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">export abc=xyz
 </pre><br/>
 　　假如你要设置的【值】包含空格，记得用双引号引用该值（示例如下）。<br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">export abc="program think"
 </pre><br/>
+　　由于“环境变量”的名称具有【唯一性】，当你设置【同名】的“环境变量”就等同于对它的【修改】。<br/>
+<br/>
 <h3>◇如何查看“环境变量”？</h3><br/>
 　　设置完之后，你可以用 <code>env</code> 命令查看。该命令会列出【当前 shell】中的【全部】“环境变量”。<br/>
 <br/>
@@ -516,7 +533,7 @@ killall -SIGKILL 进程名称
 　　俺如果有空，会单独写一篇关于 bash 的定制教程，到时候再聊这个话题。<br/>
 <br/>
 <h3>◇“环境变量”有啥用？</h3><br/>
-　　通俗地说，“环境变量”是某种比较简单的 IPC 机制（进程通讯机制）。可以让两个进程共享某个简单的文本信息。<br/>
+　　通俗地说，“环境变量”是某种比较简单的“IPC 机制”（进程通讯机制），可以让两个进程共享某个简单的文本信息。<br/>
 　　举例：<br/>
 　　很多知名的软件（比如：curl、emacs）都支持“以环境变量设置代理”。<br/>
 　　如果你按照它的约定，在 shell 中设置了约定名称和格式的“环境变量”，然后在【同一个】shell 中启动这个软件，（由于环境变量的【可继承性】）该软件就会看到这个“环境变量”，并根据“环境变量”包含的信息，设置代理。<br/>
@@ -530,9 +547,9 @@ killall -SIGKILL 进程名称
 <center><img alt="不见图 请翻墙" src="images/JEfAB2UXDSRwczojJZOXEDAK5xH4E6YdksxZuIqq_5Tfe6xjwHrbeYX5EETlsHxQYk1Wm_wXg-ajpjIu3lHzYLeYJML5xxQQgsuhnZodUcC5jbtdLQ7_AflDdUkEfAthqHqBly3CQPo"/><br/>
 （三个【标准流】的示意图）</center><br/>
 　　如果你是程序员，俺补充一下：<br/>
-　　当你在程序中打开某个文件，会得到一个“文件描述符”（洋文叫“<a href="https://en.wikipedia.org/wiki/File_descriptor" rel="nofollow" target="_blank">file descriptor</a>”，简称 fd）。可以用 fd 对该文件进行读写。fd 本身是个整数。<br/>
+　　当你在程序中打开某个文件，会得到一个“文件描述符”（洋文叫“<a href="https://en.wikipedia.org/wiki/File_descriptor" rel="nofollow" target="_blank">file descriptor</a>”，简称 fd）。fd 本身是个整数，程序员可以通过 fd 对该文件进行读写。<br/>
 　　而进程的三个【标准流】，就相当于是三个特殊的 fd。当进程启动时，操作系统就已经把这三个 fd 准备好了。<br/>
-　　由于这三个玩意儿是特殊滴，所以它们的数值分别是：0、1、2（参见上图中 # 后面的数字）。<br/>
+　　由于这三个玩意儿是预先备好滴，所以它们的数值分别是：0、1、2（参见上图中 # 后面的数字）。<br/>
 <br/>
 <h3>◇演示“标准流”的实际效果</h3><br/>
 　　在本文前面的某个章节，俺已经用 gif 动画演示了终端的“行模式”。<br/>
@@ -557,7 +574,6 @@ killall -SIGKILL 进程名称
 　　另外，有时候你会看到 <code>2&gt;&amp;1</code> 这种写法。它表示：把 stderr 合并到 stdout。<br/>
 　　（注：前面俺提到过——stdout 是“数值为 1 的文件描述符”；stderr 是“数值为 2 的文件描述符”）<br/>
 <br/>
-<br/>
 <h3>◇【重定向】举例</h3><br/>
 　　<b>cat 的例子</b><br/>
 　　下面这个命令把某个文件重定向到 <code>cat</code> 的 stdin。<br/>
@@ -568,16 +584,16 @@ killall -SIGKILL 进程名称
 <pre class="shell" style="background-color:Black;color:LawnGreen;">cat 文件名
 </pre><br/>
 　　<code>cat</code> 命令还可以起到类似“文件复制”的效果。<br/>
-　　比如你已经有个 <code>文件1</code>，用下面这种玩法，会创建出一个内容完全一样的 <code>文件2</code>。<br/>
+　　比如你已经有个 <code>文件1</code>，用下面这种玩法，会创建出一个内容完全相同的 <code>文件2</code>。<br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">cat &lt; 文件1 &gt; 文件2
-</pre>　　某些同学会问了：既然可以这么玩，为啥还需要用 <code>cp</code> 命令进行文件复制捏？<br/>
+</pre>　　某些同学可能会问了：既然能这么玩，为啥还需要用 <code>cp</code> 命令进行文件复制捏？<br/>
 　　原因在于：<code>cat</code> 的玩法，只保证内容一样，其它的不管；而 <code>cp</code> 除了复制文件内容，还会确保“目标文件”与“源文件”具有相同的属性（比如 mode）。<br/>
 <br/>
 　　<b>更多的例子</b><br/>
 　　在之前那篇《<a href="../../2019/09/Netcat-Tricks.md">扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”</a>》，里面介绍了十多种 nc 的玩法。很多都用到了【重定向】。<br/>
 <br/>
 <a name="anonymous-pipe"> </a><br/>
-<h2>★“匿名管道”（anonymous pipe）</h2><br/>
+<h2>★匿名管道（anonymous pipe）</h2><br/>
 <h3>◇“匿名管道”的【原理】</h3><br/>
 　　在大部分 shell 中，使用竖线符号（<code>|</code>）来表示【管道符】。用它来创建一个【<a href="https://en.wikipedia.org/wiki/Anonymous_pipe" rel="nofollow" target="_blank">匿名管道</a>】，使得前一个命令（进程）的“标准输出”关联到后一个命令（进程）的“标准输入”。<br/>
 <br/>
@@ -596,6 +612,10 @@ killall -SIGKILL 进程名称
 　　现在，假设你运行了 Tor Browser，然后想看看它到底有没有开启 <code>9150</code> 这个监听端口，那么你就可以在上述命令中进行【二次过滤】（具体命令大致如下）。这就是所谓的【串联】。<br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">netstat -an | grep "LISTEN" | grep "9150"
 </pre><br/>
+<h3>◇“匿名管道”与“作业”（进程组）</h3><br/>
+　　用“匿名管道”串起来的多个进程，构成一个“作业”（这点前面提到了）。<br/>
+　　你可以尝试执行某个长寿命的，带管道符的命令行，然后用 <code>Ctrl + Z</code> 切到后台，再执行 <code>jobs</code> 看一下，就能看出——该命令行对应的【多个】进程属于同一个 job。<br/>
+<br/>
 <a name="batch"> </a><br/>
 <h2>★批处理（batch）</h2><br/>
 <h3>◇啥是“批处理”？</h3><br/>
@@ -634,19 +654,19 @@ killall -SIGKILL 进程名称
 </pre><br/>
 　　这个有点复杂，俺稍微解释一下：<br/>
 　　你把前面两句看作一个【整体】。其执行的逻辑参见前面所说的“逻辑与”。然后这个“整体”与后面的那句 <code>echo</code> 再组合成【逻辑或】的关系。<br/>
-　　也就是说，如果前面的“整体”成功了，那么就【不】执行 <code>echo</code>（【不】打印错误信息）。反之，如果前面的“整体”失败了，就会打印错误信息。<br/>
+　　也就是说，如果前面的“整体”成功了，那么就【不】执行 <code>echo</code>（【不】打印错误信息）；反之，如果前面的“整体”失败了，就会打印错误信息。<br/>
 <br/>
 <br/>
 <h2>★shell 脚本</h2><br/>
 　　虽然前一个章节拿 bash 来举例。但其实有很多其它类型的 shell 都支持类似的“批处理”机制。<br/>
 　　只要某个 shell 支持刚才所说的【有条件批处理】的机制，它就已经很接近【编程语言】了。<br/>
 　　于是很自然地，那些 shell 的作者就会把 shell 逐步发展成某种【脚本语言】的解释器。然后就有了如今的“shell script”（shell 脚本）和“shell 编程”。<br/>
-　　由于“shell 编程”这个话题比较大。哪怕俺只聊 bash 这个 shell 的编程，也足够写上几万字的博文。考虑到本文已经很长了，这个话题就不再展开。<br/>
+　　由于“shell 编程”这个话题比较大。哪怕俺只聊 bash 这一类 shell 的编程，也足够写上几万字的博文。考虑到本文已经很长了，这个话题就不再展开。<br/>
 　　对此感兴趣的同学，可以参考俺分享的电子书。具体参见<a href="https://github.com/programthink/books" target="_blank">电子书清单</a>的如下几本（这几本都位于【IT类 / 操作系统 / 使用教程】分类目录下）<br/>
 《<a href="https://docs.google.com/document/d/1Zw8XD56F6rCi899UxIE-0sKoXWr2WGqiUNcRl70kIYk/" target="_blank">Shell 脚本学习指南</a>》（Classic Shell Scripting）<br/>
 《<a href="https://docs.google.com/document/d/1Nk83xAbRUdcgqUBSfDCwozA3-EUFeBz-nrpf1G7x-j0/" target="_blank">Linux 与 UNIX Shell 编程指南</a>》（Linux and UNIX Shell Programming）<br/>
 《<a href="https://docs.google.com/document/d/1BYSgrSViVZyDTQcuhWEFAc_uc0YZvkIoQYLmv0yWo_A/" target="_blank">高级 Bash 脚本编程指南</a>》（Advanced Bash-Scripting Guide）<br/>
-　　上述这几本，都属于俺在《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》中提到的【入门性读物】。最后一本书的名称中虽然有”高级“字样，但别担心——其内容的5个部分，有4部分都是在讲基础的东西，只有最后一部分才稍微有一点点深度。<br/>
+　　上述这几本，都属于俺在《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》中提到的【入门性读物】。最后一本书的名称中虽然有“高级”字样，不过别怕——其内容的5个部分，有4部分都是在讲基础的东西，只有最后一部分才稍微有一点点深度。<br/>
 <br/>
 <br/>
 <h2>★结尾</h2><br/>

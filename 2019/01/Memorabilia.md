@@ -4,8 +4,8 @@
 
 <div class="post-body entry-content">
 　　最近的两篇博文都超长（尤其那篇<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">《反脆弱》的读书笔记</a>有3~4万字数，是本博有屎以来最长滴），写这两篇把俺累坏了。今天来一篇轻松点的。<br/>
-　　话说还有不到一星期，就是本博客的【十周年庆】。有些读者建议俺要有所表示，所以今天汇总一下这十年来值得纪念的事情，让列位看官（尤其是新读者）了解一下：俺能坚持到现在，也不容易啊！！！<a name="more"></a><br/>
-<br/>
+　　话说还有不到一星期，就是本博客的【十周年庆】。有些读者建议俺要有所表示，所以今天汇总一下这十年来值得纪念的事情，让列位看官（尤其是新读者）了解一下：俺能坚持到现在，也不容易啊！！！<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★2009年1月15日，第一篇博文——《博客开张及本博客内容简介》</h2><br/>
 　　那天俺发了本博客【第一篇】博文（链接在“<a href="../../2009/01/test.md">这里</a>”），所以每年的1月15日是“开博纪念日”。<br/>
@@ -132,8 +132,8 @@
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》<br/>
 <br/>
 　　再顺便跑题一下：<br/>
-　　信息安全界有句名言（其实也是句废话），叫做：<q style="background-color:#DDD;">没有绝对的安全</q>。<br/>
-　　如果用“矛/盾”来比喻“攻防双方”，那么这句话也可以翻译成——<q style="background-color:#DDD;">没有完美的盾</q>。但是反过来也可以说——<q style="background-color:#DDD;">没有完美的矛</q>。<br/>
+　　信息安全界有句名言（其实也是句废话），叫做：<q>没有绝对的安全</q>。<br/>
+　　如果用“矛/盾”来比喻“攻防双方”，那么这句话也可以翻译成——<q>没有完美的盾</q>。但是反过来也可以说——<q>没有完美的矛</q>。<br/>
 　　既然攻防双方都不可能完美，那么问题的【焦点/难点】就在于——<b>如何评估/预判双方的“强弱对比”</b>。那些能做到这点的人，也就是《孙子兵法》所说的【知己知彼，百战不殆】。<br/>
 <br/>
 <br/>
@@ -247,7 +247,7 @@
 《<a href="../../2017/05/my-blog-under-government-backed-attack.md">庆贺本博荣获【更高级别朝廷认证】——谈谈近期的“帐号入侵、刷屏、钓鱼”</a>》<br/>
 <br/>
 　　在上述这篇博文中，俺特地引用了尼采的名言：<br/>
-<blockquote style="background-color:#DDD;"><b>那不能杀死我的，使我更强。<br/>
+<blockquote><b>那不能杀死我的，使我更强。<br/>
 What does NOT kill me, makes me stronger.</b></blockquote><br/>
 <br/>
 <h2>★2018年12月6日，俺的 G+ 帐号废弃（那上面的转载文章全都搬运到博客主站）</h2><br/>
@@ -267,19 +267,19 @@ What does NOT kill me, makes me stronger.</b></blockquote><br/>
 <center><span style="font-weight:bold;font-size:150%;">成功不必在我，功成其中有我。</span></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/04/why-write-blog.md">为啥俺要写这个博客——动机的自我分析</a><br/>
-<a href="../../2009/01/test.md">博客开张及本博客内容简介</a><br/>
-<a href="../../2009/03/producer-consumer-pattern-0-overview.md">架构设计：生产者/消费者模式</a><br/>
-<a href="../../2009/05/how-to-break-through-gfw.md">如何翻墙？——写在 BlogSpot 被封之后</a><br/>
-<a href="../../2009/06/writing-something-with-polity.md">是该写点技术以外的东西了</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a><br/>
-<a href="../../2013/06/email-subscription.md">邮件订阅功能发布——免翻墙的“Google Reader 替代品”</a><br/>
-<a href="../../2015/03/blog-sync.md">提供“博客离线浏览”和“电子书制作脚本”——用 BT Sync（Resilio Sync）【免翻墙】自动同步</a><br/>
-<a href="../../2015/01/BitTorrent-Sync.md">扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘</a><br/>
-<a href="../../2015/10/Blog-Enable-HTTPS.md">博客全程启用 HTTPS 加密</a><br/>
-<a href="../../2016/06/github-take-down-zhao-repository.md">热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a><br/>
-<a href="../../2017/05/my-blog-under-government-backed-attack.md">庆贺本博荣获【更高级别朝廷认证】——谈谈近期的“帐号入侵、刷屏、钓鱼”</a><br/>
-<a href="../../2018/12/Google-Plus-Is-Dead.md">告别 Google Plus——早年在 G+ 上的“每周转载”已搬运到博客主站</a>
+《<a href="../../2013/04/why-write-blog.md">为啥俺要写这个博客——动机的自我分析</a>》<br/>
+《<a href="../../2009/01/test.md">博客开张及本博客内容简介</a>》<br/>
+《<a href="../../2009/03/producer-consumer-pattern-0-overview.md">架构设计：生产者/消费者模式</a>》<br/>
+《<a href="../../2009/05/how-to-break-through-gfw.md">如何翻墙？——写在 BlogSpot 被封之后</a>》<br/>
+《<a href="../../2009/06/writing-something-with-polity.md">是该写点技术以外的东西了</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》<br/>
+《<a href="../../2013/06/email-subscription.md">邮件订阅功能发布——免翻墙的“Google Reader 替代品”</a>》<br/>
+《<a href="../../2015/03/blog-sync.md">提供“博客离线浏览”和“电子书制作脚本”——用 BT Sync（Resilio Sync）【免翻墙】自动同步</a>》<br/>
+《<a href="../../2015/01/BitTorrent-Sync.md">扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘</a>》<br/>
+《<a href="../../2015/10/Blog-Enable-HTTPS.md">博客全程启用 HTTPS 加密</a>》<br/>
+《<a href="../../2016/06/github-take-down-zhao-repository.md">热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a>》<br/>
+《<a href="../../2017/05/my-blog-under-government-backed-attack.md">庆贺本博荣获【更高级别朝廷认证】——谈谈近期的“帐号入侵、刷屏、钓鱼”</a>》<br/>
+《<a href="../../2018/12/Google-Plus-Is-Dead.md">告别 Google Plus——早年在 G+ 上的“每周转载”已搬运到博客主站</a>》
 </div>
 
 

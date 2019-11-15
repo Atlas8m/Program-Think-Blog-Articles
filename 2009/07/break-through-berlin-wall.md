@@ -5,8 +5,9 @@
 <div class="post-body entry-content">
 　　最近常听到有人抱怨穿墙太麻烦，俺心里就嘀咕：你要是知道当年德国人民翻墙的艰辛和危险，或许就不会再抱怨翻ＧＦW这堵墙的麻烦了。<br/>
 　　说到德国人的翻墙，比较关心政治的同学应该会联想到大名鼎鼎的“柏林墙”（具体介绍见“<a href="https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%9E%97%E5%9C%8D%E7%89%86" rel="nofollow" target="_blank">这里</a>”）。从某种意义上看，东德共党在60年代建造的柏林墙和中国共党在21世纪架设的 GFW 真是具有异曲同工之妙——两堵“墙”都是用来阻止本国人民对自由的追求。各位同学们目前的处境，和当年东德老百姓的处境也很类似——都在挖空心思琢磨翻墙之术。<br/>
-　　有鉴于此，俺今天特地献上当年收藏的一篇翻（柏林）墙的老文章（附在后面），希望给那些正在翻墙或者准备翻墙的同学打打气，鼓鼓劲。为了追求自由，突破 GFW 的那点麻烦算得了什么（翻墙的入门介绍在“<a href="../../2009/05/how-to-break-through-gfw.md">这里</a>）！记得电影《侏罗纪公园》里面有句台词：<b>生命总会找到自己的出口</b>。俺借用一下，篡改成：<b>追求自由的人，总能找到“墙”的突破口</b>。<a name="more"></a><br/>
-　　另：此文的作者已不可考（至少俺是没考证出来），不过里面的事例可能摘自“北明”发表在“<a href="http://www.china-week.com/" rel="nofollow" target="_blank">中国报道周刊</a>”（被墙）的一篇文章（见“<a href="http://www.china-week.com/html/325.htm" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　有鉴于此，俺今天特地献上当年收藏的一篇翻（柏林）墙的老文章（附在后面），希望给那些正在翻墙或者准备翻墙的同学打打气，鼓鼓劲。为了追求自由，突破 GFW 的那点麻烦算得了什么（翻墙的入门介绍在“<a href="../../2009/05/how-to-break-through-gfw.md">这里</a>）！<br/>
+　　记得电影《侏罗纪公园》里面有句台词（大意是）：<b>生命总会找到自己的出口</b>。俺借用一下，篡改成：<b>追求自由的人，总能找到“墙”的突破口</b>。<a name="more"></a><br/>
+　　另：此文的作者已不可考（至少俺是没考证出来），不过里面的事例可能摘自“北明”发表在“<a href="http://www.china-week.com/" rel="nofollow" target="_blank">中国报道周刊</a>”（被墙）的一篇文章（链接在“<a href="http://www.china-week.com/html/325.htm" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝无敌分割线＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br/>
 <br/>
@@ -116,10 +117,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a><br/>
-<a href="../../2009/07/party-pk-internet.md">党和互联网的较量</a><br/>
-<a href="../../2009/07/microblog-blocked-by-gfw.md">从微博客被封杀说开去</a><br/>
-<a href="../../2010/03/party-control-news-media.md">关于抹黑 Google——谈谈党国对舆论的操纵手法</a>
+《<a href="../../2019/11/Brief-History-of-the-Berlin-Wall.md">美苏冷战的缩影——柏林墙简史（多图）</a>》<br/>
+《<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>》<br/>
+《<a href="../../2009/07/party-pk-internet.md">党和互联网的较量</a>》<br/>
+《<a href="../../2009/07/microblog-blocked-by-gfw.md">从微博客被封杀说开去</a>》<br/>
+《<a href="../../2010/03/party-control-news-media.md">关于抹黑 Google——谈谈党国对舆论的操纵手法</a>》
 </div>
 
 

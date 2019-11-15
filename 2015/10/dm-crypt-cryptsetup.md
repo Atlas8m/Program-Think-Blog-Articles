@@ -400,6 +400,7 @@ RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，�
 《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
+《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>》
 </div>
 

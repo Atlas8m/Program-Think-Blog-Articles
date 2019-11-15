@@ -228,6 +228,7 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统？</a>》<br/>
 《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版？</a>》<br/>
+《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a>》<br/>
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客</a>》<br/>
 《<a href="../../2016/08/Trojan-Horse-DCM.md">如何对付公安部门的“网络临侦”？——“黑暗幽灵木马”之随想</a>》<br/>

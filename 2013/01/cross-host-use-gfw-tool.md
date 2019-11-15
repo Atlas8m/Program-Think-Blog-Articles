@@ -29,8 +29,8 @@
 <pre class="shell">netstat -an | find "LISTEN"</pre><br/>
 　　刚才有读者在留言中提问，俺再补充一下。用 <code>netstat</code> 的 <code>o</code> 选项可以看到每个监听端口分别是【哪个进程】开启滴。命令如下<br/>
 <pre class="shell">netstat -ano | find "LISTEN"</pre><br/>
-　　对于 POSIX 系统（Linux ＆ UNIX），把上述命令中的 <code>find</code> 改为 <code>grep</code><br/>
-<br/>
+　　对于 POSIX 系统（Linux ＆ UNIX），把上述命令中的 <code>find</code> 改为 <code>grep</code>，具体如下：<br/>
+<pre class="shell">netstat -an | grep "LISTEN"</pre><br/>
 <h3>◇什么是监听端口的“绑定地址”？</h3><br/>
 　　以俺手头的虚拟机为例，执行刚才那个命令后，会显示如下输出<br/>
 <pre class="shell">TCP  127.0.0.1:8118  0.0.0.0:0  LISTENING</pre><br/>
@@ -196,6 +196,7 @@ A 监听端口是新开的，而且绑定地址是 <code>0.0.0.0</code><br/>
 《<a href="../../2011/03/how-to-get-gfw-tools.md">获取翻墙软件方法大全</a>》（教你在无法翻墙的情况下拿到翻墙软件）<br/>
 《<a href="../../2019/04/Proxy-Tricks.md">如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）</a>》<br/>
 《<a href="../../2014/12/gfw-privoxy.md">如何用 Privoxy 辅助翻墙？</a>》<br/>
+《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2019/09/Netcat-Tricks.md">扫盲 netcat（网猫）的 N 种用法——从“网络诊断”到“系统入侵”</a>》
 </div>
 

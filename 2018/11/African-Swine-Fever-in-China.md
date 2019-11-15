@@ -60,7 +60,7 @@
 　　下面引述新浪的一篇报道（该报道的原始出处是：《中国新闻周刊》总第868期）<br/>
 《<a href="http://finance.sina.com.cn/chanjing/cyxw/2018-09-08/doc-ihivtsyi7289182.shtml" rel="nofollow" target="_blank">非洲猪瘟肆虐竟是俄罗斯惹的祸？长期被视为疫情中转站 @ 新浪财经</a>》<br/>
 （以下是该报道的摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">　　中国动物卫生与流行病学中心博士戈胜强等人在《微生物学通报》2017年第12期上发表的《非洲猪瘟在俄罗斯的流行与研究现状》显示，2007年俄罗斯发现非洲猪瘟不过是某一地区的一簇星点，但到了2017年就呈燎原之势了。<br/>
+<blockquote>　　中国动物卫生与流行病学中心博士戈胜强等人在《微生物学通报》2017年第12期上发表的《非洲猪瘟在俄罗斯的流行与研究现状》显示，2007年俄罗斯发现非洲猪瘟不过是某一地区的一簇星点，但到了2017年就呈燎原之势了。<br/>
 <br/>
 　　在2017年伊尔库茨克州发现的非洲猪瘟疫情中，共有40只家猪感染并全部死亡。从地理距离来看，伊尔库茨克州距离蒙古国只有约100公里，距中国边境满洲里有约1000公里。<br/>
 <br/>
@@ -71,7 +71,7 @@
 　　再引述另一篇报道：<br/>
 《<a href="http://www.ifengweekly.com/detil.php?id=6459" rel="nofollow" target="_blank">非洲猪瘟首次入侵中国，影响几何？ @ 凤凰周刊</a>》<br/>
 （以下是该报道的摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">8月8日，黑龙江商务厅官网在第169期《对俄经贸信息》显示，俄罗斯西伯利亚农业集团已开始向中国出口猪副产品。首批24吨产品由集团下属的克拉斯诺亚尔斯克养猪企业发出，计划未来对华出口规模达每月30吨。<br/>
+<blockquote>8月8日，黑龙江商务厅官网在第169期《对俄经贸信息》显示，俄罗斯西伯利亚农业集团已开始向中国出口猪副产品。首批24吨产品由集团下属的克拉斯诺亚尔斯克养猪企业发出，计划未来对华出口规模达每月30吨。<br/>
 <br/>
 《凤凰周刊》记者发现，<b>该集团旗下10家企业分别位于俄罗斯托木斯克州、克迈罗沃州、斯维尔德洛斯斯克州、秋明州、克拉斯诺亚尔斯克边疆区和布里亚特共和国，上述地区均曾爆发非洲猪瘟疫情或与疫区紧邻。</b><br/>
 <br/>
@@ -120,7 +120,7 @@
 <center><img alt="不见图 请翻墙" src="images/0wwdHjt-QI21gczyAichK2P8H9U-A3-rcnpEddXSd04NQVeC44FvBRNnwKYg6Er353mnitrxNBSvG_GKk6zKYsdzxb_4fRSkU7qSD6aR0YCun-wRhvyrgYwZhAxFBsiLx5WAxkmsHuo"/><br/>
 （死猪的外部症状）</center><br/>
 　　<b>独一无二的分类</b><br/>
-　　在维基百科的“<a href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F" rel="nofollow" target="_blank">这个链接</a>”提到了：<q style="background-color:#DDD;">非洲猪瘟病毒科（学名：Asfarviridae）是双链 DNA 病毒中的一个科。非洲猪瘟病毒属（Asfivirus）是本科【唯一的】一个属。</q><br/>
+　　在维基百科的“<a href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F" rel="nofollow" target="_blank">这个链接</a>”提到了：<q>非洲猪瘟病毒科（学名：Asfarviridae）是双链 DNA 病毒中的一个科。非洲猪瘟病毒属（Asfivirus）是本科【唯一的】一个属。</q><br/>
 　　由此可见，这种病毒在生物学分类上就很独特。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/mP7fTd4FP89GQrXfclbIbVvTl4VfMwKIZHbT2zkaObQYR3NFZt9GT1WivLwRaVBOtEDGBQ5CZAl0ovgnQEI3N6yyoLRWSWEilpQeWAK0ZQ_2fMvw8NwNyRIF0z8r7_ETKkFgjloAe0o"/><br/>
@@ -131,7 +131,7 @@
 <br/>
 　　<b>复杂的基因</b><br/>
 　　ASFV 目前有24种基因型，其中西非为I型，东欧与高加索为II型，中国目前爆发的 ASFV 为II型（与东欧及俄罗斯相同）。<br/>
-　　<a href="http://finance.sina.com.cn/money/future/fmnews/2018-11-12/doc-ihnstwwr0856582.shtml" rel="nofollow" target="_blank">新浪的这篇文章</a>对该病毒的介绍是：<q style="background-color:#DDD;">拥有庞大而复杂的基因组（170~194kb），我国发现的非洲猪瘟有 180kb 的基因组，编码150多种病毒蛋白，其中超过一半的功能未知，由于 ASFV 的毒力基因暂不清楚，所以疫苗的研发依然滞后。</q><br/>
+　　<a href="http://finance.sina.com.cn/money/future/fmnews/2018-11-12/doc-ihnstwwr0856582.shtml" rel="nofollow" target="_blank">新浪的这篇文章</a>对该病毒的介绍是：<q>拥有庞大而复杂的基因组（170~194kb），我国发现的非洲猪瘟有 180kb 的基因组，编码150多种病毒蛋白，其中超过一半的功能未知，由于 ASFV 的毒力基因暂不清楚，所以疫苗的研发依然滞后。</q><br/>
 <center><img alt="不见图 请翻墙" src="images/7k8DHMxk8GLJXCf9QushdqTWmFP3Vtt6RK9lZnelMxigr4-V4z_a1MO0ZntqHLxjI8Z_JwlY-G-AadHsKCXZgbWMppuXOLpSG8la-yC1QpDAaUvKqwLNYcraU8P-XTBCpyPSaiXQiRc"/><br/>
 （ASFV 不同基因类型分布图。不同颜色形状的点，代表不同的基因型）</center><br/>
 <h3>◇ASFV 的传播方式</h3><br/>
@@ -201,8 +201,8 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a><br/>
-<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>
+《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
+《<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>》
 </div>
 
 

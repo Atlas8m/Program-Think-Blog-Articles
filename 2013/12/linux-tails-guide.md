@@ -89,6 +89,8 @@ KeePassX——口令管理工具<br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2013/10/linux-newbie-guide.md">扫盲 Linux：新手如何搞定 Linux 操作系统</a>》<br/>
+《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>》<br/>
+《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
 《<a href="../../2009/09/break-through-gfw-with-tor.md">“如何翻墙”系列：戴“套”翻墻的方法</a>》<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
