@@ -210,9 +210,6 @@ def search_and_download_all_articles():
     start_year = 2009
     current_year = get_current_year_and_month()[0]
 
-    global total_progress
-    total_progress = 0
-
     thread_list = []
 
     for year in range(start_year, current_year + 1):
