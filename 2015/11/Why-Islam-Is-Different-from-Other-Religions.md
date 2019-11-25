@@ -278,7 +278,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想</a>》<br/>
+《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“＜查理画报＞惨案”和“尼日利亚大屠杀”随想</a>》<br/>
 《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
 《<a href="../../2014/09/oversimplification.md">各种一元化思维的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
 《<a href="../../2014/02/brainwash-and-idiot.md">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>

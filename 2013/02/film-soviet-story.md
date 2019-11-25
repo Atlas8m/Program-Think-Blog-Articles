@@ -3,11 +3,11 @@
 -----
 
 <div class="post-body entry-content">
+<h2>★引子</h2><br/>
 　　春节前，某博客读者来信，希望俺推荐一些政治类的影片。正好俺也很久没写影评了，就给大伙儿推荐一下《苏维埃往事》。该片又名《苏联的故事》，洋名是《The Soviet Story》。<br/>
-　　本来想在上星期发这篇博文，后来想想大过年的，不太合适（该片包含血腥恐怖的内容），就拖到今天才发。<a name="more"></a><br/>
-<img alt="不见图 请翻墙" src="images/r9VK6mq5ayk3QSp7JwS-s7fcoxUoxIXSTQHmMyyzHL84DFY517C5_VUUtRIbmzvlxb3Wz0OraSlppKfZDCacBYZ7E8y0W5Nh7m8BTdfhD9O-pgsqzj2RsQjCe3U"/><br/>
-<br/>
-<br/>
+　　本来想在上星期发这篇博文，后来想想大过年的，不太合适（该片包含血腥恐怖的内容），就拖到今天才发。<br/>
+<a name="more"></a><br/>
+<center><img alt="不见图 请翻墙" src="images/r9VK6mq5ayk3QSp7JwS-s7fcoxUoxIXSTQHmMyyzHL84DFY517C5_VUUtRIbmzvlxb3Wz0OraSlppKfZDCacBYZ7E8y0W5Nh7m8BTdfhD9O-pgsqzj2RsQjCe3U"/></center><br/>
 <h2>★内容简介</h2><br/>
 　　该片是2008年拍摄的纪录片，由拉脱维亚导演 <a href="https://en.wikipedia.org/wiki/Edv%C4%ABns_%C5%A0nore" rel="nofollow" target="_blank">Edvins Snore</a> 执导。他曾经是苏联的政治异议人士，花了十年时间做调查、采访目击证人、收集材料。最终制作出这部85分钟的记录片。本片曾获2008年美国波士顿电影节公众震撼奖（Mass Impact Award）。<br/>
 　　《苏维埃往事》曝光了许多苏联共产党政权不为人知的丑行。和同类的影片相比，该片还有一大特色——帮助你看清苏联和纳粹的共同本质。影片把苏联与纳粹的共同之处，通过视觉上的冲击，呈现在观众面前，给你留下深刻印象。<br/>
@@ -18,19 +18,18 @@
 <h3>◇洗脑宣传</h3><br/>
 　　影片中列举了大量的宣传画，以此来体现纳粹与苏联在宣传手法上的相似之处。这两组宣传画令人印象深刻，所以俺特地从网上找来12张影片截图，让列位看官一饱眼福。<br/>
 <br/>
-<img alt="不见图 请翻墙" src="images/TPKQu7QdYqDtLkadOPkeqkPkNJ0M8xrjOoMYSDhRhM_lKF2SQ3YzrwNIWVBwVff5PCkHsg5Zv2wDcBMp2sVbY3d6RJI7_cTcNcGNTJ3Ii8uDHqAW_8HA4jJ1fik"/><br/>
-<img alt="不见图 请翻墙" src="images/tZ-f-Zk9koucFMZP4Jz5PAKoG-tuJIiG4k5-8E9okmQLLu5rQ6asm5doRgbcsUodI08ln2jKXWrSmr55KzMmPeDCDH3qoK8Fc4NnueDYXib_peB8wYSJXDjs9UI"/><br/>
-<img alt="不见图 请翻墙" src="images/NF6EQPOUDmb1GZAdGQbOvns3ybczH7utdIrFmBC9aHP98vGipWPECAUi8yzFGZkiOw0PvJ6E7QFbgnm1naMDje5zniXElfg30i7kZM1itOhAszHOJ60QKKe6pEg"/><br/>
-<img alt="不见图 请翻墙" src="images/SJpUtpDqJwB2lTnthq7dFFzmwS3zptZFuiDtGYLSu3ArtNyZOR1ttSXiSQ8UF85WjEvDGFy4dMGzR80-Cqvn5905SwYQwSgoDHEe5PdX6Ew7R_PWvmE1oqoN7b4"/><br/>
-<img alt="不见图 请翻墙" src="images/Ww3uIDVzKdf9jDLb4J6J2q7b6dGtmG7DeQD7e_TRTqWi_DHnk7KSda9UypilJuFyToZ3IWkRDbkfHji_eRiVb2EZ1GvdXc1vYO-AyAYsNmu2cSZFtE093Y3V__M"/><br/>
-<img alt="不见图 请翻墙" src="images/LtRCO_cM7yvBcAc6QurVXfiJIoV9zKjlcPYaQc1t1QOOWz5_2wUJvifXKO9p7U_XP7Bcqj0bJFbyNl1jHZbIuYYmieRnlU858OKs6KI9ikwb1Qd0KUkWkzV1OEc"/><br/>
-<img alt="不见图 请翻墙" src="images/tF561R5YZgorVdxyw1u4wRHqb2JsJMpZDFSV-coumRhU1MKFfo3yFJA3yLnICw89xmVIE84CTsEPhYUoMumagVFbfKz689QH6YJd5thqiKyJ92svIcb7ryRS0Jw"/><br/>
-<img alt="不见图 请翻墙" src="images/FpoBibU3VMP3D_bdMW-AFNOxaHjeM0S8Uq5Z7l_kZuf1MPVJ1VE5rZwwejjFVIs3tBT4s8Ketm-ek9mY-HmNL0TN-5E10ET-AzXYmVNJniTig2ZKAHtP0SMoL-w"/><br/>
-<img alt="不见图 请翻墙" src="images/HzRJFMF2J60EwwjEi5LG4JUWQ45nXZ4J3jC0P3fvXyM6aZQMh0G0PiSI53vpW3qtRNznEnt8zHDZgDOD-hhzckRNFzyr6EvnXyJfXEZ4wULB-kD8eGz1z1j8ijE"/><br/>
-<img alt="不见图 请翻墙" src="images/El2rusrGPaKajFcB9oT5AW04u6-o54E0D0NvZK1DoWFxb9kTBYuAmUScYrOP0OHckds-iEP4Njw1dUdqMvIO3qr94LEDHfyz6Vq1REbgvAcrnGkzo8UwNM0raws"/><br/>
-<img alt="不见图 请翻墙" src="images/wK7qxia4RatLwROALeXu5LQxOztCL_syNaNj2gv1kTrYDgeciJvkd3p4ztJqJAcZdbxinYkUOJT6gj6X4Y5ksvT-iG1MFhx0Rq3XAvlHXxWjlViNkoL5gJf2CoI"/><br/>
-<img alt="不见图 请翻墙" src="images/6pK8fEGt4y-kITN_LWAEqaWANL77PWTWzzzJYMvFlKcFrStCPlIEBOwNu7YpSS3vd2-w_ZsLgL1cn7g2ULakSkMs9iHQm4CdNrpCSjv0ekjFiNvS9SJ5KAaEtCY"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/TPKQu7QdYqDtLkadOPkeqkPkNJ0M8xrjOoMYSDhRhM_lKF2SQ3YzrwNIWVBwVff5PCkHsg5Zv2wDcBMp2sVbY3d6RJI7_cTcNcGNTJ3Ii8uDHqAW_8HA4jJ1fik"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/tZ-f-Zk9koucFMZP4Jz5PAKoG-tuJIiG4k5-8E9okmQLLu5rQ6asm5doRgbcsUodI08ln2jKXWrSmr55KzMmPeDCDH3qoK8Fc4NnueDYXib_peB8wYSJXDjs9UI"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/NF6EQPOUDmb1GZAdGQbOvns3ybczH7utdIrFmBC9aHP98vGipWPECAUi8yzFGZkiOw0PvJ6E7QFbgnm1naMDje5zniXElfg30i7kZM1itOhAszHOJ60QKKe6pEg"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/SJpUtpDqJwB2lTnthq7dFFzmwS3zptZFuiDtGYLSu3ArtNyZOR1ttSXiSQ8UF85WjEvDGFy4dMGzR80-Cqvn5905SwYQwSgoDHEe5PdX6Ew7R_PWvmE1oqoN7b4"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/Ww3uIDVzKdf9jDLb4J6J2q7b6dGtmG7DeQD7e_TRTqWi_DHnk7KSda9UypilJuFyToZ3IWkRDbkfHji_eRiVb2EZ1GvdXc1vYO-AyAYsNmu2cSZFtE093Y3V__M"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/LtRCO_cM7yvBcAc6QurVXfiJIoV9zKjlcPYaQc1t1QOOWz5_2wUJvifXKO9p7U_XP7Bcqj0bJFbyNl1jHZbIuYYmieRnlU858OKs6KI9ikwb1Qd0KUkWkzV1OEc"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/tF561R5YZgorVdxyw1u4wRHqb2JsJMpZDFSV-coumRhU1MKFfo3yFJA3yLnICw89xmVIE84CTsEPhYUoMumagVFbfKz689QH6YJd5thqiKyJ92svIcb7ryRS0Jw"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/FpoBibU3VMP3D_bdMW-AFNOxaHjeM0S8Uq5Z7l_kZuf1MPVJ1VE5rZwwejjFVIs3tBT4s8Ketm-ek9mY-HmNL0TN-5E10ET-AzXYmVNJniTig2ZKAHtP0SMoL-w"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/HzRJFMF2J60EwwjEi5LG4JUWQ45nXZ4J3jC0P3fvXyM6aZQMh0G0PiSI53vpW3qtRNznEnt8zHDZgDOD-hhzckRNFzyr6EvnXyJfXEZ4wULB-kD8eGz1z1j8ijE"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/El2rusrGPaKajFcB9oT5AW04u6-o54E0D0NvZK1DoWFxb9kTBYuAmUScYrOP0OHckds-iEP4Njw1dUdqMvIO3qr94LEDHfyz6Vq1REbgvAcrnGkzo8UwNM0raws"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/wK7qxia4RatLwROALeXu5LQxOztCL_syNaNj2gv1kTrYDgeciJvkd3p4ztJqJAcZdbxinYkUOJT6gj6X4Y5ksvT-iG1MFhx0Rq3XAvlHXxWjlViNkoL5gJf2CoI"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/6pK8fEGt4y-kITN_LWAEqaWANL77PWTWzzzJYMvFlKcFrStCPlIEBOwNu7YpSS3vd2-w_ZsLgL1cn7g2ULakSkMs9iHQm4CdNrpCSjv0ekjFiNvS9SJ5KAaEtCY"/></center><br/>
 <h3>◇社会改造工程</h3><br/>
 　　奉行马列主义的苏联，与奉行纳粹主义的德国，都大力推进【社会改造工程】。而且两国的社会改造工程，都有一个华丽的目标——建立一个终极的、美好的社会。<br/>
 　　德国的社会改造工程，基于“雅利安人的优越性”，目标是消灭其它人种。当年希特勒发出“灭绝犹太人民族”的号召，直接导致600万以上的犹太人死在毒气室。<br/>
@@ -52,18 +51,23 @@
 <img alt="不见图 请翻墙" src="images/q63q9ryzK1c1Y1DJMUDmt7EZ1EYYcAm-yuNgxoD6kdCNXt2b-_FL-xkH91CKUqBi9xxBjGuFXm0nNRX8xHPCBGedU-47p46FMMeNbnh8-malOVussuOh5OrYUgs"/><br/>
 　　影片中对古拉格有相当多的介绍，包括后面提到的“人体实验”。<br/>
 <br/>
-引申阅读<br/>
-<a href="https://en.wikipedia.org/wiki/Gulag" rel="nofollow" target="_blank">古拉格 @ 洋文维基百科</a><br/>
-<a href="https://github.com/programthink/books" target="_blank">索尔仁尼琴：《古拉格群岛》@ 俺的网盘</a><br/>
-<a href="https://news.ifeng.com/history/shijieshi/detail_2012_09/03/17312272_0.shtml" rel="nofollow" target="_blank">普京为何将苏联禁书《古拉格群岛》列中学教科书 @ 凤凰网</a><br/>
+引申阅读：<br/>
+《<a href="https://en.wikipedia.org/wiki/Gulag" rel="nofollow" target="_blank">古拉格 @ 洋文维基百科</a>》<br/>
+《<a href="https://news.ifeng.com/history/shijieshi/detail_2012_09/03/17312272_0.shtml" rel="nofollow" target="_blank">普京为何将苏联禁书《古拉格群岛》列中学教科书 @ 凤凰网</a>》<br/>
+（以下几本书，在<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）<br/>
+索尔仁尼琴：《<a href="https://docs.google.com/document/d/16BIi4Bgqups1xnUFeM4SqmA6cmdQSgR-sya9pSCxZD8/" target="_blank">古拉格群岛</a>》<br/>
+安妮·阿普尔鲍姆：《<a href="https://docs.google.com/document/d/1qIJn3sa480LBBlFOlbR9o4n8outF3n-HwG88r-xtGgE/" target="_blank">古拉格——一部历史</a>》<br/>
 <br/>
-<h3>◇小结——希特勒与斯大林都搞极权主义</h3><br/>
+<br/>
+<h3>◇小结——希特勒与斯大林都是搞【极权主义】</h3><br/>
 　　在咱们天朝的官方宣传中，经常把斯大林的某些激进做法称为“极左”，把纳粹称为“极右”。这种提法迷惑了相当多的人，让很多人误以为两者处于两个极端。其实捏，斯大林时期的苏联与希特勒时期的德国，<b>在本质上都是极权主义</b>。如果你对极权主义有所了解，就会恍然大悟——原来是这样，难怪有如此多的相似之处。<br/>
 　　顺便说一下，用“左、右”来描述政治流派，是非常不靠谱的。首先，天朝政治语言的“左／右”跟欧美政治语言的“左／右”全然不同（甚至可能是相反的）；其次，政治流派有非常多的维度，而用“左／右”顶多只能表达一个维度。所以，俺建议大伙儿在称呼政治流派时，尽量用具体的流派名称（某某主义），而不要用“左派／右派”。<br/>
 <br/>
-引申阅读<br/>
-<a href="https://zh.wikipedia.org/wiki/%E6%A5%B5%E6%AC%8A" rel="nofollow" target="_blank">极权主义 @ 维基百科</a><br/>
-<a href="https://github.com/programthink/books" target="_blank">汉娜·阿伦特：《极权主义的起源》 @ 俺的网盘</a><br/>
+引申阅读：<br/>
+《<a href="https://zh.wikipedia.org/wiki/%E6%A5%B5%E6%AC%8A" rel="nofollow" target="_blank">极权主义 @ 维基百科</a>》<br/>
+（以下几本书，在<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）<br/>
+汉娜·阿伦特：《<a href="https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/" target="_blank">极权主义的起源</a>》<br/>
+雅各布·塔尔蒙：《<a href="https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/" target="_blank">极权主义民主的起源</a>》<br/>
 <br/>
 <br/>
 <h2>★一些不为人知的苏联丑闻</h2><br/>
@@ -80,17 +84,18 @@
 ......（还有很多，就不一一列举了）<br/>
 　　顺便补充一下，在威廉·夏伊勒所写的《第三帝国的兴亡》一书提到，“苏德互不侵犯条约”是苏联方面主动提出（书中第15章）。该章节还详细介绍了苏德密谋瓜分东欧的外交细节。<br/>
 <br/>
-引申阅读<br/>
-<a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%BE%B7%E4%BA%92%E4%B8%8D%E4%BE%B5%E7%8A%AF%E6%9D%A1%E7%BA%A6" rel="nofollow" target="_blank">苏德互不侵犯条约 @ 维基百科</a><br/>
-<a href="https://github.com/programthink/books" target="_blank">夏伊勒：《第三帝国的兴亡》 @ 俺的网盘</a><br/>
+引申阅读：<br/>
+《<a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%BE%B7%E4%BA%92%E4%B8%8D%E4%BE%B5%E7%8A%AF%E6%9D%A1%E7%BA%A6" rel="nofollow" target="_blank">苏德互不侵犯条约 @ 维基百科</a>》<br/>
+（以下几本书，在<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）<br/>
+威廉·夏伊勒：《<a href="https://docs.google.com/document/d/195hZEzm2Q4mzSEhWgJNyOVA_AQ-T1xZoRuQcje0jQBQ/" target="_blank">第三帝国的兴亡</a>》<br/>
 <br/>
 <h3>◇卡廷森林惨案</h3><br/>
 　　前面提到苏德共同瓜分了波兰。波兰亡国后，有大批波兰军官被苏联俘虏。他们的命运是：被集体处决，人数是：至少2万5千，地点是：苏联的卡廷森林。<br/>
 　　比较讽刺的是，这个秘密是纳粹德军最先发现的。苏德战争爆发后，德国陆军长驱直入，卡廷也被攻占。之后，德军发现了埋葬波兰人的万人坑。接下来的几年，苏共与纳粹打起口水战，纷纷指责对方制造了卡廷大屠杀（两个刽子手对骂，典型的狗咬狗）。<br/>
-　　这个口水战直到前几年才尘埃落定。2010年11月，俄罗斯议会发表官方声明，正式承认卡廷大屠杀由斯大林直接下令执行（链接在“<a href="http://news.sina.com.cn/w/2010-11-27/034621541710.shtml" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　这个口水战直到前几年才尘埃落定。2010年11月，俄罗斯议会发表官方声明，正式承认：卡廷大屠杀由斯大林直接下令执行（链接在“<a href="http://news.sina.com.cn/w/2010-11-27/034621541710.shtml" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
-引申阅读<br/>
-<a href="https://news.qq.com/a/20100826/000779.htm" rel="nofollow" target="_blank">卡廷惨案——埋葬整整一代波兰精英 @ 腾讯网</a><br/>
+引申阅读：<br/>
+《<a href="https://news.qq.com/a/20100826/000779.htm" rel="nofollow" target="_blank">卡廷惨案——埋葬整整一代波兰精英 @ 腾讯网</a>》<br/>
 <br/>
 <h3>◇乌克兰大饥荒</h3><br/>
 　　影片开头部分就提到了乌克兰大饥荒。并且提到说，乌克兰大饥荒期间，苏联依然大量出口小麦等农作物。<br/>
@@ -109,24 +114,26 @@
 　　正是因为这次清洗，导致苏联红军元气大伤。1941年苏德战争爆发时，德军能在短时间进行纵深突破，除了德军运用的闪击战策略，还有一个原因是：苏军的大部分优秀指挥官都去见马克思了。<br/>
 <br/>
 引申阅读：<br/>
-<a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%81%94%E8%82%83%E5%8F%8D%E8%BF%90%E5%8A%A8" rel="nofollow" target="_blank">苏联肃反运动 @ 维基百科</a><br/>
-<a href="https://github.com/programthink/books" target="_blank">爱德华·拉津斯基：《斯大林秘闻——原苏联秘密档案披露》 @ 俺的网盘</a><br/>
-<a href="https://github.com/programthink/books" target="_blank">陈启能：《苏联大清洗内幕》 @ 俺的网盘</a><br/>
+《<a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%81%94%E8%82%83%E5%8F%8D%E8%BF%90%E5%8A%A8" rel="nofollow" target="_blank">苏联肃反运动 @ 维基百科</a>》<br/>
+（以下几本书，在<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）<br/>
+爱德华·拉津斯基：《<a href="https://github.com/programthink/books" target="_blank">斯大林秘闻——原苏联秘密档案披露</a>》<br/>
+陈启能：《<a href="https://github.com/programthink/books" target="_blank">苏联大清洗内幕</a>》<br/>
 <br/>
 <h3>◇劳改营的人体试验</h3><br/>
 　　很多天朝的网友都知道日本的 731 部队搞人体实验，但对苏联劳改营的人体实验，知之甚少。这是该片又一个震撼人心之处。老实说，对这方面的资料，俺之前也了解不多。<br/>
 <br/>
 引申阅读：<br/>
-<a href="https://news.ifeng.com/history/vp/detail_2010_08/06/1901059_0.shtml" rel="nofollow" target="_blank">苏联最恐怖的劳改营——据传用劳改者做实验 @ 凤凰网</a><br/>
+《<a href="https://news.ifeng.com/history/vp/detail_2010_08/06/1901059_0.shtml" rel="nofollow" target="_blank">苏联最恐怖的劳改营——据传用劳改者做实验 @ 凤凰网</a>》<br/>
 <br/>
 <br/>
 <h2>★相关链接</h2><br/>
 　　本片曾经被上传到国内的视频网站（搜狐、新浪、优酷 ...），可惜因为政治内容太敏感，大都被河蟹吃掉了。如果你运气好的话，或许还能找到漏网的。在 YouTube（全球最大视频网站）上也可以找到该片的链接。<br/>
-　　本文刚发布时，附带了该影片在 YouTube 上的链接（共6个视频）。结果一天之内，这6个视频全部被 YouTube 删除（因为 YouTube 对盗版视频查得严，管理员发现盗版会删除）。比较蹊跷的是，这6个视频已经上传到 YouTube 至少一年了。为啥正好在俺博文发布的那天，被删除？俺不得不怀疑有朝廷的走狗（也可能是毛粉）在关注俺这个博文，然后去 YouTube 举报。所以，俺不能再提供链接了。<br/>
+　　本文刚发布时，附带了该影片在 YouTube 上的链接（共6个视频）。结果一天之内，这6个视频全部被 YouTube 删除（因为 YouTube 对盗版视频查得严，管理员发现盗版会删除）。<br/>
+　　比较蹊跷的是，这6个视频已经上传到 YouTube 至少一年了。为啥正好在俺博文发布的那天，被删除？俺不得不怀疑有朝廷的走狗（也可能是毛粉）在关注俺这个博文，然后去 YouTube 举报。因此，俺【不再】提供 YouTube 链接了。<br/>
 <br/>
-　　更新：<br/>
+　　<b>视频资源更新</b><br/>
 　　经热心读者的推荐，如下链接可以下载到本影片（包括 MPEG4 和 OGG 两种格式）。<br/>
-<a href="https://archive.org/details/TheSovietStory_494" rel="nofollow" target="_blank">http://archive.org/details/TheSovietStory_494</a><br/>
+<a href="https://archive.org/details/TheSovietStory_494" rel="nofollow" target="_blank">https://archive.org/details/TheSovietStory_494</a><br/>
 <br/>
 　　最后，再附上本片的 <a href="https://www.imdb.com/title/tt1305871/" rel="nofollow" target="_blank">IMDb 链接</a>，维基百科的链接（<a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%BB%B4%E5%9F%83%E7%9A%84%E6%95%85%E4%BA%8B" rel="nofollow" target="_blank">中文</a>、<a href="https://en.wikipedia.org/wiki/The_Soviet_Story" rel="nofollow" target="_blank">洋文</a>）。<br/>
 <br/>
@@ -136,13 +143,14 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a><br/>
-<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a><br/>
-<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a><br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2014/07/artists-and-ccp.md">面对共产党——民国人文大师的众生相</a><br/>
-<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a><br/>
-<a href="../../2012/05/three-years-famine-0.md">谈谈三年大饥荒</a>（系列）
+《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
+《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2019/11/Brief-History-of-the-Berlin-Wall.md">美苏冷战的缩影——柏林墙简史（多图）</a>》<br/>
+《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2014/07/artists-and-ccp.md">面对共产党——民国人文大师的众生相</a>》<br/>
+《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a>》<br/>
+《<a href="../../2012/05/three-years-famine-0.md">谈谈三年大饥荒</a>》（系列）
 </div>
 
 

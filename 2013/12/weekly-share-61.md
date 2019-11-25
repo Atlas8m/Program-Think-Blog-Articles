@@ -448,13 +448,13 @@ hnjhj：<br/>
 <center><img alt="不见图 请翻墙" src="images/GFxkIRQMo7Ylc0S6albxxbhDvicLy4QBUGmIjo2hzI1U_oX1BmwocOEcylEQpL_G_tI5IJJqWXM1jlMJBGPDwJJS2JDr9BGAQDvgPuUIpfbi7HLaxoSSesp1587u"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2011/12/kim-jong-il-joke.md">普天同庆金二胖归西</a><br/>
-<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a><br/>
-<a href="../../2013/08/korean-war.md">谈谈真理部对朝鲜战争的忽悠</a><br/>
-<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a><br/>
-<a href="../../2012/05/weekly-share-4.md">每周转载：关于北朝鲜（网文5篇）</a><br/>
-<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2011/12/kim-jong-il-joke.md">普天同庆金二胖归西</a>》<br/>
+《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
+《<a href="../../2013/08/korean-war.md">谈谈真理部对朝鲜战争的忽悠</a>》<br/>
+《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a>》<br/>
+《<a href="../../2012/05/weekly-share-4.md">每周转载：关于北朝鲜（网文5篇）</a>》<br/>
+《<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a>》
 </div>
 
 

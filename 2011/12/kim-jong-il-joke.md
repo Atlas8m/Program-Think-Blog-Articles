@@ -3,7 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　今年好消息不断, 多个独裁政权相继垮台。昨天更听闻, 中国人民的老朋友, 北朝鲜的第二个胖子（金正日）终于死翘翘了。眼下临近圣诞和元旦, 为了增加点节日的喜庆气氛, 分享各国网友（主要是天朝网友）对此事的恶搞。<a name="more"></a><br/>
+　　今年好消息不断, 多个独裁政权相继垮台。昨天更听闻, 中国人民的老朋友, 北朝鲜的第二个胖子（金正日）终于死翘翘了。眼下临近圣诞和元旦, 为了增加点节日的喜庆气氛, 分享各国网友（主要是天朝网友）对此事的恶搞。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★金二胖的死因</h2><br/>
 　　首先，大伙儿都很关心金胖子是怎么死的。以下是几种不同的论调。<br/>
@@ -75,6 +76,7 @@
 <br/>
 有一天，金正日坐着火车、带着老婆出了城，吃着火锅还唱着歌...<br/>
 <br/>
+<br/>
 <h2>★金二胖的照片</h2><br/>
 　　以下照片，既有原版的，也有PS的，请各位同学自行鉴定。<br/>
 <br/>
@@ -104,6 +106,7 @@
 <center><img alt="不见图 请翻墙" src="images/wBVus-WXxbu-fCUKCPLGix4cRf1ubexzavOwSkNZP89O6vpWoy9aSFA0guReXYPn2bzccggPmXt4ERCiD9ziAA1pWc2j3bRLDjDwfZRZnphH5OK1jPyQCWU9_1_iAEB1QIroEl92"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/CPRie78BszgN24ZOsn36-OVP3kE5P31-NtesRXZTMmrauz4jLAp33TwunSoquPYX_QJ6oZzRvvgGUjYCP6df_jcfDmyTXB-AdB3YH6-6SALcNBErK03WXTVVVXrL4ShV1NkLw6ig"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/N3w7U5iplLIh3wFeueU6oP9-Nkso5PyAb44n15VRWzj9D5bppsH3rP8MK1TVbMnrvX6VDVZw1NGgibtaE7FCHBqBOP7iSMldUiYYqf5ofllDv9Uw9xuZEOh_B9_gll8bZiEcIl8Z"/></center><br/>
+<br/>
 <h2>★金二胖的笑话</h2><br/>
 金正日17号挂掉了，圣诞夜差不多是头7。到时候全世界一起唱，金哥 bye，金哥 bye，金哥 on the way~~<br/>
 <center><img alt="不见图 请翻墙" src="images/fdUUTS2wG8jxRnP0TFCWFJa_QuQj8bjocH19gpsvcNuGQGOY3Ni0ANhZrEp5DljlVOEgFdcI1AIZdrW5lj2PXoUhGt6Rj6Wt0zIfjq69PHeLZAEcPov0Bm1ev6Qs0HJB5nwv08PR"/></center><br/>
@@ -126,6 +129,7 @@ stay hungry，stay foolish<br/>
 朝鲜著名的计算机科学家，Juche 语言的创始人，Maox Mini 系统的权威解释者 Fucking King 于17号因心鸡梗塞与世长辞。<br/>
 Maox Mini 开发社区会不会分裂？未来演进会不会引入 Wine 模拟 Windows API？这些都是国际开发者论坛对 Maox Mini 系统未来的猜测。<br/>
 不过笔者认为基于 Juche 语言的 Maox Mini 只会如 Mac OS 一样越来越封闭，将会继续开发其代号为 nuclear 的内核并从 West Korea 的 CPC 社区获得软件包。<br/>
+<br/>
 <br/>
 <h2>★金二胖的其它评论</h2><br/>
 <b>正日已去寻日成<br/>
@@ -152,6 +156,7 @@ Maox Mini 开发社区会不会分裂？未来演进会不会引入 Wine 模拟 
 <br/>
 难道上天在一个个收拾天朝的小兄弟？收拾完了，最后就是...<br/>
 <br/>
+<br/>
 <h2>★金三胖的照片</h2><br/>
 恶搞完金二胖，再捎带恶搞一下金三胖。<br/>
 <center><img alt="不见图 请翻墙" src="images/dK0pDMAL3s0cLh25JiV42VDD08Q6aU9bXliumHgdS8LNs3FhqaUC0h32SfYFWSo67j9cRcW5YlFgkQh9hSftJ2XyBfbZ7bYvEH9kCzWFks7Jz2XgL8m6XI4QNwRBAU5hjNG1tKVp"/></center><br/>
@@ -161,6 +166,7 @@ Maox Mini 开发社区会不会分裂？未来演进会不会引入 Wine 模拟 
 <center><img alt="不见图 请翻墙" src="images/rjMMuRKHm1stq4mEUysK6kvVUXJb3TcrzhQHCzAssohHwbZAsT6zw_VjAFi5yxLzmBnV2JdPrWs7DJnwLNaqOVztPAZPi5sHrKPemTawFF7laNR8gtcbjIDzpM6mcmQtQTdDwX6R"/></center><br/>
 金小胖和毛小胖<br/>
 <center><img alt="不见图 请翻墙" src="images/MpJomjsqobp4wHbI88PqfiAIHY5Jb3wSK82d-aOzPdGCpjsv07ZXDco4k_U6stRHVIIFmCr-v7Vrb3GP3O8L8O7TdZMty7HcpIFNdvy9NApdaqBrpZWPTU0ojtmomgi4uDS1kQCu"/><img alt="不见图 请翻墙" src="images/l4FCy0EfvMyDbqp_D4sP0fgoBbHdAIiY51kUXxV337mZNhnj18ffuadXmVpzOG20aOTPjJD3BEdLog6nOUbt9Bb_VI9WeEjQbVd8VC2ZzspYFVDsAHLItWQoZ4iTyFMbyZ_pQCEK"/></center><br/>
+<br/>
 <h2>★金三胖的笑话</h2><br/>
 金正日追悼会上，有西方媒体记者向接班人金正恩提问："How will you make this country better?"<br/>
 金正恩抬起头，一脸悲愤地用口音浓重的朝鲜英语说："I will make a <b>NEW KOREA</b>！"<br/>
@@ -170,12 +176,14 @@ Maox Mini 开发社区会不会分裂？未来演进会不会引入 Wine 模拟 
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2011/12/chinese-leader-death.md">如何解读朝廷要员的盖棺定论</a><br/>
-<a href="../../2012/05/weekly-share-4.md">每周转载：关于北朝鲜（网文5篇）</a><br/>
-<a href="../../2013/12/weekly-share-61.md">每周转载：网友热议北朝鲜张成泽倒台</a><br/>
-<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a><br/>
-<a href="../../2012/07/weekly-share-13.md">每周转载：关于北朝鲜高层人事地震（网文4篇）</a>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2011/12/chinese-leader-death.md">如何解读朝廷要员的盖棺定论</a>》<br/>
+《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
+《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
+《<a href="../../2012/05/weekly-share-4.md">每周转载：关于北朝鲜（网文5篇）</a>》<br/>
+《<a href="../../2013/12/weekly-share-61.md">每周转载：网友热议北朝鲜张成泽倒台</a>》<br/>
+《<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a>》<br/>
+《<a href="../../2012/07/weekly-share-13.md">每周转载：关于北朝鲜高层人事地震（网文4篇）</a>》
 </div>
 
 

@@ -319,11 +319,11 @@ The verdict, which fell just hours before the International Women’s Day, is co
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
-《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想</a>》<br/>
+《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“＜查理画报＞惨案”和“尼日利亚大屠杀”随想</a>》<br/>
 《<a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a>》<br/>
 《<a href="../../2014/03/who-help-terrorism.md">你意想不到的恐怖主义帮手——昆明暴力袭击事件随想</a>》<br/>
 《<a href="../../2014/05/weekly-share-67.md">每周转载：关于新疆“民族、宗教、恐怖主义”问题的报道和分析（网文8篇）</a>》<br/>
-<a href="../../2011/05/usama-bin-laden.md">关于本·拉登的几个误区</a>
+《<a href="../../2011/05/usama-bin-laden.md">关于本·拉登的几个误区</a>》
 </div>
 
 

@@ -526,6 +526,7 @@ And how do you tell an anti-communist? It's someone who <b>understands</b> Marx 
 《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》<br/>
 《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2019/11/Brief-History-of-the-Berlin-Wall.md">美苏冷战的缩影——柏林墙简史（多图）</a>》<br/>
 《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
 《<a href="../../2014/07/artists-and-ccp.md">面对共产党——民国人文大师的众生相</a>》<br/>
 《<a href="../../2015/10/What-is-Science.md">科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误</a>》

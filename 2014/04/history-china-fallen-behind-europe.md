@@ -126,8 +126,9 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/07/form-of-government.md">扫盲常见的政治体制</a><br/>
-<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：《反脆弱——从不确定性中获益》</a>
+《<a href="../../2012/07/form-of-government.md">扫盲常见的政治体制</a>》<br/>
+《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
+《<a href="../../2014/03/propaganda-for-patriotism.md">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>》
 </div>
 
 

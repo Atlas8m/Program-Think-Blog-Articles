@@ -514,6 +514,7 @@ He said it is China's consistent stand that the Chinese Mainland and Taiwan shou
 《<a href="../../2014/05/taiwan-sunflower-student-movement.md">点评“台湾服贸问题”和“太阳花学运”</a>》<br/>
 《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
 《<a href="../../2014/03/propaganda-for-patriotism.md">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>》<br/>
+《<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>》<br/>
 《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
 《<a href="../../2014/06/weekly-share-69.md">每周转载：关于“一国两制白皮书”和“国台办言论”（大量网友评论和图片）</a>》<br/>
 《<a href="../../2012/09/weekly-share-20.md">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a>》

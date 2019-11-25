@@ -4,12 +4,11 @@
 
 <div class="post-body entry-content">
 　　昨天是咱们天朝“伟光正”的生日，作为长期抹黑党国的屁民，俺当然要写一篇博文，作为党生日的献礼。本文打算聊一聊民国时期的“大师级”牛人（主要是人文领域方面）。了解这些人的经历之后，你对共产运动导致的祸害，会有更深刻的体会。<br/>
-（这篇博文原本要在昨天发，由于篇幅写得比较长，一不小心就拖到今天）<a name="more"></a><br/>
-<br/>
+（这篇博文原本要在昨天发，由于篇幅写得比较长，一不小心就拖到今天）<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%9B%BD%E7%BB%B4" rel="nofollow" target="_blank">王国维</a>——很有先见之明的满清遗老</h2><br/>
-<img alt="不见图 请翻墙" src="images/FLOG1oMi1qntaVf9CYaNEkUFLEIsE6fFyOew9k_hOp0YrvtKZXtKrd1lBVyi9FhK_b7Er6DAgxQcSrIsfSNuM68oRMA5_a82GLa5aKSbgKBqGtflPXq9I_KnZdP_nxaY2aWC"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/FLOG1oMi1qntaVf9CYaNEkUFLEIsE6fFyOew9k_hOp0YrvtKZXtKrd1lBVyi9FhK_b7Er6DAgxQcSrIsfSNuM68oRMA5_a82GLa5aKSbgKBqGtflPXq9I_KnZdP_nxaY2aWC"/></center><br/>
 　　文艺小清新对王国维应该不陌生。此人在文学、美学、史学、考古学等领域均有极高的造诣。他与梁启超、陈寅恪、赵元任被并称为清华国学研究院的“四大导师”。不过很多文青可能不了解王国维在政治方面的立场和眼光。<br/>
 　　首先俺必须承认：王国维是一个顽固的清末遗老，在某些方面，思想非常僵化。但是在对待共产运动方面，他具有独到并且超前的洞察力。俺举几个例子：<br/>
 　　1917年末，十月革命刚刚发生，王国维就担忧十月革命会波及中国。当时他写给柯劭忞的一封信中提及了他的担忧。罗振玉所著的《王忠悫遗书序》一书中记载了王国维的原话，如下：<br/>
@@ -17,14 +16,13 @@
 　　1919年，“五四”运动爆发时，王国维写信给陆宗舆（当时负责外交事务），建议他在巴黎和会上提出议案，团结世界各国剿灭俄国布尔什维克。<br/>
 　　1924年，王国维在写给溥仪的奏折中提到：<br/>
 <blockquote>井田之法，口分之制，皆屡试而不能行，或行而不能久。西人则以是为不足，于是有社会主义焉，有共产主义焉。然此均产之事，将使国人共均之乎？<br/>
-……<br/>
+......<br/>
 <b>（共产制度）俄人行之伏尸千万，赤地万里，而卒不能不承认私产之制度</b>，则曩之汹汹又奚为也。</blockquote>　　奏折中提到的“俄人行之伏尸千万，赤地万里”指的就是苏联搞了共产主义那套玩意儿，所导致的惨状。如果你不相信苏俄制造的人间地狱，可以去看影片《苏维埃往事》（影评在“<a href="../../2013/02/film-soviet-story.md">这里</a>”）。<br/>
 　　从上述几个例子可以看出——王国维这个满清遗老，对共产运动有惊人的预见性，超越了同时代很多人文领域的大师。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E5%BE%90%E5%BF%97%E6%91%A9" rel="nofollow" target="_blank">徐志摩</a>——曾被苏俄【短暂】蒙蔽，访苏之后觉醒</h2><br/>
-<img alt="不见图 请翻墙" src="images/fmWFEIO1IjpPAyhZKkcduT-iubydzNugjIRt0xhhj06DyrTTBagwxQqhzHkA05HTjgk9rVCbBaVvZW0O1xK64L93Ho80PocfvUkBgYUKh_1VKm_48vI7zWYGFvz8ugl4lJAh"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/fmWFEIO1IjpPAyhZKkcduT-iubydzNugjIRt0xhhj06DyrTTBagwxQqhzHkA05HTjgk9rVCbBaVvZW0O1xK64L93Ho80PocfvUkBgYUKh_1VKm_48vI7zWYGFvz8ugl4lJAh"/></center><br/>
 　　徐志摩跟王国维类似——也经常被文艺青年追捧，但是很多文青都不了解徐志摩在政治方面的眼光。<br/>
 　　在五四运动前后，罗素是很多中国知识分子的精神导师。徐志摩也不例外。而罗素在十月革命爆发后（1917-1920），曾经是苏联的积极拥护者。受此影响，徐志摩也一度是苏联的拥护者。<br/>
 　　1920年，罗素受苏共当局的邀请，去苏联访问，还见到了列宁本人。本来苏共的如意算盘是：让罗素这个世界级大牛（大哲学家、大数学家、唯一获得诺贝尔<b>文学奖</b>的科学家）替苏联说点好话。谁曾想，罗素在苏联逛了一圈回到英国之后，态度发生180度大转变——从“苏联的积极拥护者”转变为“苏联的坚定批评者”。比如1922年3月24日，罗素在伦敦发表公开演说，标题是《自由的思想与官方的宣传》，其中一句是：<q>俄国的思想压迫比起无论哪一个资本主义国家都更严酷</q>。<br/>
@@ -32,41 +30,40 @@
 　　1925年，徐志摩去英国见泰戈尔，途经苏联，在莫斯科逗留3天。在莫斯科期间，他还去拜谒了列宁腌制在水晶棺材里面的“金刚不坏之身”。结果这次旅行也让徐志摩从“苏联的拥护者”变为“苏联的批评者”。显然，徐志摩到那个时候，才理解他的精神导师罗素为啥在“对苏态度”上会发生180度的转变。<br/>
 　　回国之后，徐志摩写了《欧游漫录》（共13篇），在其中的《欧游漫录——西伯利亚游记》提及他在西伯利亚的见闻：<br/>
 <blockquote>入境愈深，当地人民的苦况愈发的明显。<br/>
-……<br/>
+......<br/>
 他们的样子并不恶，也不凶，可是晦塞而且阴沉，看见他们的面貌你不由得不疑问这里的人民知不知道什么是自然的喜悦的笑容。笑他们当然是会的；尤其是狂笑，当他们受足了vodka的影响，但那时的笑是不自然的，表示他们的变态，不是上帝给我们的喜悦。</blockquote>　　到了莫斯科，他拜访托尔斯泰的女儿，得知一个令他震惊的信息——十月革命之后，托尔斯泰、屠格涅夫、陀思妥耶夫斯基等人的书籍几乎绝迹了（布尔什维克查禁这些书籍的理由是——代表了资产阶级的腐朽思想）。徐志摩在《欧游漫录——托尔斯泰》中写道：<br/>
 <blockquote>假如有那么一天，你想看某作者的书，算是托尔斯泰的，可是有人告诉你：不但他的书再也买不到，你有了书也是再也不能看的——你的感想怎样？<br/>
-……<br/>
+......<br/>
 假如这部分的个人自由有一天叫无形的国家威权取缔到零度以下，你的感想又怎样？</blockquote>　　对于革命领袖列宁，徐志摩写道：<br/>
 <blockquote>他不承认他的思想有错误的机会；铁不仅是他的手，他的心也是的。<br/>
-……<br/>
+......<br/>
 他是一个制警句、编口号的圣手；他的话里有魔力——这就是他的危险性。</blockquote>　　在本章节的最后，摘录徐志摩本人对苏俄最精辟的批判。当时他去红场拜谒列宁墓，刚一进门，看到一个通体血红的地球仪，旁边还有同样血红的镰刀和锤子。于是在《欧游漫录——血，谒列宁遗体回想》一文中（这也是《欧游漫录》的最后一篇），写了如下这段：<br/>
 <blockquote>从北极到南极，从东极到西极（姑且这么说），一体是血色。旁边一把血染的镰刀，一个血染的锤子。<br/>
-……<br/>
+......<br/>
 那样大胆的空前的预言，摩西见了都会失色。他们觉得这世界的罪孽实在太深了，枝节的改变，是要不到的。人们不根本悔悟的时候，不免遭大劫，但执行大劫的使者，不是安琪儿，也不是魔鬼，还是人类自己。而莫斯科就仿佛负有那样的使命。<br/>
-<b>他们相信天堂是有的，是可以实现的。但在现实世界与那天堂的中间隔着一座海，一座血污海。人类得泅过这血海，才能登那彼岸。于是他们决定，先实现那血海。</b></blockquote>　　徐志摩关于“血污海”的比喻，极度精辟。整个20世纪，共产运动制造的“血污海”不但淹没了苏联，还淹没了中国、东欧、北朝鲜、越南、古巴、柬埔寨……<br/>
+<b>他们相信天堂是有的，是可以实现的。但在现实世界与那天堂的中间隔着一座海，一座血污海。人类得泅过这血海，才能登那彼岸。于是他们决定，先实现那血海。</b></blockquote>　　徐志摩关于“血污海”的比喻，极度精辟。整个20世纪，共产运动制造的“血污海”不但淹没了苏联，还淹没了中国、东欧、北朝鲜、越南、古巴、柬埔寨......<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E8%83%A1%E9%81%A9" rel="nofollow" target="_blank">胡适</a>——曾被苏俄【长期】蒙蔽，之后觉醒</h2><br/>
-<img alt="不见图 请翻墙" src="images/8F5pBmnAi5JRnsPw0NtqDwynEYh5EtikjTR9o-n5SZWbXrX5fa4XUlTkOshletxwajw12JfRcAPavaXInWeRtnPc5n5oj_y7FYpBgkys9uXGNPaLE3h9FavQlpYdkZJZzhSn"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/8F5pBmnAi5JRnsPw0NtqDwynEYh5EtikjTR9o-n5SZWbXrX5fa4XUlTkOshletxwajw12JfRcAPavaXInWeRtnPc5n5oj_y7FYpBgkys9uXGNPaLE3h9FavQlpYdkZJZzhSn"/></center><br/>
 　　接下来说说胡适。很凑巧的是，他具有跟徐志摩类似的经历——也是去访问英国，途经苏联；也是走西伯利亚铁路；也是在莫斯科逗留3天。<br/>
 　　虽然两人游历苏联的经历很雷同，但是结论却迥异——胡适访苏后，对苏俄大加赞美。在写给张慰慈的信中，胡适提到：<br/>
 <blockquote>此间的人正是我前日信中所说有理想与理想主义的政治家；他们的理想也许有我们爱自由的人不能完全赞同的，但他们的意志的专笃，却是我们不能不十分顶礼佩服的。他们在此做一个空前的伟大政治新试验；他们有理想，有计划，有绝对的信心，只此三项已足使我们愧死。我们这个醉生梦死的民族怎么配批评苏俄！<br/>
-……<br/>
+......<br/>
 苏俄虽是狄克推多（编程随想注：这是英语“独裁”的音译），但他们却真是用力办新教育，努力想造成一个社会主义的新时代。依此趋势认真做去，将来可以由狄克推多过渡到社会主义的民治制度。<br/>
-……<br/>
+......<br/>
 可惜此时各学校都放假了，不能看到什么实际的成绩。但看其教育统计，已可惊叹。</blockquote>　　这封信后来刊登在《晨报副刊》上。而当时主持《晨报副刊》的正是徐志摩。徐志摩对胡适的看法很不赞同，于是在《晨报副刊》上发表文章揭露苏联“新教育”的真相。此后胡徐二人发生了论战，话题就是关于苏俄的“仇友赤白”（此论战在当时的文坛很有名）。<br/>
 　　针对胡适提到的“统计数字”，徐志摩在《〈一个态度〉的按语》一文中反驳说：<br/>
 <blockquote>我们谁不知道这句成语——“数目是不说瞎话的，但说瞎话的人可以造数目”。并且统计即使是可靠的，统计表并不能告诉我们实际的情形是怎么一回事。<br/>
-……<br/>
+......<br/>
 就我所知道的，他们的教育几乎完全是所谓“主义教育”；或是“党化教育”。他们侧重的，第一是宣传的能力；第二是实用的科目，例如化学与工程；纯粹科学与纯粹文学几乎占不到一个地位；宗教是他们无条件排斥的，那也许是好事，但他们却拿马克思与列宁来替代耶稣，拿《资本论》一类书来替代圣经，拿阶级战争唯物史观一类观念来替代信条。<br/>
-……<br/>
+......<br/>
 这也许是适之先生所谓世界最新教育学说的一部吧。</blockquote>　　在这场论战中还有其它一些人卷入。后来徐志摩还发了另一篇《关于党化教育的讨论——答张象鼎先生》，其中写道：<br/>
 <blockquote>当然在共产主义治下，你可以得到不少的自由。正如在中世纪教皇治下，你也得到不少的自由。但你的唯一的自由——思想自由——不再是你的了。<br/>
 正如中世纪有“异端”这个巧妙的观念，现代的苏俄也发明了一个巧妙不相让的名儿——“反革命”。收拾异端的方法是用火烧，对付反革命的手段也是同样的不含糊——你们都听见过苏俄的“欠夹”不是？这是一个“不容时期”的复活。</blockquote>　　从上述论战可以看出——至少在20年代中后期，胡适依然受到苏俄的蒙蔽——至少在这方面，胡适不如徐志摩。<br/>
 　　直到40年代初期，胡适才开始转变看法。当时他看了英籍匈牙利作家阿瑟·库斯勒写的一本书《正午的黑暗》。在1941年8月1日的日记中描写了他读此书的感受。<br/>
-<blockquote>读完了 Darkness at Noon。这部小说写一个苏俄革命老同志，被“刷新”而关在监里，受种种拷问，终于自承种种罪名，并在公庭上宣布自己的罪状。结果还是枪毙了<br/>
-……<br/>
+<blockquote>读完了《Darkness at Noon》。这部小说写一个苏俄革命老同志，被“刷新”而关在监里，受种种拷问，终于自承种种罪名，并在公庭上宣布自己的罪状。结果还是枪毙了<br/>
+......<br/>
 描写很有力量。</blockquote>　　到了40年代中期，胡适基本上看清了共产运动的真面目。1947年，他写了一篇《两种根本不同的政党》（本博客转载过此文，链接在“<a href="../../2013/01/weekly-share-38.md">这里</a>”），文中总结了——共产党完全不同于欧美国家的政党。这篇文章中还提到——俄国的布尔什维克党、德国的纳粹党、意大利的法西斯党，他们本质上是一样的。<br/>
 　　1948年，胡适发了一篇《国际形势里的两个问题——给周鲠生先生的一封信》，其中提到：<br/>
 <blockquote>我们且不谈中欧与巴尔干。单看我们中国这两三年之中从苏联手里吃的亏，受的侵害——老兄，我不能不承认这一大堆冷酷的事实，不能不抛弃我二十多年对“新俄”的梦想，不能不说苏俄已变成了一个很可怕的侵略势力。</blockquote>　　1949年大陆沦陷前夕，胡适准备逃到台湾。他的一些朋友（比如周鲠生）和学生（比如吴晗）都极力劝说他留在北大。但是胡适坚决不肯留下来。他还说了那段流传很广的名言：<br/>
@@ -75,8 +72,7 @@
 他们（中共）来了，无面包，无自由。</blockquote><br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E6%A2%81%E5%AE%9E%E7%A7%8B" rel="nofollow" target="_blank">梁实秋</a>——被鲁迅痛骂的反共文人</h2><br/>
-<img alt="不见图 请翻墙" src="images/W0mNBcJE500lmulYhr3S0UiE80CeM6Ruz5Ak1U21n8Z9Gg-EV44GvL_kUHXR50sdBuOdPfZ2TKIF8H8xDTVTHkMeatVTpl2enOoIQgsx4y8kDc4jnE-nTg-23i3BS0qincZP"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/W0mNBcJE500lmulYhr3S0UiE80CeM6Ruz5Ak1U21n8Z9Gg-EV44GvL_kUHXR50sdBuOdPfZ2TKIF8H8xDTVTHkMeatVTpl2enOoIQgsx4y8kDc4jnE-nTg-23i3BS0qincZP"/></center><br/>
 　　1949年逃往台湾的，除了胡适，还有几个大师级文人，比如梁实秋。<br/>
 　　咱们天朝的网友，大都不了解粱实秋。即便听说过此人，或许也是因为鲁迅骂他是“丧家的资本家的乏走狗”（中学语文课本里面有这篇）。客观地讲，粱实秋是民国时期著名的散文家、学者、文学批评家、翻译家，华人世界研究莎士比亚的头号权威（同时也是唯一独立将莎士比亚全集翻译成中文的人）。<br/>
 　　只看他的一篇文章，就能大致明白他对共产运动的观点。这篇文章是《我为什么不赞成共产党》。以下是精华部分摘录：<br/>
@@ -87,12 +83,11 @@
 <br/>
 　　咱们天朝的毛太祖，于1942年发表了很著名的《在延安文艺座谈会上的讲话》。在讲话中专门点名批评了梁实秋，称之为【为资产阶级文学服务的代表人物】。为啥毛太祖这么不喜欢梁实秋捏？因为实秋在1931年发表过一篇《所谓〈文艺政策〉者》——此文专门批评鲁迅翻译的《文艺政策》。精华片段摘录如下：<br/>
 <blockquote>“文艺”而可以有“政策”，这本身就是一个名辞上的矛盾。俄国共产党颁布的文艺政策，里面并没有什么理论的根据，只是几种卑下的心理之显明的表现而已：一种是暴虐，以政治的手段来剥削作者的思想自由；一种是愚蠢，以政治的手段来求文艺的清一色。<br/>
-……<br/>
+......<br/>
 无论谈到什么，总忘不了“阶级”，总忘不了马克思。<b>马克思主义在政治经济方面，其优劣所在，自然还值得讨论；可是共产党人把这理论的公式硬加在文艺的领域上，如何能不牵强？我想有一天他们还要创造马克思主义的数学，马克思主义的物理化学罢！</b></blockquote><br/>
 <br/>
-<h2>★<a href="https://zh.wikipedia.org/wiki/%E9%B2%81%E8%BF%85" rel="nofollow" target="_blank">鲁迅</a>——和中共关系暧昧，充满争议</h2><br/>
-<img alt="不见图 请翻墙" src="images/gXNv9L7wuXcfvbXwsuZAaxjTmgfZSYkBSvv6h91tTAd4zWVzNNAw7Cg4_S4RCiRDyQI-TUyPnIlYaUsROeTq2rwjxjT7pwKMngDAP_oXoDuW3tW7afgcvWILc0Vnn0eJDzQf"/><br/>
-<br/>
+<h2>★<a href="https://zh.wikipedia.org/wiki/%E9%B2%81%E8%BF%85" rel="nofollow" target="_blank">鲁迅</a>——与中共关系暧昧，充满争议</h2><br/>
+<center><img alt="不见图 请翻墙" src="images/gXNv9L7wuXcfvbXwsuZAaxjTmgfZSYkBSvv6h91tTAd4zWVzNNAw7Cg4_S4RCiRDyQI-TUyPnIlYaUsROeTq2rwjxjT7pwKMngDAP_oXoDuW3tW7afgcvWILc0Vnn0eJDzQf"/></center><br/>
 　　既然说到梁实秋与鲁迅的论战，就顺势来聊聊鲁迅和共产党的暧昧关系。为啥用“暧昧”这个词儿？因为鲁迅本身并【不是】中共党员，但是他跟中共的关系又挺密切的。比如在天朝钦定的文艺6大师“鲁郭茅巴老曹”中，鲁迅名列第一。<br/>
 　　后人评价鲁迅，出现两种截然对立的观点。其中一方认为：鲁迅就是中共的御用文人，中共拿他当枪使；另一方的观点认为，虽然鲁迅和中共关系密切，但他依然保持自己的独立性。<br/>
 　　下面俺列举一些史料，供大伙儿参考。<br/>
@@ -107,7 +102,7 @@
 <blockquote>我实在有些不愿意出门。我本来常常出门的，不过近来知道了我们的元帅深居简出，只令别人出外奔跑，所以我也不如只在家里坐了。记得托尔斯泰的什么小说说过，小兵打仗，是不想到危险的，但一看见大将面前防弹的铁板，却就也想到了自己，心跳得不敢上前了。但如元帅以为生命价值，彼此不同，那我也无话可说，只好被打军棍。</blockquote>（此信中提及的“元帅”，影射周扬——30年代中共的文艺总管）<br/>
 <br/>
 　　在1935年09月12日写给胡风的信中提到：<br/>
-<blockquote>以我自己而论，总觉得缚了一条铁索，有一个工头在背后用鞭子打我，无论我怎样起劲的做，也是打，而我回头去问自己的错处时，他却拱手客气的说，我做得好极了。他和我感情好极了，今天天气哈哈哈……真常常令我手足无措，我不敢对别人说关于我们的话，对于外国人，我避而不谈，不得已时，就撒谎。</blockquote>（此信中的“工头”也是暗指周扬）<br/>
+<blockquote>以我自己而论，总觉得缚了一条铁索，有一个工头在背后用鞭子打我，无论我怎样起劲的做，也是打，而我回头去问自己的错处时，他却拱手客气的说，我做得好极了。他和我感情好极了，今天天气哈哈哈......真常常令我手足无措，我不敢对别人说关于我们的话，对于外国人，我避而不谈，不得已时，就撒谎。</blockquote>（此信中的“工头”也是暗指周扬）<br/>
 <br/>
 　　如果说前面这几封书信都没有直接指名道姓，到了1936年，因为“两个口号”的争论，1936年，鲁迅公开发表了一篇《答徐懋庸并关于抗日统一战线问题》（全文在“<a href="http://www.luxunhome.com/a/qiejietingzawenmoji/20120607/334.html" rel="nofollow" target="_blank">这里</a>”）。其中点了“周起应”的名字（周扬，字起应），实际上把左联内部的矛盾公开化了。这篇文章的末尾说得很直白：<br/>
 <blockquote>否则，抓到一面旗帜，就自以为出人头地，摆出奴隶总管的架子，以鸣鞭为唯一的业绩——是无药可医，于中国也不但毫无用处，而且还有害处的。</blockquote><br/>
@@ -143,8 +138,7 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E6%9E%97%E8%AF%AD%E5%A0%82" rel="nofollow" target="_blank">林语堂</a>——与鲁迅反目的反共文人</h2><br/>
-<img alt="不见图 请翻墙" src="images/DxNkCHrFb3CBy_4bJxGVDk-nGBxJqlb_plI93q37Siw9bqcJPExRZiLRbduzDhub0XxHcBB3OlrMS-V8uu_G6v_qRpsyW4JYGcG7pUDp6T412wR5VwkiIWCFWnE0WKYrTUV1"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/DxNkCHrFb3CBy_4bJxGVDk-nGBxJqlb_plI93q37Siw9bqcJPExRZiLRbduzDhub0XxHcBB3OlrMS-V8uu_G6v_qRpsyW4JYGcG7pUDp6T412wR5VwkiIWCFWnE0WKYrTUV1"/></center><br/>
 　　对林语堂，咱们天朝的网友估计也不太熟悉。此人比较牛，不但是知名文学家，还是发明家。文学方面的代表作是《京华烟云》，另外还用英文写过一本畅销书《吾国与吾民》，向欧美国家介绍中华传统文化。发明方面，搞了“明快中文打字机”解决了中文打字输入的难题（当时电脑还没出现）。<br/>
 　　林语堂跟前面提到的粱实秋都是反共文人，都跟鲁迅有过激烈的论战。差别在于——粱实秋从一开始就跟鲁迅论战。而林语堂一开始是鲁迅的好友，后来才反目成仇的。据说两人反目的主要起因是：对国民性的见解有分歧（对“国民性”感兴趣的同学可以看“<a href="../../2013/11/weekly-share-57.md">这篇转载</a>”）。<br/>
 　　虽然两人有激烈的论战，但是鲁迅去世后，林语堂还是写了篇《鲁迅之死》纪念之。其中一段如下：<br/>
@@ -154,14 +148,13 @@ F说： 先生，你就试试看吧。<br/>
 　　1927年老蒋“清党”之初，林语堂发了一篇英文评论《Making China Safe for the Kuomintang》（确保国民党统一中国），其中提到（以下是意译）：<br/>
 <blockquote>革命的目标是创建一个自由民主的新中国，而只有国民党堪负此重任。因为共产党的宗旨是要实行“专政”，而非民主。</blockquote>　　另外他跟粱实秋一样，在反共的同时，也批评国民党的弊端。下面是他1930年在英文刊物《The China Critic》上写的评论（以下是意译）：<br/>
 <blockquote>军阀间内战，劳民伤财，与此同时“朱毛领导的共产党小股武装”却在广东、福建边界获得长足发展，两百万剿匪国军都是废物吗？<br/>
-……<br/>
+......<br/>
 如果国事继续混乱，最后将只剩下一条通往俄国之路。</blockquote>　　经热心网友在评论中提醒，再补充林语堂针对中共的一段名言（1937年，发表于申报）：<br/>
 <blockquote>中国就是有这么一群人，为了几个卢布，不惜出卖自己的国家和民族的利益，在报纸上疯狂叫卖自己的汉奸言论，武装保卫苏联，支持外蒙人民自己当家做主。<br/>
 在动物世界里找这样的动物几乎不可能。</blockquote><br/>
 <br/>
-<h2>★<a href="https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2" rel="nofollow" target="_blank">张爱玲</a>——两部小说揭露土改运动</h2><br/>
-<img alt="不见图 请翻墙" src="images/7RClRnxM_oJTGw5L765-GSXn8pdRof-BPkSZqEvEiuzm278VejGkIIxwHPI90zOFM5aNz8_IFTFON79Osja9sKqNjAu8QIjJQHoOlcdLjQ6qyyqchU2sP_85LOG9FK4SXXOc"/><br/>
-<br/>
+<h2>★<a href="https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%84%9B%E7%8E%B2" rel="nofollow" target="_blank">张爱玲</a>——两部小说揭露”土改“的阴暗面</h2><br/>
+<center><img alt="不见图 请翻墙" src="images/7RClRnxM_oJTGw5L765-GSXn8pdRof-BPkSZqEvEiuzm278VejGkIIxwHPI90zOFM5aNz8_IFTFON79Osja9sKqNjAu8QIjJQHoOlcdLjQ6qyyqchU2sP_85LOG9FK4SXXOc"/></center><br/>
 　　论辈份，张爱玲是这些民国大师里面的后起之秀，成名于40年代初期。大陆沦陷时，她选择留在上海。<br/>
 　　1950年夏天，张爱玲随同上海文艺代表团去苏北农村参与土改运动，为期2月。中共方面让她去参加土改运动，说白了就是想利用她在文坛的名声，然后发表一些“歌颂土改的作品”。但是这样作品，张爱玲一直写不出来（有可能她压根儿不想写这种“遵命文学”）。<br/>
 　　1952年7月，张爱玲找了一个借口，说是要“继续因战事而中断的学业”，然后去了香港。从那之后，她再也没回过天朝。在香港其间，她创作了两部揭露土改运动的小说——《秧歌》与《赤地之恋》。《秧歌》的名气较大，与姜贵写的《旋风》并称为“反共文学”的代表（这几部小说，<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>都分享了电子版）。<br/>
@@ -169,8 +162,7 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E9%99%88%E5%AF%85%E6%81%AA" rel="nofollow" target="_blank">陈寅恪</a>——被红卫兵活活折腾死</h2><br/>
-<img alt="不见图 请翻墙" src="images/efhOSVM3x7rs4dbhfWwc_oUrZ-_eJoldAFFBMJS9IFjOd5EbyTI9Ek0r-9Mk2Fy1WfdthUe3M93PuKGbhmbn0zoZMu6Vzvd2vMwkOYPi1UZR538zjIk2Z0lZsRVNAedePReM"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/efhOSVM3x7rs4dbhfWwc_oUrZ-_eJoldAFFBMJS9IFjOd5EbyTI9Ek0r-9Mk2Fy1WfdthUe3M93PuKGbhmbn0zoZMu6Vzvd2vMwkOYPi1UZR538zjIk2Z0lZsRVNAedePReM"/></center><br/>
 　　前面提到了清华国学院的“四大导师”，顺便再聊聊陈寅恪。此人堪称“三百年乃得一见的史学大师”，单单语言就通晓二十余种（跨多个语系，还包括巴利语、波斯语、突厥语、西夏语 这类很偏僻语种）。在清华执教时，被称为“教授的教授”。他开课时，连吴宓、朱自清、冯友兰这类名家都来旁听。水平可见一斑。<br/>
 　　虽然同为“四大导师”，但陈寅恪在政治方面的素质就明显不如王国维。大陆沦陷之前，无论是胡适还是傅斯年，都极力劝说他去台湾，但他一直犹豫不决。对于陈寅恪为啥不去台湾，钱穆的观点是：<br/>
 <blockquote>当时一辈知识分子对共产党新政权都抱与人为善之心。在新旧政权交替的时刻，中国知识分子不生丝毫扰攘；对于新生的共和国，大体上保持了一种拥护、顺应和期待的态度。</blockquote>　　等到文革开始，陈寅恪被定性为“反动学术权威”。他珍藏多年的大量书籍、诗文稿，在红卫兵抄家时，全部洗劫一空。当时他因为眼疾，已经双目失明。但是那帮红卫兵小将没有轻易放过他，还专门发明了“对付盲人学者的独特批斗法”。简而言之就是：把高音喇叭架设在他病床前，终日播放噪音，还美其名曰：“让反动学术权威听听革命群众的愤怒控诉”。<br/>
@@ -179,8 +171,7 @@ F说： 先生，你就试试看吧。<br/>
 废残难豹隐，九泉稍待眼枯人。</blockquote><br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E6%B2%88%E4%BB%8E%E6%96%87" rel="nofollow" target="_blank">沈从文</a>——被逼封笔40年</h2><br/>
-<img alt="不见图 请翻墙" src="images/ic4-xn29RHCwDUGDGBrWzpgi0HrnddnON2tft3BoaBSAQvQQ0mfS10AsaJ4ZqepuWZu8MUfsD1LvtWUPrtbQEdDQgw15bk-74wSpdvt3fmuyZDfIL0B2Gk8A172lVw_yUYf-"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/ic4-xn29RHCwDUGDGBrWzpgi0HrnddnON2tft3BoaBSAQvQQ0mfS10AsaJ4ZqepuWZu8MUfsD1LvtWUPrtbQEdDQgw15bk-74wSpdvt3fmuyZDfIL0B2Gk8A172lVw_yUYf-"/></center><br/>
 　　沈从文是民国时期第一流的小说家，此说法毫不夸张。夏志清在《中国现代文学史》中写到：<br/>
 <blockquote>他是中国现代文学中最伟大的印象主义者。他能不着痕迹，轻轻几笔就把一个景色的神髓，或者是人类微妙的感情脉络勾画出来。他在这方面的工夫，直追中国的大诗人和大画家。现代文学作家中，没有一个及得上他。</blockquote>　　在1988年，沈从文与诺贝尔文学家失之交臂。他在那年的5月份去世了，如果他多活半年，文学奖就可收入囊中（请看<a href="http://cul.sohu.com/20071010/n252580088.shtml" rel="nofollow" target="_blank">这里的报道</a>）。假如真是这样，那莫言的粉丝就没地方得瑟了。<br/>
 　　但是这么牛逼的小说家，居然在1948年12月31日宣布封笔。从那之后到他1988年去世，整整40年没有再写过小说，哪怕连一部短篇都没有写过。<br/>
@@ -191,8 +182,7 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%91" rel="nofollow" target="_blank">巴金</a>——把丢失的晚节又找回来了</h2><br/>
-<img alt="不见图 请翻墙" src="images/0E8AYB1BWc5hxc9d6pgbBAPYbrdj_0uTX8okxGy0OsxC6Uq-8VIM75spmO96OY_EnCPKhEUOYlQFU7_HNRCddKGh_tqD8-9YOdqUbQM-DvBL4-vrKj5Cz1P0RCJSQXiMzhxB"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/0E8AYB1BWc5hxc9d6pgbBAPYbrdj_0uTX8okxGy0OsxC6Uq-8VIM75spmO96OY_EnCPKhEUOYlQFU7_HNRCddKGh_tqD8-9YOdqUbQM-DvBL4-vrKj5Cz1P0RCJSQXiMzhxB"/></center><br/>
 　　巴金的名气也很大，中学课本里有他的作品，想必大伙儿都熟悉。在天朝钦定的“鲁郭茅巴老曹”中，他名列第4。<br/>
 　　巴金一直是党外人士，天朝建国之前，跟“伟光正”没有太密切的关系。他最大的污点发生在文革期间，也就是所谓的“遵命文学、奉旨填词”。文革期间，他奉命写了不少应景之作，比如：《必须彻底打垮胡风反党集团》、《谈别有用心的〈洼地上的战役〉》、《美帝国主义是全世界人民最凶恶的敌人！》。<br/>
 　　除了写这类“遵命文学”，巴金也对自己的朋友落井下石。比如作家柯灵是巴金的老朋友。1956年，柯灵应统战部和文化部的要求，写了一个电影剧本《不夜城》。到了文革期间，《不夜城》被点名批判为大毒草。当时上海文艺界领导指名要巴金写一篇批判文章。巴金就从了，写了一篇发在《文汇报》上。其中一段摘录如下（充满了文革特有的火药味）：<br/>
@@ -201,8 +191,7 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E8%80%81%E8%88%8D" rel="nofollow" target="_blank">老舍</a>——妻离子散，不堪受辱，投湖自尽</h2><br/>
-<img alt="不见图 请翻墙" src="images/Zxihf5BxeMlX_2EiPWovJM4AoJlA7tArNwBB57P8_XBtUdnvT-xHR4reXMBeXGogwdpPDM-87tTmODvYK1NVUlpYdtI9Ul_xUfyD3UmsPeMLDLepjHKz426x37apSVBh7Q-2"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/Zxihf5BxeMlX_2EiPWovJM4AoJlA7tArNwBB57P8_XBtUdnvT-xHR4reXMBeXGogwdpPDM-87tTmODvYK1NVUlpYdtI9Ul_xUfyD3UmsPeMLDLepjHKz426x37apSVBh7Q-2"/></center><br/>
 　　老舍跟巴金类似，也是名气很大，中学课本里也有他的作品。在“鲁郭茅巴老曹”中，他名列第5。<br/>
 　　关于老舍，有个比较鲜为人知的事情是——他在1922年受洗礼成为基督徒。在49年之前，老舍几乎没怎么掺和政治方面的事情（或许跟他的宗教信仰有关）。<br/>
 　　在40年代后期，当中共席卷中国的时候，老舍正在美国讲学。《四世同堂》第三部和长篇小说《鼓书艺人》就是在美国完成的。1949年12月，应周恩来之邀，他回到了北京。显然，他完全没有意识到中共政权的危险性，所以才回国。<br/>
@@ -214,16 +203,14 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E8%8C%85%E7%9B%BE" rel="nofollow" target="_blank">茅盾</a>——中共元老，人品很有问题</h2><br/>
-<img alt="不见图 请翻墙" src="images/oaBMJcu9NfW7CDwhLlJYcG-Atn1hhJtY-WMN1NMtteuuIoylI2D1Kaq1fXy7AP_8CytDFthtuW43VB0GQnXIRSlZlEE53vcXP4UAlXKnZajoizsdc_aKF5C91tTgCi1x6jdF"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/oaBMJcu9NfW7CDwhLlJYcG-Atn1hhJtY-WMN1NMtteuuIoylI2D1Kaq1fXy7AP_8CytDFthtuW43VB0GQnXIRSlZlEE53vcXP4UAlXKnZajoizsdc_aKF5C91tTgCi1x6jdF"/></center><br/>
 　　从某种意义上讲，茅盾是中共元老——因为他在1921年就入党了。但此人是个怂货，在1927年主动脱党。那年老蒋发动“412清党”，中共陷入低潮。党组织派茅盾去某地恢复并发展党组织，给他好几万银圆作活动经费。谁曾想，茅盾带着巨款，中途开溜了。然后他抛弃原配孔德芷，大搞婚外恋，勾搭了有夫之妇秦德君。这俩姘头在1928年东渡日本，之后同居了3年，秦德君还为他两次堕胎。这些可不是俺瞎掰的，有朝廷官网的文章为证——《<a href="http://history.people.com.cn/GB/205396/17295012.html" rel="nofollow" target="_blank">被茅盾“遗忘”的女子秦德君：曾为其两次堕胎 @ 人民网</a>》。但是后来茅盾写回忆录的时候，对秦德君一个字都没有提及。这就是典型的“既想当婊子，又想立牌坊”。<br/>
 　　顺便再说一个小事儿。50年代，秦德君受到政治审查。茅盾担心牵连到自己，从此跟她形同陌路，见面都不打招呼。之后秦德君申请恢复党籍，提到了她跟茅盾一起去日本的经历。党组织找到茅盾核实情况，茅盾却再三推脱，死活不肯提供证明。<br/>
 　　从上面这几段介绍，你应该能看出这个家伙的人品很差。就是这样一个很没有节操的家伙，1949年之后也能荣任文化部部长，一干就是几十年。为啥他能够长期保住乌纱帽捏，因为他也很善于观察政治风险，提前站队。早在50年代（文革尚未开始），茅盾就经常发表一些迎合朝廷的言论。所以在朝廷钦定的“鲁郭茅巴老曹”中，他能排名第3，也就好理解了。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E5%86%AF%E5%8F%8B%E5%85%B0" rel="nofollow" target="_blank">冯友兰</a>——生性怯懦的投机分子</h2><br/>
-<img alt="不见图 请翻墙" src="images/OLkHdPLhHEu2rHCj2yylRqx5OuKU0mjhLr6WuE6w7Yg9VaRJZf8ApN66ucXeIRAZ0EF6QE5lWdvqaSPw4QG7JTdtC8GZHrZZOqfNT-E7mMKnEVoicIk3eSB2JR4DDUZW6yEz"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/OLkHdPLhHEu2rHCj2yylRqx5OuKU0mjhLr6WuE6w7Yg9VaRJZf8ApN66ucXeIRAZ0EF6QE5lWdvqaSPw4QG7JTdtC8GZHrZZOqfNT-E7mMKnEVoicIk3eSB2JR4DDUZW6yEz"/></center><br/>
 　　冯友兰是民国时期知名的哲学史家，其代表作是1931年和1934年出版《中国哲学史》上下卷。另在1946年出版了《中国哲学简史》（<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上有电子版）。<br/>
 　　此人虽然在哲学领域颇有造诣，但是人品实在不敢恭维——是个典型的墙头草。他在1934年曾经应邀访问过苏联。回国后发表了几次公开演讲，谈及苏联的见闻和马列的理论，引发国民党当局的不满，把他抓去审讯了几天。据说经历此事后，冯友兰吓坏了，赶紧迅速地向国民党靠拢，当年就申请入党，第二年更是混了一个“国民党第五次全国代表大会代表”的头衔。<br/>
 　　1949年，国民党政权崩溃，冯友兰觉得国民党过气了，于是留在大陆，转而投靠共产党。天朝建国后的第4天（10月5日），他主动写信给毛太祖，信中称：<q>过去讲封建哲学，帮了国民党的忙，现在我决心改造思想，学习马克思主义</q>。<br/>
@@ -232,14 +219,13 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★<a href="https://zh.wikipedia.org/wiki/%E9%83%AD%E6%B2%AB%E8%8B%A5" rel="nofollow" target="_blank">郭沫若</a>——足够厚颜无耻的党棍</h2><br/>
-<img alt="不见图 请翻墙" src="images/Pgx9VBb5_JYalZrtJ85uSkyqQ80_gLi0j8Jepp7XlPvHtz8IJadxOGXcI1u4OywL_9gCbc2DIKkr6g_Ee8eBNMrYE1MS2nzCw_r8NYEr8-Lr_fMdoxU4OV1GJH8BNYhdF99a"/><br/>
-<br/>
+<center><img alt="不见图 请翻墙" src="images/Pgx9VBb5_JYalZrtJ85uSkyqQ80_gLi0j8Jepp7XlPvHtz8IJadxOGXcI1u4OywL_9gCbc2DIKkr6g_Ee8eBNMrYE1MS2nzCw_r8NYEr8-Lr_fMdoxU4OV1GJH8BNYhdF99a"/></center><br/>
 　　为啥俺把郭沫若放到最后，因为此人是民国知名文人里面，最厚颜无耻的家伙，活脱脱一根党棍。此人能在官方排名的“鲁郭茅巴老曹”中名列第二，靠的就是【比城墙还厚的脸皮】。<br/>
 <br/>
 <h3>◇郭沫若的雷人语录赏析</h3><br/>
 　　在1966年文革刚开始的头几天，精明的郭沫若立马看清了形势并发表公开讲话，开始为“政治站队”作准备了。<br/>
 <blockquote>在一般的朋友、同志们看来，我是一个文化人，甚至于好些人都说我是一个作家，还是一个诗人，又是一个什么历史学家。几十年来，一直拿着笔杆子在写东西，也翻译了些东西。按字数来讲，恐怕有几百万字了。但是，拿今天的标准来讲，我以前所写的东西，严格地说，应该全部把它烧掉，没有一点价值。</blockquote>　　文革期间，郭参加了某次纪念鲁迅的活动，他说道：<br/>
-<blockquote>鲁迅如果还活在今天，他是会多么高兴啊！他一定会站在文化革命战线的前头行列，冲锋陷阵，同我们一起，在毛主席的领导下，踏出前人所没有走过的道路……</blockquote>　　再来看看郭沫若是如何吹捧毛太祖的书法，连其中的【错别字】都被他肉麻地夸赞。<br/>
+<blockquote>鲁迅如果还活在今天，他是会多么高兴啊！他一定会站在文化革命战线的前头行列，冲锋陷阵，同我们一起，在毛主席的领导下，踏出前人所没有走过的道路......</blockquote>　　再来看看郭沫若是如何吹捧毛太祖的书法，连其中的【错别字】都被他肉麻地夸赞。<br/>
 <blockquote>主席并无心成为诗家或词家，但他的诗词却成了诗词的顶峰。主席更无心成为书家，但他的墨迹却成了书法的顶峰。<br/>
 例如这首《清平乐》的墨迹而论，“黄粱”写作“黄梁”，无心中粱字简化了。龙岩多写一个龙字。“分田分地真忙”下没有句点。这就是随意挥洒的证据。<br/>
 然而这幅字写得多麽生动，多麽潇洒，多麽磊落。每一个字和整个篇幅都充满了豪放不羁的革命气韵。在这里给我们从事文学艺术工作的人，乃至从事任何工作的人，一个深刻的启示：那就是人的因素第一，政治工作第一，思想工作第一，抓活的思想第一，四个第一。</blockquote><br/>
@@ -339,23 +325,24 @@ F说： 先生，你就试试看吧。<br/>
 <br/>
 <br/>
 <h2>★引申阅读</h2><br/>
-　　总而言之，俺希望有更多的读者了解到共产运动的祸害。作为本文的引申阅读，大伙儿还可再去看看俺之前写的另一篇博文《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》。另外，<a href="https://github.com/programthink/books" target="_blank">俺网盘</a>上分享了如下几本经典的书籍（皆为名家所著），从不同角度剖析共产运动。<br/>
-布热津斯基：《大失败——20世纪共产主义的消亡》<br/>
-Richard Pipes：《共产主义实录》<br/>
-波普尔：《历史决定论的贫困》<br/>
-德热拉斯：《新阶级——对共产主义制度的分析》<br/>
-考茨基：《恐怖主义与共产主义》<br/>
+　　总而言之，俺希望有更多的读者了解到共产运动的祸害。作为本文的引申阅读，大伙儿还可再去看看<a href="https://github.com/programthink/books" target="_blank">俺网盘</a>上分享的如下几本经典的书籍（这几本都很有影响），从不同角度剖析共产运动。<br/>
+兹比格涅夫·布热津斯基：《<a href="https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/" target="_blank">大失败——二十世纪共产主义的兴亡</a>》<br/>
+理查德·派普斯：《<a href="https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/" target="_blank">共产主义实录</a>》<br/>
+卡尔·波普尔：《<a href="https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/" target="_blank">历史决定论的贫困</a>》<br/>
+密洛凡·德热拉斯：《<a href="https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/" target="_blank">新阶级——对共产主义制度的分析</a>》<br/>
+卡尔·考茨基：《<a href="https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/" target="_blank">恐怖主义与共产主义</a>》<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a><br/>
-<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a><br/>
-<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a><br/>
-<a href="../../2013/02/film-soviet-story.md">影评：《苏维埃往事》——帮你看清苏联和纳粹的共同本质</a><br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a><br/>
-<a href="../../2011/03/ccp-vs-japanese.md">谁是最可恨的人？——写给仇日愤青们</a><br/>
-<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>
+《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
+《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2019/11/Brief-History-of-the-Berlin-Wall.md">美苏冷战的缩影——柏林墙简史（多图）</a>》<br/>
+《<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>》<br/>
+《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
+《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》<br/>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a>》<br/>
+《<a href="../../2011/03/ccp-vs-japanese.md">谁是最可恨的人？——写给仇日愤青们</a>》
 </div>
 
 
