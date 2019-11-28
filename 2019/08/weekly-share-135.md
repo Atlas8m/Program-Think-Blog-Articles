@@ -438,6 +438,7 @@
 （香港网友爆料——防暴警察讲普通话 <a href="https://www.facebook.com/ChanKamShui/videos/717859425321095/?v=717859425321095" rel="nofollow" target="_blank">视频链接</a>）</center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/11/weekly-share-139.md">每周转载：香港“反送中”政治抗议活动大事记（10月至11月）</a>》<br/>
 《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》<br/>
 《<a href="../../2019/09/weekly-share-137.md">每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）</a>》<br/>

@@ -928,6 +928,7 @@ Clear：<br/>
 <center><img alt="不见图 请翻墙" src="images/vj1sqwlz6jCM2IQ5dvA9pFKunRi3MRfTOTDgw_JX_NzlbtnjN5fw3y7bYRpZODCOf16BZZfD9jDdMHsqDaRfamXBqR3Bp2WpMA1ZszK2700s4lzFRYsJqyUuyr4EseI0rcFZv1liv-g"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）</a>》<br/>
 《<a href="../../2019/08/weekly-share-135.md">每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</a>》<br/>
 《<a href="../../2019/09/weekly-share-137.md">每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）</a>》<br/>
