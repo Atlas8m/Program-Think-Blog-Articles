@@ -91,11 +91,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵（系列）</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕（系列）</a><br/>
-<a href="../../2009/05/social-engineering-0-overview.md">社会工程学扫盲</a><br/>
-<a href="../../2013/02/chinese-intelligence-agencies.md">八卦一下天朝党政军的情报机构</a><br/>
-<a href="../../2013/01/weekly-share-37.md">每周转载：关于黑客文化和黑客精神</a>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
+《<a href="../../2009/05/social-engineering-0-overview.md">社会工程学扫盲</a>》<br/>
+《<a href="../../2013/02/chinese-intelligence-agencies.md">八卦一下天朝党政军的情报机构</a>》<br/>
+《<a href="../../2013/01/weekly-share-37.md">每周转载：关于黑客文化和黑客精神</a>》
 </div>
 
 

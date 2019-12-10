@@ -38,9 +38,11 @@
 <br/>
 <br/>
 <h2>★香港政党的【特殊性】</h2><br/>
-　　很多欧美民主国家都订立“关于政党的立法”（政党法）。但香港一直【没有】政党法。<br/>
-　　到目前为止，香港所有的政治组织，要么没有登记，要么以“公司 or 社团”的方式登记（参照《香港公司条例》或《社团条例》）。<br/>
-　　除了上述特殊之处，香港另一个特别的地方在于——《<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%BA%E6%9C%AC%E6%B3%95" rel="nofollow" target="_blank">基本法</a>》规定：特首【不能】隶属政党。如果某政党的成员要想成为特首，需要先“退党”。从这点而言，香港【没有】严格意义上的“执政党”。<br/>
+　　很多欧美民主国家都订立“关于政党的法律”（政党法）；但香港一直【没有】政党法。到目前为止，香港所有的政治组织，要么没有登记，要么以“公司 or 社团”的方式登记（参照《香港公司条例》或《社团条例》）。<br/>
+　　由于这个缘故，俺在本文后续章节中，会经常提到【党团】一词。<br/>
+<br/>
+　　除了上述特殊之处，香港另一个特别的地方在于——《<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E5%9F%BA%E6%9C%AC%E6%B3%95" rel="nofollow" target="_blank">基本法</a>》规定：特首【不能】隶属政党。如果某政党的成员要想成为特首，需要先“退党”。<br/>
+　　从这点而言，香港【不存在】严格意义上的“执政党”。<br/>
 <br/>
 <br/>
 <h2>★“<a href="https://zh.wikipedia.org/wiki/%E5%BB%BA%E5%88%B6%E6%B4%BE_(%E9%A6%99%E6%B8%AF)" rel="nofollow" target="_blank">建制派</a>”（亲共派）及其渊源</h2><br/>
@@ -54,7 +56,7 @@
 　　香港商业电台的主持人林彬因为批评暴动人士，被“工联会”的人在马路上放火烧死（其堂弟林光海跟他在一起，也被烧死）；金庸（查良镛）当时任《明报》社长，因为写社论抨击文革，性命都受到威胁，以至于要暂时离开香港保命。<br/>
 <br/>
 <h3>◇<a href="https://zh.wikipedia.org/wiki/%E6%B0%91%E5%BB%BA%E8%81%AF" rel="nofollow" target="_blank">民建联</a>——如今的【保皇党】</h3><br/>
-　　除了上述这个臭名昭著的“工联会”，建制派里面比较有名的，还有“<a href="https://zh.wikipedia.org/wiki/%E6%B0%91%E5%BB%BA%E8%81%AF" rel="nofollow" target="_blank">民建联</a>”。成立于1992年，如今是立法会中最大的建制派党团。民建联能够持续坐大，关键在于——它与【裆中央】保持高度一致，因此得到特区政府的大力扶植。香港民主人士一般讥讽该党为【保皇党】。<br/>
+　　除了上述这个臭名昭著的“工联会”，建制派里面比较有名的，还有“民建联”。成立于1992年，如今是立法会中最大的建制派党团。民建联能够持续坐大，关键在于——它与【裆中央】保持高度一致，因此得到特区政府的大力扶植。香港民主人士一般讥讽该党为【保皇党】。<br/>
 　　有些同学会纳闷了——既然已经有了“工联会”，为啥朝廷还要再扶植一个“民建联”捏？<br/>
 　　大伙儿请注意“民建联”的【成立时间】（1992）。那时候，香港回归已经进入倒计时。朝廷要考虑的是——霸占香港之后，如何【执政】。而之前中共掌控的“工联会”，是以【蓝领工人】为主体的工运组织。这帮大老粗，擅长“动粗”，但【不】擅长“玩政治”。所以，朝廷才需要另起炉灶，扶植“民建联”。<br/>
 　　前面俺提到：特首【不能】隶属任何政党，因此香港【没有】严格意义的执政党。但“民建联”总是与特区政府保持高度一致，可以视作“变相的执政党”。<br/>
@@ -71,8 +73,8 @@
 <br/>
 <h2>★“<a href="https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E6%B4%BE_(%E9%A6%99%E6%B8%AF)" rel="nofollow" target="_blank">民主派</a>”（泛民派、非建制派）及其渊源</h2><br/>
 <h3>◇<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E6%94%AF%E6%8F%B4%E6%84%9B%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E8%81%AF%E5%90%88%E6%9C%83" rel="nofollow" target="_blank">支联会</a>——香港民运的雏形</h3><br/>
-　　该组织的全称很长，是“香港市民支援爱国民主运动联合会”。它是为了支持大陆的【六四民运】而成立滴。成立时间是1989年5月下旬，那时候正是六四民运的高潮。<br/>
-　　六四屠城之后，为了帮助学生领袖逃亡，有个大名鼎鼎的“<a href="https://zh.wikipedia.org/wiki/%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95" rel="nofollow" target="_blank">黄雀行动</a>”，就是支联会主席<a href="https://zh.wikipedia.org/wiki/%E5%8F%B8%E5%BE%92%E5%8D%8E" rel="nofollow" target="_blank">司徒华</a>发起滴。整个黄雀行动共营救了800人，当年朝廷发布《<a href="https://zh.wikisource.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E6%90%9C%E6%8D%95%E2%80%9C%E9%AB%98%E8%87%AA%E8%81%94%E2%80%9D%E5%9C%A8%E9%80%83%E5%88%86%E5%AD%90%E9%80%9A%E7%BC%89%E4%BB%A4" rel="nofollow" target="_blank">“高自联”通缉名单</a>》，在全国范围内进行拉网式搜捕。名单上的23人有15人是靠“黄雀行动”才逃到海外。<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了一本书《<a href="https://docs.google.com/document/d/1rZ9WiQ5IzWWY_DLhEZqz7XD_-J0PbmQHEwlCsRj16ik/" target="_blank">黄雀行动</a>》，就专门讲这段经历。<br/>
+　　该组织的全称很长，叫“香港市民支援爱国民主运动联合会”。它是为了支持大陆的【六四民运】而成立滴。成立时间是1989年5月下旬，那时候正是六四民运的高潮。<br/>
+　　六四屠城之后，为了帮助学生领袖逃亡，有个大名鼎鼎的“<a href="https://zh.wikipedia.org/wiki/%E9%BB%83%E9%9B%80%E8%A1%8C%E5%8B%95" rel="nofollow" target="_blank">黄雀行动</a>”，就是支联会主席<a href="https://zh.wikipedia.org/wiki/%E5%8F%B8%E5%BE%92%E5%8D%8E" rel="nofollow" target="_blank">司徒华</a>发起滴。整个黄雀行动共营救了800人，当年朝廷发布《<a href="https://zh.wikisource.org/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E6%90%9C%E6%8D%95%E2%80%9C%E9%AB%98%E8%87%AA%E8%81%94%E2%80%9D%E5%9C%A8%E9%80%83%E5%88%86%E5%AD%90%E9%80%9A%E7%BC%89%E4%BB%A4" rel="nofollow" target="_blank">“高自联”通缉名单</a>》，在全国范围内进行拉网式搜捕。名单上的23个学生领袖，有15人是靠“黄雀行动”才逃到海外。<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了一本书《<a href="https://docs.google.com/document/d/1rZ9WiQ5IzWWY_DLhEZqz7XD_-J0PbmQHEwlCsRj16ik/" target="_blank">黄雀行动</a>》，就专门讲这段经历。<br/>
 　　一直到最近几年，“支联会”还在继续支持六四的纪念活动，比如2014年在香港开张了【六四纪念馆】。另外，在《<a href="../../2011/06/june-fourth-incident-0.md">回顾“六四”</a>》系列的后续博文中，俺也会提到“支联会对六四民运的帮助”。<br/>
 <br/>
 <h3>◇“<a href="https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E9%BB%A8_(%E9%A6%99%E6%B8%AF)" rel="nofollow" target="_blank">民主党</a>”一党独大的格局</h3><br/>
@@ -130,7 +132,7 @@
 <tr align="center"><th>议员数</th><td>15</td><td>13</td><td>35</td><td>17</td><td>19</td><td>23</td><td>24</td><td>25</td><td>37</td></tr>
 <tr align="center"><th>两派对比<br/>
 （民主/中间/建制）</th> <td style="background-color:IndianRed;">5  / 0 / 10</td> <td style="background-color:IndianRed;">2  / 0 / 11</td> <td style="background-color:IndianRed;">10 / 0 / 25</td> <td style="background-color:IndianRed;">5  / 0 / 12</td> <td style="background-color:IndianRed;">3  / 0 / 16</td> <td style="background-color:LightGray;">11 / 1 / 11</td> <td style="background-color:IndianRed;">4  / 0 / 20</td> <td style="background-color:LightPink;">9  / 0 / 16</td> <td style="background-color:IndianRed;">9  / 0 / 28</td> </tr>
-<tr><td colspan="10"></td></tr>
+<tr><td colspan="10">&nbsp;</td></tr>
 <tr align="center"><th></th><th colspan="9"><b>新界9区</b></th></tr>
 <tr align="center"><th>行政区</th><td>离岛</td><td>葵青</td><td>荃湾</td><td>屯门</td><td>元朗</td><td>北区</td><td>大埔</td><td>沙田</td><td>西贡</td></tr>
 <tr align="center"><th>【民选】议员数</th><td>10</td><td>29</td><td>18</td><td>29</td><td>35</td><td>18</td><td>19</td><td>38</td><td>27</td></tr>
@@ -156,7 +158,7 @@
 <tr align="center"><th>议员数</th><td>15</td><td>13</td><td>35</td><td>17</td><td>20</td><td>25</td><td>25</td><td>25</td><td>40</td></tr>
 <tr align="center"><th>两派对比<br/>
 （民主/中间/建制）</th><td style="background-color:LimeGreen;">14 / 0 /  1</td> <td style="background-color:LimeGreen;">9  / 0 /  4</td> <td style="background-color:LimeGreen;">32 / 0 /  3</td> <td style="background-color:LimeGreen;">15 / 0 /  2</td> <td style="background-color:LimeGreen;">17 / 0 /  3</td> <td style="background-color:LimeGreen;">23 / 0 /  2</td> <td style="background-color:PaleGreen;">15 / 0 / 10</td> <td style="background-color:LimeGreen;">25 / 0 /  0</td> <td style="background-color:LimeGreen;">28 / 0 / 12</td> </tr>
-<tr><td colspan="10"></td></tr>
+<tr><td colspan="10">&nbsp;</td></tr>
 <tr align="center"><th></th><th colspan="9"><b>新界9区</b></th></tr>
 <tr align="center"><th>行政区</th><td>离岛</td><td>葵青</td><td>荃湾</td><td>屯门</td><td>元朗</td><td>北区</td><td>大埔</td><td>沙田</td><td>西贡</td></tr>
 <tr align="center"><th>【民选】议员数</th><td>10</td><td>31</td><td>19</td><td>31</td><td>39</td><td>18</td><td>19</td><td>41</td><td>29</td></tr>
@@ -231,12 +233,12 @@
 <br/>
 <br/>
 <h2>★香港事态的发展，再次凸显【习呆呆的傻逼】</h2><br/>
-　　香港的“反送中运动”，从6月份大规模升级之后，到如今已经快半年了。而港府方面的应对，堪称【一蠢再蠢】。尤其是10月初颁布的《禁蒙面法》，不但没能平息抗议活动，反而导致香港民众的抗议更激烈——这个月（11月）明显是“反送中抗议”爆发以来，最血腥的一个月（具体可以俺的参见前一篇博文，链接在“<a href="../../2019/11/weekly-share-139.md">这里</a>”）<br/>
+　　香港的“反送中运动”，从6月份大规模升级之后，到如今已经快半年了。而港府方面的应对，堪称【一蠢再蠢】。尤其是10月初颁布的《禁蒙面法》，不但没能平息抗议活动，反而导致香港民众的抗议更激烈——这个月（11月）明显是“反送中抗议”爆发以来，最血腥的一个月（具体可参见前一篇博文，链接在“<a href="../../2019/11/weekly-share-139.md">这里</a>”）<br/>
 　　由于众所周知的原因，处理这么重大的政治运动，林郑月娥（妖蛾子）肯定得请示北京方面。而如今朝廷的掌门人正是以【傻逼著称】的习近平。港府在应对“反送中运动”时表现出来的种种弱智，实际上也就是在暴露——<b>习近平的弱智</b>。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/z2fg3jzrxuUT2bL50l658ky6MwtcOEAtguyNsazNmdTWgjtf6nWBByhqlTREGlmLDBKXbQA8wmSAxgNxkthIqooDv7Zs67Lx-QTEaMKh1Fj2yA0DfuEUczKhFJ9ZMZ0EIdLbD2olUw0"/><br/>
 （习呆呆与妖蛾子在“上海进博会”见面，双方亲切握手）</center><br/>
-　　习呆呆的傻逼，不光体现在香港方面，也体现在“中美贸易战”，具体的点评参见去年的某篇《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》。<br/>
+　　习呆呆的傻逼，不光体现在香港方面，也体现在“中美贸易战”。具体的点评，参见去年的某篇博文《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》。<br/>
 <br/>
 　　在博客上，俺喜欢把他称作“习呆呆”，但在【墙内】网络，“习呆呆”这个词肯定会遭到“真理部”的审查、屏蔽、封杀；甚至还可能引来【跨省追捕】。因此，很多天朝民众都喜欢用更隐晦的绰号——【初中生】（真理部总不能把这个词也禁掉吧？）<br/>
 　　在今年的某个时候，俺惊讶地发现——身边某个从来不问政治、也从不翻墙的人，竟也知道这个绰号。由此可见，该绰号流传之广。这也间接表明——习的傻逼程度，得到某种【公认】 :)<br/>
@@ -244,26 +246,27 @@
 《<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐</a>》<br/>
 <br/>
 <br/>
-<h2>★此次选举的意义——影响香港的政治格局</h2><br/>
+<h2>★此次选举的意义——对香港政坛的影响</h2><br/>
 　　在本文最后一个章节，简单点评一下：此次选举对未来香港政治格局的影响。<br/>
 <br/>
-<h3>◇对“立法会选举”影响</h3><br/>
+<h3>◇对【立法会选举】影响</h3><br/>
 　　在本文开头俺提到：“立法会议员”有一半（35）属于“功能界别议员”——这些席位由28个功能界别选出。<br/>
 　　其中有两个与“区议会”有关，分别称作“区议会第一组别”＆“区议会第二组别”。<br/>
 <br/>
 　　<b><a href="https://zh.wikipedia.org/wiki/%E5%8D%80%E8%AD%B0%E6%9C%83%EF%BC%88%E7%AC%AC%E4%B8%80%EF%BC%89%E5%8A%9F%E8%83%BD%E7%95%8C%E5%88%A5" rel="nofollow" target="_blank">区议会第一界别</a></b><br/>
-　　这玩意儿设【1个席位】，该席位由“区议会”【互选】得出。也就是说，这个席位的“被选举人”必须是“区议员”，而投票的人也必须是“区议员”。由于民主派已经在区议会占据绝对多数，可以确保下届立法会拿到该席位。<br/>
+　　这玩意儿设【1个】席位，由“区议会”【互选】得出。也就是说，这个席位的“被选举人”必须是“区议员”，而投票的人也必须是“区议员”。由于民主派已经在区议会占据绝对多数，可以确保下届立法会拿到该席位。<br/>
 　　（注：从1997至今，一直是建制派控制“区议会”，以前这个席位总是被建制派拿走）<br/>
 <br/>
 　　<b><a href="https://zh.wikipedia.org/wiki/%E5%8D%80%E8%AD%B0%E6%9C%83%EF%BC%88%E7%AC%AC%E4%BA%8C%EF%BC%89%E5%8A%9F%E8%83%BD%E7%95%8C%E5%88%A5" rel="nofollow" target="_blank">区议会第二界别</a></b><br/>
-　　这玩意儿有【5个席位】。这5席由“不属任何功能界别的香港民众”直选。选举方式采用“<a href="https://zh.wikipedia.org/wiki/%E5%90%8D%E5%96%AE%E6%AF%94%E4%BE%8B%E4%BB%A3%E8%A1%A8%E5%88%B6" rel="nofollow" target="_blank">名单比例代表制</a>”，以全香港作为“单一选区”。由于整个立法会里面，只有这5个席位是全香港【跨选区、跨界别】直接选举，因此这5席也被坊间称作【超级议员】。<br/>
-　　请注意：这【5个席位】也必须是“区议员”；想参与这5席的竞争，还必须得到另外15个“区议员”联合提名。<br/>
+　　这玩意儿有【5个】席位，通过“【不】属任何功能界别的香港民众”直选。选举方式采用“<a href="https://zh.wikipedia.org/wiki/%E5%90%8D%E5%96%AE%E6%AF%94%E4%BE%8B%E4%BB%A3%E8%A1%A8%E5%88%B6" rel="nofollow" target="_blank">名单比例代表制</a>”，以全香港作为“单一选区”。由于整个立法会里面，只有这5个席位是全香港【跨选区、跨界别】直接选举，因此这5席也被坊间称作【超级议员】。<br/>
+　　请注意：这【5席】也必须是“区议员”；想参与这5席的竞争，还必须得到另外15个“区议员”联合提名。<br/>
 　　由此这次建制派惨败，在全部的479个“区议员席位”中只得到可怜【59 席】，因此，建制派想要提名这个界别的候选人，最多只能提名3人（59除以15）。这还是最理想情况——因为建制派本身也分好几个党团，相互之间【未必】能完美配合。<br/>
+　　（注：由于【名单比例代表制】本身的规则，民主派要想全取这5席，也很难）<br/>
 <br/>
-　　综上所述，因为这次区议会选举变天，有助于“民主派”得到上述两个界别的6个席位。<br/>
+　　综上所述，因为这次区议会选举变天，有助于“民主派”更好地竞争上述两个界别的6个席位（虽然无法全取，但比上届更有利）<br/>
 　　大伙儿可别小看这6个席位哦。立法会里面的“功能界别席位”，总共也就35个，上述6个席位已经超过六分之一啦。即使相比整个立法会的席位总数（70席），上述这6席也接近 1/10 的比例啦。<br/>
 <br/>
-<h3>◇对“特首选举”的影响</h3><br/>
+<h3>◇对【特首选举】的影响</h3><br/>
 　　香港的特首，是由“<a href="https://zh.wikipedia.org/wiki/%E9%81%B8%E8%88%89%E5%A7%94%E5%93%A1%E6%9C%83_(%E9%A6%99%E6%B8%AF)" rel="nofollow" target="_blank">选举委员会</a>”选出。该委员会有1200人（在2012年之前，是800人），其组成如下：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>界别</th><th>席位数</th><th>说明</th></tr>
@@ -272,7 +275,7 @@
 <tr><td>第3界别</td><td align="center">300</td><td>劳工界、社会服务界、宗教界</td></tr>
 <tr><td>第4界别</td><td align="center">300</td><td>政界</td></tr>
 </tbody></table></center><br/>
-　　由于这个“选举委员会”是用来【选举特首】滴，因此朝廷方面对它的构成比例进行了精心设计——又是那个蛋疼的【功能界别】——通过它，朝廷不但可以控制“立法会”的多数席位，也可以控制“选举委员会”的多数席位。。<br/>
+　　由于这个“选举委员会”是用来【选举特首】滴，因此朝廷方面对它的构成比例进行了精心设计——又是那个蛋疼的【功能界别】——通过它，朝廷不但可以控制“立法会”的多数席位，也可以控制“选举委员会”的多数席位。<br/>
 　　举例——就拿该委员会的“第1界别”来说事儿。<br/>
 　　某些同学看到该界别是“工商界、金融界”，或许会【误以为】——任何香港商人都可以参选这个界别。有这种想法的读者，就属于“图样图森破”啦——完全低估朝廷的阴险程度。<br/>
 　　实际上，普通的香港商人，根本【无法】以“工商界”的身份进入“选举委员会”的“第1界别”。要想以“工商界”身份被选入，候选人必须是“香港总商会会员”或者“香港中华总商会会员”。而这两个商会，完全是朝廷控制滴。<br/>
@@ -290,7 +293,7 @@
 　　“区议会”可以分到其中的117个席位。也就是说，这117席由【区议员】选出。由于此次“区议会选举”，民主派获得【绝对多数】。下一届的“特首选举”，民主派就可以【全取】上述这117个席位。<br/>
 　　某些外媒在本次选举后的评论中指出：由于民主派在这次“区议会选举”中大胜，下一届特首选举，（乐观情况下）民主派有望控制“选举委员会”中的大约400席。虽然还是【无法】决定最终的特首人选，但可以对“特首候选人”施加某些影响。<br/>
 <br/>
-<h3>◇对“香港政治版图”的影响</h3><br/>
+<h3>◇对【香港政治版图】的影响</h3><br/>
 　　前面提到：这次选举，很多民主派的当选议员是【政治素人】，而且很多都是年轻人（80后90后）。这些人里面，不但有本次“反送中运动”的积极分子，也有前几年“占中运动/雨伞运动”的积极分子。这反映出——<b>香港年轻人的参政意识比以前更强烈</b>。<br/>
 　　还有一个数据，也可以反映出这点。那就是：本次投票中，【年轻的】“首投族”（首次投票群体）占有相当比例。<br/>
 <br/>
