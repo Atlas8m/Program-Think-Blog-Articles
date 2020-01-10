@@ -3,7 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　本来应该在上周发这篇转载。因为上周忙着<a href="http://program-think.blogspot.com/2015/07/share-books.html">分享网盘电子书</a>，花了不少时间，拖到这周才发布。抱歉 :(<a name="more"></a><br/>
+　　本来应该在上周发这篇转载。因为上周忙着<a href="../../2015/07/share-books.md">分享网盘电子书</a>，花了不少时间，拖到这周才发布。抱歉 :(<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★俺的短评</h2><br/>
 　　先简单聊聊俺的点评。<br/>
@@ -17,13 +18,14 @@
 　　如今全国性的打击维权律师，相当于把高压锅的排气孔彻底堵起来。你还能想出比这更愚蠢的策略吗？<br/>
 　　很多民众总是误以为：政府是万能的。其实恰恰相反，如今的朝廷在很多方面犯了很多极其愚蠢的错误。而这些失误有助于加速朝廷的崩溃 :)<br/>
 <br/>
+<br/>
 <h2>★抓捕律师的相关报道</h2><br/>
 <a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B710%E3%80%8C%E7%B6%AD%E6%AC%8A%E5%BE%8B%E5%B8%AB%E3%80%8D%E5%A4%A7%E6%8A%93%E6%8D%95%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">相关的维基百科词条</a><br/>
 （编程随想注：以下内容摘自上述维基词条）<br/>
-<blockquote style="background-color:#DDD;"><b>中国710“维权律师”大抓捕事件</b>，或称<b>中国内地710扩大抓捕“维权律师”事件</b>，是指2015年7月上旬，上百位中国内地的律师、民间维权人士、上访民众及律师和维权人士之亲属，突然遭到公安当局大规模逮捕、传唤、刑事拘留的事件，部分人士则下落不明。<br/>
+<blockquote><b>中国710“维权律师”大抓捕事件</b>，或称<b>中国内地710扩大抓捕“维权律师”事件</b>，是指2015年7月上旬，上百位中国内地的律师、民间维权人士、上访民众及律师和维权人士之亲属，突然遭到公安当局大规模逮捕、传唤、刑事拘留的事件，部分人士则下落不明。<br/>
 截至2015年7月17日统计，有222人被刑拘、带走、失联、约谈、传唤、或短期限制人身自由，涉及省份多达23个。<br/>
 ......<br/>
-<table class="wikitable"><tr><th>地区(人数)</th><th>被捕</th><th>约谈</th></tr>
+<table border="1" cellpadding="3" cellspacing="0"><tr><th>地区(人数)</th><th>被捕</th><th>约谈</th></tr>
 <tr><td>北京37人</td><td>13</td><td>24</td></tr>
 <tr><td>天津4人</td><td>1</td><td>3</td></tr>
 <tr><td>河北3人</td><td>0</td><td>3</td></tr>
@@ -49,24 +51,25 @@
 <tr><td>四川3人</td><td>1</td><td>2</td></tr>
 <tr><td>重庆6人</td><td>0</td><td>6</td></tr>
 </table></blockquote><br/>
-《<a href="http://wqw2010.blogspot.com/search/label/710%E6%8A%93%E6%8D%95%E5%BE%8B%E5%B8%88%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">710抓捕律师事件 @ 维权网</a>》<br/>
+《<a href="https://wqw2010.blogspot.com/search/label/710%E6%8A%93%E6%8D%95%E5%BE%8B%E5%B8%88%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">710抓捕律师事件 @ 维权网</a>》<br/>
 （编程随想注：上述链接是“维权网”针对此事的分类标签，包含多篇报道）<br/>
 <br/>
-《<a href="http://www.boxun.com/news/gb/china/2015/07/201507112242.shtml" rel="nofollow" target="_blank">中国持续扫荡人权律师，郑恩宠李方平等80余人被带走 @ 博讯</a>》<br/>
+《<a href="https://www.boxun.com/news/gb/china/2015/07/201507112242.shtml" rel="nofollow" target="_blank">中国持续扫荡人权律师，郑恩宠李方平等80余人被带走 @ 博讯网</a>》<br/>
 http://upload.bx.tl/news/temp13/201507110700411.jpg<br/>
 <br/>
 以下是网友整理的名单：<br/>
-<a href="https://t.co/eDr96hyq5v" rel="nofollow" target="_blank">中文版</a>、<a href="http://t.co/bs6H3wZsIH" rel="nofollow" target="_blank">英文版</a><br/>
+<a href="https://t.co/eDr96hyq5v" rel="nofollow" target="_blank">中文版</a>、<a href="https://t.co/bs6H3wZsIH" rel="nofollow" target="_blank">英文版</a><br/>
 <br/>
-<a href="http://chinadigitaltimes.net/chinese/files/2015/07/440x1790x0069kyRsgw1etyof3tgx3j30c81dq778.jpg.pagespeed.ic.dNwUJY7-RX.jpg" rel="nofollow" target="_blank">沈勇平：过去的48小时内，有56人被夜袭队带走</a><br/>
+《<a href="https://chinadigitaltimes.net/chinese/files/2015/07/440x1790x0069kyRsgw1etyof3tgx3j30c81dq778.jpg.pagespeed.ic.dNwUJY7-RX.jpg" rel="nofollow" target="_blank">沈勇平：过去的48小时内，有56人被夜袭队带走 @ 中国数字时代</a>》<br/>
 （编程随想注：此内容发表于7月11日）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/KU60gA5V2E7G1azXETfQnl-IiivPriLHrgW2pRRGdk1JaqiSBayM7PK1QoEm3MD77xJKN70K_fDNYHWTzRE6rckRj3PK83MlBeI04gL_YMBKVDmpMRu7Vu4zSiPPIcd67RsGhAfPDA"/></center>（编程随想注：上图统计的截止日期是7月12日中午，所以只有84人）<br/>
 <br/>
+<br/>
 <h2>★外媒的评论</h2><br/>
-《<a href="http://cn.nytimes.com/china/20150723/c23lawyers/" rel="nofollow" target="_blank">中国加大打压，维权律师四面受敌 @ 纽约时报</a>》<br/>
+《<a href="https://cn.nytimes.com/china/20150723/c23lawyers/" rel="nofollow" target="_blank">中国加大打压，维权律师四面受敌 @ 纽约时报</a>》<br/>
 （编程随想注：以下是本文的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">北京——200多名律师及其熟人遭到拘捕，其中20人仍然在押。一些律师在电视上示众，给出屈辱的口供，并被描绘成煽风点火的无耻之徒。共产党的官方报纸刊发了大量评论，谴责他们从事颠覆和欺诈活动。<br/>
+<blockquote>北京——200多名律师及其熟人遭到拘捕，其中20人仍然在押。一些律师在电视上示众，给出屈辱的口供，并被描绘成煽风点火的无耻之徒。共产党的官方报纸刊发了大量评论，谴责他们从事颠覆和欺诈活动。<br/>
 <b>律师们称，这是几十年来律师职业遭受的力度最大的政治攻击。中国政府正在广泛打压维权律师，宣称他们利用有争议的案件中饱私囊、攻击共产党。</b><br/>
 陷入困境的律师们表示，政府真正目的是诋毁和掐灭“维权”运动。在该运动中，有少数无畏的律师利用法律和公众压力，为在体制中处于弱势的客户提供支持。<br/>
 ......<br/>
@@ -80,32 +83,33 @@ http://upload.bx.tl/news/temp13/201507110700411.jpg<br/>
 《<a href="https://www.washingtonpost.com/world/she-was-a-quiet-commercial-lawyer-then-china-turned-against-her/2015/07/18/fe45876c-2b3d-11e5-960f-22c4ba982ed4_story.html" rel="nofollow" target="_blank">She was a quiet commercial lawyer. Then China turned against her @ 华盛顿邮报</a>》<br/>
 （中文翻译：《<a href="https://botanwang.com/articles/201507/%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E5%AE%89%E9%9D%99%E7%9A%84%E5%95%86%E4%B8%9A%E5%BE%8B%E5%B8%88%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%8C%97%E4%BA%AC%E5%BC%80%E5%A7%8B%E9%92%88%E5%AF%B9%E5%A5%B9.html" rel="nofollow" target="_blank">她是一名安静的商业律师，后来北京开始针对她</a>》）<br/>
 <center><img alt="不见图 请翻墙" src="images/xV8fJ_Wvq7tq7GJcWsqOTNkxEaHHgcovixqFTm8Nc7SuCbsfN1PKdv1POMyAa7rQoaw7sK9ah4mRLh8povOTstxRQXm5MBKWBPUxZAlRlauDe1H6T-k56ashmBQxim5KKm4gemCoDg"/></center><br/>
-《<a href="http://www.bbc.com/zhongwen/simp/world/2015/07/150716_china_un_human_rights" rel="nofollow" target="_blank">联合国调查员要求中国停止打压律师 @ BBC</a>》<br/>
+《<a href="https://www.bbc.com/zhongwen/simp/world/2015/07/150716_china_un_human_rights" rel="nofollow" target="_blank">联合国调查员要求中国停止打压律师 @ BBC/英国广播公司</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/VNJsG271J-xBr4Yg_b-xKbtceYA5YgZa4v65AX-2HsQQR_COZUF7nWndp4JM6kUzz1a6ltEPtllOdFt4pNtWU2sieENwO3n-xUe5PID6vALD2b-Xb_klom6vIKociC5ueOJRNnY2WA"/></center>（编程随想注：以下是本文的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">联合国人权调查员星期四（16日）发表声明，要求中国停止打压律师。<br/>
+<blockquote>联合国人权调查员星期四（16日）发表声明，要求中国停止打压律师。<br/>
 上周，中国有100多名律师遭到拘留、受到威胁或者“失踪”。<br/>
 他们说，中国对律师的打压有可能违背了联合国的人权宣言、联合国律师角色的基本原则以及中国自己的刑事程序。<br/>
 联合国人权办公室发表的一份声明说，律师绝不应该由于履行自己的职责而受到惩罚、制裁、或是威胁。<br/>
 路透社报道说，<b>自从2012年，习近平领导的中国政府以维护国家安全与稳定为由，加紧对公民社会的控制。</b></blockquote><br/>
-《<a href="http://www.bbc.com/zhongwen/simp/china/2015/07/150716_china_rights_lawyers_reax" rel="nofollow" target="_blank">多方强烈关注中国维权律师被捕事件 @ BBC</a>》<br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2015/07/150716_china_rights_lawyers_reax" rel="nofollow" target="_blank">多方强烈关注中国维权律师被捕事件 @ BBC/英国广播公司</a>》<br/>
 （编程随想注：以下是本文的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">设在香港的维权网表示，中国各地律师被约谈和传唤的情况仍在持续，许多维权律师受到警方警告或威胁。<br/>
+<blockquote>设在香港的维权网表示，中国各地律师被约谈和传唤的情况仍在持续，许多维权律师受到警方警告或威胁。<br/>
 维权网说，<b>此次“抓捕行动以‘范木根案’和‘徐纯合案’代理律师及声援行动参与者为抓捕重点”。</b>截止7月16日24时，“超过210人遭侵害，11人遭刑拘或秘密关押（监视居住），强迫失踪12人”。</blockquote><br/>
-《<a href="http://www.voacantonese.com/content/us-condemns-detyention-of-human-rights-defenders-in-china-20150713/2859465.html" rel="nofollow" target="_blank">美國國務院籲中國 停止打壓維權律師 @ 美国之音</a>》<br/>
+《<a href="https://www.voacantonese.com/content/us-condemns-detyention-of-human-rights-defenders-in-china-20150713/2859465.html" rel="nofollow" target="_blank">美國國務院籲中國 停止打壓維權律師 @ VOA/美国之音</a>》<br/>
 <br/>
-《<a href="http://www.dw.com/a-18580990" rel="nofollow" target="_blank">维权即“死磕”？中国维权律师处境恶化 @ 德国之声</a>》<br/>
+《<a href="https://www.dw.com/a-18580990" rel="nofollow" target="_blank">维权即“死磕”？中国维权律师处境恶化 @ 德国之声</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/paw3H__4kOY1_GuQ4sYIbADja-o-hV7vFWb97LLkK7WIqkSZdP83qZK0Hxnq7CSrzMnubD_Yv_Z2p8tD8MOPiNzJIAPD4WMwhXMLacGg5J6fiICzefXe8DE5unj8EsCGKbtAc0x_Kg"/></center>（编程随想注：以下是本文的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">此次最先被控制、刑拘的是北京锋锐律师事务所的几名律师和工作人员。中国官媒新华网在周六晚发表名为《揭开“维权”事件的黑幕》的报道，称“公安部指挥摧毁了一个以北京锋锐律师事务所为平台的……重大犯罪团伙”，表示“该犯罪团伙自2012年7月以来，先后组织策划炒作40余起敏感事件、严重扰乱社会秩序”。<br/>
+<blockquote>此次最先被控制、刑拘的是北京锋锐律师事务所的几名律师和工作人员。中国官媒新华网在周六晚发表名为《揭开“维权”事件的黑幕》的报道，称“公安部指挥摧毁了一个以北京锋锐律师事务所为平台的……重大犯罪团伙”，表示“该犯罪团伙自2012年7月以来，先后组织策划炒作40余起敏感事件、严重扰乱社会秩序”。<br/>
 针对为何拿北京锋锐开刀，说法不一。对此，中国维权律师关注组表示，锋锐律师事务所“一直很勇敢地接手一些被认为是非常敏感的维权案件，这可能是中国当局杀一儆百的做法”。<br/>
 事实上，<b>目前被传呼、约谈、控制、带走的律师已经远不局限于锋锐律师事务所。中国维权律师关注组称，已经有15个省市的律师受到牵连。该组织的一名研究人员说，“现在担心的是，这种打压已经不是零散的，而是要除掉整个（维权律师）社群”。</b></blockquote><br/>
 《<a href="http://www.chinainperspective.com/ArtShow.aspx?AID=52366" rel="nofollow" target="_blank">萧瀚：权力的龙变——从反腐运动到绑架律师 @ 纵览中国</a>》<br/>
 <br/>
-《<a href="http://www.boxun.com/news/gb/pubvp/2015/07/201507111134.shtml" rel="nofollow" target="_blank">长平：人权律师“黑色星期五”——“黑头套党”治理中国 @ 博讯网</a>》<br/>
+《<a href="https://www.boxun.com/news/gb/pubvp/2015/07/201507111134.shtml" rel="nofollow" target="_blank">长平：人权律师“黑色星期五”——“黑头套党”治理中国 @ 博讯网</a>》<br/>
 <br/>
 《<a href="http://ajw.asahi.com/article/views/editorial/AJ201507200026" rel="nofollow" target="_blank">1.3 billion Chinese lose in Xi’s crackdown on human rights lawyers @ 朝日新闻英文版</a>》<br/>
 （中文翻译：<a href="https://botanwang.com/articles/201507/%E3%80%8A%E6%9C%9D%E6%97%A5%E6%96%B0%E9%97%BB%E3%80%8B%E7%A4%BE%E8%AE%BA%EF%BC%9A%E4%B9%A0%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E6%8D%9F%E5%AE%B313%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA.html" rel="nofollow" target="_blank">习打压人权律师损害13亿中国人</a>）<br/>
 <br/>
 《<a href="http://hx.cnd.org/2015/07/23/%E8%8B%B1%E9%A1%BA%EF%BC%9A%E6%96%B0%E7%9A%84%E4%B8%80%E6%B3%A2%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%93%E6%8D%95%E5%8F%88%E5%BC%80%E5%A7%8B%EF%BC%8D%EF%BC%8D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%B2%A6/" rel="nofollow" target="_blank">英顺：新的一波大规模抓捕又开始——中国已经沦为警察国家 @ 华夏文摘</a>》<br/>
+<br/>
 <br/>
 <h2>★网民对“抓捕律师”的评论</h2><br/>
 滕彪：<br/>
@@ -132,7 +136,7 @@ http://upload.bx.tl/news/temp13/201507110700411.jpg<br/>
 成斌麟：<br/>
 各位，请批驳我这句话：<br/>
 “抓律师”其实已经是他们走途无路对民间力量反击的傻逼策略。<br/>
-所以，我这次连话都懒得说。他们吓唬不住人了，最多恐吓猪。 <br/>
+所以，我这次连话都懒得说。他们吓唬不住人了，最多恐吓猪。<br/>
 <br/>
 莫之许：<br/>
 冻结时代，体制意图已很明确，就是要冻结各种抗争行动和自由化观念传播（及其支持条件）。<br/>
@@ -216,7 +220,7 @@ jajia：<br/>
 ——对不起，您的律师已经在我们那儿了。<br/>
 <br/>
 变态辣椒：<br/>
-根據@jajia 的原創段子改編的當代奇幻漫畫。<br/>
+根據 @jajia 的原創段子改編的當代奇幻漫畫。<br/>
 <center><img alt="不见图 请翻墙" src="images/kHBcWA7B9VnfLYAMJDnSbMUScEdkOYPl1AJw0WK89qLjFfhfpl80draEHs9ZGz-qGE5PWpjFcRcKy_ExYacqNUnCujoGGBIn_Y40R8peqlJq9kHIys5USGEefh-KdbnVpFnBGfc01Q"/></center><br/>
 新宇翔：<br/>
 可怜的律师。法律好可怜。<br/>
@@ -227,6 +231,7 @@ jajia：<br/>
 星际灰小妹：<br/>
 黑化律师、打压公民社会，这就是贵党为人民做的好事？<br/>
 <br/>
+<br/>
 <h2>★关于“国外的声援”</h2><br/>
 George Ge：<br/>
 参加全球同步抗议习近平当局抓捕人权律师和良心公民！美西旧金山站。活动中我们高喊：习近平无耻！共产党放人！<br/>
@@ -234,6 +239,7 @@ George Ge：<br/>
 子元：<br/>
 洛杉矶华人中共领馆门前抗议710大抓捕，那个向来以不要用法律做挡箭牌的流氓竟然选择报警，笑死我了。<br/>
 <center><img alt="不见图 请翻墙" src="images/nNnfwaHdYFqymt4_hyKASR2elJ7O10LE7PsePY_Qm-SAaU1jn2luyIBrcYitc9pD0lEKLtumHNl3H0OD7jxTVwz0S6jgGn0iWN80tma11z52bWF3kEPgU5vH5mlkQvSFjdGooMHJ5w"/></center><center><img alt="不见图 请翻墙" src="images/E8NsNGon6A-tTKtkwQxu53Id-RfYM30SrnBbz02jIyIOPkU0iSZB-0GFgixlftBuY07IVKqSZIpdz8FENiula5Qa76_6vmphcwp92Qyxii2QarC495vEImSyxtjiZ2zZp1MY7PoPLg"/></center><center><img alt="不见图 请翻墙" src="images/DNrq6P_l0qLTVCA8ZRSltxgrA8MUKc5YFJaO3EORGbz6eTPDw0dnVx68v1bOQ8hFEMF7JRsyhs0neSV7cmhUJSxv3iBafN9ZyXd7ufA-dyolNkh6uFJBIzlw6DRM2V6M1G-mCDT1pg"/></center><br/>
+<br/>
 <h2>★关于“律师上央视认罪”</h2><br/>
 amFA：<br/>
 法院还没判呢就电视上开始了，呵呵，依法治国<br/>
@@ -254,7 +260,7 @@ amFA：<br/>
 央视和人民日报说的话我还真不信！！！！<br/>
 <br/>
 朱承志：<br/>
-殃视定性我不信！ <br/>
+殃视定性我不信！<br/>
 <br/>
 V道非常道：<br/>
 我见过不要脸的，没见过这么不要脸的！<br/>
@@ -266,6 +272,7 @@ V道非常道：<br/>
 公民曾子规：<br/>
 今天看央视，突然发现，在央视的法制节目中，违法犯罪的人都是老百姓，很多还是些很弱势的社会底层的可怜的人。在央视的道德观察等道德节目中，缺德的人也基本上都是老百姓，很多也是些很弱势的社会底层的人。<br/>
 至于那些政府官员的危害巨大的违法犯罪行为及其缺德行为好像很难成为央视法制与道德类节目的内容。大家看看，是不是这样？<br/>
+<br/>
 <br/>
 <h2>★关于“依法治国”</h2><br/>
 【习法治国】<br/>
@@ -313,6 +320,7 @@ SpoofChina：<br/>
 大风刮刮刮刮：<br/>
 这就是法治社会？别把群众的牙笑掉了…<br/>
 <br/>
+<br/>
 <h2>★关于“一言堂”</h2><br/>
 叽叽咕咕小恶魔：<br/>
 国外法院门口，经常有人拉布条，也没见怎么着啊[笑cry]<br/>
@@ -333,11 +341,12 @@ Y你好尹天仇Y：<br/>
 PORUINN：<br/>
 经过政府大力打击，从此国民过上了国泰民安，天天新闻联播般的美好生活。<br/>
 <br/>
+<br/>
 <h2>★关于“白色恐怖”</h2><br/>
 著名民营企业家孙大午：<br/>
 《声援维权律师——面对恐怖你能怎样？》<br/>
 （编程随想注：以下是本文的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">2003年5月27日，我接到徐水县一个政协副主席的电话说，新来的县委书记请我去鸿雁大酒店吃午饭，到了酒店后我就被便衣警察抓起来了，也许这算不上恐怖；<br/>
+<blockquote>2003年5月27日，我接到徐水县一个政协副主席的电话说，新来的县委书记请我去鸿雁大酒店吃午饭，到了酒店后我就被便衣警察抓起来了，也许这算不上恐怖；<br/>
 当公司把这个信息报告给在400公里以外的邯郸考察的我弟弟二午和副总刘平，当他们终止考察赶快回来的时候，在高速路口被抓捕，这也不算恐怖；<br/>
 当我的三弟孙志华知道两个哥哥都被抓起来，去公安局打听情况的时候，也被抓起来了，这还不算恐怖；<br/>
 那么接下来几十辆警车（包括政府部门办公车），上百名警察、政府人员封锁了大午集团，抓了企业二十几个人，拉走了微机，撬开了保险柜，这算不算恐怖？<br/>
@@ -362,7 +371,8 @@ freedomandlaw：<br/>
 看以后谁还敢维权！维权的全都是“有组织的滋事”！<br/>
 <br/>
 lebao wu：<br/>
-习包子的爪牙越来疯狂 <br/>
+习包子的爪牙越来疯狂<br/>
+<br/>
 <br/>
 <h2>★关于“革命”</h2><br/>
 今天下午三点：<br/>
@@ -387,7 +397,8 @@ lebao wu：<br/>
 国防只剩一招：文工团。<br/>
 这个社会完全堵死了，公义也死了。<br/>
 一旦受冤，只能忍辱含垢，或拼死反抗，或将一腔怨气撒向社会。<br/>
-危机四伏～～ <br/>
+危机四伏～～<br/>
+<br/>
 <br/>
 <h2>★网友的其它评论</h2><br/>
 羽戈：<br/>
@@ -423,14 +434,21 @@ https://twitter.com/xiaoguozhen/status/625524500453568512<br/>
 而为弱者呼吁，为自由呐喊的正义之士，却屡遭封杀。<br/>
 这是一个失去公平正义的社会，这个民族到处充斥着冷漠无情。<br/>
 <br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2014/11/political-offences-in-china.html">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想 </a><br/>
-<a href="http://program-think.blogspot.com/2011/12/revolution-0.html">谈革命（系列）</a><br/>
-<a href="http://program-think.blogspot.com/2014/05/weekly-share-66.html">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a><br/>
-<a href="http://program-think.blogspot.com/2015/05/weekly-share-85.html">每周转载：大量网友围观庆安命案，并质疑CCAV视频（多图）</a><br/>
-<a href="http://program-think.blogspot.com/2015/04/weekly-share-84.html">每周转载：网民围观长沙警方，区伯收到艳照要挟</a><br/>
-<a href="http://program-think.blogspot.com/2015/04/weekly-share-83.html">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a><br/>
-<a href="http://program-think.blogspot.com/2013/04/weekly-share-47.html">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>
+《<a href="../../2014/11/political-offences-in-china.md">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想 </a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

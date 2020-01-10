@@ -4,27 +4,29 @@
 
 <div class="post-body entry-content">
 　　最近10天，关于区伯“被嫖娼”的事件已经在网络上传得沸沸扬扬。今天俺发一篇《每周转载》，介绍一下此事发展的经过，并汇总相关报道和网友评论。<br/>
-　　此事关系重大——涉及到“滥用公权力陷害公民”，大伙儿要持续保持舆论压力。<a name="more"></a><br/>
+　　此事关系重大——涉及到“滥用公权力陷害公民”，大伙儿要持续保持舆论压力。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★“区伯”其人</h2><br/>
 以下是 <a href="https://zh.wikipedia.org/zh/%E5%8C%BA%E5%B0%91%E5%9D%A4" rel="nofollow" target="_blank">维基百科</a> 对此人的介绍：<br/>
-<blockquote style="background-color:#DDD;">区少坤（1953年－），常被称为区伯，广东省广州市人。<br/>
+<blockquote>区少坤（1953年－），常被称为区伯，广东省广州市人。<br/>
 2000年下岗前为广州市海珠区农贸市场管理员，因监督公车私用闻名，被称为“全国监督公车私用第一人”。<br/>
 其主要采取的监督方式是以“广州区伯”的身份在新浪微博上曝光涉嫌公车私用的车辆，并向相关部门举报。新浪微博方面对其账号的认证信息为“广州草根明星 广州公车私用监督达人”。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/STCCBdgiAAxkN7I_FfX-M-OULnNnhXFLPGw1gv2arAdDMD4A6UlOFNe4cIxDBzyZPYq7IYfHn51EDuXWhsfoxxHnz3vTRRARj0VlS0tUtsUBC-hk0Tx690lvVGyq9dosd0PjdHTqJw"/></center>（区少坤拍照举报公车私用）<br/>
+<br/>
 <br/>
 <h2>★关于“警方构陷”与“被嫖娼”</h2><br/>
 　　此事刚刚曝光，网友就开始怀疑区伯是“被嫖娼”。更有网民戏称：<b>顺我者昌，逆我者嫖娼</b><br/>
 　　以下是相关报道的摘录和网友评论。<br/>
 <br/>
-<a href="http://cn.nytimes.com/world/20150402/c02detention/" rel="nofollow" target="_blank">反腐人士区伯支持者称嫖娼指控是打击报复 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/world/20150402/c02detention/" rel="nofollow" target="_blank">反腐人士区伯支持者称嫖娼指控是打击报复 @ 纽约时报</a>》<br/>
 <br/>
-<a href="http://www.voachinese.com/content/chinese-rights-activist-20150330/2699547.html" rel="nofollow" target="_blank">监督公车私用 广州区伯被高调曝光“嫖娼” @ 美国之音</a><br/>
+《<a href="https://www.voachinese.com/content/chinese-rights-activist-20150330/2699547.html" rel="nofollow" target="_blank">监督公车私用 广州区伯被高调曝光“嫖娼” @ 美国之音</a>》<br/>
 <br/>
-<a href="http://www.dw.de/a-18361284" rel="nofollow" target="_blank">长平：一场演砸了的污名戏 @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-18361284" rel="nofollow" target="_blank">长平：一场演砸了的污名戏 @ 德国之声</a>》<br/>
 <br/>
-<a href="http://help.3g.163.com/15/0403/09/AM93GHTP00964LOG.html" rel="nofollow" target="_blank">广州区伯“嫖娼”事件6大疑点有待证实 @ 网易新闻</a><br/>
-<blockquote style="background-color:#DDD;">1、区伯微博粉丝王某是谁？<br/>
+《<a href="http://help.3g.163.com/15/0403/09/AM93GHTP00964LOG.html" rel="nofollow" target="_blank">广州区伯“嫖娼”事件6大疑点有待证实 @ 网易新闻</a>》<br/>
+<blockquote>1、区伯微博粉丝王某是谁？<br/>
 2、请区伯娱乐的陈老板是否过于“热情”？<br/>
 3、区伯被抓过程像巧合的剧情？<br/>
 4、长沙警方是否存在诱供行为？<br/>
@@ -32,14 +34,14 @@
 6、拘留期满 区伯为何被广州警方接回？</blockquote><br/>
 《<a href="http://epaper.bjnews.com.cn/html/2015-03/30/content_568899.htm?div=-1" rel="nofollow" target="_blank">“区伯嫖娼”处罚决定书是谁曝光的？ @ 新京报</a>》<br/>
 （编程随想注：以下是这篇文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;">区伯的这份行政处罚决定书包含了大量的公民隐私，这样本来应该保密的文件，却堂而皇之地在网上大量流传。相关部门有着不可推卸的责任。<br/>
+<blockquote>区伯的这份行政处罚决定书包含了大量的公民隐私，这样本来应该保密的文件，却堂而皇之地在网上大量流传。相关部门有着不可推卸的责任。<br/>
 ......<br/>
 据有关媒体报道称，被处罚人对违法事实供认不讳。但这里值得我们注意的是，即便他嫖娼属实，为何行政处罚决定书会在第一时间在网上流传？到底是何人将其上传？以及此人究竟从何处拿到这份行政处罚决定书的？<br/>
 ......<br/>
 《公安机关执法公开规定》规定：“公安机关不得向权利人以外的公民、法人或者其他组织公开涉及商业秘密、个人隐私的执法信息。”处罚书中包含了被处罚人的姓名、身份证号、地址、籍贯、文化程度，及其和失足妇女在进行性交易的地点、交易对象、交易价钱等具体情节，还不仅仅是公布区伯因何事受何种处罚那么简单。这在某种程度上讲，这些信息是被处罚人的隐私，公安机关有保密的义务，但为何流传出执法文件？如果该文件不是公安流出的，网友又是如何获得的？</blockquote><br/>
-<a href="http://chinadigitaltimes.net/chinese/2015/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%A2%AB%E5%AB%96%E5%A8%BC%E7%9A%84%E5%8A%9F%E6%95%88%E4%B8%A7%E5%A4%B1%E6%AE%86%E5%B0%BD/" rel="nofollow" target="_blank">傅桓：“被嫖娼”的功效丧失殆尽 @ 中国数字时代</a><br/>
+《<a href="https://chinadigitaltimes.net/chinese/2015/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%82%85%E6%A1%93%EF%BC%9A%E8%A2%AB%E5%AB%96%E5%A8%BC%E7%9A%84%E5%8A%9F%E6%95%88%E4%B8%A7%E5%A4%B1%E6%AE%86%E5%B0%BD/" rel="nofollow" target="_blank">傅桓：“被嫖娼”的功效丧失殆尽 @ 中国数字时代</a>》<br/>
 <br/>
-<a href="http://ww1.sinaimg.cn/large/a15b4afegw1eqxafhfq18j20ik1h4nkn" rel="nofollow" target="_blank">南桥：当头顶的国徽变成黑色的时候</a><br/>
+《<a href="https://ww1.sinaimg.cn/large/a15b4afegw1eqxafhfq18j20ik1h4nkn" rel="nofollow" target="_blank">南桥：当头顶的国徽变成黑色的时候</a>》<br/>
 <br/>
 陈有西：<br/>
 钓鱼执法，陷阱执法，是周永康时代公权队伍里流氓的‘维稳’新发明，在打击大V，对付访民，卑鄙拆迁中已经屡试不爽。<br/>
@@ -100,7 +102,7 @@ xiucai1911：<br/>
 超级低俗屠夫：<br/>
 长沙警方这几天的表现，更让人怀疑干了见不得人的勾当。<br/>
 律师会见你们耍流氓不让见，各种证据显示是陷害。<br/>
-做为很容易被嫖娼的屠夫，必须要表达对广州区伯的支持以及对长沙警方的谴责！ <br/>
+做为很容易被嫖娼的屠夫，必须要表达对广州区伯的支持以及对长沙警方的谴责！<br/>
 <br/>
 作家崔成浩：<br/>
 假如，一切只是假如。<br/>
@@ -132,6 +134,7 @@ http://fb.me/6uOwtsRw0<br/>
 wdsw100：<br/>
 问了下广州的朋友 发现区伯的事情已经沸沸扬扬。<br/>
 然而有一种声音是：区伯是被某个官员陷害的<br/>
+<br/>
 <br/>
 <h2>★网友点评“嫖娼”与“私德”</h2><br/>
 三毛在这里：<br/>
@@ -183,6 +186,7 @@ Paul郑褚：<br/>
 如果我是区伯，我会发一条微博，“同志们啊，如果你们中间有从来没有嫖过的，我欢迎他上来指着鼻子骂我”。<br/>
 当然，如果我像区伯一样离异，单身一人，上床这件事情，还需要小姐劝我？让人知道了以后，都没脸混了呢。<br/>
 <br/>
+<br/>
 <h2>★网友点评《法制日报》社论——《区伯嫖娼 真相到此为止》</h2><br/>
 　　此案引发大量网络舆论，朝廷方面赶紧让《法制日报》发了一篇社论《<a href="http://epaper.legaldaily.com.cn/fzrb/content/20150403/Articel07002GN.htm" rel="nofollow" target="_blank">区伯嫖娼 真相到此为止</a>》。以下是网友的相关评论。<br/>
 <br/>
@@ -191,9 +195,9 @@ Paul郑褚：<br/>
 但当人们理性分析，质疑事件真相，你们预感到是搬起石头砸自己的脚的时候，你们就要真相到此为止？<br/>
 法制日报你对得起法制两个字吗？<br/>
 <br/>
-<a href="http://zhishangjianzhu.blog.sohu.com/308410018.html" rel="nofollow" target="_blank">纸上建筑：“被嫖娼”真相能否到此为止？ @ 搜狐博客</a><br/>
+《<a href="http://zhishangjianzhu.blog.sohu.com/308410018.html" rel="nofollow" target="_blank">纸上建筑：“被嫖娼”真相能否到此为止？ @ 搜狐博客</a>》<br/>
 （编程随想注：此文获得“搜狐博客”的推荐，以下是这篇文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;">如今，结束拘留之后的区伯向外界讲述了自己版本的经历，神秘的核心人物“陈老板”浮出水面，从其留下的一张名片开始，经过网友不懈搜索查证，一位实名为“陈检罗”的疑似公职人员浮出水面——事实真相，似乎正在朝着某些“理中客”不太乐见的方向发展。<br/>
+<blockquote>如今，结束拘留之后的区伯向外界讲述了自己版本的经历，神秘的核心人物“陈老板”浮出水面，从其留下的一张名片开始，经过网友不懈搜索查证，一位实名为“陈检罗”的疑似公职人员浮出水面——事实真相，似乎正在朝着某些“理中客”不太乐见的方向发展。<br/>
 <br/>
 谁都有权讲述和自证，哪怕他是罪犯。在更多线索浮现的时候，无疑距离真相已经更为接近。而此时，本来最应该较法制之真的《法制日报》却发表评论，呼吁网友对真相的追索“到此为止”，令人大跌眼镜。<br/>
 <br/>
@@ -228,6 +232,7 @@ Paul郑褚：<br/>
 //@铁塔媳妇22世：区伯事小，但折射中国司法现状！区伯嫖娼案疑点重重，此案已不再仅是关乎区伯个人名誉的小案子，而变成一场攸关 法治的大案！<br/>
 //@隗有新：区伯案可以作为法治标杆计入历史！这是权力对法律的玩弄[弱]对监督权力的人的傲慢[弱]对法治国家的任性[弱]<br/>
 <br/>
+<br/>
 <h2>★网友点评神秘的陈老板（其实是“长沙国保队长”）</h2><br/>
 　　到了4月6日，案情有戏剧性发展，引爆网络舆论的高潮。<br/>
 　　以下是相关报道和网友评论。<br/>
@@ -237,15 +242,15 @@ Paul郑褚：<br/>
 我们通过各种渠道，终于找到当晚请区伯一行吃饭买单的陈姓老板的名片，名片显示为“长沙腾创文化传播有限公司 陈佳罗”。<br/>
 按名片上的联系方式打过去，结果发现私人电话已经关机。<br/>
 <center><img alt="不见图 请翻墙" src="images/MbGwZrvR-SNvw1OrY1-aWjAY7PtDo8RDRHyQkw4OAvvZWDgkpAsx3rBM1W5RyVitMouKhZA5OVtxo03JBrdw8r5qAPQOEzoNq_S1uUdo1vOfHxGYZFfDRPutRHYiGksJIPapxqHgBw"/></center><br/>
-<a href="http://news.boxun.com/news/gb/china/2015/04/201504062038.shtml" rel="nofollow" target="_blank">“区伯嫖娼” 为区伯买单的“陈老板”系国保队长 @ 博讯网</a><br/>
+《<a href="https://news.boxun.com/news/gb/china/2015/04/201504062038.shtml" rel="nofollow" target="_blank">“区伯嫖娼” 为区伯买单的“陈老板”系国保队长 @ 博讯网</a>》<br/>
 （编程随想注：这篇报道的相关内容摘录如下）<br/>
-<blockquote style="background-color:#DDD;">举世瞩目的“区伯嫖娼”案，近日有了新进展，为区伯支付“嫖资”的陈佳罗（陈老板），经查实陈佳罗真名陈检罗，湖南刘阳人，系长沙国保支队四大队大队长。<br/>
+<blockquote>举世瞩目的“区伯嫖娼”案，近日有了新进展，为区伯支付“嫖资”的陈佳罗（陈老板），经查实陈佳罗真名陈检罗，湖南刘阳人，系长沙国保支队四大队大队长。<br/>
 据网友搜索发现：长沙万兆公司、湖南和嘉公司、长沙市腾创公司，居然都在芙蓉区韶山北路39号维一星城卧虎座1401室办公，总经理居然都是陈检罗，手机是13707496399。<br/>
 同时：长沙公安国保支队四大队在湖南警察学院网刊登招聘启事，联系人是陈队长，联系手机也是13707496399。因此，基本证实设套给区伯“嫖娼”买单的“陈佳罗”就是“陈检罗”。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/z8yEFAm99hjz5y3hCuSClzLPR1jkt2NH0tHYAoSTTNP4su5frwWWTXkeeUwtYbDot0AIjrFAtyO6SLnJSml0D2IIB8HSTIddwiB5OeBvPxM24uUXCPqdzZkh9LFdEd4XYIL5eE22_g"/></center><center><img alt="不见图 请翻墙" src="images/F75iMs0pUUXMTHL4Wx2qTo-wBb_hBwx8C0PRDCCzbaqq7Ebih5sXkBaH5rHzGBzxO1QVNn7CI7_vwiD3gEewfBKnAvSUktc0MHA82vkHOIio5E5RW_OCI96c4k1c5hpFEjIzggkoZg"/></center><center><img alt="不见图 请翻墙" src="images/sxAvMM4sg0hzUO1tcEYPJqAC4oRj-0jybPg0t03rydM_rRguPGhA8q-VLrpTyoVHsfGXdXX5ly3unU6-c1DdIA8JXGO9W4080dw_F8mgBtM9ljXsiqOW4Tf6olhajLQsXkwIgPRj1w"/></center><center><img alt="不见图 请翻墙" src="images/QwU50aPKt6kQQ9YG54wx0oDbMAC77tvkQ7GyYxs2TBNs0i9a_6nXsN_xwlEkykXMSy_QkKD0oFXQYfanh296q578RiiccERbfsh_Q2pttbJe_V0imATRKPo2OzQxgHbUAa-TbNMHjg"/></center><center><img alt="不见图 请翻墙" src="images/ECbEPxVRXH60_6TiMJiwKRhgGGz7-itKMRK9hdaqRJzGte9cBMucl9k60SmggNKde1TUmqmTktR3Ybo5K-kVzIOW0GD44zp7veHy2Y7tjVAt409htT_X1-Qnt_qeMTz1NqY4Ic8HGg"/></center><center><img alt="不见图 请翻墙" src="images/Zlz2Bkg6Eph5XGwpB6Nyouf0scQoJk0dm0E3Iusv77IZgiD9zQsYoI8o7GKaFhjtDYPdF8-UTQO1YV6hHzBV1bFRJ0PMXjQJmY-92OFUa7bF-y-QSIMDh0UOtPNKltcOBP7O7qG5yQ"/></center><center><img alt="不见图 请翻墙" src="images/NElPnB1By3_QGqw1tz6zjKYtu92qMoeOxxvIGykFJuErRtVdJq4Iy8aTwZEttXOO1ZfOb5CzV-mL2uYwna37AIyLGJzY245ZpF3rR2aVxrSdQhl08WqK60d4kaHDB2tObq2NxBIU8Q"/></center><center><img alt="不见图 请翻墙" src="images/kkQHqFXXvV96yY_xlZuZ3KS43Q63CzYvKVcjA1V8ZeR7v704d5tAFazXGPKWA-8z87haRe3nLzGyruPAUMXwcgErUnqUtwiQsWdas_B3WS9Uw_mGErCsd7LFRmKPnA7zvX-UHXFjVQ"/></center></blockquote><br/>
 （编程随想注：以下这段摘自百度贴吧“<a href="http://tieba.baidu.com/p/3685379659?pid=66661080815&amp;see_lz=1" rel="nofollow" target="_blank">这里</a>”，此链接已经被百度网管河蟹了）<br/>
-<blockquote style="background-color:#DDD;">4月6日，大陆多个“网络大V”的微博用户发布图文消息，指设套陷害广州区伯嫖娼的幕后黑手之一，疑似湖南长沙市局国保支队四大队队长。<br/>
+<blockquote>4月6日，大陆多个“网络大V”的微博用户发布图文消息，指设套陷害广州区伯嫖娼的幕后黑手之一，疑似湖南长沙市局国保支队四大队队长。<br/>
 <br/>
 不少网民经过网络搜索发现，长沙腾创文化传播公司经理“陈佳罗”（此前有媒体称该公司查无此人），公司地址为“长沙市芙蓉区韶山北路维一星城卧虎座1401室”。网民发现，该公司地址与长沙万兆投资谘询有限公司为同一地址。<br/>
 <br/>
@@ -258,7 +263,7 @@ Paul郑褚：<br/>
 有网民重新梳理了区伯“嫖娼门”设局者的证据链：1、关键卧虎座1401室分别是腾创、万兆、和嘉都用过的地址，应该还是和嘉的注册地址。2、陈佳罗自称是腾创的老总。3、腾创是潇湘通的独家运营。4、万兆的法人代表是陈检罗。5、和嘉是长沙交警执法仪的投标商，还做掉了竞争对手。6、国保陈检罗和万兆陈检罗的电话一样。<br/>
 <br/>
 还有大陆网民对国保警察陈检罗与区伯指认的“嫖娼门”设局者陈佳罗两人面部特征进行分析称，“在考虑到两人五官、脸廓、发际线高度相似的基础上，两人面部痣瘤特征点重合度高达80以上。换句话说，在普通人群中具有如此高的重合度，基本可以断定为一个人。”</blockquote><br/>
-<a href="http://chinadigitaltimes.net/chinese/2015/04/%E7%BA%BD%E7%BA%A6%E5%8C%97%E5%A4%A7%E9%A3%9E%EF%BC%9A%E6%AC%A7%E4%BC%AF%E4%B8%8E%E9%99%88%E9%98%9F%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%AF%B4%E7%9A%84%E6%95%85%E4%BA%8B/" rel="nofollow" target="_blank">纽约北大飞：欧伯与陈队不得不说的故事 @ 中国数字时代</a><br/>
+<a href="https://chinadigitaltimes.net/chinese/2015/04/%E7%BA%BD%E7%BA%A6%E5%8C%97%E5%A4%A7%E9%A3%9E%EF%BC%9A%E6%AC%A7%E4%BC%AF%E4%B8%8E%E9%99%88%E9%98%9F%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%AF%B4%E7%9A%84%E6%95%85%E4%BA%8B/" rel="nofollow" target="_blank">纽约北大飞：欧伯与陈队不得不说的故事 @ 中国数字时代</a><br/>
 <br/>
 <a href="http://politics.caijing.com.cn/20150407/3856837.shtml" rel="nofollow" target="_blank">区伯：陈老板“百分之百”是陈警官 @ 财经网</a><br/>
 <center><img alt="不见图 请翻墙" src="images/jG7qhqkkaRoVaNTfGeWxULPVckxvfVtE49VuUrMjtHGrser2cNR09i_iR-ZV8fxZ1BcMa5PQjneT3z9ZYL3BRmkVOxil9P2BU4A3_ggk_E1WjNixHq1g62zw8zyuHBcd9ZCUpM1oiQ"/></center>（编程随想注：上述这篇报道首发于新浪，被河蟹，然后又在财经网重新刊登）<br/>
@@ -340,7 +345,7 @@ no_jordan：<br/>
 不知道陈佳罗这笔生意的客户是谁？<br/>
 <br/>
 富敏荣律师：<br/>
-<a href="http://ww3.sinaimg.cn/large/4231a8dbjw1eqxs6feoqcj20go1ylani.jpg" rel="nofollow" target="_blank">湖南籍学者@杰人观察 就“广州区伯被嫖娼事件”致湖南省委的公开信</a><br/>
+<a href="https://ww3.sinaimg.cn/large/4231a8dbjw1eqxs6feoqcj20go1ylani.jpg" rel="nofollow" target="_blank">湖南籍学者@杰人观察 就“广州区伯被嫖娼事件”致湖南省委的公开信</a><br/>
 <br/>
 青翠L绿竹：<br/>
 陈老板（熊猫），你就出来露个面吧！设局介绍、出资、容留多人嫖娼者竟是一名警官，试问：该行为属职务犯罪吗？<br/>
@@ -422,7 +427,7 @@ V正义精神V：<br/>
 想不到，区伯的误打误撞，居然揭开了这么大的一个黑洞！<br/>
 <br/>
 迟夙生律师：<br/>
-@广州区伯 真了不起！深入虎穴把特务给特务了。[偷笑][酷][嘻嘻] <br/>
+@广州区伯 真了不起！深入虎穴把特务给特务了。[偷笑][酷][嘻嘻]<br/>
 <br/>
 价值投资快客：<br/>
 //@王建国: 夜路走多了，总会碰到鬼。过去搞薛蛮子等等人事，终于在区伯这里漏了原形。至于那些明星出丑，应该是接了私活赚外快。//@杨俊锋宪治:啊？！难以置信！一个广州老汉，不过是在本地监督几下公车私用，然后长沙警方会动用国宝力量，费心如此大的周折去设局整他？<br/>
@@ -540,6 +545,7 @@ U-Investment：<br/>
 周泽律师：<br/>
 希望群众稳定住情绪，不要打他骂他，见到了扭送去检察院就好。<br/>
 <br/>
+<br/>
 <h2>★关于国保陈队长的公司</h2><br/>
 郭大虾：<br/>
 如果这里的陈检罗是同一个人的话，那么他不仅是一名负责国内安全的警官，还拥有五家企业：<br/>
@@ -556,10 +562,11 @@ http://www.csaic.gov.cn/RegPlac/2014-11-29-6.html<br/>
 【“陈老板”企业曾遭媒体曝光】<br/>
 媒体报：长沙市公交公司公交IC卡服务管理中心截止去年在长沙发行250多万张新版公交卡，每张卡收取17块钱押金，累计收取4000多万元巨额押金，媒体称去向未公开，但党总支书记万继梅拒绝回答。万继梅是董事长，陈检罗是董事兼总经理。<br/>
 <br/>
+<br/>
 <h2>★网友调侃“依法治国”</h2><br/>
-<a href="https://news.powerapple.com/si-xiang-za-tan/2015/4/7/2155602.html" rel="nofollow" target="_blank">区伯案到此为止，依法治国也就到此为止 @ 苹果论坛</a><br/>
+《<a href="https://news.powerapple.com/si-xiang-za-tan/2015/4/7/2155602.html" rel="nofollow" target="_blank">区伯案到此为止，依法治国也就到此为止 @ 苹果论坛</a>》<br/>
 （编程随想注：以下是这篇文章的部分摘录，粗体是俺加的）<br/>
-<blockquote style="background-color:#DDD;">就在真相即将浮出水面的时候，却又一股势力想保护这背后的“阴谋”。昨日《法制日报》网站刊发一篇署名为烨泉题目为“区伯嫖娼,真相到此为止”，称区伯一案没有必要再往下查了，真相到此为止，各位该干嘛干嘛去。但是，区伯案真的就应该这么轻轻地放下去吗？如果正如网友的调查那样，是公权力为了报复区伯长期监督公车私用，就联合上演了一出区伯被嫖娼一案，区伯凭白无故就被关押了五天，出来后还没有自由，被带着到处旅游。公权力如此肆无忌惮的滥用，难道就不应该有个说法吗？在去年十八届四中全会“依法治国”的大背影下，公权力如此肆无忌惮的“执法犯法”，难道就不应该收到追责和处罚吗？正如网友所评论道的，如果真相到此为止的话，那么依法治国也就到此为止了！<br/>
+<blockquote>就在真相即将浮出水面的时候，却又一股势力想保护这背后的“阴谋”。昨日《法制日报》网站刊发一篇署名为烨泉题目为“区伯嫖娼,真相到此为止”，称区伯一案没有必要再往下查了，真相到此为止，各位该干嘛干嘛去。但是，区伯案真的就应该这么轻轻地放下去吗？如果正如网友的调查那样，是公权力为了报复区伯长期监督公车私用，就联合上演了一出区伯被嫖娼一案，区伯凭白无故就被关押了五天，出来后还没有自由，被带着到处旅游。公权力如此肆无忌惮的滥用，难道就不应该有个说法吗？在去年十八届四中全会“依法治国”的大背影下，公权力如此肆无忌惮的“执法犯法”，难道就不应该收到追责和处罚吗？正如网友所评论道的，如果真相到此为止的话，那么依法治国也就到此为止了！<br/>
 ......<br/>
 而依法治国的应有之义，不仅仅在于公民应该遵守法律，知法守法，更在于掌握公权力的部门自身应该遵守法律，只有这样才能为普通民众树立一个良好的榜样，也才能显示出中共依法治国的诚意。<b>如果依法治国仅仅是老百姓需要遵守法律，而官员和公权力可以继续为所欲为，可以在法律之外活动，那么讲依法治国就没有意义，依法治国就仅仅是一个自我娱乐的口号。</b>依法治国，就要体现在每一个具体的个案上，在区伯案上，区伯个人和所有的网民需要一个真相，请公权力不要再继续沉默下去了，依法治国请从区伯案开始！</blockquote><br/>
 微风清扬V：<br/>
@@ -596,10 +603,12 @@ dyyxw：<br/>
 獠牙V：<br/>
 以后谁跟老子说依法治国我草他妈[怒]<br/>
 <br/>
+<br/>
 <h2>★真理部开始发力了</h2><br/>
 东先生：<br/>
-百度把“陈检罗”灭口了 <br/>
+百度把“陈检罗”灭口了<br/>
 <center><img alt="不见图 请翻墙" src="images/VwZbDe48D6qmUuTDw0Mzg4PmwdKGYu7WQ1HP7_nmZyqrBrB-i-kj3p145-DaMdzlyVE4q9ma-QLSbt3FR2vV7wEWIecRZrf08cKOsCC8dcKFRjcZUt9DHAWH6xVWNHnK0APwRshcFw"/></center><br/>
+<br/>
 <h2>★关于此事的结局</h2><br/>
 慕容雪村：<br/>
 区伯事件大概会有两种结局：<br/>
@@ -648,6 +657,7 @@ fengqqyang：<br/>
 <br/>
 葛伟民：<br/>
 更希望有关部门不要灭口！<br/>
+<br/>
 <br/>
 <h2>★其它网友评论</h2><br/>
 沉思：<br/>
@@ -727,13 +737,21 @@ prettywendi：<br/>
 满心是海春暖花开：<br/>
 这个国家已经烂入骨髓<br/>
 <br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2014/11/political-offences-in-china.html">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想</a><br/>
-<a href="http://program-think.blogspot.com/2014/05/weekly-share-66.html">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a><br/>
-<a href="http://program-think.blogspot.com/2013/05/weekly-share-51.html">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a><br/>
-<a href="http://program-think.blogspot.com/2013/04/weekly-share-47.html">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a><br/>
-<a href="http://program-think.blogspot.com/2012/07/tacitus-trap.html">朝廷为何落入“塔西佗陷阱”——天津火灾随想</a><br/>
-<a href="http://program-think.blogspot.com/2014/11/political-propaganda-become-less-effective.html">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2014/11/political-offences-in-china.md">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想</a>》<br/>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

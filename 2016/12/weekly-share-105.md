@@ -9,9 +9,10 @@
 <br/>
 <hr/>　　好几周没有发《每周转载》了。今天这篇是关于“聂树斌冤案”以及“死刑犯器官移植”。<br/>
 　　聂树斌案在前2周吸引了很多眼球，不过这几天已经开始被淡忘了（大部分人总是健忘的）。而且之前的墙内媒体报道，很少涉及“死刑犯器官移植”这个雷区。<br/>
-　　俺希望通过今天这篇汇总，引发大伙儿对相关问题的关注。<a name="more"></a><br/>
-<br/>
-<center><img alt="不见图 请翻墙" src="images/stKDkpnYxnDqJkK8VbNcxl_X_rP87bUQYf9abzVaEgUni8NN4x-XrzLcA7-87d7ooF7KXlBOhqaVvxPGrQ3xmoiO5YpXcT9CvVY3m-wtqNeibcorbpphhdniI-H8CeW2MoEIXvtBJpI"/></center>聂树斌生前照片翻拍<br/>
+　　俺希望通过今天这篇汇总，引发大伙儿对相关问题的关注。<br/>
+<a name="more"></a><br/>
+<center><img alt="不见图 请翻墙" src="images/stKDkpnYxnDqJkK8VbNcxl_X_rP87bUQYf9abzVaEgUni8NN4x-XrzLcA7-87d7ooF7KXlBOhqaVvxPGrQ3xmoiO5YpXcT9CvVY3m-wtqNeibcorbpphhdniI-H8CeW2MoEIXvtBJpI"/><br/>
+（聂树斌生前照片翻拍）</center><br/>
 <br/>
 <h2>★聂树斌冤案</h2><br/>
 　　<a href="https://zh.wikipedia.org/wiki/%E8%81%82%E6%A0%91%E6%96%8C%E6%A1%88" rel="nofollow" target="_blank">维基百科</a><br/>
@@ -30,7 +31,7 @@
 <h2>★关于死刑犯的器官移植</h2><br/>
 《<a href="http://mp.weixin.qq.com/s/G-4Zzo5AGgnuF4WQHqfTpw" rel="nofollow" target="_blank">欧阳乾：聂树斌的肾 @ 微信公号</a>》<br/>
 （此文已经被微信管理员和谐了，墙外镜像链接在“<a href="https://chinadigitaltimes.net/chinese/2016/12/%e6%ac%a7%e9%98%b3%e4%b9%be%e7%9a%84%e4%b8%96%e7%95%8c-%e8%81%82%e6%a0%91%e6%96%8c%e7%9a%84%e8%82%be/" rel="nofollow" target="_blank">这里</a>”。以下是此文摘录）<br/>
-<blockquote style="background-color:#DDD;">你以为聂树斌的案子，这样就算尘埃落定了？<br/>
+<blockquote>你以为聂树斌的案子，这样就算尘埃落定了？<br/>
 错！在这背后还有一些东西，比案子本身还让人细思极恐。<br/>
 可能有人会问，你他妈有完没完了？<br/>
 我他妈没完。<br/>
@@ -57,7 +58,7 @@
 <br/>
 《<a href="http://www.nbweekly.com/column/honghuang/201501/38173.aspx" rel="nofollow" target="_blank">洪晃：受虐者的狂欢 @ 南都周刊</a>》<br/>
 （以下是此文摘录）<br/>
-<blockquote style="background-color:#DDD;">如果我们要谈器官移植，那我们必须谈一下中国刑法下死囚的权利。哪怕这个死囚不是错案，是一个血债累累的杀人犯，那这个犯人有权利吗？死囚的器官使用有规定吗？需要家属同意吗？还是毙了就可以器官随便用？死囚对自己的器官如果没有任何权益，那又有哪些法律条款能够保证中国的死牢不是器官移植的提取库？<br/>
+<blockquote>如果我们要谈器官移植，那我们必须谈一下中国刑法下死囚的权利。哪怕这个死囚不是错案，是一个血债累累的杀人犯，那这个犯人有权利吗？死囚的器官使用有规定吗？需要家属同意吗？还是毙了就可以器官随便用？死囚对自己的器官如果没有任何权益，那又有哪些法律条款能够保证中国的死牢不是器官移植的提取库？<br/>
 质疑器官移植的病人是愚蠢的，因为我相信中国不可能只有一个章含之作了器官移植。质疑医生也是愚蠢的，中国只有280万名医生，除了已经被病人家属在走廊里杀死杀伤的之外，我们真的还要质疑这些中国健康最稀有的资源吗？那我们质疑谁？<br/>
 去追寻聂树斌的肾移植到谁的身上没有意义，去追究聂树斌错案的原因来完善中国的司法制度则是有意义的，是唯一能防治更多冤案的措施。如果聂树斌的器官真的被移植采用，那么其他犯人呢 ？固然聂可能是冤案，那如果不是冤案的死囚的器官被任意采用呢？我们要不要保护死囚的人权以及他们的器官？</blockquote><br/>
 <br/>
@@ -73,7 +74,7 @@ Red Fire Age：<br/>
 <br/>
 <h2>★对聂案的质疑</h2><br/>
 《<a href="http://www.china50plus.com/%E8%81%82%E6%A0%91%E6%96%8C%E6%AD%BB%E4%BA%A1%E6%97%B6%E9%97%B4%E4%B8%8E%E7%AB%A0%E5%90%AB%E4%B9%8B%E6%8D%A2%E8%82%BE%E6%97%B6%E9%97%B4%E8%80%83/" rel="nofollow" target="_blank">“聂树斌死亡时间”与“章含之换肾时间”考 @ 人过五十网</a>》<br/>
-<blockquote style="background-color:#DDD;">1、<br/>
+<blockquote>1、<br/>
 先说章含之的换肾时间。<br/>
 <br/>
 1.1<br/>
@@ -152,7 +153,7 @@ av69：<br/>
 <br/>
 《<a href="http://mp.weixin.qq.com/s/YGEoye0cVtWn8l4RANSYiw" rel="nofollow" target="_blank">斯伟江：沉疴依然在 几度夕阳红 @ 微信公号</a>》<br/>
 （以下是此文摘录，文中的超链接是俺加注的）<br/>
-<blockquote style="background-color:#DDD;">刑事制度，号称小宪法，事关每一个人。官员可以被腐败之名，百姓可以被寻衅滋事。甚至不问世事的平民，只要有凶杀案发生，就会被屈打成招。网上有一个段子，说，如果<a href="https://zh.wikipedia.org/wiki/%E7%99%BD%E9%93%B6%E5%B8%82%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88" rel="nofollow" target="_blank">白银系列凶杀案</a>的凶杀没有留下血迹、指纹，这个案子就早破了。这确实是冷得发抖的笑话，一般人看不懂。<br/>
+<blockquote>刑事制度，号称小宪法，事关每一个人。官员可以被腐败之名，百姓可以被寻衅滋事。甚至不问世事的平民，只要有凶杀案发生，就会被屈打成招。网上有一个段子，说，如果<a href="https://zh.wikipedia.org/wiki/%E7%99%BD%E9%93%B6%E5%B8%82%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88" rel="nofollow" target="_blank">白银系列凶杀案</a>的凶杀没有留下血迹、指纹，这个案子就早破了。这确实是冷得发抖的笑话，一般人看不懂。<br/>
 在白银系列凶杀案报道中，（被害人）“小白鞋”的男朋友被关押了三天三夜。好在血型和指纹在，否则，案子就这样破了。<br/>
 <br/>
 安徽蚌埠20年前的区长助理<a href="http://www.bjnews.com.cn/inside/2014/05/29/318690.html" rel="nofollow" target="_blank">于英生杀妻冤案</a>平反，真正的强奸杀人犯——当地交警武某某随之落网。<br/>
@@ -172,7 +173,7 @@ av69：<br/>
 <br/>
 《<a href="http://www.xici.net/d236239558.htm" rel="nofollow" target="_blank">领导不倒台，你翻得了案吗？哪有迟来的正义，这是一记响亮的耳光！ @ 西祠胡同</a>》<br/>
 （以下是此文摘录，粗体是俺标注的）<br/>
-<blockquote style="background-color:#DDD;">1994年9月，一位女工被强奸致死，聂树斌被抓。1995年4月判决死刑，聂树斌被执行死刑。<br/>
+<blockquote>1994年9月，一位女工被强奸致死，聂树斌被抓。1995年4月判决死刑，聂树斌被执行死刑。<br/>
 聂树斌死后十年，2005年，网上通缉逃犯王书金被抓，供述自己是“聂树斌案”的真凶，供述的细节与奸杀案情非常符合。<br/>
 <br/>
 按说真凶落网，聂树斌应该是冤死的了。但我告诉你什么叫峰回路转，连脑洞最大的编剧都不敢这么写！2013年9月27日，河北省高院裁定，王书金非聂树斌案真凶。也就是说，河北高院认为，强奸杀人的还是聂树斌！！<br/>
@@ -421,7 +422,6 @@ Yi_袭人：<br/>
 纵向一比，比出一百多年这个国家究竟是进步还是倒退来。<br/>
 <br/>
 <br/>
-<br/>
 <h2>★网友的其它评论</h2><br/>
 旁观的鱼：<br/>
 【央视你怎么总和罪犯站在一起？】<br/>
@@ -451,13 +451,19 @@ Jian Alan Huang：<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a><br/>
-<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a><br/>
-<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a><br/>
-<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a><br/>
-<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a><br/>
-<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

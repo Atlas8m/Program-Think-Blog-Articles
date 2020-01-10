@@ -66,6 +66,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2015/07/China-Stock-Market-Psychology.md">股市点评：为啥大多数散户必定亏钱？——心理学层面的分析</a>》<br/>
 《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
 《<a href="../../2009/02/80-20-principle-0-overview.md">无处不在的二八原理</a>》<br/>

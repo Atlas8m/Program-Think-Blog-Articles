@@ -3,24 +3,26 @@
 -----
 
 <div class="post-body entry-content">
-　　庆安事件，犹在眼前。如今辽宁省北票市又出了类似的命案——司机殷海蛟莫名死于派出所。然后当地宣传部辩称：“是殷某身体发生异样导致死亡”。难怪网友们说：“庆安效应，开始蔓延！”<a name="more"></a><br/>
+　　庆安事件，犹在眼前。如今辽宁省北票市又出了类似的命案——司机殷海蛟莫名死于派出所。然后当地宣传部辩称：“是殷某身体发生异样导致死亡”。难怪网友们说：“庆安效应，开始蔓延！”<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★对此事的报道</h2><br/>
-<a href="http://news.oeeee.com/html/201505/27/262247.html" rel="nofollow" target="_blank">辽宁北票市回应交警执法中驾驶员死亡事件——死者身体异样 @ 南方都市报</a><br/>
+《<a href="http://news.oeeee.com/html/201505/27/262247.html" rel="nofollow" target="_blank">辽宁北票市回应交警执法中驾驶员死亡事件——死者身体异样 @ 南方都市报</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/iib-BuQtN5aLpMEe0Ku-_iPalnWGMZw6DROmLJrgfml8FUAENMhRJy7XDK6COKDf5cQEuHH-32v_J1OJgRd2nQhuljK5FgIDqJIbbrDrXIrlM91Zrm1rAMRWCtVpA51cka5KETX9Lw"/></center><br/>
-<a href="http://news.mingpao.com/ins1505281432827313708" rel="nofollow" target="_blank">【車伕派出所離奇死亡】官方稱「身體發生異樣」網民：不如說各器官打架而死 @ 明報</a><br/>
+《<a href="http://news.mingpao.com/ins1505281432827313708" rel="nofollow" target="_blank">【車伕派出所離奇死亡】官方稱「身體發生異樣」網民：不如說各器官打架而死 @ 明報</a>》<br/>
 （<a href="http://video3.mingpao.com/inews/201505/newspaper20150528dead.mp4" rel="nofollow" target="_blank">相关视频下载</a>）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/D2lmBeB--OnWgF5o4WME36GFlFj678mgTvbpAiCDjxbHcCD5808qVY3M9ezVmUjpiRwrhoEt_E7zp2nZMDx3PhfsBGlCMuarJ67FeTWrf9_rh5YNZiJN_beslojKOxMMW3_O-W-QGA"/></center><br/>
-<a href="http://news.sina.com.cn/c/2015-05-27/102831881644.shtml" rel="nofollow" target="_blank">辽宁回应交警执法中驾驶员死亡：身体异样死亡 @ 新浪网</a><br/>
+《<a href="http://news.sina.com.cn/c/2015-05-27/102831881644.shtml" rel="nofollow" target="_blank">辽宁回应交警执法中驾驶员死亡：身体异样死亡 @ 新浪网</a>》<br/>
 <br/>
-<a href="http://henan.china.com.cn/news/2015/0527/403725.shtml" rel="nofollow" target="_blank">辽宁北票回应交警执法中驾驶员死亡：死者身体异样死亡 @ 中国网</a><br/>
+《<a href="http://henan.china.com.cn/news/2015/0527/403725.shtml" rel="nofollow" target="_blank">辽宁北票回应交警执法中驾驶员死亡：死者身体异样死亡 @ 中国网</a>》<br/>
 <br/>
 心语xyy：<br/>
 【因为一辆车没有挂牌照而被交通执法人员活活打死在警车里面】<br/>
 五月二十五日下午十五点左右北票市交警队下属的马友营四中队在村级公路上劫了一辆无牌车，经过口绞后把无牌车司机强行带上警车。<br/>
 接下来的几个小时后，通知家属，司机已经死亡。（是4个交警活活将其打死）<br/>
 <center><img alt="不见图 请翻墙" src="images/-XUlMAtCFszRWCaTZug2mAaKCgrdD7a9QXy9R0LL5mTZSvrwj1N9NVC-oRxCdWx_9WJTZS2Qjv841CQ5FuITXQbEAiOsdCfcJGX7w-pcXt-zh3nekGtMY9wtfC77sf-jD2ZnqIRvuA"/></center>（编程随想注：据说这是最早爆料的微博）<br/>
+<br/>
 <br/>
 <h2>★网友评论新的死法——“身体发生异样”</h2><br/>
 东海之风：<br/>
@@ -87,6 +89,7 @@ zzzzzzz易：<br/>
 （某网易网友）：<br/>
 下次再有这种事情，估计要说：身体无缘无故死亡。<br/>
 <br/>
+<br/>
 <h2>★网友评论事情原因</h2><br/>
 艾夏米64：<br/>
 每次看到这种不符合正常逻辑的消息我就下意识的产生质疑。<br/>
@@ -101,6 +104,7 @@ TO 艾夏米64<br/>
 断人财路凭啥不打你？如果你敢反抗，警察觉得自己权威受到挑战，以袭警名义击毙打杀需要理由么？<br/>
 虾米同志装啥清纯？<br/>
 <br/>
+<br/>
 <h2>★网友点评警方及政法系统</h2><br/>
 我卖糕的2020：<br/>
 一种教条一旦控制了国家机关，国家就会成为镇压的工具，并迅即建立恐怖统治。<br/>
@@ -110,7 +114,7 @@ TO 艾夏米64<br/>
 秀才江湖时评：<br/>
 根据我的亲身经历，我觉得派出所非常像土匪窝，都是胡乱抓人，派小喽喽守着，大王不发话，人就不能放。<br/>
 几年来，我被抓到过深圳、广州、苏州、新余等地的土匪窝，昨天又被抓到长沙的一个土匪窝。<br/>
-被随时抓到派出所去过的朋友们，你们有同感吗？ <br/>
+被随时抓到派出所去过的朋友们，你们有同感吗？<br/>
 <br/>
 郑海玟：<br/>
 #身体发生异样# [打脸]<br/>
@@ -120,19 +124,20 @@ TO 艾夏米64<br/>
 执法者犯法，"公职"却成了护身符，那么无形中他们会更嚣张。<br/>
 <br/>
 当律师的陈刚：<br/>
-//@卞修全://@黄金如律师：痛心的是，至今还有为太原王警，庆安李警打死平民叫好的。//@陈光武律师://@郝劲松：又一起因警死亡事件<br/>
+//@卞修全://@黄金如律师：痛心的是，至今还有为太原王警，庆安李警打死平民叫好的。//@陈光武律师：//@郝劲松：又一起因警死亡事件<br/>
 <br/>
 吕薪然：<br/>
 看了视频哭了。录制视频的人说的很对，老百姓养着你们就是为了对付老百姓的吗？<br/>
 求说法，给人一个公道。都是爹娘生，你们怎么好意思下此狠手！希望相关人员不要瞎辟谣，求正式说法！！！！<br/>
 <br/>
 悠一说一：<br/>
-//@直播贪官://@媒体直转:连续不断地发生恶警枪拳打死民众事件,公安部应该严管你们的手下啦!而不是一味地去避谣,维稳地把公民生命当蚂蚁一样看待!给美帝有推波起浪的机会!<br/>
+//@直播贪官：//@媒体直转：连续不断地发生恶警枪拳打死民众事件，公安部应该严管你们的手下啦！<br/>
+而不是一味地去避谣，维稳地把公民生命当蚂蚁一样看待！给美帝有推波起浪的机会！<br/>
 <br/>
 廖睿：<br/>
 “身体发生异样”，这个死法有点出乎意料。<br/>
 1、发生了什么异样？有否法医学鉴定？<br/>
-2、结论应该由检察院来出吧？ <br/>
+2、结论应该由检察院来出吧？<br/>
 <br/>
 红星微评：<br/>
 关于此事首先需要澄清两点：<br/>
@@ -156,6 +161,7 @@ TO 艾夏米64<br/>
 看到这场景，我上前阻止，警察指我骂道：洋鬼子，敢管闲事，连你一起打！<br/>
 那一刻，我后悔了——我竟然来这样一个麻木变态的国家做访问学者。<br/>
 （编程随想注：乔姆斯基是美国语言学家、哲学家；至于此人是否说过这段话，俺没有去考证过。此处仅仅引用网友评论）<br/>
+<br/>
 <br/>
 <h2>★网友点评天朝的宣传系统</h2><br/>
 刘步尘：<br/>
@@ -187,7 +193,9 @@ wangjian198964：<br/>
 没有真相 || @cpuO577: 他们越发疯狂了~/发怒 || @ZXGCS359404338: 李乐斌、王文军效应开始蔓延??? || @z1580218085:<br/>
 <br/>
 法治路由器：<br/>
-//@李林燃2011: //@問題男孩兒:所以要反抗 //@吴越东路A:以后，警察直接被打死会更多。//@长沙凌杰10:邪恶公权理：被警察开枪击毙的都是该死之人，如徐纯合； 被警察用其他方式故意杀死的人都是将死之人，如殷某。<br/>
+//@李林燃2011：//@問題男孩兒:所以要反抗<br/>
+//@吴越东路A：以后，警察直接被打死会更多。<br/>
+//@长沙凌杰10：邪恶公权理：被警察开枪击毙的都是该死之人，如徐纯合；被警察用其他方式故意杀死的人都是将死之人，如殷某。<br/>
 <br/>
 长江直播说：<br/>
 【庆安效应开始蔓延……】<br/>
@@ -218,6 +226,7 @@ hhwyui：<br/>
 <center><img alt="不见图 请翻墙" src="images/-cn5BH7f-DBUalJpFRd9nPfx1toiTDtvNsMoBQ9XHaNFuMLQm0i_U35TnggAQYXAy8LWLRQvxFF4CgoutsXjE_78rI3Yasgg0buW5mty3ITJjnJhAo6_O_cqhxMzHKlIdpQQ9YyZlw"/></center><br/>
 大猫小眼2：<br/>
 <center><img alt="不见图 请翻墙" src="images/Krc_BYWNX8toWoLpGToe3wZIsFHtI0gD4KzPt45gMybdDCuqeUxbCXLJJwHB4HPow7B3H0gZRe4sq4TaFOx4jCNY7_d0hFtt99hfL0ZMoy8pE6kfu0nHeYm6S2fdGiE7v2u9xRjfbA"/></center><br/>
+<br/>
 <h2>★网友调侃“依法治国”</h2><br/>
 刘耘博士：<br/>
 近来政法系统热点不断：陈佳罗失联、庆安枪击、江西高院拒绝阅卷.....<br/>
@@ -237,6 +246,7 @@ hhwyui：<br/>
 上海专案：<br/>
 依法治国。只是法在哪里？<br/>
 <br/>
+<br/>
 <h2>★网友的其它评论</h2><br/>
 bimawen：<br/>
 有些人因为心理有疾患，总感到不安全，所以喜欢豢养恶犬。只有这些爪牙在他们身边的时候，他们的脸上才会有些血色，才敢上街走走。<br/>
@@ -247,12 +257,23 @@ bimawen：<br/>
 以后就是：瞎子看着聋子听哑巴表达民意。<br/>
 <br/>
 王天定：<br/>
-现在网上庆安事件余波未了，但湖南长沙陈检罗队长的事完全没人提及，所以，在中国，时间永远是最有绩效的危机公关大师，相关各方齐心协力做驼鸟，要不了几天，一切都会烟消云散。<br/>
+现在网上庆安事件余波未了，但湖南长沙陈检罗队长的事完全没人提及。<br/>
+所以，在中国，时间永远是最有绩效的危机公关大师，相关各方齐心协力做驼鸟，要不了几天，一切都会烟消云散。<br/>
+<br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2015/05/weekly-share-85.html">每周转载：大量网友围观庆安命案，并质疑CCAV视频（多图）</a><br/>
-<a href="http://program-think.blogspot.com/2015/04/weekly-share-84.html">每周转载：网民围观长沙警方，区伯收到艳照要挟</a><br/>
-<a href="http://program-think.blogspot.com/2015/04/weekly-share-83.html">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

@@ -4,7 +4,8 @@
 
 <div class="post-body entry-content">
 　　前几天，拖了18个月的浦志强案，终于庭审了。引发了大量网友的关注。今天俺发一篇《每周转载》，汇总个方面的报道和大量网友评论。<br/>
-　　希望有更多网友关注此事。<a name="more"></a><br/>
+　　希望有更多网友关注此事。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★浦志强其人</h2><br/>
 <a href="https://zh.wikipedia.org/wiki/%E6%B5%A6%E5%BF%97%E5%BC%BA" rel="nofollow" target="_blank">他的维基词条</a><br/>
@@ -12,6 +13,7 @@
 <br/>
 <a href="https://twitter.com/puzhiqiang" rel="nofollow" target="_blank">他的 Twitter 帐号</a><br/>
 （因为被捕，一年半前停止更新了）：<br/>
+<br/>
 <br/>
 <h2>★浦志强的言论摘录</h2><br/>
 （编程随想注：顺便摘录浦律师的一些言论。时间有限，只收集如下几条。欢迎大伙儿继续补充）<br/>
@@ -48,20 +50,20 @@
 一次不公正的司法判决，其恶果甚于十次犯罪。因为犯罪只是弄脏了水流，而不公正的判决却是弄脏了水源。<br/>
 ——培根<br/>
 <br/>
-<a href="http://www.bbc.com/zhongwen/simp/china/2015/12/151214_china_lawyer_trial" rel="nofollow" target="_blank">中国维权律师浦志强在北京受审 @ BBC/英国广播公司</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/MWm32O9FWGUIRmJGDwqDVYl4aIPQLGVJCi7cATcs1-uCWqhkkw9a9zXlgB1vISAqHpBqqxiCN_7UyAgXTG1fJ-ad5oPX3OkE48Ynm7cMkVwBu_bgYtl2fqfkpV6GN1x5vve6_iZHoQ"/></center>浦志强已被北京警方收押超过一年半。<br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2015/12/151214_china_lawyer_trial" rel="nofollow" target="_blank">中国维权律师浦志强在北京受审 @ BBC/英国广播公司</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/MWm32O9FWGUIRmJGDwqDVYl4aIPQLGVJCi7cATcs1-uCWqhkkw9a9zXlgB1vISAqHpBqqxiCN_7UyAgXTG1fJ-ad5oPX3OkE48Ynm7cMkVwBu_bgYtl2fqfkpV6GN1x5vve6_iZHoQ"/></center>浦志强已被北京警方收押超过一年半。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/NTYvWxR70qDB8gaktEobXvbejxE2FKZrrI4z5oU_g89bloTHEE26ttUhMnapvkNcVWdisK5fRfzlr62lzxJhpcdD-pxc0SqM-arEK6tkc8zis4DN7MjJTX9aoVPvl0PxCaGOV2Ps-A"/></center>警察在法院外盘查外国记者。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/bQAxwa3ARgf_ADgg7EUP61ASkxYdcnE6mQt0SsL4s0GF7JrQY1xMY73VU81_9ini4l3Z-gwYMthXaAuXctEanVO7z030nly1gBl3p8V1DmwiNYJ6hDaQn7r_hbpdhbjT6TZ48SGE2A"/></center>一些怀疑是警察，带着口罩的便衣人员猛力推搡记者和示威者，同时以摄像机拍下他们的模样。</blockquote><br/>
-<a href="http://www.rfa.org/cantonese/commentaries/com-12152015071620.html" rel="nofollow" target="_blank">梁京：浦志强案的重要意义 @ RFA/自由亚洲电台</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/anUUpWxUAnibZWQc0J43TLhssOcOlMS3lb8pPCIN5PtHa4n6mfWYihPD26_oo7deLMbyF5sKvjtM6vfket44qvbRsPPNzOKDUVZy6XTNDU5DUTNOHofj2QsUQm1C-5k6qEKsaU9isg"/></center><br/>
+《<a href="https://www.rfa.org/cantonese/commentaries/com-12152015071620.html" rel="nofollow" target="_blank">梁京：浦志强案的重要意义 @ RFA/自由亚洲电台</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/anUUpWxUAnibZWQc0J43TLhssOcOlMS3lb8pPCIN5PtHa4n6mfWYihPD26_oo7deLMbyF5sKvjtM6vfket44qvbRsPPNzOKDUVZy6XTNDU5DUTNOHofj2QsUQm1C-5k6qEKsaU9isg"/></center><br/>
 从2014年5月6日被拘留，到开庭这一天，浦志强在未被定罪的情况下被羁押长达587天。在此期间，当局耗尽了"正式起诉前的所有法律程序上的时限"，结果是，只有七条共600馀字的微薄言论作为起诉罪证。浦志强在法庭上表示不认罪。他虽然"头发花白，瘦了许多"，但"精神很好"。这说明，当局迫害浦志强的一个重要目的，也就是从精神上和人格上摧毁他的目的，完全没有达到。而当局的另一个目标，就是罗织其他政治和经济罪名的目标也没有达到。</blockquote><br/>
-<a href="http://cn.nytimes.com/china/20151215/c15lawyerweibo/" rel="nofollow" target="_blank">浦志强案检方证据曝光——七条微博 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20151215/c15lawyerweibo/" rel="nofollow" target="_blank">浦志强案检方证据曝光——七条微博 @ 纽约时报</a>》<br/>
 <br/>
-<a href="https://theinitium.com/article/20151214-dailynews-puzhiqiang/" rel="nofollow" target="_blank">浦志強羈押近600天後受審結束未認罪，「頭髮花白，瘦了很多」 @ 端傳媒</a><br/>
+《<a href="https://theinitium.com/article/20151214-dailynews-puzhiqiang/" rel="nofollow" target="_blank">浦志強羈押近600天後受審結束未認罪，「頭髮花白，瘦了很多」 @ 端傳媒</a>》<br/>
 <br/>
-<a href="http://www.dw.com/a-18919460" rel="nofollow" target="_blank">德语媒体：冬天里浦志强和郭广昌 @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-18919460" rel="nofollow" target="_blank">德语媒体：冬天里浦志强和郭广昌 @ 德国之声</a>》<br/>
 <br/>
 愚-言：<br/>
 【伟大的审判】<br/>
@@ -69,7 +71,7 @@
 <br/>
 <br/>
 <h2>★法律专业人士的点评</h2><br/>
-<a href="http://blog.dwnews.com/post-864105.html" rel="nofollow" target="_blank">何兵：“七条微博案”的法律分析</a><br/>
+《<a href="https://blog.dwnews.com/post-864105.html" rel="nofollow" target="_blank">何兵：“七条微博案”的法律分析 @ 多维新闻</a>》<br/>
 （编程随想注：何兵是中国政法大学法学院副院长、博导）<br/>
 <br/>
 张雪忠：<br/>
@@ -78,12 +80,12 @@
 另外，不管你自己怎么想，千万不要告诉警方别人做过什么！<br/>
 <br/>
 CHRD人权捍卫者：<br/>
-#自由浦志强 <a href="http://www.bbc.com/zhongwen/simp/multimedia/2014/06/140618_vid_zhangsizhi_on_puzhiqiang.shtml" rel="nofollow" target="_blank">视频：代理律师张思之谈浦志强案</a><br/>
+#自由浦志强 <a href="https://www.bbc.com/zhongwen/simp/multimedia/2014/06/140618_vid_zhangsizhi_on_puzhiqiang.shtml" rel="nofollow" target="_blank">视频：代理律师张思之谈浦志强案</a><br/>
 即使有100个能干的律师可能也改不了中国当局处置浦志强的决心。<br/>
 他认为中国当局早就想好了如何处置浦志强。如果浦志强没去参加今年的六四聚会、躲过了这次的迫害，也躲不过明年。<br/>
 <br/>
-<a href="http://wqw2010.blogspot.nl/2015/12/blog-post_66.html" rel="nofollow" target="_blank">张雪忠：致浦志强案的一审法官的公开信 @ 维权网</a><br/>
-<blockquote style="background-color:#DDD;">公诉机关对浦志强的犯罪指控，依据的是他曾写过的七条微博。但这些微博的内容，都只是对国家政策或国家工作人员的批评、讽刺，纯属行使言论自由的正当行为。<br/>
+《<a href="https://wqw2010.blogspot.com/2015/12/blog-post_66.html" rel="nofollow" target="_blank">张雪忠：致浦志强案的一审法官的公开信 @ 维权网</a>》<br/>
+<blockquote>公诉机关对浦志强的犯罪指控，依据的是他曾写过的七条微博。但这些微博的内容，都只是对国家政策或国家工作人员的批评、讽刺，纯属行使言论自由的正当行为。<br/>
 <br/>
 浦志强的言论不构成犯罪，这对法律专业人士和非专业人士，都是一目了然的。在这种情况下，如果诸位法官仍要判定当事人有罪，那么，即使依照现行的法律，你们的行为也将触犯刑法第399条第1款之规定，涉嫌犯下枉法裁判罪。<br/>
 <br/>
@@ -119,22 +121,22 @@ CHRD人权捍卫者：<br/>
 <br/>
 <br/>
 <h2>★各界的声援</h2><br/>
-<a href="http://cn.nytimes.com/china/20151215/c15lawyer/" rel="nofollow" target="_blank">人权律师浦志强在京受审，中外支持者声援 @ 纽约时报</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/BsvZ2KKco-9mM4F-M6BYAQGLMc4LTH0P82HklYfBwAt9rD6OIEhHO8C4HXRJ_3Y85xUDXurQAdk8DKEU8ImAX3PwtNVglMRu1BkiYIod7vyXmKkHoS8NZysdSFevZFnhG2wMO5P9fw"/></center></blockquote><br/>
-<a href="http://www.appledaily.com.tw/realtimenews/article/new/20151214/752590/" rel="nofollow" target="_blank">浦志強今北京受審　龍應台臉書聲援 @ 蘋果日報</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/YEUqg1M0LSU9Q4wqGrbGW0Ax5kvNbGUhiy8K4HZz5d1CDogVu4JICKAtfrPwZ8Zo0XnUhJ6TgwvI41DNjql3MxhbZmJDx7-q_x-qAZR5CGi6M4MdrDPhhPTKLqm_lOwnFqul1yXUQg"/></center><br/>
+《<a href="https://cn.nytimes.com/china/20151215/c15lawyer/" rel="nofollow" target="_blank">人权律师浦志强在京受审，中外支持者声援 @ 纽约时报</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/BsvZ2KKco-9mM4F-M6BYAQGLMc4LTH0P82HklYfBwAt9rD6OIEhHO8C4HXRJ_3Y85xUDXurQAdk8DKEU8ImAX3PwtNVglMRu1BkiYIod7vyXmKkHoS8NZysdSFevZFnhG2wMO5P9fw"/></center></blockquote><br/>
+《<a href="https://www.appledaily.com.tw/realtimenews/article/new/20151214/752590/" rel="nofollow" target="_blank">浦志強今北京受審　龍應台臉書聲援 @ 蘋果日報</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/YEUqg1M0LSU9Q4wqGrbGW0Ax5kvNbGUhiy8K4HZz5d1CDogVu4JICKAtfrPwZ8Zo0XnUhJ6TgwvI41DNjql3MxhbZmJDx7-q_x-qAZR5CGi6M4MdrDPhhPTKLqm_lOwnFqul1yXUQg"/></center><br/>
 中國維權律師浦志強在北京受審，前文化部長龍應台今凌晨在臉書（http://ppt.cc/TYUlB）發文聲援，她表示：<br/>
 「<b>天快亮了！律師浦志強是一個頂天立地的中國公民。今天上午九點，他將被帶到北京第二中級人民法院受審。法官應該知道，全世界的華人都在等候這早上九點，等著看：在偉大的『中國夢』裡，國家這個機器將如何處置寫了六百多字的浦志強。是的，北京，請做給我們看。我們需要知道『中國夢』裡文明的進度究竟走到了哪裏。</b>」</blockquote><br/>
-<a href="http://hk.apple.nextmedia.com/news/art/20151217/19415024" rel="nofollow" target="_blank">桑普：聲援浦志強　盡公民責任 @ 蘋果日報</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/orRsu9JHNWtna8Khl2gvuhXxPwYFkLlMOSLQcjyyB9EGYNAB94qLApOnKHHn0q7gIDmYkEbnsqDZ1MlpxO-TktvW9L1S_7su6efGANOMRT-m77yCuDojmTeWdqhlVzqfrzKLKfbBoA"/></center><br/>
+《<a href="http://hk.apple.nextmedia.com/news/art/20151217/19415024" rel="nofollow" target="_blank">桑普：聲援浦志強　盡公民責任 @ 蘋果日報</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/orRsu9JHNWtna8Khl2gvuhXxPwYFkLlMOSLQcjyyB9EGYNAB94qLApOnKHHn0q7gIDmYkEbnsqDZ1MlpxO-TktvW9L1S_7su6efGANOMRT-m77yCuDojmTeWdqhlVzqfrzKLKfbBoA"/></center><br/>
 還記得浦志強於被捕前的2014年2月14日，在日本東京大學演講中，曾經說過這些話，實在發人深省：一、「我認為人權律師的目標應該是美麗島律師。我們這些人之所以沒有能像陳水扁那樣大展鴻圖是因為沒有一本《美麗島》雜誌，所以要捍衞言論自由，維護辦報的自由。」二、「中共建國以來六十多年的歷史已經證明並將繼續證明，前所未有的改革必須是針對共產黨的。」三、「如果說習近平想防止黨（中共）長期執政所帶來的腐敗問題的話，那就不要長期執政就可以了。」四、「我用我自己對歷史的看法，我能夠痛切地感受到，只有沒有了共產黨，才能會有新中國。」這些看法一針見血，值得仔細回味。時至今日，當劉曉波、高智晟、許志永、王宇、浦志強一個接一個被關押的時候，我們更期待周永康、江澤民、胡錦濤、溫家寶、習近平一個接一個被清算。<br/>
 浦志強說過：「言論自由令人神往，有了它不等於擁有一切，但失去它卻意味可能失去一切。」我更要指出：我們善用言論自由，仗義執言，聲援浦志強，才不會讓我們失去一切。暴政固可怕，沉默價更高。發揮我們的言論自由，通過各種意見平台和社交媒體，聲援浦志強、家屬，以及一切遭受中共暴政折磨的律師和公民，正是世界公民的最基本責任。</blockquote><br/>
-<a href="http://www.chinesepen.org/blog/archives/43402" rel="nofollow" target="_blank">德国官员呼吁释放浦志强 @ 独立中文笔会</a><br/>
+《<a href="https://www.chinesepen.org/blog/archives/43402" rel="nofollow" target="_blank">德国官员呼吁释放浦志强 @ 独立中文笔会</a>》<br/>
 <br/>
-<a href="http://www.chinesepen.org/blog/archives/43404" rel="nofollow" target="_blank">国际记者联盟谴责中国禁止媒体旁听浦志强审判 @ 独立中文笔会</a><br/>
+《<a href="https://www.chinesepen.org/blog/archives/43404" rel="nofollow" target="_blank">国际记者联盟谴责中国禁止媒体旁听浦志强审判 @ 独立中文笔会</a>》<br/>
 <br/>
-<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20151219/bkncn-20151219000316476-1219_05411_001.html" rel="nofollow" target="_blank">莫之許：浦志強命中注定的榮耀與苦難 @ 東網</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/lN6DOPcjuE_OgsgJWez-Sl6cAHJ4lw2QxZ_05gHMmoXXA63KAh5nxIzobNonJk-eC9XfoQaBOCmMKN41WLP_bYjEvE23NMDTQ7Ya0zRznBYViA0_sCHm1UBbV6QWMqL1PxDcfiAwOw"/></center><br/>
+《<a href="https://hk.on.cc/cn/bkn/cnt/commentary/20151219/bkncn-20151219000316476-1219_05411_001.html" rel="nofollow" target="_blank">莫之許：浦志強命中注定的榮耀與苦難 @ 東網</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/lN6DOPcjuE_OgsgJWez-Sl6cAHJ4lw2QxZ_05gHMmoXXA63KAh5nxIzobNonJk-eC9XfoQaBOCmMKN41WLP_bYjEvE23NMDTQ7Ya0zRznBYViA0_sCHm1UBbV6QWMqL1PxDcfiAwOw"/></center><br/>
 自2014年5月初浦志強被抓捕以來，此案廣受關注，開庭當日，美國、歐盟等多國外交官前往現場，宣讀聲明，多家國際媒體也前往採訪報道，期間，外交官和媒體記者均遇到粗暴對待。此外，庭外也聚集了大批的浦志強支持者，他們高呼「浦志強、無罪」的口號，有17人被現場帶走，幾天後，已知張占、王素娥、渠紅霞、冉崇碧等四人被刑事拘留，其他人則在拘押多時後或釋放，或仍滯留於馬家樓收容點。</blockquote><br/>
 BBC Chinese：<br/>
 中国维权律师 #浦志强 @puzhiqiang 的审判在经过一个上午的庭审后结束，并未当庭宣判。<br/>
@@ -148,7 +150,7 @@ BBC Chinese：<br/>
 <br/>
 国际特赦组织中文：<br/>
 #浦志强 因发表约600字的七条微博，而被控涉嫌“煽动民族仇恨罪”、“寻衅滋事罪”，审前拘留长达18个月，或面临长达8年监禁。<br/>
-浦志强勇于捍卫人权、敢于批评政府却遭当局惩罚，如果世上还有一丝正义存在，浦志强就应该得到立即无条件释放！ <br/>
+浦志强勇于捍卫人权、敢于批评政府却遭当局惩罚，如果世上还有一丝正义存在，浦志强就应该得到立即无条件释放！<br/>
 <center><img alt="不见图 请翻墙" src="images/H6Jr0so0Mm1Y84PGbsNumStpad9YBdS-SP9uzZSe6nsA_fkChTDplMzdyzC5KNkNbWqS2q-D2A3w0WkoGGz_HHjOTHMET0iJoJD1_c9cGzU-lszkQtBsMqYYbMM3fKWWGQU3pzOAqA"/></center><br/>
 国际特赦组织中文：<br/>
 中国当局对维权律师 #浦志强 的审判是旨在“让其他独立声音噤声的政治审判”，他获得公平审判的机会“近乎零”。<br/>
@@ -178,7 +180,7 @@ BBC Chinese：<br/>
 今天，我們知道他們的所謂「判決」是什麼，是再一次宣告它們的愚蠢殘忍和與人類文明作對的立場，展示它們作死的速度。<br/>
 <center><img alt="不见图 请翻墙" src="images/ezR7Hj43myfPOhQ7cjmwrjTxGUv9tFjOGzDoEkOHjOZ8CmNqyC0bd05rCuBGjyGSLgA1ZsOKKM_gUNvOjzJLkhzM3jDWP2TudmEzgX9ic0aUxMaVqmZDkaP_4I3Jhaz_Q5IGnrHxNg"/></center><center><img alt="不见图 请翻墙" src="images/8WdwV7z-YDZ5xuI6UsSXwsZr2Wc1zKHCWV8838nAC86nBZkAzpORIPt-vpIkPuOe1nLdiWUMyXGEivyfXKNbvvompD0Oj3B30d9dyDwXGbudn514eYUWNGHRBL2Zam8CHUpUeqt7_w"/></center><center><img alt="不见图 请翻墙" src="images/-og78uuTCvoSV3vgk2pD_MF1vUxCM7Z0LWi6Cb1nIc5ZzEQ7nkP8OOJAWeUUMEkgQGbs5fLUZLg70IR2GtpTcU35gz7pBs4ICgeCMit2MwJeR5EQCrW7io6Xmyi6jPucaQFkfAMAiA"/></center><br/>
 欧彪峰☔：<br/>
-舉牌聲援浦志強的人士還在增加⋯⋯ #浦志強 <br/>
+舉牌聲援浦志強的人士還在增加⋯⋯ #浦志強<br/>
 <center><img alt="不见图 请翻墙" src="images/HVwG8fq06pBmgvOx0rw4HLVJCH1N-tm26GR4qEu3pjfSu5hsRyVZ-oN8vd20hJdyDRzp5-i3FYqFQdQuhTsxFofoHqxPQWr9D1tvfxve2BKXG5HmBga-Uqr3L19M2iRBHDYxJadlDg"/></center><center><img alt="不见图 请翻墙" src="images/yiOu18U2cckbhwkbdfdTLVU9H2QWSDTfZLyXBz0w6siu4nvylESV0C5KsGG6hBpS2ms-WJPkn2bAEABGJ9a6lOHL_PSe1A-zif5QwaNB9RyTcErtKSdnrkVX6MVqulB9-nT6lbIcjQ"/></center><center><img alt="不见图 请翻墙" src="images/95ysHVNNVW-8FlY74wd3JL17k2sK5LpgptHPnjqNu6YSQ5qGF8NFYb7yYSKifpalhIqb3qqKztbqZVPOVjzOuCjPV5B7fOzQiVvFidXfYfHEMC70mF0pmSRz-R6KgHL-40c9VtDfbA"/></center><center><img alt="不见图 请翻墙" src="images/tPFxUVZ3KexcVPuFBak-h_nkkxgYMuMvPXSg4MWoP7aEyE2T88KGonrNi6rZDYBrKMx0lTJ3VFBrqlrQHT-CTDGfI9XZiQrokPE1ueAhk-YnNn056f8oyCgIOCFI0s-JuGbrARoz3g"/></center><br/>
 Yaxue Cao：<br/>
 <a href="http://m.china.diplo.de/Vertretung/china/zh/100-peki/151209-menschenrecht-ch-s.html" rel="nofollow" target="_blank">德国驻华大使馆在2015年国际人权日发表声明</a>：<br/>
@@ -251,7 +253,7 @@ N小时之后：<br/>
 郭宝胜：<br/>
 转自爱嘉：美国外交官被警察野蛮推搡，当时他正在朗读美国国务院声明。<br/>
 人群中开始大声高喊“浦志强无罪”。<br/>
-今天最壮观的喊声——浦志强无罪。 <br/>
+今天最壮观的喊声——浦志强无罪。<br/>
 <br/>
 LifeTime：<br/>
 今天美国、欧盟代表都在现场发表声明。<br/>
@@ -282,7 +284,7 @@ bravo_liu：<br/>
 印象中的浦律永远都是那个乐观爽朗的大个子，就像第一次见面时午后的阳光一样给人安全感。<br/>
 <br/>
 jsuhan：<br/>
-@店小二：今天我在朋友圈连续统计了100篇帖子，涉及浦志强的达98篇，把头像改成浦志强照片的有78人。 <br/>
+@店小二：今天我在朋友圈连续统计了100篇帖子，涉及浦志强的达98篇，把头像改成浦志强照片的有78人。<br/>
 <center><img alt="不见图 请翻墙" src="images/HG-LcfNuu2Xh2gIkzSUtAoiMMDh6nSgFHnj2hys4kwW894ew2zL4Ml0W2rjbDdWs1Yatri1qUXkOjfN1ATg84BMy5EMLq5wLfHa-J6g-Hep_wB5zCwRQdfqjCtgkGm3V0wo9Ydr6ZA"/></center><br/>
 <br/>
 <h2>★朝廷方面如临大敌</h2><br/>
@@ -314,15 +316,15 @@ reporter记者刘虎：<br/>
 <center><img alt="不见图 请翻墙" src="images/TRn9CpRd7SKPYbAIe_Jd0yviIjj-mmZIA_IN1X1co36OI5gPOM0RndQ3DliOCtFCx--YyPLED875uNnuYZ_iYOQizAJOEYEptsxyuJN-RDBxFSVPf9u0_LF2Km5qXNi_PnjEQ6YEBw"/></center><br/>
 <br/>
 <h2>★官府也不是吃素的，开始抓捕国内的声援者</h2><br/>
-<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xl1-12162015103320.html" rel="nofollow" target="_blank">百人围观浦案遭大抓捕 20人仍在押或失联 @ RFA/自由亚洲电台</a><br/>
-<blockquote style="background-color:#DDD;">中国著名律师浦志强被控煽动民族仇恨、寻衅滋事案14日在北京开庭，当天有逾百来自全国各地的民众和维权律师到法院外举行声援活动，数十人遭警察及便衣抓捕后押上大巴车送往派出所，至12月16日，仍有20多人在押或失联。<br/>
+《<a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xl1-12162015103320.html" rel="nofollow" target="_blank">百人围观浦案遭大抓捕 20人仍在押或失联 @ RFA/自由亚洲电台</a>》<br/>
+<blockquote>中国著名律师浦志强被控煽动民族仇恨、寻衅滋事案14日在北京开庭，当天有逾百来自全国各地的民众和维权律师到法院外举行声援活动，数十人遭警察及便衣抓捕后押上大巴车送往派出所，至12月16日，仍有20多人在押或失联。<br/>
 在法院外参与声援行动的刘华接受本台采访时称，大部分声援者被关在方庄派出所。期间他们被辗转四个地方，目前已经有人被刑拘。<br/>
 刘华：“现在就放出了两个，北京方庄的警察看得可严格了，其他人还没有人被放出来。方庄派出所关了三个，其中一个叫梁红霞的，他们三个人现在还没有消息。久敬庄打电话说有可能这三个人被刑拘了。还有一个已经送到了丰台看守所，已经刑拘了。”<br/>
 刘华表示，被捕的声援者只是因为拿着“浦志强无罪”的标语，高呼“浦志强无罪”的口号。</blockquote><br/>
-<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf1-12172015095826.html" rel="nofollow" target="_blank">声援浦志强四公民被刑事拘留 @ RFA/自由亚洲电台</a><br/>
-<blockquote style="background-color:#DDD;">浦志强案于12月14日开庭审理，当天，北京警方在法院外带走了数十名声援浦律师的公民。截至目前，一些公民已陆续获释，其中包括12月17日上午刚刚离开久敬庄的鲍乃刚、崔斌和兰召春，三人共被拘禁了70个小时。不过，河北张占、辽宁王素娥、渠红霞、广西冉崇碧等四人一直被当局扣押，至17日传来消息，四人已被刑事拘留。</blockquote><br/>
-<a href="http://www.chinesepen.org/blog/archives/43413" rel="nofollow" target="_blank">因围观浦志强案开庭，北京丰台分局可能刑拘4人 @ 独立中文笔会</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/IXnP70FJht_u5cwX-1WgGDWTq57mWRFlrIQNuCtPTStIOxjhE4kh0iiH2XsEA87Og7ci7RMgqDNJiE_WaS246l2Yw8JD33U38_6EdyD0v-Tqf8gGut-FH_rfkYeUlcwjBupCqogoDA"/></center>因围观浦志强而被关押在久敬庄的维权人士<br/>
+《<a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf1-12172015095826.html" rel="nofollow" target="_blank">声援浦志强四公民被刑事拘留 @ RFA/自由亚洲电台</a>》<br/>
+<blockquote>浦志强案于12月14日开庭审理，当天，北京警方在法院外带走了数十名声援浦律师的公民。截至目前，一些公民已陆续获释，其中包括12月17日上午刚刚离开久敬庄的鲍乃刚、崔斌和兰召春，三人共被拘禁了70个小时。不过，河北张占、辽宁王素娥、渠红霞、广西冉崇碧等四人一直被当局扣押，至17日传来消息，四人已被刑事拘留。</blockquote><br/>
+《<a href="https://www.chinesepen.org/blog/archives/43413" rel="nofollow" target="_blank">因围观浦志强案开庭，北京丰台分局可能刑拘4人 @ 独立中文笔会</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/IXnP70FJht_u5cwX-1WgGDWTq57mWRFlrIQNuCtPTStIOxjhE4kh0iiH2XsEA87Og7ci7RMgqDNJiE_WaS246l2Yw8JD33U38_6EdyD0v-Tqf8gGut-FH_rfkYeUlcwjBupCqogoDA"/></center>因围观浦志强而被关押在久敬庄的维权人士<br/>
 <br/>
 目前，久敬庄还关押着鲍乃刚、兰召春、崔斌。而刘懿、辽宁沈阳访民赵明、辽宁访民岳永进等三人的情况也未明。中国人权观察代理秘书长徐秦发出信息说：“18:10声援浦志强案的崔斌给我打来电话，目前久敬庄还有鲍乃刚、兰召春和他自己三名声援公民被扣押着，身边有4-5个保安看着他们，其余被家乡人员接走。18:08我亲自打芳城派出所电话，以亲戚的身份核实张占现在何处，值班民警说现在所里没有扣押任何人，张占是否被拘留明天早上可以电话查询。”<br/>
 ......<br/>
@@ -371,8 +373,8 @@ reporter记者刘虎：<br/>
 <br/>
 <h2>★关于“依法治国”</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/OpoDj_Cx4QQ566Truz2bCpyBag3yc4tjMApaFjHqHouSfcZ0X_cNMiKXLF3ZDw0UtTxdkcKmnIKMmL7ruZRsIvhjg9mhRcUHPCsjeeQBr-GxcvIS9-xezmX8UFvpeL-9qmxpCvulMQ"/></center><br/>
-<a href="http://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/" rel="nofollow" target="_blank">唐映红：如何“依法”使无罪之人有“罪”？</a><br/>
-<blockquote style="background-color:#DDD;">当法律仅仅是权力集团奴役和统治民众的工具，而丝毫也不能约束权力集团自身时，那么对于权力集团“依法”使无罪之人有“罪”可谓是轻而易举。<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2015/12/%E5%A6%82%E4%BD%95%E4%BE%9D%E6%B3%95%E4%BD%BF%E6%97%A0%E7%BD%AA%E4%B9%8B%E4%BA%BA%E6%9C%89%E7%BD%AA%EF%BC%9F/" rel="nofollow" target="_blank">唐映红：如何“依法”使无罪之人有“罪”？ @ 中国数字时代</a>》<br/>
+<blockquote>当法律仅仅是权力集团奴役和统治民众的工具，而丝毫也不能约束权力集团自身时，那么对于权力集团“依法”使无罪之人有“罪”可谓是轻而易举。<br/>
 首先，可以随时修改法律。<br/>
 ......<br/>
 其次，在不必或不宜修改法律来新造罪名时，可以通过先抓再罗织罪证的方式来使威胁到权力集团的民众陷入“犯罪”的境地。<br/>
@@ -380,7 +382,7 @@ reporter记者刘虎：<br/>
 如果通过不断地延期，也无法罗织出足以令无罪的民众有“罪”，那么还可以采取构陷的方式。<br/>
 ......<br/>
 当然，如果修改法律，罗织罪名，构陷栽赃都无法令对权力集团有威胁的无罪民众有“罪”，那么索性抛开“依法”的面纱，直接突突突，也不是什么不可思议的事情。</blockquote><br/>
-<a href="https://theinitium.com/article/20151209-opinion-puzhiqiang-rule-of-law-duanqinghong/" rel="nofollow" target="_blank">段宏慶：浦志強案與中國司法不可承受之重 @ 端傳媒</a><br/>
+《<a href="https://theinitium.com/article/20151209-opinion-puzhiqiang-rule-of-law-duanqinghong/" rel="nofollow" target="_blank">段宏慶：浦志強案與中國司法不可承受之重 @ 端傳媒</a>》<br/>
 <br/>
 吴仁华：<br/>
 该文值得一读，充分显现中共警方不择手段构陷浦志强。<br/>
@@ -414,7 +416,7 @@ agostic：<br/>
 蒲飞：<br/>
 任何诚实的人都应该承认浦案的实质是政治问题而非司法问题。<br/>
 所以，时至今日还在搞所谓致法院联名信也好，意见书也好。<br/>
-说好听点是行为艺术，说难听点就是转移目标。一点看法，不一定对 <br/>
+说好听点是行为艺术，说难听点就是转移目标。一点看法，不一定对<br/>
 <br/>
 許梅邨：<br/>
 就因为七条微博，组成个专案组干了几百天，这个花费得多少？<br/>
@@ -428,7 +430,7 @@ wentommy：<br/>
 被再次“依法”延长三个月审期，您已经被不明不白关押了18个月多。<br/>
 延长三月审期到期日是2016年2月18日，农历正月初十一春节期间，情人节后第四天。<br/>
 时间横跨三年还拿不出一个像样的证据来<br/>
-http://fw.cm/N52QuGpky  <br/>
+http://fw.cm/N52QuGpky<br/>
 <center><img alt="不见图 请翻墙" src="images/y6D4R37RdAxjc4hwykl7LV5Dqda1aL88nLiqNeIR6kBANlBFlS4pzR23BbwbynLree-T72Cqul-eua1K89UKakRZKbc_kPH6TI2MGhz14eZuNG7p9Z-PQRb14EyyIsYjeecW4Op_MA"/></center><br/>
 準風月談：<br/>
 本来只是指望浦律像某些公知一样，一被抓人就怂，到央视亮个相，做个自我检讨之类，就能起到杀鸡吓猴的效果，然后展现宽大为怀的形式释放或轻判缓刑之类。<br/>
@@ -439,10 +441,10 @@ http://fw.cm/N52QuGpky  <br/>
 总有人在政治案开庭的时喊话：法官，请你坚守良知！<br/>
 殊不知，贵国政治案件庭审中，哪来的法官？<br/>
 哪次不是党内领导密室会议定好罪名，那些庭上的人，装模作样演戏？<br/>
-所以，喊话应该改为：没有良知的党官，你们迟早被清算！ <br/>
+所以，喊话应该改为：没有良知的党官，你们迟早被清算！<br/>
 <center><img alt="不见图 请翻墙" src="images/_cx4H0K1z2FrD6YGhaA8D_B57hffRjDtYj8DdXVnj_YJiVO_etIV6mm8_bpF20VIRtvW4wjimzysL4KLsgt3qq_41XWVSvTq1xKDM5iizfmcDG16C80B5FT3OXZZclLNvfU4LSqo_A"/></center><br/>
 贾榀：<br/>
-这样的人被送进监狱，是对法律的践踏！ <br/>
+这样的人被送进监狱，是对法律的践踏！<br/>
 <center><img alt="不见图 请翻墙" src="images/JsIYUxzY2A_FwySMje9wkHhWJ2cayIuKA7Lyb8ESLhlz-pIz5AM9RBw-kS790hRXWNPO2JkGZiWlyJJXJX1p3JLkD0KsARiv77vKpfHchBGjhhyP0IE6rz_z-FzMWLOijO4utBLJkQ"/></center><br/>
 Freiheit：<br/>
 诚如是。@sailingger 浦律师案，大家确实不是等待判决，而是再一次目睹公然的政治迫害。<br/>
@@ -487,8 +489,8 @@ Freiheit：<br/>
 如果有检查言论的权力，那也应当是人民检查政府的言论，而不是政府检查人民的言论。<br/>
 ——詹姆斯·麦迪逊（美国宪法起草人之一、第四任总统）<br/>
 <br/>
-<a href="http://cn.nytimes.com/china/20151217/c17chinalawyer/" rel="nofollow" target="_blank">浦志强七条微博测试中国言论自由 @ 纽约时报</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/XO323R77EK1339lRE0y83ZGOybRthFF32P9CDvmeBfNPXwuuVxHNnPlqVXRexOzhhNcU00Q9pwR-dv0RNp6YU_wPGmyz9njoHuTktYQiZVw_ywGKNG0RV0HiHbD9dHKWYlOXAZY9dw"/></center><br/>
+《<a href="https://cn.nytimes.com/china/20151217/c17chinalawyer/" rel="nofollow" target="_blank">浦志强七条微博测试中国言论自由 @ 纽约时报</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/XO323R77EK1339lRE0y83ZGOybRthFF32P9CDvmeBfNPXwuuVxHNnPlqVXRexOzhhNcU00Q9pwR-dv0RNp6YU_wPGmyz9njoHuTktYQiZVw_ywGKNG0RV0HiHbD9dHKWYlOXAZY9dw"/></center><br/>
 北京——许多中国互联网用户正在忧心忡忡地观察着人权律师浦志强的案子，检察机构起诉浦志强的根据来自他在2011年至2014年间在类似Twitter的微博平台上发的七个短帖子。虽然外国官员普遍谴责这个案子是政治迫害，但很少有人关注围绕言论自由问题的具体法律后果，而这才是许多关心浦志强困境的中国人所忧虑的问题。<br/>
 ......<br/>
 莫少平是浦志强的律师之一，莫少平说，浦志强在法庭上说，他愿意向任何感情受到自己帖子伤害的人道歉。但他的律师队伍也在法庭上作了浦志强的帖子为什么不构成犯罪的辩护。<br/>
@@ -532,15 +534,15 @@ kent88：<br/>
 <br/>
 <br/>
 <h2>★又见五毛（而且是机器五毛）</h2><br/>
-<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" rel="nofollow" target="_blank">当高科技网军占领网络上甘岭（可惜操作有误） @ 中国数字时代</a><br/>
-<blockquote style="background-color:#DDD;">@在下张耀之 的原微博下相关“正能量”自动发帖程序（又称“机器五毛”）的评论已经在新浪微博上被删除，以下网友截屏来自豆瓣网。<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/" rel="nofollow" target="_blank">当高科技网军占领网络上甘岭（可惜操作有误） @ 中国数字时代</a>》<br/>
+<blockquote>@在下张耀之 的原微博下相关“正能量”自动发帖程序（又称“机器五毛”）的评论已经在新浪微博上被删除，以下网友截屏来自豆瓣网。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/pISTcSZvbG6InxKyB3OeM8WFV97YgU4mDDkn2O-Ts9ASc_LCtnCAP5kVtD8GoNzYjQSsIg2eD9LctYBFRehxsd6cnmleCtp_Ap05LRpktNSS3WzdjfcJyCeFTDwhAGHzEOtTFY_BLw"/></center><center><img alt="不见图 请翻墙" src="images/U-AXMtWLMrJqyctG7tgxfG9QR_85mExP4fVJb9Ze-8oeFZpbLDVmfNwxlZauuJF4Y7j-SiXic0V5duKtc35WT5qm9SiH6aiw0byag_elsrKqDDgbsdJS8HcmcYeFnT3oPU0w3wAocw"/></center><center><img alt="不见图 请翻墙" src="images/Ubq5aSpsH3_Ca5lVS8RUPAUP2WFb2OhF97FvZgYDmyA1XTIP0w5_fnLnR5333SDXmYcwQe0W2xddwmtnyrPzI0TIUC_a8uTIsHFV5HJ-M3vQWH4axM0uDi22xGWF2ZxMEj5f5gbMgA"/></center><center><img alt="不见图 请翻墙" src="images/G063wQG9VCfsIhSwDtX8c8CKf9lMJlf2y7SBM7-xnL5JPBQ9MA39tnczXYx73ny5Sd1KDqinX3pN1Qm-ChpbQRhGgi8q7-CY5K2iSjkqDV09fe3AKX0A3LJLW6ZaSQaLMmap2EDBhQ"/></center><center><img alt="不见图 请翻墙" src="images/NbY4QtGIBFkxRuO5Hs9xQ3nm2rI0bD8m2Zh-SwRWVEqnm5orpoyYjMO9Whz24BEzIcha8qZYb0dsbfiUrCXHM5aDTWA0M-npgeSAqbewT9sJtQOsAHEumZlGiKmOzJD9JgPPYNWi5Q"/></center><center><img alt="不见图 请翻墙" src="images/00wqkI4CWmrY5t8KJEdCh1XpWFt7z7iHDCocx7c5VwPR02wMTW0ttE5WR_LoI4WJRt_FRdokOYKkc62oJtuQyyAUhpCw-1cTHWwBX-BoY1dx9fvDOZ41YVbKigEetbR33xjvpMb5Hw"/></center><center><img alt="不见图 请翻墙" src="images/S_fUJWfSCKeqNQJ5jylOYQ3SKMfi5it_NiiavSCJihIKEvq5mJbKpsbjA8CRqRnPCbHW0sT58dUXwJNT04t7MvqYXISuqP-dufEV67eKihLVxqnEDFAYziPTGgCsIIeALS4tz8nwNw"/></center><center><img alt="不见图 请翻墙" src="images/DfciYMDiP0Doqisk1ZMrvu8YDHFozAHZrkJm2aHo9vi94WAg_roMxRsv8BKDelZvubVJsQePJ2uiJF3hcqxxDO71JVopdknOEbbIMOEUwSWrI-iajSOBEmYdGOQCdBrLCmCFoTUw7g"/></center><center><img alt="不见图 请翻墙" src="images/mhuhVfHZO98SxvBFAgP8EF8zzR4F64QAB3b_MCb5cofRMJGHtLTY1G2u3reYWCEC4sWEBFSqEV1Oou0IibuaGtYLxJ9gICy0Q9p_zKdnd3m_b043-BQCZhhbbHdg204XBGHjIQ_L0Q"/></center></blockquote><br/>
 （编程随想注：<br/>
 以下是网友们汇总的“机器五毛语录”，语录中的编号应该就是机器五毛数据库中的序号。<br/>
 大伙儿可以对照俺之前的博文《<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a>》，看看下面这些五毛言论都用到了哪些忽悠技巧）<br/>
 <br/>
-<blockquote style="background-color:#DDD;">2. 煽动民族仇恨，不得人心！<br/>
+<blockquote>2. 煽动民族仇恨，不得人心！<br/>
 4. 借助网络骂人，不会是想出名吧？<br/>
 5. 网上骂人，妈大发了吧！<br/>
 6. 看来，网上发言也得谨言慎行，遵守法律。<br/>
@@ -590,8 +592,8 @@ ly40123：<br/>
 听说这是机器自动发帖，哇！好先进啊！这下可是能省点钱了。<br/>
 可是怎么还有序号呢？<br/>
 <center><img alt="不见图 请翻墙" src="images/ErflPe53Q5P7-9m-GFQkRA4y5Xvl6SkvJOGqt1UXbT4xE_pbg9oa7l-9NTtRoLUpK6ZP43aOnHSGMGbUGCFzUc9aJ5YOF2-7Qth32zjDILY1kHy-62leNFHh1LRwCFnvWpCfnzAgAA"/></center><br/>
-<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" rel="nofollow" target="_blank">五毛召唤术——“pu志强”的魔力 @ 中国数字时代</a><br/>
-<blockquote style="background-color:#DDD;">浦志强案开庭后，新浪微博一夜之间冒出许多疑似来自机器人的相关评论。然而不知是否因操作有误，微博用户 @在下张耀之 发布的以下这则微博内出现了大量带有数字序号的相关评论；且浦案明明是择日宣判，这些带有序号的评论中却有不少诸如“判得好！”“支持法院的判决！”等“先知”的内容。<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/" rel="nofollow" target="_blank">五毛召唤术——“pu志强”的魔力 @ 中国数字时代</a>》<br/>
+<blockquote>浦志强案开庭后，新浪微博一夜之间冒出许多疑似来自机器人的相关评论。然而不知是否因操作有误，微博用户 @在下张耀之 发布的以下这则微博内出现了大量带有数字序号的相关评论；且浦案明明是择日宣判，这些带有序号的评论中却有不少诸如“判得好！”“支持法院的判决！”等“先知”的内容。<br/>
 于是有不少网民发现只要使用关键词“pu志强”，就能召唤出机器五毛评论。</blockquote><br/>
 <br/>
 <h2>★又见“真理部”</h2><br/>
@@ -618,6 +620,7 @@ Boksei689：<br/>
 （某不知名网友）：<br/>
 五毛新任务<br/>
 <center><img alt="不见图 请翻墙" src="images/uLhW0_U1eszVNB-WB9D6jkwMnp83D6dDbUjmCSTLdWdwq7RSvgsEdk4ZDg-UUg2IDc6WoBuSHE5PEu2UGEhDDNabI_B61L5AlGzmFqxpYo31csmlj6LuogdVxiYj6-h7lxIJbacG0g"/></center><br/>
+<br/>
 <h2>★浦志强与“六四事件”</h2><br/>
 去年“六四”前夕，浦志强在北京参加了由教授学者、律师、天安门母亲等10多位人士与会的“六四纪念研讨会”，之后就被捕了。一起被捕的还有与会的另外几个人。给他们定的罪名是“寻衅滋事”。<br/>
 （当时俺发了一篇《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》）<br/>
@@ -631,14 +634,14 @@ Boksei689：<br/>
 我与浦志强是师生，也是兄弟，89年从首次游行到天安门清场，都在一起。<br/>
 89年6月4日中午我和刘苏里从广场回校，找不到他，担忧极了。<br/>
 他今天出庭受审，再次让我担忧。小浦，万里之外，我的心与你同在。<br/>
-照片是89年5月14日我与小浦在天安门绝食 <br/>
+照片是89年5月14日我与小浦在天安门绝食<br/>
 <center><img alt="不见图 请翻墙" src="images/hHRcMAMwPWkthekDD-Ky-M5k4DzfENj4d6GPEqrxw3qltK-vSsqqvDbthAMxFO3zV9uiQ27J65JLJmK5or1E2RLEKTvkXIohiP6fRcUgc4dHH9lP8jEShTlONDS8au1JtvsvllvgpA"/></center><br/>
 <br/>
 <h2>★浦志强与韩国影片《辩护人》</h2><br/>
 （编程随想注：浦志强一案让很多人想起韩国前不久的电影《辩护人》）<br/>
 <br/>
-<a href="https://botanwang.com/articles/201512/%E8%BE%A9%E6%8A%A4%E4%BA%BA%E7%BB%8F%E5%85%B8%E5%8F%B0%E8%AF%8D.html" rel="nofollow" target="_blank">辩护人经典台词 @ 博谈网</a><br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/TR6hQlkxn95SBBNWUqXGwuJOmqCDY9eIRMcvvcbNu2uIaP-qwPt_6aM872t8IPyXH3rSqWPfFilCUUEMhmdp1HJw8YhOTqhVVQwWIOMMI1GXGhbW_DAcdoMjbGa6VFzOUqgUpjEe0w"/></center><br/>
+《<a href="https://botanwang.com/articles/201512/%E8%BE%A9%E6%8A%A4%E4%BA%BA%E7%BB%8F%E5%85%B8%E5%8F%B0%E8%AF%8D.html" rel="nofollow" target="_blank">辩护人经典台词 @ 博谈网</a>》<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/TR6hQlkxn95SBBNWUqXGwuJOmqCDY9eIRMcvvcbNu2uIaP-qwPt_6aM872t8IPyXH3rSqWPfFilCUUEMhmdp1HJw8YhOTqhVVQwWIOMMI1GXGhbW_DAcdoMjbGa6VFzOUqgUpjEe0w"/></center><br/>
 1 岩石再坚硬也是死的，鸡蛋再脆弱也是有生命的。石头最终会化为沙土，而鸡蛋孕育的生命总有一天会飞越石头。<br/>
 <br/>
 2 拿鸡蛋碰石头，看似不堪一击，自取灭亡，但是鸡蛋是有生命的，石头是死的；鸡蛋打破了是生命，鸡蛋可以跃过石头！<br/>
@@ -786,8 +789,19 @@ av69：<br/>
 <center><img alt="不见图 请翻墙" src="images/wW205envFZDqbkqMPKU6h_yMHGRaDrOHkZpEICTWE2vq2tQAA_EKPr205htiIHX6iCpNaPFP98X7KAGwTaMCQ6QQ6vfbVxnqCRKbRF1MRkllshJoiJ35K7yjKonX3QUgkOtcL_vivA"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a><br/>
-<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a>
+《<a href="../../2014/11/political-offences-in-china.md">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想 </a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

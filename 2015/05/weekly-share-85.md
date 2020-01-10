@@ -4,9 +4,11 @@
 
 <div class="post-body entry-content">
 　　早在一周前，就有热心读者建议俺聊聊庆安枪击案。当时俺说：再观望几天，说不定还会有啥猛料。果不其然，央视在5月14日公布了所谓的“现场视频”。这个视频确实忽悠了不少人，但是也引来很多网友的质疑。<br/>
-　　这个周末，俺花了好几个小时，汇总了大量的网友评论，另搭配少量外媒的报道。<a name="more"></a><br/>
+　　这个周末，俺花了好几个小时，汇总了大量的网友评论，另搭配少量外媒的报道。<br/>
+<a name="more"></a><br/>
 　　<b>事先声明：</b><br/>
 　　转载这些网民评论，主要是让大伙儿了解一下网络舆论，尤其是墙内不易看到的舆情。【不】代表俺赞同本文中转载的每一条评论的观点和立场。<br/>
+<br/>
 <br/>
 <h2>★写在前面的点评</h2><br/>
 　　本文的网友评论很多，图片也很多。怕某些读者没耐心看到结尾，把俺的点评放在开头。<br/>
@@ -17,14 +19,14 @@
 4. 而如今的事实是：拖了【长达12天】才在 CCAV 播放视频。<br/>
 5. 由“第3条和第4条”可得出——原始视频对党国是不利的。<br/>
 6. 由“第5条和第2条”可得出——“原始视频”与“播放视频”之间，肯定有差别。这个差别足以产生截然不同的舆论导向效果。<br/>
-7. 咱们天朝的中宣部（俗称“真理部”），在 PS 方面，那可是具有悠久的历史和良好的传承（继承自苏联老大哥）。有兴趣的同学可以看俺5年前的博文《<a href="http://program-think.blogspot.com/2010/09/censorship-of-images.html">看看真理部是如何PS照片的</a>》<br/>
+7. 咱们天朝的中宣部（俗称“真理部”），在 PS 方面，那可是具有悠久的历史和良好的传承（继承自苏联老大哥）。有兴趣的同学可以看俺5年前的博文《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何PS照片的</a>》<br/>
 （俺讲完了，下面是转载的内容）<br/>
 <br/>
-<h2>★对“CCAV公布视频”的技术分析</h2><br/>
-<a href="http://www.boxun.com/news/gb/china/2015/05/201505160225.shtml" rel="nofollow" target="_blank">央视庆安命案视频砸锅——假录像被破解了 @ 博讯网</a><br/>
 <br/>
+<h2>★对“CCAV 公布视频”的技术分析</h2><br/>
+《<a href="https://www.boxun.com/news/gb/china/2015/05/201505160225.shtml" rel="nofollow" target="_blank">央视庆安命案视频砸锅——假录像被破解了 @ 博讯网</a>》<br/>
 （编程随想注：以下是该文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;">先请看看，2015年5月14日官方发布的庆安人命案“监控录像”里，公安部专案组是如何污蔑死者徐纯合旅客的：<br/>
+<blockquote>先请看看，2015年5月14日官方发布的庆安人命案“监控录像”里，公安部专案组是如何污蔑死者徐纯合旅客的：<br/>
 在下图里，他被编辑为气势汹汹地逼近警察!<br/>
 且慢，您如果相信这段，那么，你就务必要注意，这段片子里面最亮出的人影，是倒退走路的。请看：<br/>
 <center><img alt="不见图 请翻墙" src="images/GjxYr9zS7j56612ez6tJJ1rWwOSbR68bEQAFpY8AxPpJuA2F6-XWUsDvw2MpO-ChH3Md7a0isgxCzRJcQfMVF4uJW9zm1dNl6ZYykl97-jUlJIJ9F0SnII0ZKvgoeJP96bePdFNFlQ"/></center><br/>
@@ -41,10 +43,9 @@
 在下面已经正确还原的实时录像里，左上角黑衣人+中间亮处的倒影人，是向人体前方走路的。<br/>
 <center><img alt="不见图 请翻墙" src="images/6Oafd2D4jmQEkFayQUpGkzl046lTHVT1KiNk6TghJTleNGxpMMnJnVr251TG825oKYubkM61jhWIKQHSqmK4gsnEKyFHqjQKSyXLZhsMx8U5GjjlhTWrgA4pVLwGOcaSmy_RDDCDtA"/></center><br/>
 公安部的PS技术，还是欠点火候啊！当然，12天也不短了。</blockquote><br/>
-<a href="https://botanwang.com/articles/201505/%E5%A4%AE%E8%A7%86%E6%AC%B2%E7%81%AD%E7%81%AB%E5%8F%8D%E5%8A%A9%E7%81%AB%7C%E5%89%AA%E6%8E%A5%E8%A7%86%E9%A2%91%E7%96%91%E7%82%B9%E5%A4%9A.html" rel="nofollow" target="_blank">央视欲灭火反助火 剪接视频疑点多 @ 博谈网</a><br/>
-<br/>
+《<a href="https://botanwang.com/articles/201505/%E5%A4%AE%E8%A7%86%E6%AC%B2%E7%81%AD%E7%81%AB%E5%8F%8D%E5%8A%A9%E7%81%AB%7C%E5%89%AA%E6%8E%A5%E8%A7%86%E9%A2%91%E7%96%91%E7%82%B9%E5%A4%9A.html" rel="nofollow" target="_blank">央视欲灭火反助火 剪接视频疑点多 @ 博谈网</a>》<br/>
 （编程随想注：以下是该文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;">1.“小件寄存”变“平价超市”<br/>
+<blockquote>1.“小件寄存”变“平价超市”<br/>
 <center><img alt="不见图 请翻墙" src="images/Ex6mu-RKXwVdfItOEY9qCNlgdWpBOZxg56IK172koIgyCW-62DL3VGKTthTAsCDeOzwuQUlugolCxpe93Zulh3bwtQpFe5Td9FGw5i-NxAza2cPy15L8OkM0-BRkyNgol8oCzYmfWg"/></center>（编程随想注：根据某网友给出的另一张现场的照片，“小件寄存”和“平价超市”两行字都有。估计是两张照片不同拍摄角度的关系，导致遮挡）<br/>
 <br/>
 2.警察的警徽忽左忽右<br/>
@@ -52,10 +53,9 @@
 <br/>
 3.抛摔女儿的画面剪接明显<br/>
 <center><img alt="不见图 请翻墙" src="images/6MN1rMKz6Od45go16s4o1Se4YW7HxazgAkKzdrHP51xz76-3sS_9ZaAJ-DSdoiXpPYc391P5QriO93CGKi1u5nDhHRQ5R2aZbbteiz_eLgVsYa8H_22dCkx3s6K7t1SXjrcoXcg-Dw"/></center></blockquote><br/>
-<a href="http://canyu.org/n98335c6.aspx" rel="nofollow" target="_blank">让央视播出的徐纯合事件视频说话——不是抽帧加PS技术制作出“摔孩子”？ @ 参与</a><br/>
-<br/>
+《<a href="https://canyu.org/n98335c6.aspx" rel="nofollow" target="_blank">让央视播出的徐纯合事件视频说话——不是抽帧加PS技术制作出“摔孩子”？ @ 参与</a>》<br/>
 （编程随想注：以下是该文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/g1ks0MMlmh3343p_On4rC7iUbVhfHg4TFf4V38jp2WoFz33P_DogezwsJ4SaASm3lq5dfzFnQcTiudYCRNIkw0FBepxinN8rAs-2wv9qXZaWiTYnLOAT6XfKSZbnfChFaxHA8hvH9w"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/g1ks0MMlmh3343p_On4rC7iUbVhfHg4TFf4V38jp2WoFz33P_DogezwsJ4SaASm3lq5dfzFnQcTiudYCRNIkw0FBepxinN8rAs-2wv9qXZaWiTYnLOAT6XfKSZbnfChFaxHA8hvH9w"/></center><br/>
 如上组图，是央视徐纯合事件视频“掷孩子”一秒来钟的瞬间，按时间先后解析出来的。通过下面分析可见，正常需要一秒多完成的动作，几分之一秒就完成了。以此制作出“摔孩子”的现象，把行为正常的徐纯合制作成歹徒，而歹徒李乐斌被制作成了“英雄”。<br/>
 <br/>
 画面3中，孩子开始从徐纯合手中脱出，孩子在李乐斌肩部的高度。此时，李乐斌左脚在前。<br/>
@@ -114,7 +114,7 @@ Michael Anti：<br/>
 《公布的命案视频真的砸锅了：自相矛盾6个画面》<br/>
 http://m.kdnet.net/share.php?id=10898445&amp;boardid=1<br/>
 （编程随想注：上述网址已经被河蟹，俺从 Google 网页快照中找到此文对应的图片和文字，如下）<br/>
-<blockquote style="background-color:#DDD;">徐旅客甩孩子，官方前后的几次版本比较一致，都解释说，只摔过一次孩子。<br/>
+<blockquote>徐旅客甩孩子，官方前后的几次版本比较一致，都解释说，只摔过一次孩子。<br/>
 但是，官方5月14日发布的电子监视视频中，黄衣服孩子被摔2次，一次出现在警察的右侧，另一次出现在警察的左肩。<br/>
 其中，爱奇艺转载的官方视频中，4分26秒时,徐纯合抛出女孩到警察的右侧；然后4分30秒时,就变成了该女孩被砸在民警的左肩。<br/>
 <center><img alt="不见图 请翻墙" src="images/ps707Rfk-boW1JkeDKyvCbO2W3GTu360IoFlWPSYVeB6YbM51jN-mnHFlEHu4LacqPU_kRofuurIirgfKUayBKIETbjGi9xSEM8KmJQbRQmTJ4yTDGP3ntAX2JFTSqW3Lx4yJt9ujQ"/></center><center><img alt="不见图 请翻墙" src="images/nNU4cHKw0-jYBC0K_Kbm7lPk7SQNOjOC-fxLvfTWKZwaVmLj-aGEMJqgl21TDfjVpvt2WXloxqiPwv671XOd2gYk0lAEMWe6xCcxFte1HI9ATJ9QAdPsTvcryx8FjLEtS0nOJuFIyQ"/></center><br/>
@@ -170,15 +170,17 @@ wujianking：<br/>
 palichen：<br/>
 是的，相当怪异，我也特地看了十几遍此段视频，在安检处，李警察右臂是绝对没有警徽绣标的，可是在他开门时，右臂却明显有标志。咋解释啊？？？<br/>
 <br/>
+<br/>
 <h2>★对“官方视频”中立性、客观性的质疑</h2><br/>
-<a href="http://cn.nytimes.com/china/20150517/c17police/" rel="nofollow" target="_blank">中国警察枪杀访民，官方调查难以服众 @ 纽约时报</a><br/>
+《<a href="https://cn.nytimes.com/china/20150517/c17police/" rel="nofollow" target="_blank">中国警察枪杀访民，官方调查难以服众 @ 纽约时报</a>》<br/>
 （编程随想注：以下是《纽约时报》文章的部分摘录）<br/>
-<blockquote style="background-color:#DDD;">枪击事件发生后，网络评论人士吴淦立即开始找寻目击者。他从一名旁观者的手机里获取了<a href="https://www.youtube.com/watch?t=18&amp;v=UAqvYWq1ewo" rel="nofollow" target="_blank">一段40秒的视频</a>，其中显示，那名警察正在用警棍打徐纯合，徐纯合则在骂警察，并试图抢过那根棍子。<br/>
+<blockquote>枪击事件发生后，网络评论人士吴淦立即开始找寻目击者。他从一名旁观者的手机里获取了<a href="https://www.youtube.com/watch?t=18&amp;v=UAqvYWq1ewo" rel="nofollow" target="_blank">一段40秒的视频</a>，其中显示，那名警察正在用警棍打徐纯合，徐纯合则在骂警察，并试图抢过那根棍子。<br/>
 吴淦称，另一名目击者联系到他，给他看了一段类似的手机视频，是从另一个角度拍摄的。但他表示，政府一直在向他施压，让他不要追究此案。<br/>
 中央电视台播放的视频中没有出现吴淦发布在网上的那些动作。</blockquote><br/>
-<a href="http://www.dw.de/a-18452055" rel="nofollow" target="_blank">长平：徐纯合活该被击毙？ @ 德国之声</a><br/>
+《<a href="https://www.dw.com/a-18452055" rel="nofollow" target="_blank">长平：徐纯合活该被击毙？ @ 德国之声</a>》<br/>
 <br/>
-<a href="http://minzhuzhongguo.org/ArtShow.aspx?AID=52744" rel="nofollow" target="_blank">雷鸣声：警察枪杀访民徐纯合案仍存在诸多疑问 @ 民主中国</a><br/>
+《<a href="http://minzhuzhongguo.org/ArtShow.aspx?AID=52744" rel="nofollow" target="_blank">雷鸣声：警察枪杀访民徐纯合案仍存在诸多疑问 @ 民主中国</a>》<br/>
+<br/>
 <br/>
 <b>（编程随想注：以下是网友的评论）</b><br/>
 <br/>
@@ -302,12 +304,13 @@ wujianking：<br/>
 你要还是马克思主义的政党，就把所有视频毫不保留地放出来，让全国人民看，以正视听。<br/>
 法院法庭该怎么判断怎么判断，<br/>
 <br/>
+<br/>
 <h2>★关于“李乐斌是否失职”？（包括各地警察的分析）</h2><br/>
 李方平律师：<br/>
 全国优秀警察、特警队长龚厚钦 @张家界铁匠龚厚钦 认为：铁路警察李乐斌用枪棍处置要么是法盲，要么上级早有授意。<br/>
 <center><img alt="不见图 请翻墙" src="images/epDBR5E6LyeoeZJPa12JGdRVVAEF-uJo5kIkPJTvlYsGeuc-fpux1m8zfXV3fb4Jv-ciWOxGIIOIjYHrzUoLaPqrDwj6UBnF62Hsn3Jo3zzXl-0HNFvqAJrojmjvfbCmLukyDrTvcw"/></center><center><img alt="不见图 请翻墙" src="images/28xih1EZ5Pod8CkNPJ2oG61Q-zO9E06YW_J3nRmRSk7xQYURUQnex6nh561-v2S7MjzO8xixsel2WXIjo1d5oNZ2fpoAB6l8RNW3vM12zs72flpPqJvZmBw_W4E55in-qFjqLJAzAw"/></center><center><img alt="不见图 请翻墙" src="images/YdNEtpVW3OpUkmmq_Boequz8ZWAoeMsRCzM2-m37VU6fyzBfT733AawdbUnkkJWiw0uk6XW5Z7whDADXdqGGRq3_yQJ-t8l5SU-3Qxu7Kmji5PJNI6bKRkD5G2onsqNrok1d3-_l_w"/></center><br/>
 老武是文建：<br/>
-<a href="http://ww1.sinaimg.cn/bmiddle/936f130djw1es54xiru5mj20hs3w6apm.jpg" rel="nofollow" target="_blank">转！一名真正的警察对徐事件的专业看法。</a><br/>
+<a href="https://ww1.sinaimg.cn/bmiddle/936f130djw1es54xiru5mj20hs3w6apm.jpg" rel="nofollow" target="_blank">转！一名真正的警察对徐事件的专业看法。</a><br/>
 <br/>
 秀才江湖：<br/>
 一个警察从自己的专业角度，对庆安事件，写了个技术分析帖，不仅帖子被删，人也被公布精神病了<br/>
@@ -350,6 +353,7 @@ RudPiG：<br/>
 旷浪七里湖：<br/>
 此警大有涉嫌谋杀的可能。绝非斗气，激情动杀机。<br/>
 <br/>
+<br/>
 <h2>★关于“袭警的罪名”</h2><br/>
 拉黑中国史第2季：<br/>
 把徐纯如简化为袭警是不是该击毙，可笑。<br/>
@@ -380,19 +384,21 @@ RudPiG：<br/>
 oldertimer：<br/>
 现在是等级森严的官本位制。所谓袭警，首先必须看那个“袭警”者是何等样人。如果他有一官半职，那个被袭的警察敢说半个不字？<br/>
 <br/>
-<h2>★关于“徐纯合家属起诉”</h2><br/>
-<a href="http://www.bbc.co.uk/zhongwen/simp/china/2015/05/150516_china_qingan_shooting_video_cctv" rel="nofollow" target="_blank">庆安案余波未了 受害者家属拟诉央视 @ BBC/英国广播公司</a><br/>
 <br/>
-<a href="http://canyu.org/n98297c6.aspx" rel="nofollow" target="_blank">徐纯合代理律师在哈尔滨铁路公安局门前举牌要求公布完整视频 @ 参与</a><br/>
+<h2>★关于“徐纯合家属起诉”</h2><br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2015/05/150516_china_qingan_shooting_video_cctv" rel="nofollow" target="_blank">庆安案余波未了 受害者家属拟诉央视 @ BBC/英国广播公司</a>》<br/>
+<br/>
+《<a href="https://canyu.org/n98297c6.aspx" rel="nofollow" target="_blank">徐纯合代理律师在哈尔滨铁路公安局门前举牌要求公布完整视频 @ 参与</a>》<br/>
 （编程随想注：以下是该文章引用的照片）<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/Oc72ZSa_m7ByBqSvHm8UOfsZb3pzjKt1Ughcey_iMTbrbYvvYBbHKDv9hbWpmE9kIiqxaaEzjivbi1L0Sbyxjyr3Ewc3mUI-OJ03CLGnfm_0csnSn59SXKQ3dcZem5ZGDP5kAo_ZEw"/></center><center><img alt="不见图 请翻墙" src="images/huIqNNzocNhR6-mgm0TtcxoRJIu9OTygPt9STQiaV6ndZpRa_672qDfvdob6iUTDatwB6KZ453dtYmrBuTHmSr17LO8fNfAaouiR9bMUnnbzA514RTuCjRpXcbONqTJ2LroEGsdPSQ"/></center><center><img alt="不见图 请翻墙" src="images/971l94P2rPDKaal0dhO2vO19FInwZw0Si2gYYB7sGjTt05ubq8sXbT5CVOQDvERt-XmmwfBNBVRmYHEyeiH5beqKWjnoo8xltQ-NkJPX6TmcgcwooWDek2-afAlx5bl1KE1sF7Va2Q"/></center><center><img alt="不见图 请翻墙" src="images/ZtVqBUFw5bCJNv2tu8AxqaqkKIHITQJnypyoEvnIipJqvkWA7eBb3G3x-gmX_DvqfWhw9KL4ZhbfURbLXOQwgFny04kL9seyz2tZmpevSVtAU0s-aI64T45duD6orWTnrUo05aIeoQ"/></center></blockquote><br/>
-<a href="https://botanwang.com/articles/201505/%E5%BE%90%E7%BA%AF%E5%90%88%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E5%A4%AE%E8%A7%86%7C5%E6%9C%88%E8%B5%B7%E6%8E%A5%E8%BF%9E%E4%B8%89%E5%91%8A.html" rel="nofollow" target="_blank">徐纯合家属起诉央视 @ 博谈网</a><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/Oc72ZSa_m7ByBqSvHm8UOfsZb3pzjKt1Ughcey_iMTbrbYvvYBbHKDv9hbWpmE9kIiqxaaEzjivbi1L0Sbyxjyr3Ewc3mUI-OJ03CLGnfm_0csnSn59SXKQ3dcZem5ZGDP5kAo_ZEw"/></center><center><img alt="不见图 请翻墙" src="images/huIqNNzocNhR6-mgm0TtcxoRJIu9OTygPt9STQiaV6ndZpRa_672qDfvdob6iUTDatwB6KZ453dtYmrBuTHmSr17LO8fNfAaouiR9bMUnnbzA514RTuCjRpXcbONqTJ2LroEGsdPSQ"/></center><center><img alt="不见图 请翻墙" src="images/971l94P2rPDKaal0dhO2vO19FInwZw0Si2gYYB7sGjTt05ubq8sXbT5CVOQDvERt-XmmwfBNBVRmYHEyeiH5beqKWjnoo8xltQ-NkJPX6TmcgcwooWDek2-afAlx5bl1KE1sF7Va2Q"/></center><center><img alt="不见图 请翻墙" src="images/ZtVqBUFw5bCJNv2tu8AxqaqkKIHITQJnypyoEvnIipJqvkWA7eBb3G3x-gmX_DvqfWhw9KL4ZhbfURbLXOQwgFny04kL9seyz2tZmpevSVtAU0s-aI64T45duD6orWTnrUo05aIeoQ"/></center></blockquote><br/>
+《<a href="https://botanwang.com/articles/201505/%E5%BE%90%E7%BA%AF%E5%90%88%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E5%A4%AE%E8%A7%86%7C5%E6%9C%88%E8%B5%B7%E6%8E%A5%E8%BF%9E%E4%B8%89%E5%91%8A.html" rel="nofollow" target="_blank">徐纯合家属起诉央视 @ 博谈网</a>》<br/>
 <br/>
 吕京花：<br/>
 【徐纯合母亲的代理律师谢阳被打骨折！】<br/>
 今晚十一点钟，覃永沛律师和湖南谢阳律师和当事人在南宁市五一路206号北部湾建材市场，被黑社会人员打成重伤，谢阳小腿被打骨折！<br/>
 <br/>
-<h2>★关于“朝廷喉舌CCAV”</h2><br/>
+<br/>
+<h2>★关于“朝廷喉舌 CCAV”</h2><br/>
 【“一蠢再蠢”，还能更蠢？】<br/>
 央视及宣传机构的工作方式已经明显的不适应这个时代了。每当他们宣传炒作，忽悠民众之时，总因其观念之落后，手段之低劣，言论之奇葩，往往得到相反的效果，南辕北辙，欲盖弥彰。所以网民尊称其为卧底高级黑，成事不足败事有余，领导气愤而斥责其“一蠢再蠢”。<br/>
 从北京的“77元房租”到满街采访“你幸福吗？”，从采访造假到画面造假，每遇到公众事件，则发雷人言论，上骗领导，下骗民众，无论是非曲直，一律替体制人员站台，包庇犯罪，粉饰太平。<br/>
@@ -491,6 +497,7 @@ Brian Zhang：<br/>
 央视首先在人格道德上对徐作出了死刑的判决，然后警察将其击毙自然也就合情合理甚至合法了。<br/>
 按说这些与本案无直接关系的是不许上法庭的，但猪国人就信这一套。。。<br/>
 <br/>
+<br/>
 <h2>★关于“维稳”</h2><br/>
 于建嵘：<br/>
 刚才，一位副县级女学员问：教授，中央到底知不知道，地方已烂得一塌糊涂了？<br/>
@@ -538,8 +545,9 @@ jajia：<br/>
 Victor：<br/>
 利益一致时，世上最强大的朝廷可以为一个小捕头修剪视频；利益冲突时，长老和王爷也不过是等待被碾压的蝼蚁。<br/>
 <br/>
+<br/>
 <h2>★关于“庆安当地的衙门”</h2><br/>
-<a href="http://www.bbc.co.uk/zhongwen/simp/china/2015/05/150513_china_officials_shooting_case" rel="nofollow" target="_blank">庆安枪击案引发更多当地官员遭举报 @ BBC/英国广播公司</a><br/>
+《<a href="https://www.bbc.com/zhongwen/simp/china/2015/05/150513_china_officials_shooting_case" rel="nofollow" target="_blank">庆安枪击案引发更多当地官员遭举报 @ BBC/英国广播公司</a>》<br/>
 <br/>
 <b>（编程随想注：以下是网友的评论）</b><br/>
 <br/>
@@ -560,14 +568,15 @@ Victor：<br/>
 以拆迁名义拿回土地出让金，短短的2年时间里付芝就通过霸占、索要、侵吞、骗取等手段为自己敛财1000余万。<br/>
 请继续检举揭发让庆安官员们颤抖吧！<br/>
 <br/>
+<br/>
 <h2>★来自海内外的声援</h2><br/>
 维权网：<br/>
 紧急关注：因在北京南站拉条幅“谴责枪杀徐纯合”，6访民被刑拘（图）<br/>
-http://wqw2010.blogspot.com/2015/05/6.html<br/>
+https://wqw2010.blogspot.com/2015/05/6.html<br/>
 <center><img alt="不见图 请翻墙" src="images/NvmHJSl7tHLVuHBC5T-Ula-sknY2AfYLDWIi_VvL29dq6Nj-5ClxO3xR8BOaf-Yu3AuLY1dveZrs8_f7i7ELfsjFgr7FioDg0UwcWIBR5YKMMxs9f52KR4f4UinjToAF3htiAiMx8w"/></center><br/>
 博讯新闻台：<br/>
 多名访民在北京南站声援徐纯合被刑拘：<br/>
-<a href="//youtu.be/4cCQmEnwM9c" rel="nofollow" target="_blank">http://youtu.be/4cCQmEnwM9c</a>（来自@YouTube）<br/>
+https://youtu.be/4cCQmEnwM9c（来自@YouTube）<br/>
 <br/>
 周周煮粥：<br/>
 【慶安現場】十四名公民被抓上警車！ #慶安 #徐純合 #被鐵路警察槍殺<br/>
@@ -578,7 +587,7 @@ http://wqw2010.blogspot.com/2015/05/6.html<br/>
 #慶安 #徐純合 #被鐵路警察槍殺<br/>
 <center><img alt="不见图 请翻墙" src="images/ishQ2Znayz3zoXxiNS-HVs6sEN2-18lpKZ0s_uaoaJPAAuVP8nE3IlvK6YviXjlDiz-J9M2ey8TSpBzGXfTmKp9CBy2omSSl6jGeGnU1LEvmIOtuy7BFOPUbGU_LNnKOSQK6_r9mzg"/></center><br/>
 周周煮粥：<br/>
-轉發：2015年5月13日，北京石榴庄李焕君，曹继方，第十八天到中国驻美国华盛顿大使馆抗议！ 强烈要求黑龙江警方，律师团共同彻查恶警枪杀徐纯合案，死者需要清白才可瞑目，家人需要公平，公正，公民需要真相，世界需要真相。 #徐純合 #慶安 <br/>
+轉發：2015年5月13日，北京石榴庄李焕君，曹继方，第十八天到中国驻美国华盛顿大使馆抗议！ 强烈要求黑龙江警方，律师团共同彻查恶警枪杀徐纯合案，死者需要清白才可瞑目，家人需要公平，公正，公民需要真相，世界需要真相。 #徐純合 #慶安<br/>
 <center><img alt="不见图 请翻墙" src="images/VLpp7zhaRgV30X_mkp7acwL8L20yMUoNrvhiRYUUGubceJBa5dsEh3Adh-dkey96I3-f5BekIp3JAn3aoiTZxQZNPw2koCwX7Zu99ImN3UyZh60hOB5S9kAjdgnWjyTeefXdun5a2w"/></center><center><img alt="不见图 请翻墙" src="images/JQQ9B2qW2pyXCtv_Bj3PXbiCTZrc2fIk3TVol2KzfTzX2JcsMNoGFQR7YhSUs54OG2mfBZy9XtoQs4jKaY1pzrmJEapln6ec4fXgdi7ATAIPw2HzAhFec4BuKVMSAIhWVbsQG5gGZA"/></center><center><img alt="不见图 请翻墙" src="images/s_PlJU9W5KFVjPn3b9FNkpAYX1Xd7SUz_0q372XG2QK27vFKrQfaklQzotEw-o2fNuK5P_gI5Jb5hmdxJXyYrkLzomUKnDEcbPtGt1z6CPMcyPuCwaHPJvk7-ekSm145ZeaNrC4c9g"/></center><center><img alt="不见图 请翻墙" src="images/JegtxOuVnhTemlGhhCFlB1KAjid8GhxpNjVsnCHGDDQouaz8fadxFvSv5xlldm5kE8ciEI9fzPd5WKljdiqRjx5YeG2ad33kycT-L0BcWTNTuM276eEfgtwsp2aWphUQU4c8WaxNjQ"/></center><br/>
 周周煮粥：<br/>
 新街頭一景  #徐純合<br/>
@@ -586,6 +595,7 @@ http://wqw2010.blogspot.com/2015/05/6.html<br/>
 周周煮粥：<br/>
 上海沈艷秋：【嚴懲惡警李樂斌】【平冤昭雪徐純合】 #徐純合 #慶安 #被鐵路警察槍殺<br/>
 <center><img alt="不见图 请翻墙" src="images/tkY3hUsnwCXVYCkf3DR_vay3rx9U25Sag5UtOhVzWVVmOw_BaOEaOMk2pMW0Y-e7xIsXIs_hU4TiFZLjqaN7dE52qzS6O8k4pyd9iKsr77ly64rQsoqXfjncdVAFQBsPb3Kgw9i4DA"/></center><center><img alt="不见图 请翻墙" src="images/fLcIst52QFAg0ddHhX0BlQy4SekZ-arxdOA2k6_H79R4vPViJEnhCWNUXGYexUDF5V9Z4DY9vZlbbTD8QA_xLt3gO8h3bZ46TtOiTATDqHwI_W2nR9F0sT5KFN014NZ-IH7DJ_OZ_A"/></center><br/>
+<br/>
 <h2>★又见“真理部和五毛党”</h2><br/>
 数字时代“真理部指令”项目：<br/>
 [真理部指令] 庆安枪击案：<br/>
@@ -604,10 +614,11 @@ http://wqw2010.blogspot.com/2015/05/6.html<br/>
 带路村长：<br/>
 今天网易、搜狐、新浪关于徐纯合事件全国各地的五毛们全体出动开始洗地了。所有的评论都是“打得好、打得正确、支持政府、支持开枪”的声音。<br/>
 <br/>
+<br/>
 <h2>★对比美国</h2><br/>
 VOA法律窗口：<br/>
 小夏看美国：如果徐纯合碰上的是美国警察<br/>
-http://www.voachinese.com/content/US-Sasha-if-xu-chunhe-met-american-polices-20150514/2767636.html<br/>
+https://www.voachinese.com/content/US-Sasha-if-xu-chunhe-met-american-polices-20150514/2767636.html<br/>
 <br/>
 方舟子：<br/>
 看了庆安事件的监控视频，不管是否经过剪辑，追警察、摔小孩、拿警棍袭警，被击毙是活该。<br/>
@@ -631,10 +642,11 @@ http://www.voachinese.com/content/US-Sasha-if-xu-chunhe-met-american-polices-201
 孑孑：<br/>
 通过徐纯合事件再次认清了方舟子是个什么货色<br/>
 <br/>
-<h2>★网友的其它评论</h2><br/>
-<a href="http://www.bbc.co.uk/zhongwen/simp/china/2015/05/150512_view_heilongjiang_xuchunhe" rel="nofollow" target="_blank">笑蜀：徐纯合是治理无能的牺牲品 @ BBC/英国广播公司</a><br/>
 <br/>
-<a href="http://www.voachinese.com/content/heqinglian-blog-xuchunhe-20150515/2771400.html" rel="nofollow" target="_blank">何清涟：徐纯合之死缘起——国家亲权责任缺失 @ VOA/美国之音</a><br/>
+<h2>★网友的其它评论</h2><br/>
+<a href="https://www.bbc.com/zhongwen/simp/china/2015/05/150512_view_heilongjiang_xuchunhe" rel="nofollow" target="_blank">笑蜀：徐纯合是治理无能的牺牲品 @ BBC/英国广播公司</a><br/>
+<br/>
+<a href="https://www.voachinese.com/content/heqinglian-blog-xuchunhe-20150515/2771400.html" rel="nofollow" target="_blank">何清涟：徐纯合之死缘起——国家亲权责任缺失 @ VOA/美国之音</a><br/>
 <br/>
 项小凯：<br/>
 徐纯合被枪杀，有公知声称在看到完整视频前不能断定警察有错。<br/>
@@ -673,7 +685,7 @@ http://www.voachinese.com/content/US-Sasha-if-xu-chunhe-met-american-polices-201
 <br/>
 沙漠渔夫010：<br/>
 【论剪辑的重要性】<br/>
-<center><img alt="不见图 请翻墙" src="images/_ehf_SjgQx1ClQbDawHtbFglvvnUz-htLDT2I_pzHcR3J8YoXr8ZLCsGQXuZjBxJW5q3C3uql29XpppaQnXeSYxZzOtoxSnGJLOpn20ODE_cMDtQ5z_vvoW6KnKsmX49x0JfFeA-uQ"/></center><center><img alt="不见图 请翻墙" src="images/cHDs_fWe8J0jWoRbNDwR8S9ee35agAugwClgMSoiGu7bAf1txQ7FW7cTz082POyedPyn1RZnWiwSNMLBmcj-E-y8Bzc3mO6MGLxgSvb1VbHtfWwio7qIuICkk1meNfz2Ai1wTF6p1A"/></center>（编程随想注：这两张是很有名的PS对比图。请注意上图，毛腊肉的另一只爪子。图中这位MM，文革时期红极一时。至于她的功能，你懂得）<br/>
+<center><img alt="不见图 请翻墙" src="images/_ehf_SjgQx1ClQbDawHtbFglvvnUz-htLDT2I_pzHcR3J8YoXr8ZLCsGQXuZjBxJW5q3C3uql29XpppaQnXeSYxZzOtoxSnGJLOpn20ODE_cMDtQ5z_vvoW6KnKsmX49x0JfFeA-uQ"/></center><center><img alt="不见图 请翻墙" src="images/cHDs_fWe8J0jWoRbNDwR8S9ee35agAugwClgMSoiGu7bAf1txQ7FW7cTz082POyedPyn1RZnWiwSNMLBmcj-E-y8Bzc3mO6MGLxgSvb1VbHtfWwio7qIuICkk1meNfz2Ai1wTF6p1A"/></center>（编程随想注：这两张是很有名的 PS 对比图。请注意上图，毛腊肉的另一只爪子。图中这位MM，文革时期红极一时。至于她的功能，你懂得）<br/>
 <br/>
 段宏庆：<br/>
 【庆安枪声的中国政治喻象】<br/>
@@ -720,7 +732,7 @@ http://minzhuzhongguo.org/ArtShow.aspx?AID=52755<br/>
 <br/>
 Cai Chu：<br/>
 徐纯合遭枪杀——与你我有关！(图)<br/>
-http://canyu.org/n98084c6.aspx<br/>
+https://canyu.org/n98084c6.aspx<br/>
 但随之而来的是，人人自危。为此，有人在网上发出诸如此类的问话：我们离徐纯合的遭遇还有多远？下一个被枪杀的“徐纯合”会是谁？<br/>
 尤其是那些常常被政府雇凶打得头破血流的冤民，更是感到惶惶不可终日。<br/>
 <br/>
@@ -753,11 +765,21 @@ idzhang3：<br/>
 谢雪：<br/>
 当一个国家，在面对罪恶之时，大部分人却总是这样：<br/>
 1、骂是没有用的，又改变不了什么。2、这很正常啊，我们又能怎样。3、关我什么事，管好你自己吧。4、这个国家就是这样的，你改变不了的，习惯了就行。<br/>
-——可以肯定，这个国家一定会成为地狱 <br/>
+——可以肯定，这个国家一定会成为地狱<br/>
 <center><img alt="不见图 请翻墙" src="images/V4fev3RA9ayA4rbz03SIRipHMg5Hx8-sSoxyEx9PFL0FbwVVPPiyM_3Kcu8EN4AHHJvgD6378_laxtVlPpBUtMUsizt_2-eTBCiuvDeDfZqwaGwwTMxavgckLcsT6dJpn1FWRCMAQQ"/></center><br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2015/05/weekly-share-86.html">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a><br/>
-<a href="http://program-think.blogspot.com/2010/09/censorship-of-images.html">看看真理部是如何PS照片的</a>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

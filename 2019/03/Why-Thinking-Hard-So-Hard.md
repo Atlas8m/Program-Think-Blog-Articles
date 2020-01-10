@@ -465,6 +465,7 @@
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
 《<a href="../../2015/12/Hobbies-and-Interests.md">什么是【真正的】兴趣爱好？以及它有啥好处？</a>》<br/>
 《<a href="../../2012/02/microblog-and-time-management.md">为啥俺不常用微博？——兼谈时间管理心得</a>》<br/>

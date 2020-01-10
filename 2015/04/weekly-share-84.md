@@ -4,18 +4,20 @@
 
 <div class="post-body entry-content">
 　　虽然“区伯被嫖娼”事件已经一个月了，但并未消停。一方面，有人拿艳照企图要挟区伯；另一方面，有大量的网友长期围观长沙警方的官方微博，场面甚为壮观。今天这篇转载，主要就是这两个方面。<br/>
-　　去年俺曾经写过一篇《<a href="http://program-think.blogspot.com/2014/11/political-propaganda-become-less-effective.html">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a>》。看完网友在 @长沙警事 下的评论，或许你能更直观地感受到——朝廷正在丧失互联网的舆论阵地。<a name="more"></a><br/>
+　　去年俺曾经写过一篇《<a href="../../2014/11/political-propaganda-become-less-effective.md">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a>》。看完网友在 @长沙警事 下的评论，或许你能更直观地感受到——朝廷正在丧失互联网的舆论阵地。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★有心人偷拍艳照，企图要挟区伯</h2><br/>
 　　先来说一下“区伯事件”出现新的情况：<br/>
 　　区伯开房的那个房间事先已被人安装了两个摄像头。某个“有心人”在4月22日通过短信，拿艳照要挟区伯，让他息事宁人。（如此一来，更加坐实网友对“构陷”的猜测。而发短信要挟区伯的人，很可能就是消失多日的“皮条陈国保”）<br/>
 　　4月24日，区伯接受微信公号“路标”的采访，把这个猛料抖出来。微信公号“路标”发文，对此进行详细报道。<br/>
 　　这篇报道再度让党国颜面尽失。这几天，真理部（中宣部）已经下令，要求<b>全网删除</b>该报道。由于墙内的报道都被和谐了，俺特地去找了一篇海外媒体的报道，链接如下：<br/>
-<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20150424-%E5%B9%BF%E5%B7%9E%E5%8C%BA%E4%BC%AF%E2%80%9C%E5%AB%96%E5%A8%BC%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%86%8D%E7%BF%BB%E8%BD%AC%EF%BC%9A%E8%A2%AB%E5%81%B7%E6%8B%8D%E7%9F%AD%E4%BF%A1%E5%A8%81%E8%83%81/" rel="nofollow" target="_blank">广州区伯“嫖娼”事件再翻转——被偷拍 短信威胁 @ 法广</a><br/>
+<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20150424-%E5%B9%BF%E5%B7%9E%E5%8C%BA%E4%BC%AF%E2%80%9C%E5%AB%96%E5%A8%BC%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%86%8D%E7%BF%BB%E8%BD%AC%EF%BC%9A%E8%A2%AB%E5%81%B7%E6%8B%8D%E7%9F%AD%E4%BF%A1%E5%A8%81%E8%83%81/" rel="nofollow" target="_blank">广州区伯“嫖娼”事件再翻转——被偷拍 短信威胁 @ RFI/法广</a><br/>
 <br/>
 　　俺的点评：<br/>
 　　那个拿艳照要挟区伯的人，如果确实是陈检罗，那他（对党国而言）真可谓【猪一样的队友】。他这么一闹，会再度引发网民关注。而这正是真理部最不想看到的。<br/>
 　　网上有云：不怕神一样的对手，就怕猪一样的队友。以后干脆叫他“陈猪猡”得了。<br/>
+<br/>
 <br/>
 <h2>★4月17日，网友围观“长沙警事”</h2><br/>
 长沙警事：<br/>
@@ -784,6 +786,7 @@ Jungfernstieg：<br/>
 CTA税务十年砍柴：<br/>
 谁让你们惹区伯的？<br/>
 <br/>
+<br/>
 <h2>★4月27日，网友围观“长沙警事”</h2><br/>
 长沙警事：<br/>
 【长沙警方部署开展“畅通民意渠道 推进阳光执法”工作】<br/>
@@ -955,14 +958,20 @@ ardordong：<br/>
 自肥的逻辑：<br/>
 无论是寡头专制还是个人独裁，都与真正的法治水火不容。<br/>
 <br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="http://program-think.blogspot.com/2015/04/weekly-share-83.html">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a><br/>
-<a href="http://program-think.blogspot.com/2014/11/political-propaganda-become-less-effective.html">各种迹象显示——党国喉舌正逐渐失去舆论阵地</a><br/>
-<a href="http://program-think.blogspot.com/2014/11/political-offences-in-china.html">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想</a><br/>
-<a href="http://program-think.blogspot.com/2014/05/weekly-share-66.html">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a><br/>
-<a href="http://program-think.blogspot.com/2013/05/weekly-share-51.html">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a><br/>
-<a href="http://program-think.blogspot.com/2013/04/weekly-share-47.html">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a><br/>
-<a href="http://program-think.blogspot.com/2012/07/tacitus-trap.html">朝廷为何落入“塔西佗陷阱”——天津火灾随想</a>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2019/12/weekly-share-140.md">每周转载：华为李洪元案——工作996、离职251、维权404（大量网友评论，多图）</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/05/weekly-share-102.md">每周转载：雷洋案第1季——人大校友离奇死亡引大量网友围观</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

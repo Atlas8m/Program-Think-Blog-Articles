@@ -263,6 +263,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》<br/>
 《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
 《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>

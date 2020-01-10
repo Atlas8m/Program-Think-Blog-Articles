@@ -157,6 +157,7 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2019/03/Why-Thinking-Hard-So-Hard.md">为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验</a>》<br/>
 《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
 《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
 《<a href="../../2013/04/why-write-blog.md">为啥俺要写这个博客——动机的自我分析</a>》<br/>

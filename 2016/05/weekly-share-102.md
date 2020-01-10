@@ -4,7 +4,8 @@
 
 <div class="post-body entry-content">
 　　雷洋事件已经过去三周了，恐怕大部分网民都开始淡忘此事。俺在这个时间点发一篇《每周转载》，希望能唤起某些人的回忆。<br/>
-　　尤其对中产阶级，俺要提醒一下：在这个奇葩的国家，没准你就是下一个雷洋，没准你儿子就是下一个雷洋......<a name="more"></a><br/>
+　　尤其对中产阶级，俺要提醒一下：在这个奇葩的国家，没准你就是下一个雷洋，没准你儿子就是下一个雷洋......<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★关于案情</h2><br/>
 昌平警方：<br/>
@@ -13,7 +14,7 @@
 <br/>
 《<a href="http://news.163.com/16/0511/09/BMPATERP00014AEE.html" rel="nofollow" target="_blank">朱永杰：“雷洋事件”需要一个有诚意的真相 @ 网易</a>》<br/>
 <br/>
-《<a href="http://xgmyd.com/archives/25251" rel="nofollow" target="_blank">死得明白是公民权利底线 @ 新公民运动</a>》<br/>
+《<a href="https://cmcn.org/archives/25251" rel="nofollow" target="_blank">死得明白是公民权利底线 @ 中国公民运动</a>》<br/>
 <br/>
 张鸣：<br/>
 人活在今天，是该坦然面对生死。<br/>
@@ -41,7 +42,7 @@
 4，嫖娼只可治安拘留，应有治安拘留证才可抓走，便衣执法有无此手续？抓了这个足浴店全体，原始证言可能被统一口径，要防止被诱证簒改。<br/>
 5，雷年青健康，意图逃开，几小时死亡，可以排除健康原因猝死和自杀，反抗中被直接打死，用排除法基本可以判断，是查明重点。<br/>
 6，足浴店全体被抓，没有依据。只有组织卖淫的可能有罪，全店抓起来，明显是为了统一证词，掩盖真相。200元嫖娼说，完全可能系陷害不真实的，要仔细查明鉴别。<br/>
-7，综上，此案必须立即回避掉昌平公安局进行独立侦查，全部原始证据、监控录像、证人应置于其他地区检察院、公安局组成的专案组控制之下，不只是尸检由第三方进行问题。 <br/>
+7，综上，此案必须立即回避掉昌平公安局进行独立侦查，全部原始证据、监控录像、证人应置于其他地区检察院、公安局组成的专案组控制之下，不只是尸检由第三方进行问题。<br/>
 <br/>
 （编程随想注：陈有西是死者家属委托的办案律师）<br/>
 <br/>
@@ -59,7 +60,7 @@
 LifeTime：<br/>
 从央视新闻中可以发现昌平警方至少两处说谎：<br/>
 1）昌平分局公告称雷洋送往医院后抢救无效死亡，而医院称警方送来时人已死。<br/>
-2）昌平分局称雷洋死于心脏病突发，而医院并未做死因调查。  <br/>
+2）昌平分局称雷洋死于心脏病突发，而医院并未做死因调查。<br/>
 <br/>
 新京报：<br/>
 【家属提出多个疑点】<br/>
@@ -82,7 +83,7 @@ LifeTime：<br/>
 足疗女是有心人。<br/>
 <center><img alt="不见图 请翻墙" src="images/x0nCrWvkOZBFL_X8qci5CoK48EkqqZ50C_Nr9lmEt7tYLjSAtqWX6wdLyLfuW0ZpRvy9YEelm5PFO2PqHcM4ycH38JuI9mDTHQyk98_qyBK95uLZsmAmSvxNiJpIX5HFBEpvbj_8Mo4"/></center><br/>
 钢铁侠：<br/>
-官方通告有瑕疵啊！应改为“将民警所持视频拍摄设备打落摔坏，并将存储卡取出销毁，后被控制带上车。”才没毛病啊。 <br/>
+官方通告有瑕疵啊！应改为“将民警所持视频拍摄设备打落摔坏，并将存储卡取出销毁，后被控制带上车。”才没毛病啊。<br/>
 <center><img alt="不见图 请翻墙" src="images/CTNJ-5jDYL1HTuZOMNYnVEo5bgSj1wGZVXmXqfcfmn5JcnQJe5oTBeSwlIHiXv3tVr5gsyIg2He4UdYRdUHw71SRjrN2syKoZWYFGg9jXm_5NHqWIMtpaRxYUCz42ZhpASyvZnje6MI"/></center><br/>
 安替：<br/>
 关于雷洋事件不得不说：<br/>
@@ -96,7 +97,7 @@ LifeTime：<br/>
 足浴女说打飞机，警察说现场有雷洋嫖娼有精液套套。<br/>
 他娘的，雷洋这么麻烦，打个飞机还带套？天昏地暗啊！<br/>
 <br/>
-《<a href="http://www.letscorp.net/archives/105412" rel="nofollow" target="_blank">弱弱地问：足疗店为啥珍藏客人体液那么久？偷搞试管婴儿吗？ @ 墙外楼</a>》<br/>
+《<a href="https://www.letscorp.net/archives/105412" rel="nofollow" target="_blank">弱弱地问：足疗店为啥珍藏客人体液那么久？偷搞试管婴儿吗？ @ 墙外楼</a>》<br/>
 <br/>
 耋耋翁：<br/>
 【转自微信朋友圈】这是一个法官写给律师的，雷洋事件所带来的不安全感会让中产阶层产生恐惧，连法官都害怕了。<br/>
@@ -186,7 +187,8 @@ lijiansion：<br/>
 <br/>
 六六：<br/>
 我们要求很简单。国家花了那么多钱装那么多探头，把雷阳行进路线整理出来给大家看不就行了？<br/>
-小区摄像设备也坏了，警察摄像设备也坏了……这届犯罪嫌疑人身体不行，难道连监控设备都不行？ <br/>
+小区摄像设备也坏了，警察摄像设备也坏了……<br/>
+这届犯罪嫌疑人身体不行，难道连监控设备都不行？<br/>
 <br/>
 左右战队：<br/>
 徐纯合死了，屁民反复追踪视频的完整性。<br/>
@@ -242,9 +244,9 @@ ty霞客：<br/>
 <br/>
 <br/>
 <h2>★关于天朝警察的牛逼——抓你没商量、打你没商量</h2><br/>
-《<a href="http://xw.qq.com/news/20160518053915/NEW2016051805391506" rel="nofollow" target="_blank">著名作家梁晓声讲述某副省长无辜被警察殴打戴铐经历 @ 腾讯</a>》<br/>
+《<a href="https://xw.qq.com/news/20160518053915/NEW2016051805391506" rel="nofollow" target="_blank">著名作家梁晓声讲述某副省长无辜被警察殴打戴铐经历 @ 腾讯</a>》<br/>
 <br/>
-《<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160516/bkncn-20160516000413192-0516_05411_001_cn.html" rel="nofollow" target="_blank">吴虞：这届啥都不行，除了警察还行 @ 东网</a>》<br/>
+《<a href="https://hk.on.cc/cn/bkn/cnt/commentary/20160516/bkncn-20160516000413192-0516_05411_001_cn.html" rel="nofollow" target="_blank">吴虞：这届啥都不行，除了警察还行 @ 东网</a>》<br/>
 <blockquote>别的不说，至少这届警察还是行的，而且非常行——拆迁拆不动，联防队员上；抓“嫖客”遭抵抗，便衣民警上；家长包围省政府，武警公安上。另外，像什么访民讨说法、记者揭伪装、网友评时事、律师磕真相……总之，哪里有不服，哪里就有包治不服的警察。甚至，就连股市熔断引发股灾这样专业精深的领域，最终出手平息危机的也是公安部的工作组，而非证监会、财政部或者国务院，想想也是让人动容，建议“56朵菊花”组合今后多唱唱：社会主义警察国家就是好呀就是好。</blockquote><br/>
 bimawen1：<br/>
 我们已经错过了一个徐纯合，绝不能一错再错。如果我们还不出来这一次大声疾呼，呼吁限制警察的权利，消灭警察滥用暴力的现象，下一个被杀的人就会是你我和你我的家人。<br/>
@@ -319,7 +321,7 @@ tiger9999：<br/>
 《<a href="http://www.aisixiang.com/data/99570.html" rel="nofollow" target="_blank">刘瑜：雷洋事件，关于“消费死者” @ 爱思想</a>》<br/>
 <blockquote>只要参与讨论的人不是刻意造谣传谣，所有“恶猜公权”的行为都是公民的基本权利，而且是“建设性行为”——它推动政府公布更多资料、并启动公正的调查程序。由于警察一开始垄断绝大多数相关信息，甚至不排除刻意隐瞒、操控信息，没有理由苛求民众所有的猜测都是准确无误的；由于权力机构垄断所有的合法暴力，公众舆论是弱者最后的武器——在一个警察经常滥用权力、又缺乏具有公信力第三方权威机构的国家，尤其如此。<br/>
 就算最后证明雷洋的确嫖娼了、的确死于心脏病，推动这一调查的大讨论依然是有意义的，因为舆论压力是推动这一调查过程启动、敦促其公正性和透明性的重要条件。</blockquote><br/>
-《<a href="http://canyu.org/n115245c6.aspx" rel="nofollow" target="_blank">人大校友郭宝胜指出雷洋案公权力犯罪问题 @ 参与</a>》<br/>
+《<a href="https://canyu.org/n115245c6.aspx" rel="nofollow" target="_blank">人大校友郭宝胜指出雷洋案公权力犯罪问题 @ 参与</a>》<br/>
 <blockquote>雷洋案反映的公权力机关（北京市公安局昌平分局及其东小口派出所）涉嫌违法犯罪的几个问题：<br/>
 1.钓鱼执法。提前蹲守在足浴店门口钓鱼，在没有确定雷洋是否是嫖娼（打飞机算不算嫖娼还没有定论）下就去执法。<br/>
 2.没有拘留证情况下拘捕公民。根据现有报道，只有便衣警察出示警察身份的细节，没有出示拘留证。而无拘留证出示抓人就是非法的。<br/>
@@ -401,13 +403,13 @@ uponsnow：<br/>
 <br/>
 <br/>
 <h2>★天朝的中产阶级慌了——没准就成了下一个雷洋</h2><br/>
-《<a href="http://cn.nytimes.com/china/20160513/c13chinalei/" rel="nofollow" target="_blank">雷洋之死再次考验中国人的安全感 @ 纽约时报</a>》<br/>
+《<a href="https://cn.nytimes.com/china/20160513/c13chinalei/" rel="nofollow" target="_blank">雷洋之死再次考验中国人的安全感 @ 纽约时报</a>》<br/>
 <br/>
 《<a href="https://botanwang.com/articles/201605/%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%82%B2%E6%83%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7.html" rel="nofollow" target="_blank">越来越悲惨的中国中产阶级 @ 博谈网</a>》<br/>
-（编程随想注：这篇翻译自<a href="http://www.wsj.com/articles/chinas-middle-class-vents-over-growing-list-of-grievances-1464062403" rel="nofollow" target="_blank">华尔街日报</a>）<br/>
+（编程随想注：这篇翻译自<a href="https://www.wsj.com/articles/chinas-middle-class-vents-over-growing-list-of-grievances-1464062403" rel="nofollow" target="_blank">华尔街日报</a>）<br/>
 <br/>
 《<a href="https://botanwang.com/articles/201605/%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98%E9%9D%A9.html" rel="nofollow" target="_blank">裴敏欣：中国的中产阶级即将要求重大变革 @ 博谈网</a>》<br/>
-（编程随想注：这篇翻译自 <a href="http://fortune.com/2016/05/26/china-middle-class-changes/" rel="nofollow" target="_blank">Fortune</a>）<br/>
+（编程随想注：这篇翻译自 <a href="https://fortune.com/2016/05/26/china-middle-class-changes/" rel="nofollow" target="_blank">Fortune</a>）<br/>
 <blockquote>仔细审查中国总体社会经济发展，以及审视庞大且不断增长的中产阶级的政治意涵，应该让我们相信，否认中国的中产阶级是政治变革力量还为时尚早。相反，中产阶级最有可能即将要求突然的巨变。<br/>
 当我们衡量中国的社会经济发展，并与过去四十年中向民主转型的中等收入国家进行比较，中国的收入和教育水平正好在中间，以购买力平价衡量人均GDP是1.3万美元，年龄在25岁以上的成年人平均受教育程度是7.5年的学校教育。<br/>
 这表明，尽管有着其巨大的经济增长，但中国还没有繁荣到让一党专制无法生存的程度。但是，再过10年左右，中国的收入和教育水平会进一步提升，中产阶级的规模也会变大。换句话说，在未来十年，中国的社会变革会让其更不甘于一党专政的延续。<br/>
@@ -481,7 +483,7 @@ szstupidcool：<br/>
 吴革律师：<br/>
 人大77、78级校友发声：<br/>
 <center><img alt="不见图 请翻墙" src="images/4BjPgtVEZmaPU-3AW1CVplhtKzasCBkt1HGUifqLnfbJPeO8Wz_AILDeEEjXl8Hqor1bVxAczkGz_u0tS49uHZCott3RwNEDavyjHhzBA2z0WxQWU3k9t3RGOsltwj6IDCry2lPE8PE"/></center><br/>
-《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A688%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%B0%B1%E9%9B%B7%E6%B4%8B%E5%90%8C%E5%AD%A6%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%E7%9A%84%E5%A3%B0/" rel="nofollow" target="_blank">中国人民大学88级部分校友就雷洋同学意外身亡的声明</a>》<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A688%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%B0%B1%E9%9B%B7%E6%B4%8B%E5%90%8C%E5%AD%A6%E6%84%8F%E5%A4%96%E8%BA%AB%E4%BA%A1%E7%9A%84%E5%A3%B0/" rel="nofollow" target="_blank">中国人民大学88级部分校友就雷洋同学意外身亡的声明</a>》<br/>
 （编程随想注：此文原分享于有道云笔记，已经被河蟹；俺贴出的链接是“中国数字时代”的转载。）<br/>
 <br/>
 人大商学院王泽宇老师：<br/>
@@ -722,11 +724,11 @@ szstupidcool：<br/>
 <br/>
 <br/>
 <h2>★又见“真理部”的河蟹与忽悠</h2><br/>
-《<a href="http://www.voachinese.com/content/voa-news-lei-yang-family-sues-the-police-20160517/3333668.html" rel="nofollow" target="_blank">财新网关于雷洋的报道被删 @ 美国之音</a>》<br/>
+《<a href="https://www.voachinese.com/content/voa-news-lei-yang-family-sues-the-police-20160517/3333668.html" rel="nofollow" target="_blank">财新网关于雷洋的报道被删 @ VOA/美国之音</a>》<br/>
 <br/>
-《<a href="http://www.voachinese.com/content/voa-news-beijing-resident-died-after-allegedly-being-apprehended-for-visiting-prostitutes-20160511/3325834.html" rel="nofollow" target="_blank">雷洋猝死，政府忙公关——雇水军、删贴、掉包视频 @ 美国之音</a>》<br/>
+《<a href="https://www.voachinese.com/content/voa-news-beijing-resident-died-after-allegedly-being-apprehended-for-visiting-prostitutes-20160511/3325834.html" rel="nofollow" target="_blank">雷洋猝死，政府忙公关——雇水军、删贴、掉包视频 @ VOA/美国之音</a>》<br/>
 <br/>
-《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89%E6%8D%A7%E7%BA%A2%E4%BA%86%E6%B1%9F%E8%8B%8F%E5%BE%90%E5%B7%9E%E7%9A%84%E7%90%86%E6%83%B3%E5%8A%9E/" rel="nofollow" target="_blank">昌平公安捧红了江苏徐州的“理想办公” @ 中国数字时代</a>》<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89%E6%8D%A7%E7%BA%A2%E4%BA%86%E6%B1%9F%E8%8B%8F%E5%BE%90%E5%B7%9E%E7%9A%84%E7%90%86%E6%83%B3%E5%8A%9E/" rel="nofollow" target="_blank">昌平公安捧红了江苏徐州的“理想办公” @ 中国数字时代</a>》<br/>
 <blockquote>北京市公安局昌平分局官方微博 @平安昌平 被网民指雇用大量水军为自己“引导舆论”。该账号就雷洋离奇死亡事件发表了一份“情况通告”，截至发稿时已有1万6千多条评论。<br/>
 然而有眼尖的微博用户发现，这些评论有许多都来自用户名为6个字、使用美女头像图片、评论内容经常重复的账号，疑似水军。<br/>
 更“巧合”的是，这些疑似水军账号的工作地点都是江苏徐州一家名为“理想办公”的公司。目前已有大量网民前去 @平安昌平 微博“撕水军”、围观“理想办公”。</blockquote><br/>
@@ -856,17 +858,23 @@ MyDF：<br/>
 <br/>
 水流沙坝3：<br/>
 “不许动，我是警察！”……昌平警察这样对雷童鞋说。<br/>
-结果雷动了，心脏病突发死了。 <br/>
+结果雷动了，心脏病突发死了。<br/>
 <br/>
 匿名：<br/>
 <center><img alt="不见图 请翻墙" src="images/dRR--rIZUxgc6KolKwXaaIU_IYbdPWyFNWDBySywQiQ-hnGI8v0bD0fuzy7nHTdDkszVa46oiLMh9ksO8uyi5p4giZEgSGEjCSsyj1TcZOFFc9bDaIhVK6ZGXpL481IvAUAj6VwSB1k"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a><br/>
-<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑CCAV视频（多图）</a><br/>
-<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a><br/>
-<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a><br/>
-<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>
+《<a href="../../2016/12/weekly-share-106.md">每周转载：雷洋案第2季——北京检方“不起诉”引发轩然大波</a>》<br/>
+《<a href="../../2016/12/weekly-share-105.md">每周转载：聂树斌冤案、死刑犯器官移植（相关报道及网友评论）</a>》<br/>
+《<a href="../../2015/12/weekly-share-95.md">每周转载：关于“浦志强庭审”的各方报道和网友评论</a>》<br/>
+《<a href="../../2015/07/weekly-share-90.md">每周转载：710事件——全国性维权律师大抓捕（外媒报道及网友评论）</a>》<br/>
+《<a href="../../2015/05/weekly-share-86.md">每周转载：辽宁交警执法，司机死在派出所，地方衙门称其“身体发生异样”</a>》<br/>
+《<a href="../../2015/05/weekly-share-85.md">每周转载：大量网友围观庆安命案，并质疑 CCAV 视频（多图）</a>》<br/>
+《<a href="../../2015/04/weekly-share-84.md">每周转载：网民围观长沙警方，区伯收到艳照要挟</a>》<br/>
+《<a href="../../2015/04/weekly-share-83.md">每周转载：关于区伯“被嫖娼”事件的相关报道和网友评论</a>》<br/>
+《<a href="../../2014/05/weekly-share-66.md">每周转载：网友热议“寻衅滋事”和“泄漏国家机密”的罪名</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-47.md">每周转载：关于“马三家”和劳教制度（网文若干、图片若干）</a>》
 </div>
 
 

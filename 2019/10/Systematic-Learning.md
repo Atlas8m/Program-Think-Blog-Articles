@@ -398,6 +398,7 @@ WHY<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
 《<a href="../../2019/03/Why-Thinking-Hard-So-Hard.md">为什么独立思考这么难？——谈谈心理学的成因，并分享俺的经验</a>》<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2018/06/weekly-share-121.md">德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
 《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a>》<br/>
 《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>
