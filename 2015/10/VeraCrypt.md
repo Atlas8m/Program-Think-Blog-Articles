@@ -23,7 +23,7 @@
 <br/>
 <h2>★关于 VeraCrypt</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/VILcwWDdxVVlCVyVdRDVs_W3B-pPkkmPINa8BCA4DXfKyX24uZhBxRaLpYKsVD-OpppzectxcG_bdYf7t9v-qWq9MrlxArRn76sX3nFE9cA0UHdEo6IZzJ4jfOIZ8L2rlHRLQVhKQg"/></center><br/>
-　　VeraCrypt 是从 TrueCrypt 派生出来的开源项目，成立于 2013年6月。其官网在 <a href="https://veracrypt.codeplex.com/" rel="nofollow" target="_blank">https://veracrypt.codeplex.com/</a> ——该网站托管于 CodePlex（微软的开源平台）<br/>
+　　VeraCrypt 是从 TrueCrypt 派生出来的开源项目，成立于2013年6月。其官网在 <a href="https://www.veracrypt.fr/" rel="nofollow" target="_blank">https://www.veracrypt.fr/</a><br/>
 　　它刚成立那会儿，TrueCrypt 尚未死亡，所以 VeraCrypt 没有吸引太多的注意力。TrueCrypt 死亡之后，VeraCrypt 的使用量开始多起来。<br/>
 　　此次曝光了高危漏洞之后，VeraCrypt 很快就在8天之后（9月26日）发布了 1.15 版本，修复了该漏洞。此举令其曝光率大增。<br/>
 　　俺之所以首先推荐 VeraCrypt，除了此次修复漏洞及时，还有一个原因——其它替代品要么质量不如 VeraCrypt 成熟，要么功能不如 VeraCrypt 完备。<br/>
