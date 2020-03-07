@@ -112,8 +112,8 @@
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
-《<a href="../../2010/11/institutionalize.md">谈谈【体制化】，并推荐《肖申克的救赎》</a>》<br/>
-《<a href="../../2012/01/stockdale-paradox.md">如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
+《<a href="../../2010/11/institutionalize.md">谈谈【体制化】，并推荐＜肖申克的救赎＞</a>》<br/>
+《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
 《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
 《<a href="../../2012/06/book-review-road-less-traveled.md">书评：＜少有人走的路——心智成熟的旅程＞</a>》<br/>
 《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》<br/>

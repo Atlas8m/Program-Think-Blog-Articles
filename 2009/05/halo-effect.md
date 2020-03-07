@@ -78,7 +78,7 @@ POSIX 桌面环境有“KDE vs Gnome”<br/>
 《<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>
 《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
 《<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>
-《<a href="../../2012/01/stockdale-paradox.md">如何面对逆境？——兼谈“斯托克代尔悖论”</a>》<br/>
+《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
 《<a href="../../2010/05/about-social-proof.md">关于社会认同和从众心理——从连环跳楼事件说起</a>》<br/>
 《<a href="../../2010/07/about-football-fans.md">说说世界杯的球迷——关于粉丝的心理</a>》
 </div>

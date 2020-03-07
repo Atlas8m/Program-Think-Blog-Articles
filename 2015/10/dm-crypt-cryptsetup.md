@@ -197,7 +197,7 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <h3>◇何为“虚拟加密盘”？</h3><br/>
 　　考虑到某些读者没有看过《<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a>》，俺再次唠叨一下：所谓的“虚拟加密盘”，就是说这个盘并【不是】对应物理分区，而是对应一个虚拟分区（逻辑卷）。这个虚拟分区，说白了就是一个大文件。虚拟分区有多大，这个文件就有多大。<br/>
-　　“虚拟加密盘”的一个主要好处在于——可以拷贝复制。比如你可以在不同的机器之间复制这个虚假分区对应的大文件。甚至可以把这个大文件上传到云端（网盘）进行备份——这么干的好处参见《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》。<br/>
+　　“虚拟加密盘”的一个主要好处在于——可以拷贝复制。比如你可以在不同的机器之间复制这个虚假分区对应的大文件。甚至可以把这个大文件上传到云端（网盘）进行备份——这么干的好处参见《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》。<br/>
 <br/>
 <h3>◇创建一个文件作为容器</h3><br/>
 　　下面用 <code>dd</code> 命令创建 1GB（1024MB）的大文件，该文件位于 <code>/root/luks.vol</code> 路径。当然，你也可以指定其它的文件大小或其它的文件路径。<br/>
@@ -399,7 +399,7 @@ RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，�
 《<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a>》<br/>
 《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
-《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》<br/>
+《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2013/12/create-bootable-usb-stick-from-iso.md">如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）</a>》
 </div>

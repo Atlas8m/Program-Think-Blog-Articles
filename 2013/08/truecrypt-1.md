@@ -3,7 +3,7 @@
 -----
 
 <div class="post-body entry-content">
-　　自从两年前写了《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》，陆续收到一些网友的来信或博客留言，针对 TrueCrypt 的使用提出了一些疑问。上周发了一篇博文《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》。又收到好几个读者的留言。所以今天再发一篇博文，汇总一下俺使用的经验，顺便也解答某些的常见提问。<br/>
+　　自从两年前写了《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》，陆续收到一些网友的来信或博客留言，针对 TrueCrypt 的使用提出了一些疑问。上周发了一篇博文《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》。又收到好几个读者的留言。所以今天再发一篇博文，汇总一下俺使用的经验，顺便也解答某些的常见提问。<br/>
 　　如果你之前没用过 TrueCrypt，强烈建议你先看完《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》和《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》这两篇。<br/>
 <a name="more"></a><br/>
 <br/>
@@ -86,7 +86,7 @@ Serpent-Twofish-AES</blockquote><br/>
 <h2>★磁盘加密的【操作模式】</h2><br/>
 　　（本小节涉及较多密码学的知识，不太懂技术的网友请自行跳过，以免浪费时间和心情）<br/>
 <br/>
-　　上周那篇《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》提到了：利用某些网盘客户端提供的“字节级差异同步”来优化加密盘的上传速度。<br/>
+　　上周那篇《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》提到了：利用某些网盘客户端提供的“字节级差异同步”来优化加密盘的上传速度。<br/>
 　　之后某网友在博客留言中提出质疑。他/她认为：加密盘中即使只修改了某个小文件，因为加密算法的特点，会导致加密卷文件中有大量的数据被修改。<br/>
 　　这位网友思考问题比较深入，但对“块加密算法”只知其一，不知其二。下面俺稍微解释一下 TrueCrypt 采用的 XTS 操作模式。<br/>
 <br/>
@@ -102,7 +102,7 @@ Serpent-Twofish-AES</blockquote><br/>
 <br/>
 <br/>
 <h2>★【物理】加密盘 VS 【虚拟】加密盘</h2><br/>
-　　在《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a>》中已经介绍过这两者常见的优缺点对比。今天除了说一下常见的优缺点对比，再稍微说一下不太常见的优缺点对比。<br/>
+　　在《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》中已经介绍过这两者常见的优缺点对比。今天除了说一下常见的优缺点对比，再稍微说一下不太常见的优缺点对比。<br/>
 　　（物理加密盘其实又分为两种：加密普通分区和加密系统分区。加密系统分区比较特殊，会在后续的博文中专门介绍）<br/>
 <br/>
 <h3>◇“虚拟加密盘”的优点（同时也是“物理加密盘”的缺点）</h3><br/>

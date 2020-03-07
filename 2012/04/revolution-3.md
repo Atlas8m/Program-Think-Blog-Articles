@@ -43,7 +43,7 @@
 《<a href="../../2014/09/oversimplification.md">各种一元化思维的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
 《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">你是如何看待成败的——兼谈有效归因</a>》<br/>
+《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>
 <br/>
 <b>4. 了解常见的逻辑谬误</b><br/>
 　　除了思维误区，还有一个需要掌握的技能，就是“看穿逻辑谬误”的能力。什么是逻辑谬误捏？通俗地说，就是诡辩术。<br/>

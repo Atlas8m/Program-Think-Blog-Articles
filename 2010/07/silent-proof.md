@@ -82,8 +82,8 @@
 《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》<br/>
 《<a href="../../2012/03/think-what-how-why.md">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>
 《<a href="../../2010/02/about-mental-model.md">认识你自己——心智模式扫盲介绍</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">你是如何看待成败的？——兼谈有效归因</a>》<br/>
-《<a href="../../2009/07/book-review-are-your-lights-on.md">书评：《你的灯亮着吗？——找到问题的真正所在》</a>》<br/>
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
+《<a href="../../2009/07/book-review-are-your-lights-on.md">书评：＜你的灯亮着吗？——找到问题的真正所在＞</a>》<br/>
 《<a href="../../2009/02/from-surface-to-essence.md">学会透过现象看本质，即使现象有时候挺诡异</a>》
 </div>
 

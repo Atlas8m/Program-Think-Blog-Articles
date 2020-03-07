@@ -432,7 +432,7 @@
 《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概</a>》<br/>
 《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
 《<a href="../../2010/03/party-control-news-media.md">关于抹黑 Google——谈谈党国对舆论的操纵手法</a>》<br/>
-《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动与独立运动简史</a>》<br/>
 《<a href="../../2011/06/june-fourth-incident-0.md">回顾“六四”</a>》（系列）<br/>
 《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）
 </div>

@@ -602,7 +602,7 @@ sharon cln：<br/>
 《<a href="../../2014/12/weekly-share-76.md">每周转载：香港“雨伞革命”的外媒报道和【大量】照片（11月19日至12月2日）</a>》<br/>
 《<a href="../../2012/09/weekly-share-20.md">每周转载：关于香港抗议洗脑教育（网文3篇，图片多张）</a>》<br/>
 《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
-《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动与独立运动简史</a>》<br/>
 《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
 《<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>》（系列）
 </div>

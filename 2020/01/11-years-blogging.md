@@ -274,7 +274,7 @@
 <a href="../../2014/04/history-china-fallen-behind-europe.md">中国是从哪个朝代开始落后于西方？</a><br/>
 <br/>
 <a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a><br/>
-<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a><br/>
+<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动与独立运动简史</a><br/>
 <br/>
 <a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a><br/>
 <a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“《查理画报》惨案”和“尼日利亚大屠杀”随想</a><br/>
@@ -376,7 +376,7 @@
 <a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a><br/>
 <a href="../../2011/06/use-image-hide-information.md">用图片隐藏信息的技术实现</a><br/>
 <br/>
-<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”和“网盘”</a><br/>
+<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a><br/>
 <br/>
 <a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a><br/>
 <a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a><br/>

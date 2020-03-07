@@ -134,7 +134,7 @@
 《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
 《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
 《<a href="../../2013/05/difference-between-fact-and-opinion.md">批判性思维扫盲：学会区分“事实”与“观点”</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
 《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
 《<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>
 《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》

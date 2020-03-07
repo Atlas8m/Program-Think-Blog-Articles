@@ -128,7 +128,7 @@
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;b&gt;俺博客上&amp;#65292;和本文相关的帖子&amp;#65288;需翻墙&amp;#65289;&lt;/b&gt;&amp;#65306;&lt;br /&gt;
-&amp;#12298;&lt;a href="https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html"&gt;文件备份技巧&amp;#65306;组合&amp;#8220;虚拟加密盘&amp;#8221;和&amp;#8220;网盘&amp;#8221;&lt;/a&gt;&amp;#12299;&lt;br /&gt;
+&amp;#12298;&lt;a href="https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html"&gt;文件备份技巧&amp;#65306;组合&amp;#8220;虚拟加密盘&amp;#8221;与&amp;#8220;网盘&amp;#8221;&lt;/a&gt;&amp;#12299;&lt;br /&gt;
 &amp;#12298;&lt;a href="https://program-think.blogspot.com/2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.html"&gt;如何用&amp;#8220;磁盘加密&amp;#8221;对抗警方的&amp;#12304;取证软件&amp;#12305;和&amp;#12304;刑讯逼供&amp;#12305;&amp;#65292;兼谈数据删除技巧&lt;/a&gt;&amp;#12299;&lt;br /&gt;
 &amp;#12298;&lt;a href="https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index"&gt;TrueCrypt 使用经验&lt;/a&gt;&amp;#12299;&amp;#65288;系列&amp;#65289;&lt;br /&gt;
 &amp;#12298;&lt;a href="https://program-think.blogspot.com/2015/10/VeraCrypt.html"&gt;扫盲 VeraCrypt&amp;#8212;&amp;#8212;跨平台的 TrueCrypt 替代品&lt;/a&gt;&amp;#12299;&lt;br /&gt;

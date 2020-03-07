@@ -39,7 +39,10 @@
 8. <a href="../../2015/04/howto-cover-your-tracks-8.md">如何搭配“多重代理”和“多虚拟机”</a><br/>
 9. <a href="../../2017/06/howto-cover-your-tracks-9.md">从【时间角度】谈谈社会工程学的防范</a><br/>
 10. <a href="../../2017/12/howto-cover-your-tracks-10.md">从【身份隔离】谈谈社会工程学的防范</a><br/>
-11. （未完待续）
+11. （未完待续）<br/>
+<!--BANNED
+[1490720633679,1539521916463]
+-->
 </div>
 
 

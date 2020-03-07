@@ -11,7 +11,12 @@
 2. <a href="../../2009/03/java-performance-tuning-2-string.md">字符串过滤实战</a><br/>
 3. <a href="../../2009/04/java-performance-tuning-3-gc.md">关于垃圾回收（GC）</a><br/>
 4. <a href="../../2009/06/java-performance-tuning-4-finalize.md">finalize函数</a><br/>
-5. （未完待续）
+5. （未完待续）<br/>
+<br/>
+<br/>
+<b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2012/05/weekly-share-5.md">每周转载：IT 大牛谈编程语言（网文3篇）</a>》<br/>
+《<a href="../../2009/01/0.md">如何成为优秀开发人员</a>》（系列）
 </div>
 
 

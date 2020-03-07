@@ -257,6 +257,7 @@
 《<a href="../../2019/04/996-Working-Hour-System.md">“996工作制”只不过是【劫贫济富】的缩影——“马云奇葩言论”随想</a>》<br/>
 《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.md">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>
 《<a href="../../2018/11/African-Swine-Fever-in-China.md">扫盲非洲猪瘟，点评中国疫情</a>》<br/>
+《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
 《<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a>》<br/>

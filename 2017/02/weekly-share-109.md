@@ -263,10 +263,10 @@
 为子孙后代留下真正爱国者的榜样。他们需要这种榜样。</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2011/12/revolution-0.md">谈革命（系列）</a><br/>
-<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a><br/>
-<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a><br/>
-<a href="../../2013/04/more-supervision-less-thankfulness.md">对政府——多些"监督问责"，少些"煽情感动"</a>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》<br/>
+《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
+《<a href="../../2013/04/more-supervision-less-thankfulness.md">对政府——多些"监督问责"，少些"煽情感动"</a>》
 </div>
 
 

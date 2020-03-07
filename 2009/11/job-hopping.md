@@ -46,9 +46,9 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2009/09/personal-branding-advantage.md">闲话个人品牌的包装——从李开复离职想到的</a><br/>
-<a href="../../2009/09/how-to-personal-branding.md">如何包装个人品牌？</a><br/>
-<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈《自我管理》——《哈佛商业评论》史上最受欢迎的文章</a>
+《<a href="../../2009/09/personal-branding-advantage.md">闲话个人品牌的包装——从李开复离职想到的</a>》<br/>
+《<a href="../../2009/09/how-to-personal-branding.md">如何包装个人品牌？</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》
 </div>
 
 

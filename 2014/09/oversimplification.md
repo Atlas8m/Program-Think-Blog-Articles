@@ -169,7 +169,7 @@
 《<a href="../../2015/05/Survivorship-Bias.md">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>
 《<a href="../../2010/07/silent-proof.md">思维的误区：忽视沉默的大多数</a>》<br/>
 《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
 《<a href="../../2011/11/conspiracy-theory.md">聊聊【阴谋论】流行的原因及其弊端</a>》<br/>
 《<a href="../../2012/10/history-of-red-khmers.md">最“纯正”的共产主义政权——红色高棉简史</a>》<br/>
 《<a href="../../2009/03/book-review-mythical-man-month.md">书评：＜人月神话＞——不朽的软件工程名著</a>》

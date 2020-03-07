@@ -31,12 +31,17 @@
 <span class="p">}</span>
 </pre></div><br/>
 　　鉴于上述所说的两个原因，所以我一直想写一个这方面的帖子。正好前几天写了帖子讨论“<a href="../../2009/02/multi-process-vs-multi-thread.md">架构设计的多进程问题</a>”，之后就就顺便写了一个帖子：《C++ 进程是怎么死的？》，讨论了一下由于进程不同的死法对C++对象析构的影响。等写完之后突然想到：除了进程终止的问题可能导致 C++ 对象的【不】正常析构，还有线程等其它因素也可能会让 C++ 对象【不】正常析构。所以干脆就改了个名，叫《C++ 对象是怎么死的？》 :-)<br/>
-<br/>
+<a name="index"> </a><br/>
 另外，为了方便阅读，把本系列帖子的目录整理如下：<br/>
 1、<a href="../../2009/02/cxx-object-destroy-with-process.md">进程篇</a><br/>
 2、<a href="../../2009/02/cxx-object-destroy-with-io-stream.md">对标准输入输出流的进一步探讨</a><br/>
 3、<a href="../../2009/03/cxx-object-destroy-with-thread-win32.md">Win32 线程篇</a><br/>
-4、<a href="../../2009/03/cxx-object-destroy-with-thread-posix.md">POSIX 线程篇（pthread）</a>
+4、<a href="../../2009/03/cxx-object-destroy-with-thread-posix.md">POSIX 线程篇（pthread）</a><br/>
+<br/>
+<br/>
+<b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2012/05/weekly-share-5.md">每周转载：IT 大牛谈编程语言（网文3篇）</a>》<br/>
+《<a href="../../2009/01/0.md">如何成为优秀开发人员</a>》（系列）
 </div>
 
 

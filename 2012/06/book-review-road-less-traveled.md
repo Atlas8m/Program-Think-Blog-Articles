@@ -86,8 +86,9 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
 《<a href="../../2010/02/about-mental-model.md">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待成败的？——兼谈有效归因</a>》<br/>
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
 《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》
 </div>
 

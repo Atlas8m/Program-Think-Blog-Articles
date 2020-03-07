@@ -128,7 +128,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）：</b><br/>
-<a href="../../2011/06/june-fourth-incident-0.md">回顾六四系列</a>
+《<a href="../../2011/06/june-fourth-incident-0.md">回顾六四</a>》（系列）
 </div>
 
 

@@ -123,8 +123,8 @@
 《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.md">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>
 《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
 《<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>
-《<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a>》<br/>
-《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待成败的？——兼谈有效归因</a>》
+《<a href="../../2010/04/how-to-attribute-success-failure.md">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>
+《<a href="../../2010/05/about-social-proof.md">关于“社会认同”和“从众心理”——从连环跳楼事件说起</a>》
 </div>
 
 

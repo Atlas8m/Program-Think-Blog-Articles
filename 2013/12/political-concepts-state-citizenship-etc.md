@@ -108,17 +108,17 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/07/form-of-government.md">扫盲常见的政治体制</a><br/>
-<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a><br/>
-<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是些什么货色</a><br/>
-<a href="../../2016/06/USA-Separation-of-Powers-with-Balances.md">聊聊美国政体中的权力制衡——不仅仅是三权分立</a><br/>
-<a href="../../2016/11/USA-Elections.md">美国选举制度为啥是这样设计的？兼谈其历史演变</a><br/>
-<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a><br/>
-<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清“言论自由”的各种误区</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2011/12/revolution-0.md">谈革命(系列)</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a><br/>
-<a href="../../2017/02/weekly-share-109.md">每周转载：耶鲁教授关于【政治素质】的20条建议（俺的翻译及点评）</a>
+《<a href="../../2012/07/form-of-government.md">扫盲常见的政治体制</a>》<br/>
+《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
+《<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是些什么货色</a>》<br/>
+《<a href="../../2016/06/USA-Separation-of-Powers-with-Balances.md">聊聊美国政体中的权力制衡——不仅仅是三权分立</a>》<br/>
+《<a href="../../2016/11/USA-Elections.md">美国选举制度为啥是这样设计的？兼谈其历史演变</a>》<br/>
+《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
+《<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清“言论自由”的各种误区</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2017/02/weekly-share-109.md">每周转载：耶鲁教授关于【政治素质】的20条建议（俺的翻译及点评）</a>》
 </div>
 
 

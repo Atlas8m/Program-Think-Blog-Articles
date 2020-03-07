@@ -37,12 +37,12 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a><br/>
-<a href="../../2013/04/how-to-read-book.md">《如何阅读一本书》——书评及内容纲要</a><br/>
-<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a><br/>
-<a href="../../2009/11/job-hopping.md">跳还是不跳，是一个问题——跳槽时该如何权衡？</a><br/>
-<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a><br/>
-<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈《自我管理》——《哈佛商业评论》史上最受欢迎的文章</a>
+《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
+《<a href="../../2013/04/how-to-read-book.md">《如何阅读一本书》——书评及内容纲要</a>》<br/>
+《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a>》<br/>
+《<a href="../../2009/11/job-hopping.md">跳还是不跳，是一个问题——跳槽时该如何权衡？</a>》<br/>
+《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》
 </div>
 
 

@@ -309,7 +309,7 @@
 《<a href="../../2019/10/70th-anniversary-of-PRC.md">“盛大庆典”难掩【内忧外患】——天朝沦陷70周年随想</a>》<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐</a>》<br/>
-《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动与独立运动简史</a>》<br/>
 《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》<br/>
 《<a href="../../2019/09/weekly-share-137.md">每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）</a>》<br/>
 《<a href="../../2019/08/weekly-share-135.md">每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</a>》<br/>

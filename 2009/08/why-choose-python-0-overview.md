@@ -15,7 +15,12 @@
 3. <a href="../../2010/08/why-choose-python-3-oop.md">作为面向对象语言的 Python</a><br/>
 4. <a href="../../2012/02/why-choose-python-4-fp.md">作为函数式编程语言的 Python</a><br/>
 5. <a href="../../2013/02/why-choose-python-5-tools.md">作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库</a><br/>
-6. （未完待续）
+6. （未完待续）<br/>
+<br/>
+<br/>
+<b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2012/05/weekly-share-5.md">每周转载：IT 大牛谈编程语言（网文3篇）</a>》<br/>
+《<a href="../../2009/01/0.md">如何成为优秀开发人员</a>》（系列）
 </div>
 
 

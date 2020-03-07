@@ -85,10 +85,10 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）：</b><br/>
-<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a><br/>
-<a href="../../2010/02/about-mental-model.md">“心智模式”系列：认识你自己——心智模式扫盲介绍</a><br/>
-<a href="../../2011/11/film-v-for-vendetta.md">影评：《V怪客 / V字仇杀队》</a><br/>
-<a href="../../2009/06/writing-something-with-polity.md">是该写点技术以外的东西了</a>
+《<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>
+《<a href="../../2010/02/about-mental-model.md">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>
+《<a href="../../2011/11/film-v-for-vendetta.md">影评：＜V怪客 / V字仇杀队＞</a>》<br/>
+《<a href="../../2009/06/writing-something-with-polity.md">是该写点技术以外的东西了</a>》
 </div>
 
 

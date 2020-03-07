@@ -79,10 +79,11 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——《哈佛商业评论》史上最受欢迎的文章</a><br/>
-<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>（系列）<br/>
-<a href="../../2017/08/Some-Reasons-to-Watch-Less-Videos.md">为啥俺很少看视频？——兼谈“视频”与“文本”在媒介方面的差异</a><br/>
-<a href="../../2015/02/Is-Blogging-Dead.md">“传统博客”过时了吗？——兼谈各种媒介形态的优缺点</a>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
+《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
+《<a href="../../2017/08/Some-Reasons-to-Watch-Less-Videos.md">为啥俺很少看视频？——兼谈“视频”与“文本”在媒介方面的差异</a>》<br/>
+《<a href="../../2015/02/Is-Blogging-Dead.md">“传统博客”过时了吗？——兼谈各种媒介形态的优缺点</a>》<br/>
+《<a href="../../2013/03/internet-resource-discovery-0.md">如何挖掘网络资源</a>》（系列）
 </div>
 
 

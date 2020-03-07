@@ -78,7 +78,7 @@
 《<a href="../../2012/06/stockholm-syndrome.md">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>
 《<a href="../../2014/05/fans-and-idolatry.md">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>
 《<a href="../../2015/04/Single-Point-of-Failure.md">聊聊【单点故障】——关于“德国空难”和“李光耀”的随想</a>》<br/>
-《<a href="../../2012/01/stockdale-paradox.md">如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
+《<a href="../../2012/01/stockdale-paradox.md">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>
 《<a href="../../2012/06/book-review-road-less-traveled.md">书评：＜少有人走的路——心智成熟的旅程＞</a>》<br/>
 《<a href="../../2009/05/halo-effect.md">光环效应引发的认知误区</a>》<br/>
 《<a href="../../2013/11/weekly-share-57.md">每周转载：关于天朝的文化和民族的劣根性</a>》

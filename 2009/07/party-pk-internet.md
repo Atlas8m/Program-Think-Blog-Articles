@@ -58,9 +58,9 @@
 <br/>
 <br/>
 <b>和本文相关的帖子（需翻墙）：</b><br/>
-<a href="../../2009/07/break-through-berlin-wall.md">学习一下德国人民的翻墙精神</a><br/>
-<a href="../../2009/07/microblog-blocked-by-gfw.md">从微博客被封杀说开去</a><br/>
-<a href="../../2010/03/party-control-news-media.md">关于抹黑Google——谈谈党国对舆论的操纵手法</a>
+《<a href="../../2009/07/break-through-berlin-wall.md">学习一下德国人民的翻墙精神</a>》<br/>
+《<a href="../../2009/07/microblog-blocked-by-gfw.md">从微博客被封杀说开去</a>》<br/>
+《<a href="../../2010/03/party-control-news-media.md">关于抹黑 Google——谈谈党国对舆论的操纵手法</a>》
 </div>
 
 

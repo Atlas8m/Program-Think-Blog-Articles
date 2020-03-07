@@ -266,7 +266,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动和独立运动简史</a>》<br/>
+《<a href="../../2016/01/Taiwan-Political-Movements.md">台湾民主运动与独立运动简史</a>》<br/>
 《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
 《<a href="../../2012/07/form-of-government.md">政治常识扫盲：聊聊常见的政治体制</a>》<br/>
 《<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清“言论自由”的各种误区</a>》<br/>

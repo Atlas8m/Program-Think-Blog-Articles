@@ -13,7 +13,12 @@
 2. <a href="../../2009/01/defect-of-java-beginner-2-oo.md">缺乏面向对象的基本功</a><br/>
 3. <a href="../../2009/02/defect-of-java-beginner-3-code-style.md">缺少良好的编程习惯</a><br/>
 4. <a href="../../2009/02/defect-of-java-beginner-4-exception.md">异常处理使用不当</a><br/>
-5. <a href="../../2009/05/defect-of-java-beginner-5-jvm.md">对虚拟机（JVM）了解不足</a>
+5. <a href="../../2009/05/defect-of-java-beginner-5-jvm.md">对虚拟机（JVM）了解不足</a><br/>
+<br/>
+<br/>
+<b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2012/05/weekly-share-5.md">每周转载：IT 大牛谈编程语言（网文3篇）</a>》<br/>
+《<a href="../../2009/01/0.md">如何成为优秀开发人员</a>》（系列）
 </div>
 
 
