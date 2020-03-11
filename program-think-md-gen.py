@@ -76,8 +76,10 @@ def extract_image_name_from_link(link):
 def download_single_image(link, image_save_path):
     r = requests.get(link, stream=True)
 
+    retry = 0
     while r.status_code != 200:
-        print('Error in download image, retry %s' % link)
+        retry += 1
+        print('Error in download image, retry (%d) %s' % (retry, link))
         r = requests.get(link, stream=True)
 
     with open(image_save_path + extract_image_name_from_link(link), 'wb') as f:
@@ -164,16 +166,19 @@ def construct_search_link(year, month):
 
 def download_all_articles_in_url_list(url_list, save_path):
     index = 0
+    retry = 0
     list_len = len(url_list)
 
     while index < list_len:
         try:
             url_to_markdown(url_list[index], save_path)
         except Exception as e:
+            retry += 1
             print(e)
-            print('Error in downloading %s, re-download.' % url_list[index])
+            print('Error in downloading %s (index: %d), retry count: %d.' % (url_list[index], index, retry))
             continue
         index += 1
+        retry = 0
 
 
 def download_articles_by_year(start_year, end_year):
