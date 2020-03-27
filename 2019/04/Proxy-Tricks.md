@@ -249,8 +249,9 @@
 针对“网卡”（只有某个网卡的数据包，才进行重定向）<br/>
 ......<br/>
 <br/>
-　　刚才是拿 Linux 内核自带的 iptables 说事儿。除了它，OpenBSD 自带的 pf 和 FreeBSD 自带的 ipf 也可以实现类似的效果。<br/>
-　　Windows 自带的防火墙是否能做到类似效果捏？俺不太确定 :(<br/>
+　　刚才是拿 Linux 内核自带的 iptables 说事儿。<br/>
+　　熟悉 OpenBSD 的同学，可以研究其自带的 pf 防火墙；熟悉 FreeBSD 的同学，可以研究其自带的 ipf 防火墙；看看这2款 BSD 系统是否也可以这么玩（俺自己没亲自试过，不保证）。<br/>
+　　Windows 自带的防火墙是否能做到类似效果捏？貌似不支持。<br/>
 　　（注：多年不用 Windows 了，写本文时，还特地开了个 Windows 虚拟机，简单看了一下内置防火墙的配置，好像没有这种功能）<br/>
 <br/>
 <h3>◇优点1——足够灵活</h3><br/>
@@ -279,7 +280,7 @@
 　　重点说说前面两样。<br/>
 <br/>
 　　<b>防火墙的配置</b><br/>
-　　（下面以 iptables 举例，使用 pf 或 ipf 的同学，请依样画葫芦）<br/>
+　　（下面以 Linux 下的 iptables 举例）<br/>
 　　考虑到本文只是提供思路和方法论，对 iptables 的配置，俺只提几个注意事项。具体的命令，请自行查阅手册。<br/>
 　　【注意事项1】<br/>
 　　iptables 默认的 table 是 <code>filter</code>，大部分使用 iptables 的同学，都是针对 <code>filter</code> 进行配置。<br/>

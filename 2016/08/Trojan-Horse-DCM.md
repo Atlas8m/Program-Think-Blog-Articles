@@ -232,8 +232,9 @@
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
-《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
+《<a href="../../2020/03/VirusTotal-Tricks.md">在线查毒工具 VirusTotal 的 N 种玩法——从“误报/漏报”聊到“攻击者对它的利用”</a>》<br/>
 《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言）</a>》<br/>
+《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2019/04/Proxy-Tricks.md">如何让【不支持】代理的网络软件，通过代理进行联网（不同平台的 N 种方法）</a>》
 </div>
 

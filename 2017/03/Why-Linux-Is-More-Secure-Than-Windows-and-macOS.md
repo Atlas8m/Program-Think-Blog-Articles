@@ -232,6 +232,7 @@
 《<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a>》<br/>
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客</a>》<br/>
 《<a href="../../2016/08/Trojan-Horse-DCM.md">如何对付公安部门的“网络临侦”？——“黑暗幽灵木马”之随想</a>》<br/>
+《<a href="../../2020/03/VirusTotal-Tricks.md">在线查毒工具 VirusTotal 的 N 种玩法——从“误报/漏报”聊到“攻击者对它的利用”</a>》<br/>
 《<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a>》<br/>
 《<a href="../../2015/04/Single-Point-of-Failure.md">聊聊“单点故障”——关于“德国空难”和“李光耀”的随想</a>》
 </div>

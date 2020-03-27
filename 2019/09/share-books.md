@@ -3,6 +3,12 @@
 -----
 
 <div class="post-body entry-content">
+<hr/><span style="font-weight:bold;font-size:150%;"><br/>
+本文发布于2019年5月，文中的电子书清单已经【不是】最新滴！<br/>
+请猛击如下链接，就可以看到【最新的】电子书清单。<br/>
+<a href="https://github.com/programthink/books" target="_blank">https://github.com/programthink/books</a></span><br/>
+<a name="more"></a><br/>
+<hr/><br/>
 　　又到了分享电子书的时候，本次新增63本。<br/>
 　　话说前不久写的那篇《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》，俺发现关注的人还挺多，所以最近这些天又上传了一些【经济类】方面的书籍。<br/>
 　　另外，【心理学类】最近一年都只有零星的更新，这次也增加了比较多。<br/>
@@ -34,7 +40,6 @@
 　　微软网盘在墙外，有时候可能会被 GFW 封杀。如果你无法打开微软网盘的页面，【请尝试翻墙】。<br/>
 　　<b>如果打开微软网盘界面，出现错误提示，</b>通常是同时下载的人太多，导致服务器超载。解决方法：耐心等几天，再去下载。<br/>
 　　（每次公布新增电子书，之后的那几天都会出现这个现象；然后就又恢复正常。怀疑是服务器超载）<br/>
-<a name="more"></a><br/>
 <hr/><br/>
 <h2>★政治</h2><br/>
 <b>【网盘】</b><br/>
@@ -1488,6 +1493,7 @@ Philippe Grangereau</td><td>繁體EPUB</td><td>2014-06-22</td><td><a href="https
 <tr><td>二十世纪最后的革命家<br/>
 ——菲德尔·卡斯特罗传</td><td>程映虹</td><td>简体PDF</td><td>2013-03-30</td><td><a href="https://docs.google.com/document/d/1MgZCMiccU4GSwMfB4cD3z1ON1wp2tKeHw5v_sQHabbg/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr><h2>★心理学</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!761" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -1733,7 +1739,8 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 <tr><td>如何变得有思想<br/>
 ——阮一峰博文集</td><td>阮一峰</td><td>简体EPUB</td><td>2015-05-12</td><td><a href="https://docs.google.com/document/d/13ObaY3VcPmHwHE5PmYXlDrvKOlUVYv6JDBpV-_hbiQ8/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
-<hr/><h2>★历史</h2><br/>
+<br/>
+<hr><h2>★历史</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!997" rel="nofollow" target="_blank">微软网盘</a><br/>
 BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法，参见页面开头的“网盘下载须知”）<br/>
@@ -2055,7 +2062,8 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 ——第二次世界大战后的日本</td><td>Embracing Defeat<br/>
 ——Japan in the Wake of World War II</td><td>(美) 约翰·道尔</td><td>简体PDF(扫描版)</td><td>2017-08-14</td><td><a href="https://docs.google.com/document/d/1XQzW-hur8gIaC-f0AB5fN4h7EJxL8pF5AXWdx9hE4Mo/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
-<hr/><h2>★经济</h2><br/>
+<br/>
+<hr><h2>★经济</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!998" rel="nofollow" target="_blank">微软网盘</a><br/>
 BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法，参见页面开头的“网盘下载须知”）<br/>
@@ -2349,6 +2357,7 @@ BT Sync 密钥：B2FRYA6AXCDW6CF4YJVFWKH2HAXOFICOX （此密钥的使用方法�
 2015-05-10<br/>
 2016-05-18</td><td><a href="https://docs.google.com/document/d/1NJftKIT_0uTuWM35B-AmvPxq1auch_70ailKLqXVuss/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★管理</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!763" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -2374,6 +2383,7 @@ BT Sync 密钥：B3WNBTAAFFAODFR6FQ3E3L5BBSJAFNBSJ （此密钥的使用方法�
 <tr><td>只有偏执狂才能生存</td><td>Only the Paranoid Survive</td><td>(美) 安迪·格鲁夫</td><td>简体PDF</td><td>2016-04-24</td><td><a href="https://docs.google.com/document/d/1wc9BZAUgpB99tFhZt2yy6QjctI7dnLGLJZX2xRC-ofk/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>格鲁夫给经理人的第一课</td><td>High Output Management</td><td>(美) 安迪·格鲁夫</td><td>简体PDF</td><td>2016-04-24</td><td><a href="https://docs.google.com/document/d/1rwGma8QRrV6Ojql_Fj4Himr1ZtwCTmrqNMcZvbv-4IY/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★社会学</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1008" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -2415,6 +2425,7 @@ BT Sync 密钥：BZR4TTYHT25QWUIE6YNMAKWUGBHKSGLC6 （此密钥的使用方法�
 <tr><td>社会学的基本概念</td><td>Basic Concepts in Sociology</td><td>(德) 马克斯·韦伯</td><td>简体PDF(扫描版)</td><td>2015-11-09</td><td><a href="https://docs.google.com/document/d/10T7dfKKxEyLwxyUxiIKTbcQYXJx1H6BUN7aptBydueA/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>社会科学方法论</td><td>N/A</td><td>(德) 马克斯·韦伯</td><td>简体PDF(扫描版)</td><td>2015-11-09</td><td><a href="https://docs.google.com/document/d/1xMvsZ1fUhqOtB5JYLDy1fYsmTnpumI8mjOF4zruUGi4/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★文艺</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!775" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -2504,6 +2515,7 @@ BT Sync 密钥：BMBB5YLBIJJAE5H6TP27OS7YCEUKCYHZK （此密钥的使用方法�
 2017-08-15<br/>
 2015-07-17</td><td><a href="https://docs.google.com/document/d/1WlFnjvUN0gtaTnwwhaJt3u3qj6ecMlVi40Ql3VMQxkc/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★哲学</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!1001" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -2740,6 +2752,7 @@ BT Sync 密钥：B6WWVBXPMZDI5IL4KED6AAHA5FO4UNKQF （此密钥的使用方法�
 作为意志和观念的世界</td><td>The World as Will and Representation</td><td>(德) 亚瑟·叔本华</td><td>简体PDF(第1卷 大字版)</td><td>2019-01-11</td><td><a href="https://docs.google.com/document/d/1GR6hEzB5toSaUxL8ydR35JlkRaoGlJT7bEGeohGbbr4/" rel="nofollow" target="_blank">简介</a></td></tr>
 <tr><td>自由的进化</td><td>Freedom Evolves</td><td>(美) 丹尼尔·丹内特</td><td>简体PDF(扫描版)</td><td>2015-11-09</td><td><a href="https://docs.google.com/document/d/1bMsMvcJSe40-L7aUxDOLw5cT0qKNrjDZdh4xm7ZN-NA/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★军事</h2><br/>
 <b>【网盘】</b><br/>
 <a href="https://onedrive.live.com/redir?resid=F5B0090663FEEADA!999" rel="nofollow" target="_blank">微软网盘</a><br/>
@@ -2999,6 +3012,7 @@ N/A</td><td><a href="https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByh
 <table border="1" cellpadding="0" cellspacing="0"><tr style="background:lightgrey"><td><b>中文书名</b></td><td><b>英文书名</b></td><td><b>作者</b></td><td><b>文件类型</b></td><td><b>上传日期</b></td><td><b>备注</b></td></tr>
 <tr><td>美军生存手册</td><td>U.S. Army Survival Manual</td><td>(美) 美国国防部</td><td>简体PDF(扫描版)</td><td>2017-02-19</td><td><a href="https://docs.google.com/document/d/1v5IcpLno6joE0VZEV0nYWrz5tw4PDzD7PH_isgdIWJQ/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table><br/>
+<br/>
 <hr/><h2>★IT</h2><br/>
 （IT领域的发展太快，导致书籍的生命周期变短。所以俺尽量挑选那些生命周期比较长的电子书。）<br/>
 <b>【网盘】</b><br/>
@@ -3870,7 +3884,7 @@ IPFS 白皮书</td><td>IPFS<br/>
 <tr><td>暗时间<br/>
 ——刘未鹏博文集</td><td>刘未鹏</td><td>简体EPUB</td><td>2015-05-12</td><td><a href="https://docs.google.com/document/d/1DMVlFx1x3JmcqmbBk1sUnVigXO4QxgeatrvZwtQIMeg/" rel="nofollow" target="_blank">简介</a></td></tr>
 </table>
-</hr></div>
+</hr></hr></hr></div>
 
 
 ------------------------------------------------
