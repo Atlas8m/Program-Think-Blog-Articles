@@ -409,7 +409,7 @@
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
 《<a href="../../2015/03/Tor-Arm.md">扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）</a>》<br/>
-《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》
+《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）
 </div>
 
 

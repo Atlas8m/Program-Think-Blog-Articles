@@ -4,7 +4,7 @@
 
 <div class="post-body entry-content">
 <hr/><span style="font-weight:bold;font-size:150%;"><br/>
-本文发布于2019年5月，文中的电子书清单已经【不是】最新滴！<br/>
+本文发布于2019年9月，文中的电子书清单已经【不是】最新滴！<br/>
 请猛击如下链接，就可以看到【最新的】电子书清单。<br/>
 <a href="https://github.com/programthink/books" target="_blank">https://github.com/programthink/books</a></span><br/>
 <a name="more"></a><br/>

@@ -16,9 +16,9 @@
 2. <a href="../../2010/06/howto-prevent-hacker-attack-2.md">攻击者如何搞定你的口令/密码？</a><br/>
 3. <a href="../../2010/06/howto-prevent-hacker-attack-3.md">如何构造安全的口令/密码？</a><br/>
 4. <a href="../../2010/08/howto-prevent-hacker-attack-4.md">安全漏洞的基本防范</a><br/>
-5. <a href="../../2012/08/howto-prevent-hacker-attack-5.md">Web相关的防范 (上)</a><br/>
-6. <a href="../../2012/09/howto-prevent-hacker-attack-6.md">Web相关的防范 (中)</a><br/>
-7. <a href="../../2012/10/howto-prevent-hacker-attack-7.md">Web相关的防范 (下)</a><br/>
+5. <a href="../../2012/08/howto-prevent-hacker-attack-5.md">Web相关的防范（上）</a><br/>
+6. <a href="../../2012/09/howto-prevent-hacker-attack-6.md">Web相关的防范（中）</a><br/>
+7. <a href="../../2012/10/howto-prevent-hacker-attack-7.md">Web相关的防范（下）</a><br/>
 8. <a href="../../2016/12/howto-prevent-hacker-attack-8.md">物理隔离的几种玩法</a><br/>
 9. （未完待续）
 </div>
