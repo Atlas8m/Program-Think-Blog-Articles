@@ -31,17 +31,17 @@
 　　借用启蒙思想家【孟德斯鸠】的名言：<q style="background-color:#DDD;"><b>一切拥有权力的人，都有滥用权力为自己谋求私利的倾向。</b></q><br/>
 　　除了“滥用权力的倾向”，很多政客在滥用权力时，还会为自己找一个非常冠冕堂皇的理由。<br/>
 　　当年中共夺权后，毛腊肉说：“为人民服务”<br/>
-　　911之后，小布什说：“为了反恐”<br/>
+　　911事件之后，小布什说：“为了反恐”<br/>
 　　如今，各国领导人说：“为了防控疫情”<br/>
 　　......<br/>
 <br/>
 <h3>◇Chrome 的隐私风险</h3><br/>
 《<a href="https://tech.slashdot.org/story/20/01/14/1642256/" rel="nofollow" target="_blank">Google To Phase Out User-Agent Strings in Chrome @ Slashdot</a>》<br/>
 　　<b>编程随想注：</b><br/>
-　　简而言之，Chrome 从 81 版本开始减低对“User Agent”的支持；到 85 版本完全不支持 UA 字符串。<br/>
+　　简而言之，Chrome 从 v81 版本开始减低对“User Agent”的支持；到 v85 版本完全不支持 UA 字符串。<br/>
 　　（注：关于“User Agent”的讨论，可以参见《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》系列教程的其中一篇）<br/>
 　　从表面上看，取消“User Agent”有助于降低“浏览器指纹”的信息量。因此，Chrome 的这个举动是值得表扬滴。<br/>
-　　Google 作为一个【在线广告巨头】，为啥会这么好心捏？因为 Google 有了【更好的】追踪手段。请看——<br/>
+　　有些同学会感到奇怪：Google 作为一个【在线广告巨头】，为啥会这么好心捏？因为 Google 有了【更好的】追踪手段。请看——<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=63440" rel="nofollow" target="_blank">Google 能通过 Chrome 安装 ID 跟踪用户 @ Solidot</a>》<br/>
 <blockquote style="background-color:#DDD;">Google 想要封杀第三方 cookie，想要替换 User-Agent 字符串...Google 会提供很多理由。但最主要的理由它未必会说出来：它有更多的方法跟踪用户。当竞争对手的可用跟踪方法少了之后，它的竞争优势会更大，而 Google 的 Android 和 Chrome 都有无数用户在使用。<br/>
@@ -52,7 +52,7 @@
 　　你越是 Google 的重度用户，你就越【不应该】使用 Chrome 作为你的日常浏览器。对于 Google 的重度用户，Google 已经能通过网站服务，收集到你的很多个人信息。而 Chrome 作为【本机软件】，又可以从【操作系统】层面进一步收集信息。<br/>
 　　这两者结合起来，Google 对你的了解就太多了。<br/>
 <br/>
-<h3>◇Brave 浏览器对隐私的保护——浏览器指纹随机化</h3><br/>
+<h3>◇Brave 浏览器对隐私的保护——浏览器指纹【随机化】</h3><br/>
 《<a href="https://www.ithome.com.tw/news/136256" rel="nofollow" target="_blank">確保用戶隱私，Brave 提供隨機瀏覽器指紋技術 @ iThome</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -61,6 +61,12 @@
 （注：关于“浏览器指纹的信息量”，在《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》系列教程的其中一篇有专门介绍）<br/>
 　　而另一款专注于隐私保护的“Brave 浏览器”计划在未来版本提供【浏览器指纹随机化】。这是一个完全不同的思路——它不是为了降低“指纹的信息量”，而是每次都产生【随机的指纹】。该功能会在每一个浏览器会话（session）产生不同的“浏览器指纹”。因此，当你多次访问同一个网站，网站服务端收集到的“浏览器指纹”会完全不同。如此一来，网站端就搞不清楚：是不是同一个人 :)<br/>
 　　俺估计，不久的将来，Tor Browser 也会有这方面的举措。<br/>
+　　关于“浏览器指纹”的小知识：<br/>
+　　网站之所以能通过“浏览器指纹”来追踪用户，关键在于“浏览器指纹”具有如下两个特点：<br/>
+1、独特性<br/>
+2、稳定性<br/>
+　　降低“浏览器指纹”的【信息量】是为了破坏其“独特性”；而随机化“浏览器指纹”是为了破坏其【稳定性】。<br/>
+　　关于“随机化”这招，当年俺写《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》系列的时候，提到过类似的思路——随机化伪装 User-Agent 字符串。<br/>
 <br/>
 <h3>◇新浪微博5亿用户数据泄漏</h3><br/>
 《<a href="https://yro.slashdot.org/story/20/03/23/1642248/" rel="nofollow" target="_blank">Hacker Selling Data of 538 Million Weibo Users @ Slashdot</a>》<br/>
@@ -83,6 +89,9 @@
 　　这个漏洞的危险之处在于——它可以通过“Windows 资源管理器”的【预览】功能触发。<br/>
 　　假设攻击者通过某种方式（邮件、IM、网站下载 ......），给了你一个恶意的【数据文档】。当你在“资源管理器”中选中该文件，“资源管理器”就会在右侧的“预览窗格”显示该文件的内容。这时候，漏洞就已经触发了。<br/>
 　　换句话说，你仅仅只是【选中】该文件，还没有用任何软件打开它，攻击代码就已经激活了。<br/>
+　　提醒一下：<br/>
+　　很多网民有个【误解】——误以为只有“可执行文件”才可以发动攻击/入侵。实际上【数据文件】也可以。前提是，处理数据文件的软件本身有漏洞（尤其是“可执行漏洞”），然后攻击者就可以针对该漏洞，精心构造一个特殊的数据文件，从而人为触发这个漏洞。<br/>
+　　类似的案例，俺在《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》系列教程的其中一篇介绍过（当时俺举了“浏览器渲染图片”的例子）<br/>
 <br/>
 <h3>◇Windows SMB（Server Message Block）模块的高危漏洞</h3><br/>
 《<a href="https://tech.slashdot.org/story/20/03/12/1757223/" rel="nofollow" target="_blank">Microsoft Patches SMBv3 Wormable Bug That Leaked Earlier this Week @ ZDNet</a>》<br/>
@@ -92,7 +101,7 @@
 　　<b>编程随想注：</b><br/>
 　　很多 Windows 用户喜欢通过【共享目录】的方式跨主机传输文件，这个习惯不好。<br/>
 　　“共享目录”这个功能是由 Windows 的某个服务（service）提供滴。这个服务本身就以【管理员权限】运行，而且它在历史上已经曝光了很多高危漏洞。这次曝光的 SMB 漏洞只不过是其中之一。也就是说，未来很可能还会再爆别的漏洞。<br/>
-　　如果这个服务出现了【代码执行】的漏洞，攻击者攻击之后就能获得【管理员权限】（然后就可以干任何事情）。<br/>
+　　如果这个服务出现了【代码执行】的漏洞，攻击者攻击之后就能获得【管理员权限】（然后就可以干很多事情）。<br/>
 <br/>
 <h3>◇Firefox 高危漏洞</h3><br/>
 《<a href="https://www.mozilla.org/en-US/security/advisories/mfsa2020-11/" rel="nofollow" target="_blank">Mozilla Foundation Security Advisory 2020-11 @ Mozilla</a>》<br/>
@@ -114,8 +123,7 @@ OpenBSD 开发者给出的理由，由于依赖问题（如 cbindgen 和 rust）
 　　3个月前的那篇《近期安全动态和点评》，俺已经聊过 sudo 的另一个高危漏洞。<br/>
 　　在不到半年时间内，sudo 连续爆了两个非常致命的漏洞——对攻击者而言，这2个漏洞很容易利用，而且都能实现【提权】。<br/>
 　　这样的苗头挺危险，很可能预示着——sudo 这个软件包内部还有其它一些高危漏洞没被发现。<br/>
-　　有鉴于此，你或许要考虑：【不装或卸载】这个软件包。在需要切换用户权限时，改用 <code>su</code> 命令。<br/>
-　　当然啦，<code>sudo</code> 命令在很多场合比 <code>su</code> 命令更方便。因此，你需要作出一些取舍。<br/>
+　　有鉴于此，你或许要考虑：【不装或卸载】这个软件包。在需要切换用户权限时，改用 <code>su</code> 命令。当然啦，<code>sudo</code> 命令在很多场合比 <code>su</code> 命令更方便。因此，你需要作出一些取舍。<br/>
 <br/>
 <h3>◇OpenWRT 的高危漏洞</h3><br/>
 《<a href="https://www.solidot.org/story?sid=64000" rel="nofollow" target="_blank">OpenWRT 使用 HTTP 连接传输更新 @ Solidot</a>》<br/>
@@ -154,9 +162,9 @@ The second category referred to WebAssembly code packed inside obfuscated Wasm m
 <h3>◇Bruce Schneier 谈 5G 的安全性</h3><br/>
 　　<b>编程随想注：</b><br/>
 　　Bruce Schneier 是信息安全领域的大牛（搞密码学的应该都知道他）。以下是他的一篇博文，谈“5G 网络的安全问题”。<br/>
-《<a href="https://www.schneier.com/blog/archives/2020/01/china_isnt_the_.html" rel="nofollow" target="_blank">5G Security</a>》<br/>
+《<a href="https://www.schneier.com/blog/archives/2020/01/china_isnt_the_.html" rel="nofollow" target="_blank">5G Security @ Schneier</a>》<br/>
 　　他开篇就点到了咱们天朝（中国公司会迫于政府压力，在网络设备中内置后门）。然后他又说：即使完全禁止中国公司参与 5G 网络，依然是【不够】滴。<br/>
-　　他指出 5G 网络可能会有如下三大问题：<br/>
+　　在文章的后续部分，他指出了 5G 网络可能会有如下三大问题：<br/>
 <b>问题1——5G 标准太复杂</b><br/>
 首先，这会导致软件的实现也太复杂，软件代码一旦复杂，潜在的漏洞就更多，也更难发现/修复。<br/>
 其次，这会导致软件对标准协议的实现不够完全（只是【部分实现】了协议），同样会导致安全问题。<br/>
@@ -188,7 +196,8 @@ The second category referred to WebAssembly code packed inside obfuscated Wasm m
 <h2>★言论审查与网络屏蔽</h2><br/>
 <h3>◇从“屏蔽”到“传输质量劣化”</h3><br/>
 《<a href="https://www.solidot.org/story?sid=63785" rel="nofollow" target="_blank">政府如何限制互联网网速 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">相比切断互联网，限制互联网网速更隐秘更难以察觉和确认。印度去年切断了克什米尔邦的互联网接入，至今没有完全解除。此事广为人知。但没有多少人知道的是约旦政府限制了 Facebook live 直播服务，如果它屏蔽 Facebook 那么确认起来很简单，如果它让网民难以直播视频，那么网民可能只会以为某个线路发生了故障。<br/>
+<blockquote style="background-color:#DDD;">相比切断互联网，限制互联网网速更隐秘更难以察觉和确认。印度去年切断了克什米尔邦的互联网接入，至今没有完全解除。此事广为人知。<br/>
+但没有多少人知道的是约旦政府限制了 Facebook live 直播服务，如果它屏蔽 Facebook 那么确认起来很简单，如果它让网民难以直播视频，那么网民可能只会以为某个线路发生了故障。<br/>
 <a href="https://netzpolitik.org/2020/jordan-throttles-not-blocks-internet-access-shutdowns-keepiton/" rel="nofollow" target="_blank">政府有很多方法去限制网速</a>：带宽管理/流量控制和策略；QoS(Quality of Service) 可以有效的降低特定通信协议的流量；Inline DPI(Deep Packet Inspection) 可用于引入延迟；NIC (Network Interface Card) /端口分区 可用于影响所有流量；路由寻径可路由流量通过更长或容量更低的网络端点去限制网速。</blockquote><br/>
 　　<b>编程随想注：</b><br/>
 　　如今朝廷对付 Github 的手法也类似。前几年俺在博文及评论区聊过：GFW 会故意产生“传输质量劣化”的效果。<br/>
@@ -221,7 +230,7 @@ TikTok 发言人承认文件的真实性，但表示大部分指示要么不再�
 　　有些软件虽然 exe 没有自带数字签名，但会在官网公布该 exe 的散列值（哈希值）或者 exe 文件对应的数字签名文件，以让你进行校验。<br/>
 　　如果某个软件既没有自带数字签名，官网页面也没提供任何校验信息，你就得怀疑它是否符合“第1条”（成熟度是否足够高）<br/>
 　　引申阅读：<br/>
-《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
+　　《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 <br/>
 <h3>◇针对 Shadowsocks 的攻击</h3><br/>
 《<a href="https://www.solidot.org/story?sid=63529" rel="nofollow" target="_blank">奇虎 360 研究员披露 Shadowsocks 流密码重定向攻击 @ Solidot</a>》<br/>
@@ -239,9 +248,11 @@ TikTok 发言人承认文件的真实性，但表示大部分指示要么不再�
 《<a href="https://it.slashdot.org/story/20/01/10/2218239/" rel="nofollow" target="_blank">SIM Swappers Are Using RDP To Directly Access Internal T-Mobile, AT&amp;T, and Sprint Tools @ Slashdot</a>》<br/>
 《<a href="https://yro.slashdot.org/story/20/01/13/1554235/" rel="nofollow" target="_blank">Academic Research Finds Five US Telcos Vulnerable To SIM Swapping Attacks @ Slashdot</a>》<br/>
 《<a href="https://news.slashdot.org/story/20/04/06/1852214/" rel="nofollow" target="_blank">PayPal and Venmo Are Letting SIM Swappers Hijack Accounts @ Slashdot</a>》<br/>
+《<a href="https://36kr.com/p/5294183" rel="nofollow" target="_blank">一文看懂巨鲸被盗2亿元数字货币始末，找回几无可能 @ 36氪</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
 　　在半年前（2019年3季度）的博文，俺已经提到过这种攻击手法。当时 Twitter CEO 的推特帐号被劫持，攻击者用的就是这招。从上述几篇报道来看，如今这种攻击越来越普及（越来越危险）。<br/>
+　　这类攻击的危险性在于——如今很多帐号都绑定手机，并且可以通过手机来【重置密码】。因此，攻击者一旦实现了【SIM 卡劫持】，就可以控制你的【手机号】，进而控制所有绑定到该手机的网络帐号。<br/>
 　　关于这种攻击手法的【原理】，请参见如下博文：<br/>
 《<a href="../../2019/09/Security-News.md">近期安全动态和点评（2019年3季度）</a>》<br/>
 <br/>
@@ -260,9 +271,9 @@ TikTok 发言人承认文件的真实性，但表示大部分指示要么不再�
 很多使用 Github 的网民发现异常是因为——浏览器显示“证书警告”。<br/>
 浏览器显示“证书警告”是因为——这次攻击使用的是一个随便生成的 CA 证书（浏览器当然不认可这种证书）<br/>
 　　试想一下：<br/>
-如果 GFW 真心要搞 MITM 攻击，它会使用一个貌似合法的 CA 证书；如此一来，浏览器就【不】显示警告信息。基本上很难察觉。<br/>
-对于普通网民而言，应该尽量把系统中（以及浏览器中）那些【不靠谱的 CA】颁发的证书清理干净。所谓“不靠谱的 CA”，除了俺之前专门写博文点名批评的两个老流氓（<a href="../../2010/02/about-cnnic.md">CNNIC</a> ＆ <a href="../../2016/09/About-WoSign.md">沃通/WoSign</a>），至少还包括：位于朝廷具有司法管辖权的地区的 CA 机构。也就是说：大陆、香港、澳门的 CA 机构都【不能】信任。<br/>
-　　“清理流氓 CA”的招数有个缺点——容易漏网。因为每隔几年，可能又会有某个天朝的 CA 机构的根证书被加入到“Windows 或 Android 或 iOS 或 Mozilla”的信任列表中。如果你对安全性的要求【非常高】，应该采用俺在《<a href="../../2019/04/Security-News.md">近期安全动态和点评（2019年1季度）</a>》中介绍的【证书白名单策略】。考虑到某些读者比较健忘，俺把当时的招数重新贴出来：<br/>
+如果 GFW 真心要搞 MITM 攻击，它会使用一个很逼真的（看起来合法的）CA 证书；如此一来，浏览器就【不】显示警告信息。基本上很难察觉。<br/>
+对于普通网民而言，应该尽量把操作系统中（以及浏览器中）那些【不靠谱的 CA】颁发的证书清理干净。所谓“不靠谱的 CA”，除了俺之前专门写博文点名批评的两个老流氓（<a href="../../2010/02/about-cnnic.md">CNNIC</a> ＆ <a href="../../2016/09/About-WoSign.md">沃通/WoSign</a>），至少还包括：【所有】位于朝廷具有司法管辖权的地区的 CA 机构。也就是说：处于“大陆、香港、澳门”的 CA 机构都【不能】信任。<br/>
+　　“清理流氓 CA”的招数有个缺点——容易漏网。因为每隔几年，可能又会有某个天朝的 CA 机构的根证书被加入到“Windows 或 Android 或 iOS 或 Mozilla”的信任列表中。如果你对安全性的要求【非常高】，应该采用俺在《<a href="../../2019/04/Security-News.md">近期安全动态和点评（2019年1季度）</a>》中介绍的【证书白名单策略】。考虑到某些读者比较健忘，俺把当时的招数再重新贴出来：<br/>
 <blockquote style="background-color:#DDD;">　　你在某个【专用】的浏览器实例中操作特别重要的帐号（也就是说，这个实例只操作这个帐号，不访问其它网站）然后在该实例中采用【证书白名单策略】——只留下这个帐号对应网站所需的 CA 证书，其它证书全部禁掉。当然啦，你还需要保留一个【通用】的实例，用来进行日常的上网浏览。如此一来，假设你有 N 个重要帐号，需配置 N + 1 个实例。<br/>
 　　浏览器的选择：<br/>
 　　Chrome 和 Firefox 都可以创建“多实例”，但 Chrome 有个【缺点】——它用的是操作系统的证书。因此，Chrome【无法】使用刚才介绍的招数。<br/>
@@ -288,14 +299,15 @@ TikTok 发言人承认文件的真实性，但表示大部分指示要么不再�
 华尔街日报指出，然而随着北京方面对香港的立场趋于强硬，美国官员对香港的态度也发生了变化。几个月以来，香港人一直在抵制北京方面推动香港与大陆融合的努力。<br/>
 华盛顿正在转向台湾这个自治岛屿，虽然北京方面宣称台湾是中国的一部分，但美国通过军售和非官方政治联系向台湾提供支持。</blockquote><br/>
 　　<b>编程随想注：</b><br/>
-　　如果结合刚才提到的“流量劫持”以及最近几年越来越升温的“中美对抗”，你就能理解——为啥美国佬禁止新的太平洋光缆部署到香港和大陆。<br/>
+　　这条光缆原计划要从美国加州一直铺设到香港，如今只到台湾。<br/>
+　　结合刚才提到的“流量劫持”以及最近几年越来越升温的“中美对抗”，你或许能理解——为啥美国佬禁止新的太平洋光缆部署到香港和大陆。<br/>
 <br/>
 <br/>
 <h2>★硬件与物理安全</h2><br/>
 <h3>◇冷战时期的物理安全</h3><br/>
 《<a href="https://www.solidot.org/story?sid=63225" rel="nofollow" target="_blank">苏俄如何监听美国大使馆的打字员 @ Solidot</a>》<br/>
 <blockquote style="background-color:#DDD;">最近出版的一本新书回顾了冷战期间美国和苏联之间的谍报战，讲述了<a href="https://spectrum.ieee.org/tech-history/silicon-revolution/the-crazy-story-of-how-soviet-russia-bugged-an-american-embassys-typewriters" rel="nofollow" target="_blank">一段尘封已久的供应链攻击案例</a>：神秘的苏联工程师巧妙的替换 IBM 打字机零部件去监听美国大使馆打字员的打字内容，而 NSA 的电机工程师费了多年时间揭开了这一秘密。<br/>
-1970年代末有多名美国间谍遭到逮捕，但美国情报界不知道他们的身份是如何曝光的。首次突破来自于在（美国驻）莫斯科大使馆无意发现的假烟囱腔内的八木天线，但天线的用途和无线发射机的下落仍然不明。NSA 工程师 Charles Gandy 对此展开了多年的寻找，他得到了里根总统的授权，将大使馆内的所有电子设备都安全打包运回美国。每个设备都被拆开，用 X 射线进行扫描。在进行了数万次扫描之后，技术人员在一台 IBM 打字机的 on/off 开关内发现了一个小线圈，Gandy 认为它充当了降压器为打印机内的东西供应低电压电。他最终发现，打印机内的有多个零件被替换了，一个外形相同的固体铝棒里面是空的，被放入了一个电路板和六个磁强计，磁强计能感知按键的移动，按键的信息被储存加密然后发送出去。</blockquote><br/>
+1970年代末有多名美国间谍遭到逮捕，但美国情报界不知道他们的身份是如何曝光的。首次突破来自于在（美国驻）莫斯科大使馆无意中发现的假烟囱腔内的八木天线，但天线的用途和无线发射机的下落仍然不明。NSA 工程师 Charles Gandy 对此展开了多年的寻找，他得到了里根总统的授权，将大使馆内的所有电子设备都安全打包运回美国。每个设备都被拆开，用 X 射线进行扫描。在进行了数万次扫描之后，技术人员在一台 IBM 打字机的 on/off 开关内发现了一个小线圈，Gandy 认为它充当了降压器为打印机内的东西供应低电压电。他最终发现，打印机内的有多个零件被替换了，一个外形相同的固体铝棒里面是空的，被放入了一个电路板和六个磁强计，磁强计能感知按键的移动，按键的信息被储存加密然后发送出去。</blockquote><br/>
 　　<b>编程随想注：</b><br/>
 　　上述这个已经是陈年往事。分享它是为了让大伙儿意识到【物理安全】的重要性——如果攻击者能够接触到你的电脑，并且在上面动手脚；那么，软件层面的任何防范都形同虚设。<br/>
 　　在之前的《<a href="../../2019/07/Security-News.md">近期安全动态和点评（2019年2季度）</a>》中提到了【邪恶女佣】（<a href="https://en.wikipedia.org/wiki/Evil_maid_attack" rel="nofollow" target="_blank">evil maid attack</a>）的攻击场景。这个术语就是用来描述此类攻击手法。<br/>
@@ -310,7 +322,7 @@ CSME 是所有最近的英特尔 CPU 都具有的一个安全特性。它被认�
 <br/>
 CSME 是机器中最早开始运行的系统之一，负责对基于英特尔的计算机上装载的所有固件进行密码验证和授权。<br/>
 例如，CSME 负责加载和验证 UEFI BIOS 固件和 PMC 固件（电源管理控制器）以及管理芯片组电源的组件。<br/>
-CSME 也是其他 Intel 技术的“加密基础”，如 Intel EPID（增强隐私ID）、Intel 身份保护、任何 DRM（数字版权管理）技术或基于固件的 TPMs（可信平台模块）。<br/>
+CSME 也是其他 Intel 技术的“加密基础”，如 Intel EPID（增强隐私 ID）、Intel 身份保护、任何 DRM（数字版权管理）技术或基于固件的 TPMs（可信平台模块）。<br/>
 换句话说，CSME 是运行在英特尔芯片组上的所有其他技术的“可信之本”。<br/>
 ......<br/>
 <br/>
@@ -318,6 +330,7 @@ CSME 也是其他 Intel 技术的“加密基础”，如 Intel EPID（增强隐
 　　<b>编程随想注：</b><br/>
 　　从上述介绍可以看出——CSME 是 Intel 芯片硬件体系的【信任链之锚】。<br/>
 　　据初步的研究结果，该漏洞可以被【本地利用】。也就是说，如果攻击者获得了在本地执行代码的机会，并且能够“提权”，就有可能利用该漏洞。<br/>
+　　在英特尔硬件体系中，UEFI 的信任链也是基于 CSME 之上。也就是说，UEFI 的安全性并没有某些同学想象的那么好。<br/>
 <br/>
 <h3>◇Intel 芯片的“Zombieload 漏洞”</h3><br/>
 《<a href="https://it.slashdot.org/story/20/01/27/2126231/" rel="nofollow" target="_blank">Intel Is Patching Its 'Zombieload' CPU Security Flaw For the Third Time</a>》<br/>
@@ -327,9 +340,9 @@ CSME 也是其他 Intel 技术的“加密基础”，如 Intel EPID（增强隐
 　　为了修复该漏洞，Intel 在去年（2019）5月和11月两次放出补丁，但都【没】彻底修复。今年（2020）1月份，英特尔不得不承认：之前的补丁不够完善，攻击者仍然能利用 Zombieload 漏洞；然后发布了第三次补丁。<br/>
 　　在《<a href="../../2020/01/Security-News.md">近期安全动态和点评（2019年4季度）</a>》一文中，俺引用了 Linux 内核维护者 Greg Kroah-Hartman 的一次演讲（如下）<br/>
 <blockquote style="background-color:#DDD;">稳定版内核维护者 Greg Kroah-Hartman 在欧洲开源峰会上发表主题演讲时指出，英特尔芯片的安全问题将会存在很长时间。这些被称为 MDS、RDDL、Fallout 和 Zombieland 的芯片漏洞从某种程度上说都是相同的问题或者说是相同问题的不同变种，但解决方法各不相同。举例来说，RIDL 和 Zombieload 漏洞能跨应用程序、虚拟机和安全区域（secure enclaves）窃取数据，讽刺的是：英特尔软件防护扩展（SGX）在芯片内本是保护数据安全的，结果本身却有很多漏洞。<br/>
-Kroah-Hartman 称：为了修复每一个曝出的问题，你必须同时给 Linux 内核、CPU BIOS 和微码打上补丁。这不只是 Linux 的问题，任何操作系统都面临相同的问题。他承认 OpenBSD 给出了解决此类漏洞的最近解决方案：关闭英特尔处理器的超线程，克服带来的性能损失。Kroah-Hartman 称，你必须选择性能还是安全，而这里不存在好的选择。</blockquote>　　Greg Kroah-Hartman 提到了<q style="background-color:#DDD;">关闭英特尔处理器的超线程</q>，这是一种玩法。<br/>
-　　另一种玩法是：改用 AMD 芯片的电脑。AMD 芯片也有不少安全问题（下面会提到），但 AMD 的安全问题比 Intel【少】很多。<br/>
-　　更进一步，善于折腾的同学，甚至可以考虑那些【非】x86 架构的芯片（比如 ARM 之类的）。<br/>
+Kroah-Hartman 称：为了修复每一个曝出的问题，你必须同时给 Linux 内核、CPU BIOS 和微码打上补丁。这不只是 Linux 的问题，任何操作系统都面临相同的问题。他承认 OpenBSD 给出了解决此类漏洞的最近解决方案：关闭英特尔处理器的超线程，克服带来的性能损失。Kroah-Hartman 称，你必须选择性能还是安全，而这里不存在好的选择。</blockquote>　　当时 Greg Kroah-Hartman 提到了<q style="background-color:#DDD;">关闭英特尔处理器的超线程</q>，这是一种玩法。<br/>
+　　另一种玩法是：改用 AMD 处理器的电脑。当然啦，AMD 处理器也有不少安全问题（下面会提到），但 AMD 的安全问题比 Intel【少】很多。<br/>
+　　更进一步，善于折腾的同学，甚至可以考虑那些【非】<a href="https://zh.wikipedia.org/wiki/X86" rel="nofollow" target="_blank">x86 架构</a>的处理器（比如 ARM 之类的）。<br/>
 <br/>
 <h3>◇针对 Intel 芯片的“LVI 攻击”</h3><br/>
 《<a href="https://www.zdnet.com/article/intel-cpus-vulnerable-to-new-lvi-attacks/" rel="nofollow" target="_blank">Intel CPUs vulnerable to new LVI attacks @ ZDNet</a>》<br/>
@@ -346,6 +359,7 @@ SGX 能在内存中创建一个隔离的环境，使用强加密和硬件层的�
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
+《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由</a>》<br/>
 《<a href="../../2018/10/How-to-Choose-Firefox-Version.md">基于安全考虑，如何选择及切换 Firefox 版本？</a>》<br/>

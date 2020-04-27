@@ -224,7 +224,7 @@ M2＝M1＋小额定期存款＋储蓄存款与货币市场存款账户＋货币�
 　　体现在金融领域就是——很长一段时间里（1787~1863年），合众国的商业银行都是由各州的“银行委员会”颁发执照。在那段时间，某些人也曾经想过要搞“央行”，而且还搞了两次（分别是：“美利坚银行”和“美利坚第二银行”），结果两次都被废掉了——主要还是因为美国公众担心：在金融领域出现一个独裁者。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Ccx2bFcSvRfx_2m58wIy_ujYKQKEEPk_GEmJXsc8RneyGRHH_NLiDSDUwEhCerJMtZ79ioMF8-O60wfr8YiABJCsz9Wlo9sbgiIwDYBqXmxgquABCoUjs2P7vdA7pgIea-7Ht5C3EuA"/><br/>
-（美国银行业发展史，图片来源：《<a href="https://docs.google.com/document/d/1aVfIkfAEJ7uPE0qRHjvFrhjDRw0OTdpNaYe1iuWeCd0/" target="_blank">货币金融学</a>》第12章）</center><br/>
+（美国银行业发展史，图片来源：《<a href="https://docs.google.com/document/d/1aVfIkfAEJ7uPE0qRHjvFrhjDRw0OTdpNaYe1iuWeCd0/" target="_blank">货币金融学</a>》第9版第12章）</center><br/>
 　　那后来成立“美联储”又是啥原因？最大的原因在于——<br/>
 　　“无央行”时期，一旦出现金融恐慌，商业银行的破产会引发连锁反应（这就是所谓的【系统性风险】）；<br/>
 　　有了“央行”，可以充当【最后贷款人】。在金融危机时，央行往银行系统注入资金（流动性），从而消除上述的【系统性风险】。<br/>
@@ -235,7 +235,7 @@ M2＝M1＋小额定期存款＋储蓄存款与货币市场存款账户＋货币�
 　　如果你理解了上述这点，就能明白——为啥从去年（2018）下半年到今年上半年，川普（在任总统）与美联储主席大打口水战，却依然拿他没办法。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Mvuu5Hg8Z-ic50L5JQw1WWldkvzSSDa65icsNWToH9DdAW5ntRoTbtJDMb_vizh0vJLFgd2wOpwu0aOlbr8giIUFVVBjuewDT_N3YH9LklulBNUj8obEv6W-Y0--olOqlhB4luRCNa0"/><br/>
-（“美联储”的体系结构与分权机制，图片来源：《货币金融学》第13章）</center><br/>
+（“美联储”的体系结构与分权机制，图片来源：《货币金融学》第9版第13章）</center><br/>
 <h3>◇央行的【资产负债表】</h3><br/>
 　　前面聊过“商业银行的资产负债表”。“央行”与“商业银行”还不太一样，下面简单说一下“央行的表”。<br/>
 <br/>

@@ -4,8 +4,8 @@
 
 <div class="post-body entry-content">
 <h2>★引子</h2><br/>
-　　3天前（2月25日），朝廷喉舌新华网发了一篇《<a href="http://www.xinhuanet.com/politics/2018-02/25/c_1122451187.htm" rel="nofollow" target="_blank">中国共产党中央委员会关于修改宪法部分内容的建议</a>》，引发了大量网民的热议。俺也来凑个热闹，发一篇政治八卦。<a name="more"></a><br/>
-<br/>
+　　3天前（2月25日），朝廷喉舌新华网发了一篇《<a href="http://www.xinhuanet.com/politics/2018-02/25/c_1122451187.htm" rel="nofollow" target="_blank">中国共产党中央委员会关于修改宪法部分内容的建议</a>》，引发了大量网民的热议。俺也来凑个热闹，发一篇政治八卦。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★扫盲政治常识：天朝宪法的本质——裆中央的【遮羞布】</h2><br/>
 　　咱们天朝的真理部老是吹嘘裆中央是如何的“伟大、光荣、正确”（简称“伟光正”）。但其实捏，裆中央不但没有伟光正，反而是一个“又丑又矬又臭”的货色。当“美丽的谎言”与“丑陋的真相”出现严重的矛盾，就需要靠一些【遮羞布】来掩饰。在这些遮羞布里面，最有名的两块大概就是：“人大”和“宪法”。<br/>
@@ -105,17 +105,18 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/03/weekly-share-119.md">每周转载：两会、修宪、终身制、翻白眼、大外宣（各方报道和网友评论，多图）</a><br/>
-<a href="../../2017/10/19th-National-Congress-of-Communist-Party-of-China.md">八卦一下伟光正的十九大</a><br/>
-<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a><br/>
-<a href="../../2013/11/cpc-third-plenary-session.md">三中全会解读：名为改革，实为集权，天朝重回个人独裁</a><br/>
-<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通</a><br/>
-<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a><br/>
-<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a><br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a><br/>
-<a href="../../2017/04/weekly-share-112.md">每周转载：郭文贵撕逼王岐山——网友热议“海航、高空寻欢、习王斗”</a>
+《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
+《<a href="../../2018/03/weekly-share-119.md">每周转载：两会、修宪、终身制、翻白眼、大外宣（各方报道和网友评论，多图）</a>》<br/>
+《<a href="../../2017/10/19th-National-Congress-of-Communist-Party-of-China.md">八卦一下伟光正的十九大</a>》<br/>
+《<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a>》<br/>
+《<a href="../../2013/11/cpc-third-plenary-session.md">三中全会解读：名为改革，实为集权，天朝重回个人独裁</a>》<br/>
+《<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通</a>》<br/>
+《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
+《<a href="../../2012/12/emperor-complex.md">天朝民众的心理分析：圣君情结</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
+《<a href="../../2017/04/weekly-share-112.md">每周转载：郭文贵撕逼王岐山——网友热议“海航、高空寻欢、习王斗”</a>》
 </div>
 
 

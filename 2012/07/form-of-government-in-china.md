@@ -72,6 +72,7 @@
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2012/07/form-of-government.md">扫盲各种政治体制</a>》<br/>
+《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
 《<a href="../../2016/06/USA-Separation-of-Powers-with-Balances.md">聊聊美国政体中的权力制衡——不仅仅是三权分立</a>》<br/>
 《<a href="../../2016/11/USA-Elections.md">美国选举制度为啥是这样设计的？兼谈其历史演变</a>》<br/>
 《<a href="../../2013/12/political-concepts-state-citizenship-etc.md">政治常识扫盲：理清“国家、政体、公民、政府、政党”等概念</a>》<br/>
