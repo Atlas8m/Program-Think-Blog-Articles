@@ -131,7 +131,7 @@
 　　另外，俺还看到一张 IS 的宣传照片，里面是一个小孩（7岁）提着一个血淋淋的人头。他亲爹是澳洲人士，投奔伊斯兰国，把自己7岁的儿子也带过去了——由此可见 IS 的洗脑能力之强。（本来想把这张照片贴出来，怕有些读者看了受不了，就没贴）<br/>
 <br/>
 <br/>
-<h2>★共同点——唯一领袖的绝对权威</h2><br/>
+<h2>★共同点——唯一的领袖拥有绝对的权威</h2><br/>
 　　洗脑宣传除了培养狂热的信徒，还有一个目的是：打造“唯一领袖”及其“绝对权威”。<br/>
 <br/>
 <h3>◇共产运动</h3><br/>
@@ -153,7 +153,7 @@
 <h2>★这三者的共同本质——【极权主义】</h2><br/>
 　　现在，俺来点出本文的主题。<br/>
 　　为啥本文单独挑选这三个“自由主义的敌人”来批判？因为这三种思潮，最终都将导致“极权主义”。咱们平时所说的“专制/独裁”这类名词，都是广义的泛指。<b>在所有的专制体制中，最危险最糟糕的（没有之一），是“极权主义”。</b>比如在工业革命之前，世界上大多数国家都是“君主制”。“君主制”也属于“专制/独裁”。但传统的“君主制”与“极权主义”比起来，那就是小儿科啦——危害性完全不在一个层次上。<br/>
-　　在咱们天朝官方的话语体系中，喜欢把“纳粹”称为“极右”，把“文革”称为“极左”。这实际上是“障眼法”，让外行以为这两者截然不同。其实恰恰相反——“毛泽东统治下的中国”和“希特勒统治下的德国”，本质上都是极权主义——是一路货色。俺在2013年写过一篇博文：《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》——当时就已经强调过这两者的【共性】。<br/>
+　　在咱们天朝官方的话语体系中，喜欢把“纳粹”称为“极右”，把“文革”称为“极左”。这实际上是“障眼法”，让外行以为这两者截然不同。其实恰恰相反——“毛泽东统治下的中国”和“希特勒统治下的德国”，本质上都是【极权主义】——两者是一路货色。俺在2013年写过一篇博文：《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》——当时就已经强调过这两者的【共性】。<br/>
 　　“极权主义”不仅是“自由主义”的敌人，也是所有民主派/共和派的敌人。通过本文的介绍，希望你能对“极权主义”留下深刻的印象，并保持足够的警惕性。<br/>
 <br/>
 <br/>
@@ -161,11 +161,11 @@
 　　关于“极权主义”的更多介绍，可以参见“<a href="https://zh.wikipedia.org/wiki/%E6%A5%B5%E6%AC%8A%E4%B8%BB%E7%BE%A9" rel="nofollow" target="_blank">这个维基词条</a>”。<br/>
 　　对极权主义的批评，已经有好几部名著，有兴趣的读者可以去看一下（下面列出的每一本，<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上都分享了电子版）<br/>
 <a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94" rel="nofollow" target="_blank">卡尔·波普尔</a>：《<a href="https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/" target="_blank">开放社会及其敌人</a>》/《The Open Society and Its Enemies》<br/>
-（本书中更多的是介绍“开放社会的敌人”，而不是“开放社会”本身。作者追溯了共产主义意识形态的思想来源。着重批判了“柏拉图、黑格尔、马克思”这三人的哲学体系）<br/>
+（本书中更多的是介绍“开放社会的敌人”，而不是“开放社会”本身。作者追溯了共产主义意识形态的思想来源。着重批判了“柏拉图、黑格尔、马克思”这三人的哲学体系。阅读此书需要有一定的理论功底，否则会看得很吃力）<br/>
 <a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94" rel="nofollow" target="_blank">卡尔·波普尔</a>：《<a href="https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/" target="_blank">历史决定论的贫困</a>》/《The Poverty of Historicism》<br/>
-（这本是专门批马克思的“历史决定论”，批得体无完肤）<br/>
+（这本是专门批马克思的“历史决定论”，在批判“历史决定论”的著作中，此书的影响力最大）<br/>
 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9" rel="nofollow" target="_blank">汉娜·阿伦特</a>：《<a href="https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/" target="_blank">极权主义的起源</a>》/《The Origins of Totalitarianism》<br/>
-（这本书是该领域的理论经典，第一次深刻论述了“马列主义”与“纳粹主义”的【共性】）<br/>
+（这本书是该领域的理论经典，率先论述了“马列主义”与“纳粹主义”的【共性】）<br/>
 <a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B" rel="nofollow" target="_blank">弗里德里希·哈耶克</a>：《<a href="https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/" target="_blank">通往奴役之路</a>》/《The Road to Serfdom》<br/>
 （此书论述了：所有实行【中央计划经济】的社会，不管采用什么意识形态，最终都会沦为极权主义——当中央政府具有强大的经济控制能力，这种能力必将延伸到对个人生活方面的控制，最终导致个人自由的彻底丧失）<br/>
 <br/>
@@ -175,6 +175,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
 《<a href="../../2015/01/Islamic-Extremism.md">伊斯兰教极端主义溯源——“＜查理画报＞惨案”和“尼日利亚大屠杀”随想</a>》<br/>
 《<a href="../../2014/09/oversimplification.md">各种一元化思维的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>

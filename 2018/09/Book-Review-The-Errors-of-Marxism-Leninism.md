@@ -122,11 +122,11 @@ The fact is, however, that most serious English-speaking economists regard Marxi
 <br/>
 　　<b>现代博弈论</b><br/>
 　　率先把博弈论引入经济学的，是那个超级跨界牛人<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC" rel="nofollow" target="_blank">冯·诺依曼</a>。他不但被称作【计算机之父】，还是顶级的数学家、顶级的理论物理学家。<br/>
-　　1944年，冯·诺伊曼与奥斯卡·摩根斯坦（Oskar Morgenstern）合作发表了《<a href="https://docs.google.com/document/d/1rV8OFkInke6MJul6uKd8utuDViBJbph11PmpvNMIyCU/" target="_blank">博弈论与经济行为</a>》（Theory of Games and Economic Behavior）。这篇论文对经济学而言是【划时代】滴！那之后，他又获得一个新的称号：“现代博弈论之父”。（可惜诺贝尔经济学奖设立太晚，否则他应该能得）<br/>
+　　1944年，冯·诺伊曼与奥斯卡·摩根斯坦（Oskar Morgenstern）合作发表了《<a href="https://docs.google.com/document/d/1rV8OFkInke6MJul6uKd8utuDViBJbph11PmpvNMIyCU/" target="_blank">博弈论与经济行为</a>》（Theory of Games and Economic Behavior）。这是个长篇论文（1200页），对经济学而言是【划时代】的里程碑！那之后，他又获得一个新的称号：“现代博弈论之父”。（要是“诺贝尔经济学奖”在他死之前设立，他肯定能拿到）<br/>
 　　除了冯·诺依曼，还有一个名气挺大的牛人<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E5%B8%83%E6%96%AF%C2%B7%E7%BA%B3%E4%BB%80" rel="nofollow" target="_blank">约翰·纳什</a>，也对博弈论有重要贡献——在1950年的博士论文中引入了“纳什均衡”的概念，并因此获得1994年诺贝尔经济学奖。<br/>
-　　经济学在引入了博弈论之后，可以更好地解释各种概念（比如：价格水平、工资水平）<br/>
+　　经济学在引入了博弈论之后，可以更好地解释各种概念（比如：价格水平、工资水平 ...）<br/>
 <br/>
-　　<b>“交易成本理论”和“产权理论”</b><br/>
+　　<b>交易成本理论 ＆ 产权理论</b><br/>
 　　<a href="https://zh.wikipedia.org/wiki/%E7%BD%97%E7%BA%B3%E5%BE%B7%C2%B7%E7%A7%91%E6%96%AF" rel="nofollow" target="_blank">罗纳德·科斯</a>在1937年发表了成名作——《企业的本质》（The Nature of the Firm），引入了【交易成本】的概念。他后来提出了“科斯定理”和“产权理论”，于1991年获诺贝尔经济学奖。<br/>
 　　马克思把“企业”当成纯粹的剥削工具；而科斯则论证了——如果没有企业，就无法解决“交易成本”的问题（在本文后续的某个章节，俺还会再次提到此书）。<br/>
 　　科斯在上述成名作之后，又在1960年发表了一篇《社会成本问题》，堪称其代表作。这篇论文建立产权理论。那这个“产权理论”与马列主义有啥关系捏？在后面聊“公有制企业”的时候，俺会介绍。<br/>
@@ -359,14 +359,14 @@ The fact is, however, that most serious English-speaking economists regard Marxi
 　　哈耶克也加入论战，他反驳说：建立这样的方程组需要收集的信息太多，很难做到；即使真的能建立这样的方程组，也很很难求解。<br/>
 　　由于那个年代的计算机技术尚未充分发展起来，对于方程组的争论，双方分不出胜负。<br/>
 　　到了上世纪80年代，苏联经济学家 Alexander Nove 指出：即使能建立这样的方程组，用当时最好的计算机，也要花上百万年。<br/>
-　　俺想说的是：Alexander Nove 还是太天真了。不论是他还是早先那些企图建立方程组的学者，他们显然都不了解【<a href="https://zh.wikipedia.org/wiki/%E6%B7%B7%E6%B2%8C%E7%90%86%E8%AE%BA" rel="nofollow" target="_blank">混沌理论</a>】。而人类社会恰恰是个典型的混沌系统。<br/>
-　　如果你理解了混沌理论，自然就明白——建立这样的方程组是【没有意义】的。<br/>
+　　虽然 Alexander Nove 已经意识到了“经济计算问题”的难点。但俺想说的是：他还是太天真啊（依然【极大低估】了计算量）。不论是他还是早先那些企图建立方程组的学者，他们显然都不了解【混沌理论】。而人类社会恰恰是个典型的混沌系统（关于“混沌性”的扫盲，参见博文《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》）<br/>
+　　假如你看了上述博文，理解了何为“混沌性”，自然就明白——建立这样的方程组是【毫无意义】滴。<br/>
 　　当然啦，共产党政府的御用经济学家是不会认输滴（至少在口头上不会），他们总能找出各种理由来狡辩。所以，咱们只好以【事实】来说话。<br/>
 　　在二战之后，共产党在很多国家夺权，纷纷搞起了中央计划经济。结果如何捏？到了上世纪80年代末，没有一个国家的中央计划经济是成功的！【所有的】中央计划经济最后都面临严重的经济短缺、商品匮乏、资源浪费，【无一例外】。<br/>
 <br/>
 <h3>◇雅诺什·科尔奈：《<a href="https://docs.google.com/document/d/1tLFIJstVhXdd9bJlCzPt_sZAo7FanyhhNY5cje5YJDM/" target="_blank">短缺经济学</a>》</h3><br/>
 　　作者<a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E8%AF%BA%E4%BB%80%C2%B7%E7%A7%91%E5%B0%94%E5%A5%88" rel="nofollow" target="_blank">雅诺什·科尔奈</a>是匈牙利著名的经济学家，匈牙利科学院院士，瑞典科学院院士。<br/>
-　　他本科的专业是哲学，然后通过自学成为经济学家。1955年被开除出党（原因：怀疑共产主义信仰）。从80年代中期开始执教于哈佛大学，直至退休。他擅长于对东欧共产党国家的【中央计划经济】进行批判和分析，是这方面的学术权威。<br/>
+　　他本科的专业是哲学，然后通过自学成为经济学家；1955年被开除出党（罪名：怀疑共产主义信仰）；从80年代中期开始执教于哈佛大学，直至退休。他擅长于对东欧共产党国家的【中央计划经济】进行批判和分析，是这方面的学术权威。<br/>
 　　这本书的英文名称是《Economics of Shortage》，相当于他的代表作，奠定了他在该领域的权威地位。<br/>
 　　书中论证了东欧国家出现的短缺现象【并非】个别决策者的错误，而是【系统性问题】。作者在书中指出：<b>“短缺”是社会主义计划经济体系特有的痼疾。</b><br/>
 <br/>
@@ -462,10 +462,10 @@ The attempt to make heaven on earth invariably produces hell.</blockquote>　　
 <h3>◇卡尔·波普尔：《<a href="https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/" target="_blank">历史决定论的贫困</a>》</h3><br/>
 　　作者<a href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94" rel="nofollow" target="_blank">卡尔·波普尔</a>是20世纪著名的哲学家、思想家，对“科学哲学”具有重要贡献（提出“<a href="https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AF%81%E4%BC%AA%E6%80%A7" rel="nofollow" target="_blank">可证伪性</a>”的概念）。在政治上，他拥护自由主义，提倡“开放社会”。<br/>
 <br/>
-　　此书的英文名称是：《The Poverty of Historicism》。在批判“历史宿命论”的著作中，此书的影响力是最大的。<br/>
-　　这本书源自他1936年写的同名论文，1943~1944年首次发表在学术刊物（分成三部分发表）。然后一直拖到上世纪50年代，才单独出书。<br/>
-　　从第一次发表论文到单独出书，中间隔了将近十年。这期间，波普尔又完成了反驳历史决定论的【逻辑证明】。所以在正式出书的时候，他在序言部分简单介绍了他的逻辑证明。<br/>
-　　俺把这部分介绍摘录如下（引文中的粗体是俺标注滴）：<br/>
+　　此书的英文名称是：《The Poverty of Historicism》。在批判“历史决定论/历史宿命论”的各种著作中，此书的影响力是最大滴（没有之一）。<br/>
+　　这本书源自他1936年完成的同名论文。该论文一直到1943~1944年才首次发表在学术刊物（分成三部分发表）。然后一直拖到上世纪50年代，才单独出书。<br/>
+　　从第一次发表论文到单独出书，中间隔了将近十年。这期间，波普尔又完成了“反驳历史决定论”的【逻辑证明】。所以在正式出书的时候，他在序言部分简单介绍了他的逻辑证明。<br/>
+　　俺把这部分单独摘录如下（引文中的粗体是俺标注滴）：<br/>
 <blockquote>在那时以后，我成功地对历史决定论给予反驳：我已证明，由于<b>纯粹的逻辑理由</b>，我们不可能预测历史的未来进程。<br/>
 这个论证包含在1950年发表的《古典物理学和量子物理学中的非决定论》一篇论文中。但是我现在又不再满意这篇论文了。在我的《科学发现的逻辑》的《跋：二十年以后》中讨论非决定论的一章，有更满意的论述。<br/>
 为了让读者知道这些最近成果，我拟在这里简单谈谈我对历史决定论的这个反驳。我的论证可以概括为如下五个论题：<br/>
@@ -483,12 +483,12 @@ The attempt to make heaven on earth invariably produces hell.</blockquote>　　
 <h2>★对马列主义【社会学方法论】的批判</h2><br/>
 <h3>◇卡尔·波普尔：《<a href="https://docs.google.com/document/d/1WRVGU5qcrhhjDMbgnpYiiSiomRmgPm--ZHMYmIAhVeo/" target="_blank">科学发现的逻辑</a>》和《<a href="https://docs.google.com/document/d/1EkTX-vK8eX4KeqBir4nYL_A5Qe0VWymINXOdZVyq4mw/" target="_blank">猜想与反驳——科学知识的增长</a>》</h3><br/>
 　　关于<a href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%99%AE%E5%B0%94" rel="nofollow" target="_blank">卡尔·波普尔</a>，前面已经介绍过。<br/>
-　　他的这两本书，都是关于【科学哲学】领域的。英文名分别是：《The Logic of Scientific Discovery》、《Conjectures and Refutations——The Growth of Scientific Knowledge》。<br/>
+　　他的这两本书都属于【科学哲学】领域。英文名分别是：《The Logic of Scientific Discovery》、《Conjectures and Refutations——The Growth of Scientific Knowledge》。<br/>
 　　在前一本书，波普尔开创了【证伪主义】（又称“批判理性主义”）。通过这个“证伪主义”，波普尔建立了“科学”与“非科学”的划界标准——以“可证伪性”划界。<br/>
-　　在后一本书，波普尔指出了：科学理论要通过何种方式获得发展。<br/>
+　　在后一本书，波普尔指出了：科学理论要通过何种方式，才能获得发展。<br/>
 　　那么，这两本书与马列主义有啥关系捏？在《猜想与反驳》一书中，波普尔指出了马克思理论的蜕变（下面引文中的粗体是俺标注滴）<br/>
 <blockquote>在这种学说的一些早期表述里（例如马克思关于“未来社会革命”的性质的分析），他们的预言是可以检验的，而且<b>事实上已经被证伪了</b>。然而马克思的追随者不但不接受这些证伪的事例，反而重新解释这个学说和证据以便营救这个学说——使之不至于被反驳；但是这样做的代价是采纳一种使这个理论无法被反驳的伎俩。如此一来，他们就给予这个理论一种“约定主义曲解”；而且通过这一伎俩，他们就<b>破坏了这个理论所大肆宣扬的科学地位</b>。</blockquote>　　通俗地说，经过马派学者的改造之后，马克思的理论已经蜕变成【伪科学】。为啥这么说捏？因为他的理论（在改造之后）已经丧失了【可证伪性】，不能再算是“科学理论”；但是马派学者依然继续称之为“科学社会主义”（Scientific socialism）。如果一个理论算不上是科学理论，但又把自己伪装成科学理论，那么这就是典型的【伪科学】。<br/>
-　　请注意：“非科学”与“伪科学”是两个不同的概念。（关于“科学”这个概念的讨论，可以看俺的一篇旧博文——《<a href="../../2015/10/What-is-Science.md">科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误</a>》）<br/>
+　　请注意：“非科学”与“伪科学”是两个不同的概念。（关于“科学”相关概念的讨论，可以看多年前的一篇旧博文——《<a href="../../2015/10/What-is-Science.md">科学是什么？——兼谈“非科学、伪科学、反科学”和一些常见谬误</a>》）<br/>
 <br/>
 <br/>
 <h2>★对【马列主义哲学体系】的批判</h2><br/>
@@ -521,6 +521,7 @@ And how do you tell an anti-communist? It's someone who <b>understands</b> Marx 
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
 《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
 《<a href="../../2014/09/oversimplification.md">各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
 《<a href="../../2019/08/Monetary-Economics.md">扫盲“货币经济学”基本概念——从“利率”到“央行货币政策”</a>》<br/>
