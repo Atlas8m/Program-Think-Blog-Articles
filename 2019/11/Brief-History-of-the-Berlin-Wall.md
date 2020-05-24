@@ -54,10 +54,10 @@
 （伊格尔·古琴科）</center><br/>
 　　小插曲——物理学家费曼的【间谍朋友】：<br/>
 　　著名的理论物理学家费曼（也就是前不久<a href="../../2019/10/Systematic-Learning.md">俺介绍【费曼学习法】</a>提到的那个费曼）在其传记《别闹了，费曼先生》中回忆（以下是俺转述的大意）——<br/>
-<blockquote style="background-color:#DDD;">当他参与“曼哈顿工程”时，跟他同宿舍有个朋友叫“福斯”。那时候费曼自己没有汽车，为了去另一个城市探望生病的妻子，经常要借用福斯的小轿车。<br/>
+<blockquote>当他参与“曼哈顿工程”时，跟他同宿舍有个朋友叫“福斯”。那时候费曼自己没有汽车，为了去另一个城市探望生病的妻子，经常要借用福斯的小轿车。<br/>
 后来美方破获了“洛斯阿拉莫斯”（新墨西哥州的核弹研发基地）的苏联间谍网，费曼这个朋友就是其中一个苏联间谍。</blockquote><br/>
 　　（“古琴科事件”半年之后）1946年3月5日，英国首相温斯顿·丘吉尔在美国密苏里州的威斯敏斯特学院（Westminster College）发表题为《和平砥柱》（The Sinews of Peace）的演讲，其中提到：<br/>
-<blockquote style="background-color:#DDD;">从波罗的海边的什切青到亚得里亚海边的的里雅斯特，一幅横贯欧洲大陆的【铁幕】已经拉下。这张铁幕后面坐落着所有中欧、东欧古老国家的首都──华沙、柏林、布拉格、维也纳、布达佩斯、贝尔格莱德、布加勒斯特和索菲亚。这些著名的都市和周围的人口全都位于苏联势力范围之内，全都以这种或那种方式，不仅落入苏联影响之下，而且已受到莫斯科日益加强的控制。</blockquote>　　【铁幕】一词虽然不是丘吉尔首创，但因为他这个演讲而广为人知。该演讲经常被称作【铁幕演说】（Iron Curtain Speech），通常也视之为冷战开端。<br/>
+<blockquote>从波罗的海边的什切青到亚得里亚海边的的里雅斯特，一幅横贯欧洲大陆的【铁幕】已经拉下。这张铁幕后面坐落着所有中欧、东欧古老国家的首都──华沙、柏林、布拉格、维也纳、布达佩斯、贝尔格莱德、布加勒斯特和索菲亚。这些著名的都市和周围的人口全都位于苏联势力范围之内，全都以这种或那种方式，不仅落入苏联影响之下，而且已受到莫斯科日益加强的控制。</blockquote>　　【铁幕】一词虽然不是丘吉尔首创，但因为他这个演讲而广为人知。该演讲经常被称作【铁幕演说】（Iron Curtain Speech），通常也视之为冷战开端。<br/>
 <br/>
 <h3>◇（1946年）<a href="https://en.wikipedia.org/wiki/George_F._Kennan" rel="nofollow" target="_blank">乔治·凯南</a>提出【对苏遏制战略】</h3><br/>
 　　虽然“古琴科事件”标志着美苏关系【恶化】。但美国方面尚未想清楚如何对付苏联。当时美国外交界存在三种流派（战略），分别是：<br/>
@@ -117,7 +117,7 @@
 <br/>
 <h3>◇1952年【之前】的“两德边界”——</h3><br/>
 　　在1952年之前，“两德边界”的看守还比较宽松（具体参见下面这张照片）。因此，从“东德”逃亡到西方世界，相对比较容易。<br/>
-　　根据维基百科的数据，<q style="background-color:#DDD;">1945年10月至1946年6月之间，共有160万德国人从苏占区逃往西德。</q>也就是说：（二战刚结束时）平均每个月有20万东德人逃亡。（注：那个时间段，东德尚未成立，因此还叫做“苏占区”）<br/>
+　　根据维基百科的数据，<q>1945年10月至1946年6月之间，共有160万德国人从苏占区逃往西德。</q>也就是说：（二战刚结束时）平均每个月有20万东德人逃亡。（注：那个时间段，东德尚未成立，因此还叫做“苏占区”）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/rNwN1vpRjFHim5tyCeHVA9FcGVlaXRP_5x7av2R7siB3OKnGbe_Ojt66ovLWLtAXD7cuqPd8buR27LNpC7UBelBRSAP4rF7kxxK2RgzzZpU7qLdS-m4UOo-txqviXJJewAhS24HoIAc"/><br/>
 （图林根州边界的路障，摄于1950年）</center><br/>
@@ -156,7 +156,7 @@
 <h3>◇（1953年）“东德617事件”——进一步加剧了逃亡</h3><br/>
 　　1953年6月16日，“东柏林”某国营公司的300名建筑工人示威游行，抗议“提高工作定额，却不加薪”。这次游行被“西柏林”的 RIAS（美国占领区广播电台）播报之后，在第二天（6月17日）引发东德各大城市的民众走上街头。<br/>
 　　东德民众提出的政治口号包括：<br/>
-<blockquote style="background-color:#DDD;">撤走一切外国军队<br/>
+<blockquote>撤走一切外国军队<br/>
 实行言论和新闻自由<br/>
 释放政治犯<br/>
 举行全德自由选举<br/>
@@ -171,9 +171,9 @@
 　　很显然，这次事件进一步刺激东德民众的神经，更多的人开始逃亡。<br/>
 <br/>
 <h3>◇射杀令</h3><br/>
-　　1952年5月27日，东德政府下发给边境警察的要求中规定：<q style="background-color:#DDD;">对不遵守边境巡逻秩序的人使用武器</q>。类似的命令在不同年代以不同的形式下发。<br/>
+　　1952年5月27日，东德政府下发给边境警察的要求中规定：<q>对不遵守边境巡逻秩序的人使用武器</q>。类似的命令在不同年代以不同的形式下发。<br/>
 　　一直到1982年，通过了《边境法案》——“射杀令”正式升格为法律。在该法案的第27条规定：<br/>
-<blockquote style="background-color:#DDD;">边防军承担“保卫德意志民主共和国边境不受侵犯，以及防止入侵东德领土等挑衅行为”的任务。<br/>
+<blockquote>边防军承担“保卫德意志民主共和国边境不受侵犯，以及防止入侵东德领土等挑衅行为”的任务。<br/>
 如果对人员的其他阻击手段未能奏效，武器作为阻碍越境者的最后手段，使用武器将是合理的。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/ig4YWjI8jdEuQxns1ZB9MqmIKp46GrFYuiB7egb02kSYNXns6GL7Mo6wp7rEi8uK2YK34bkobuYeow5z7qFmPiXpygQpiaFoFaA7VnNAMevRsL_8IqySHBuK_iqN2xZm5pAeQlpZkpA"/><br/>
 （《边境法案》第27条中对使用武器的规定）</center><br/>
@@ -194,7 +194,7 @@
 <h2>★筑墙</h2><br/>
 <h3>◇（1958年）赫鲁晓夫的外交恐吓——史称“第2次【柏林危机】”</h3><br/>
 　　前面介绍了【东德民众的逃亡】。到了上世纪50年代后期，以【西柏林】为跳板逃到西方世界的东德人越来越多。而且其中很大比例是【社会栋梁】——知识分子＆中产阶级。按照这个趋势发展下去，不光东德经济会崩溃，整个东德社会都将崩溃。<br/>
-　　苏联老大哥开始急眼了。1958年8月28日，时任“社会主义国家共产党和工人党联络处”负责人的<a href="https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%C2%B7%E5%AE%89%E5%BE%B7%E7%BD%97%E6%B3%A2%E5%A4%AB" rel="nofollow" target="_blank">尤里·安德罗波夫</a>给裆中央写信，说明了事态的严重程度。信中称：<q style="background-color:#DDD;">东德逃亡人群中高达 50% 来自知识阶层 ...... 知识阶层的逃亡已经发展到了一个严重的阶段！</q><br/>
+　　苏联老大哥开始急眼了。1958年8月28日，时任“社会主义国家共产党和工人党联络处”负责人的<a href="https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%C2%B7%E5%AE%89%E5%BE%B7%E7%BD%97%E6%B3%A2%E5%A4%AB" rel="nofollow" target="_blank">尤里·安德罗波夫</a>给裆中央写信，说明了事态的严重程度。信中称：<q>东德逃亡人群中高达 50% 来自知识阶层 ...... 知识阶层的逃亡已经发展到了一个严重的阶段！</q><br/>
 　　（注：就是这个“安德罗波夫”，后来升任“克格勃头目”，并在1982年成为苏共总书记——可惜只干15个月就嗝屁了）<br/>
 <br/>
 　　就在“安德罗波夫”发出那封信不久之后（11月27日），苏联单方面向“美/英/法三国”发出照会，要求它们六个月内撤出西柏林的驻军，使西柏林成为自由市。<br/>
@@ -218,7 +218,7 @@
 　　前面聊完“第3次柏林危机”起因，再回过头来说本文的主题——【柏林墙】。<br/>
 　　其实在那之前好几年，苏联内部就已经在讨论“柏林围墙”的思路。但苏共掌门人赫鲁晓夫对“建墙”这事儿始终挺犹豫——毕竟在柏林这种【国际大都市】搞这么一个围墙，实在太丢人啦——这如何体现“社会主义优越性”捏？显然，这招对苏联方面而言，属于【下下策】。<br/>
 　　一直拖到了上世纪60年代初，逃亡的情况已经越来越严重，苏共领导层也就顾不上“面子问题”，准备要【筑墙】。<br/>
-　　共产党阵营为了掩饰自己的尴尬，把即将兴建的柏林墙称之为<q style="background-color:#DDD;">反法西斯防卫墙</q>。但东德老百姓都晓得——这堵墙是用来【对内】。<br/>
+　　共产党阵营为了掩饰自己的尴尬，把即将兴建的柏林墙称之为<q>反法西斯防卫墙</q>。但东德老百姓都晓得——这堵墙是用来【对内】。<br/>
 <br/>
 　　1961年发生的“第3次【柏林危机】”，可以视作赫鲁晓夫的【最后一次】试探。如果能成功吓跑西柏林的北约驻军，再把西柏林吞并掉，那就无须采用“建墙”这个【下下策】。可惜他碰到的美国总统肯尼迪，立场还挺强硬。到了7月底，赫鲁晓夫大概也觉得“外交恐吓”这招行不通，终于开始考虑这个【下下策】。<br/>
 　　1961年8月1日，苏共头子赫鲁晓夫与德共（统一社会党）头子乌布里希通电话，首次提及“建墙”。“柏林围墙”开始摆上议事日程。<br/>
@@ -270,7 +270,7 @@
 （【多层次】防御体系的示意图）</center><br/>
 　　为了帮大伙儿理解上述这张示意图，下面分别列出图中的含义：<br/>
 从【右】到【左】分别是——<br/>
-<blockquote style="background-color:#DDD;">（东柏林领土）<br/>
+<blockquote>（东柏林领土）<br/>
 约2~3米高的“混凝土矮墙”或“金属网围栏”<br/>
 地面触发报警器<br/>
 约1.8米高的金属栅栏（部分带有高压电）<br/>
@@ -307,8 +307,8 @@
 　　关于“翻越柏林墙”，涌现出许多感人的故事。十年前（推倒柏林墙20周年）俺发了一篇博文《<a href="../../2009/07/break-through-berlin-wall.md">学习一下德国人民的翻墙精神</a>》，介绍这些故事。<br/>
 　　当年那篇博文，【转载】了网上流传的一篇文章，标题是《翻越柏林墙的故事》。那篇文章已经写得足够好，俺水平有限，没法写得比它更好了。想看的同学，请猛击上述这篇博文的链接。<br/>
 <br/>
-　　在当年那篇博文的开头（转载之前），俺写了如下这段话：<br/>
-<blockquote style="background-color:#DDD;">记得电影《侏罗纪公园》里面有句台词（大意是）：<b>生命总会找到自己的出口</b>。<br/>
+　　在当年那篇博文的开头，俺加了如下这段话：<br/>
+<blockquote>记得电影《侏罗纪公园》里面有句台词（大意是）：<b>生命总会找到自己的出口</b>。<br/>
 俺借用一下，篡改成：<b>追求自由的人，总能找到“墙”的突破口</b>。</blockquote><br/>
 <br/>
 <h2>★演讲</h2><br/>
@@ -317,7 +317,7 @@
 <h3>◇（1963年）美国总统肯尼迪：《<a href="https://zh.wikipedia.org/wiki/%E6%88%91%E6%98%AF%E6%9F%8F%E6%9E%97%E4%BA%BA" rel="nofollow" target="_blank">我是柏林人</a>》</h3><br/>
 　　1963年6月，时任美国总统肯尼迪应邀访问柏林，并向西柏林民众发表公开演讲。<br/>
 　　以下是演讲的【全文】：<br/>
-<blockquote style="background-color:#DDD;">能在你们杰出的市长邀请下来到这座城市，我感到非常自豪。你们的市长向全世界人民展现了西柏林的奋斗精神。<br/>
+<blockquote>能在你们杰出的市长邀请下来到这座城市，我感到非常自豪。你们的市长向全世界人民展现了西柏林的奋斗精神。<br/>
 能在你们杰出的总理陪伴下参观联邦共和国，我感到非常自豪。你们的总理常年致力于德国的民主、自由和进步。<br/>
 能在我的美国同胞克雷将军的陪同下来到这里，我感到非常自豪。克雷将军曾在这座城市最危难的时期坚守在这里，未来只要有需要，他仍然会来到这里。<br/>
 <br/>
@@ -359,16 +359,16 @@
 <center><img alt="不见图 请翻墙" src="images/nAUUOpzCpzQ1tkWq9tiaxDsPhFUwedQDfroSbll7l-kHCGT-aEHnODZMZcFuPnPJvPJd0x1H1lbiviTb_JigtffMYkAkUN5CV6AB67GZKHNL47-29NfDz2NQzdGRaDWr4RjIJzfC3Lo"/><br/>
 （肯尼迪演讲时，对面大楼的窗户、屋顶挤满听众）</center><br/>
 <h3>◇小插曲——关于“甜圈”的笑话与【误传】</h3><br/>
-　　关于肯尼迪的这个演讲，若干年之后出现一个【讹传】（并被很多人信以为真）。其大意是：肯尼迪演讲中那句德语（<q style="background-color:#DDD;">Ich bin ein Berliner</q>）犯了语法错误，会被理解为“我是甜圈”。<br/>
+　　关于肯尼迪的这个演讲，若干年之后出现一个【讹传】（并被很多人信以为真）。其大意是：肯尼迪演讲中那句德语（<q>Ich bin ein Berliner</q>）犯了语法错误，会被理解为“我是甜圈”。<br/>
 　　相信了这个说法的人，应该是“只知其一不知其二”。<br/>
 　　以下摘自中文维基百科（<a href="https://zh.wikipedia.org/wiki/%E6%88%91%E6%98%AF%E6%9F%8F%E6%9E%97%E4%BA%BA" rel="nofollow" target="_blank">这个链接</a>），引文中的粗体是俺标注滴。<br/>
-<blockquote style="background-color:#DDD;">1988年，威廉·J·米勒在4月30日《纽约时报》一篇文章写道：<br/>
+<blockquote>1988年，威廉·J·米勒在4月30日《纽约时报》一篇文章写道：<br/>
 约翰·F·肯尼迪总统在柏林墙前使用德国词组的事，值得一再提起。他身旁的作家认为，宣告自己为柏林的象征市民会很美妙。所以，“Ich bin ein Berliner.”<br/>
 他们所不知道，但很容易发现的是，当地市民从不自称“Berliners”。他们把那词语用来称呼一种通常在早餐时吃的受欢迎甜点。故此，虽然柏林市民明白和欣赏总统慷慨激昂的演说所表达的情感，但听到总统说“我是果酱甜圈。”时也不禁窃笑。<br/>
 <br/>
 <b>事实上，米勒把事实刚好说反了：柏林市民的确自称“Berliner”，而从不以“Berliner”称呼果酱甜圈。</b>在德国其他地方称为“Berliner”的甜点，在柏林和附近只称作“Pfannkuchen”（煎饼）。因此，德国其他地方留意到这歧义，肯尼迪在柏林的听众却没有留意。总而言之，“Ich bin ein Berliner.”正确表达了肯尼迪要说的意思。</blockquote><br/>
 　　以下摘自英文维基百科（<a href="https://en.wikipedia.org/wiki/Ich_bin_ein_Berliner" rel="nofollow" target="_blank">这个链接</a>）<br/>
-<blockquote style="background-color:#DDD;">While the phrase "Ich bin ein Berliner" can be understood as having a double meaning, it is neither wrong to use it the way Kennedy did nor was it embarrassing. According to some grammar texts, the indefinite article can be omitted in German when speaking of an individual's profession or origin but is in any case used when speaking in a figurative sense. Furthermore, although the word "Berliner" is used for a jelly doughnut in the north, west and southwest of Germany, it is not used in Berlin itself or the surrounding region, where the usual word is "Pfannkuchen" (literally "pancake").</blockquote><br/>
+<blockquote>While the phrase "Ich bin ein Berliner" can be understood as having a double meaning, it is neither wrong to use it the way Kennedy did nor was it embarrassing. According to some grammar texts, the indefinite article can be omitted in German when speaking of an individual's profession or origin but is in any case used when speaking in a figurative sense. Furthermore, although the word "Berliner" is used for a jelly doughnut in the north, west and southwest of Germany, it is not used in Berlin itself or the surrounding region, where the usual word is "Pfannkuchen" (literally "pancake").</blockquote><br/>
 <h3>◇（1987年）美国总统里根：《<a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E5%80%92%E9%80%99%E5%A0%B5%E7%89%86%EF%BC%81" rel="nofollow" target="_blank">推倒这堵墙！</a>》</h3><br/>
 　　1987年6月，里根在参加完“七国峰会”之后，短暂到访柏林，并在柏林墙附近的“<a href="https://zh.wikipedia.org/wiki/%E5%8B%83%E5%85%B0%E7%99%BB%E5%A0%A1%E9%97%A8" rel="nofollow" target="_blank">勃兰登堡门</a>”发表演说，标题是《推倒这堵墙！》。<br/>
 　　负责写这篇讲演辞的“彼得·罗宾逊”在之前已经走访了西柏林，他意识到西柏林的居民都很痛恨这堵墙，所以把这句话（<b>Tear down this wall!</b>）写入讲稿。<br/>
@@ -377,7 +377,7 @@
 （注：在《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》一文中，俺介绍过——冷战期间的美国总统，里根是对苏联最强硬滴，没有之一）<br/>
 <br/>
 　　整个演讲中最有名的是如下几段：<br/>
-<blockquote style="background-color:#DDD;">我们乐见改变和开放，因为我们相信自由与安全并行，人类自由的进步令我们更努力追求世界和平。苏联可以做一件很明显的事，一件大幅促进自由与和平的事。戈尔巴乔夫总书记，如果你要寻求和平，如果你要为苏联和东欧寻求繁荣，如果你要寻求自由，就到这扇门来吧！戈尔巴乔夫先生，打开这扇门！戈尔巴乔夫先生，<b>推倒这堵墙！</b><br/>
+<blockquote>我们乐见改变和开放，因为我们相信自由与安全并行，人类自由的进步令我们更努力追求世界和平。苏联可以做一件很明显的事，一件大幅促进自由与和平的事。戈尔巴乔夫总书记，如果你要寻求和平，如果你要为苏联和东欧寻求繁荣，如果你要寻求自由，就到这扇门来吧！戈尔巴乔夫先生，打开这扇门！戈尔巴乔夫先生，<b>推倒这堵墙！</b><br/>
 <br/>
 ......<br/>
 <br/>
@@ -449,7 +449,7 @@
 <center><img alt="不见图 请翻墙" src="images/aJRTDnOv0cRZzDtsUbGIn1R2LwCsYJYWOIYTkcOdEuKWhJvvbh7iID52-FHX7XOpeOxOmS-xxnemdkd-lAzo7nV7kKI01nALi_2nMA-MZdvKE-zgFsWMeFnUrLwyg44fZvVCHF88dno"/><br/>
 （11月10日夜间，来自东西柏林的群众站在柏林墙上庆祝两德边境开放，背景建筑是柏林地标——“勃兰登堡门”）</center><br/>
 　　德国现任总理默克尔在“推倒柏林墙25周年纪念日”（2014）接受采访时说道：<br/>
-<blockquote style="background-color:#DDD;">我希望你们永远都不会忘记那一天的感受，至少我将永远都不会忘记；<br/>
+<blockquote>我希望你们永远都不会忘记那一天的感受，至少我将永远都不会忘记；<br/>
 我等待了35年才有那种自由的感觉，这改变了我的人生！</blockquote><br/>
 <h3>◇拆墙</h3><br/>
 　　在11月9日这个“历史性转折点”之后，不论东边还是西边，都有大量民众拿着铁锤/凿子/榔头等工具，在围墙下搞破坏。有些人把敲下来的混凝土块拿回家留作纪念。这些人被形象地称作“围墙啄木鸟”（德语叫：mauerspechte）。<br/>
@@ -467,7 +467,7 @@
 <br/>
 <center><img alt="不见图 请翻墙" src="images/BL7vNlzlO8nMJqSgR9RRJhbLL-Lc-vGFBba0w1-84fofO5MBY0tLCbyFDama2UgqXh33WeLHQHofsOle9e9hkj6QzIDj8WRlwe97RhC8-bTdHh36q9Ae-VYiXr_nVV9Sxmyha4aiwXs"/><br/>
 （冲进斯塔西总部的示威者，<br/>
-标语上写<q style="background-color:#DDD;">再也不要斯塔西和统一社会党的独裁与纳粹主义，你们带来了太多的不公和苦难</q>）</center><br/>
+标语上写<q>再也不要斯塔西和统一社会党的独裁与纳粹主义，你们带来了太多的不公和苦难</q>）</center><br/>
 　　东西德合并之后，上述【秘密档案】开始被逐步整理，并允许每个东德民众查阅【自己的】秘密档案。从而曝光了德共大规模的秘密监视。<br/>
 　　比如说：某个东德的政治异议人士（女性），在查阅了自己的秘密档案之后，惊讶地发现，有些事情只有她与丈夫知道，结果秘密档案中都有详细记录。后来她丈夫承认自己充当了斯塔西的【线人】。<br/>
 　　对那些【重点关注对象】，“秘密档案”的详细程度令人叹为观止。比如这个人几点几分出门，几点几分经过某个路口，几点几分在路上与谁打过招呼、几点几分在哪个水果摊买了哪种水果......<br/>
@@ -499,6 +499,7 @@
 《<a href="../../2009/07/break-through-berlin-wall.md">学习一下德国人民的翻墙精神</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
 《<a href="../../2017/11/The-Story-of-Ordinary-People.md">处在历史转折点的小人物们——回首80年代的几则往事</a>》<br/>
+《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
 《<a href="../../2018/09/Book-Review-The-Errors-of-Marxism-Leninism.md">为什么马克思是错的？——全面批判马列主义的知名著作导读</a>》<br/>
 《<a href="../../2015/01/Communism-Nazism-Caesaropapism.md">人类自由的三大死敌——谈谈“共产运动、纳粹主义、政教合一”的共性</a>》<br/>
 《<a href="../../2013/02/film-soviet-story.md">影评：＜苏维埃往事＞——帮你看清苏联和纳粹的共同本质</a>》<br/>

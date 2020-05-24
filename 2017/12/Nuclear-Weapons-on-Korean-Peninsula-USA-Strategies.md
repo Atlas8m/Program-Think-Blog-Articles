@@ -10,8 +10,8 @@
 <h2>★引子</h2><br/>
 　　半年多前，俺发了一篇《<a href="../../2017/03/Nuclear-Weapons-on-Korean-Peninsula-North-Korea-Strategies.md">聊聊朝鲜半岛核问题——北朝鲜博弈策略分析</a>》，主要分析了——这几年北朝鲜为何表现地很疯狂？其领导层的博弈策略是啥？<br/>
 　　前几天，金三胖又放了一枚导弹（<a href="https://en.wikipedia.org/wiki/Hwasong-15" rel="nofollow" target="_blank">火星-15</a>），号称是【洲际】，可打击美国本土。所以俺借着这个机会，再发一篇，聊聊美国佬的博弈策略。<br/>
-　　为了解释美国的博弈策略，需要把【时间】提前到北韩拥核之前（这才能看出美国博弈策略的变化），同时也要把【空间】放大到全球（因为美国在朝鲜半岛的博弈需要服从其全球战略）<a name="more"></a><br/>
-<br/>
+　　为了解释美国的博弈策略，需要把【时间】提前到北韩拥核之前（这才能看出美国博弈策略的变化），同时也要把【空间】放大到全球（因为美国在朝鲜半岛的博弈需要服从其全球战略）<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★美国的全球战略</h2><br/>
 <h3>◇先来谈谈【欧亚大陆】（世界岛）</h3><br/>
@@ -174,16 +174,17 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2017/03/Nuclear-Weapons-on-Korean-Peninsula-North-Korea-Strategies.md">聊聊朝鲜半岛核问题——北朝鲜博弈策略分析</a><br/>
-<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a><br/>
-<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a><br/>
-<a href="../../2018/04/Diplomatic-Tricks-of-Kim-Jong-Un.md">如何解读金三胖在近期的外交动作</a><br/>
-<a href="../../2013/08/korean-war.md">谈谈真理部对朝鲜战争的忽悠</a><br/>
-<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a><br/>
-<a href="../../2017/03/weekly-share-110.md">每周转载：金正男遇刺的各方报道</a><br/>
-<a href="../../2017/09/weekly-share-115.md">每周转载：朝鲜试爆氢弹（各方的报道及评论）</a><br/>
-<a href="../../2017/03/weekly-share-111.md">每周转载：朝鲜准备核爆，南韩部署萨徳，中国抵制乐天（大量网友评论）</a><br/>
-<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a>
+《<a href="../../2017/03/Nuclear-Weapons-on-Korean-Peninsula-North-Korea-Strategies.md">聊聊朝鲜半岛核问题——北朝鲜博弈策略分析</a>》<br/>
+《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
+《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
+《<a href="../../2018/04/Diplomatic-Tricks-of-Kim-Jong-Un.md">如何解读金三胖在近期的外交动作</a>》<br/>
+《<a href="../../2013/08/korean-war.md">谈谈真理部对朝鲜战争的忽悠</a>》<br/>
+《<a href="../../2013/12/kim-il-sung-great-purge.md">北朝鲜金氏王朝的崛起——聊聊金日成的历次大清洗</a>》<br/>
+《<a href="../../2017/03/weekly-share-110.md">每周转载：金正男遇刺的各方报道</a>》<br/>
+《<a href="../../2017/09/weekly-share-115.md">每周转载：朝鲜试爆氢弹（各方的报道及评论）</a>》<br/>
+《<a href="../../2017/03/weekly-share-111.md">每周转载：朝鲜准备核爆，南韩部署萨徳，中国抵制乐天（大量网友评论）</a>》<br/>
+《<a href="../../2013/02/weekly-share-40.md">每周转载：关于朝鲜核试验（网文7篇，评论若干）</a>》
 </div>
 
 

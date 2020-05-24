@@ -3,8 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　俺在<a href="../../2010/04/howto-cover-your-tracks-1.md">前面的帖子</a>介绍了和网络有关的招数。接下来，再来说说和个人软件有关的防范知识。<a name="more"></a><br/>
-<br/>
+　　俺在<a href="../../2010/04/howto-cover-your-tracks-1.md">前面的帖子</a>介绍了和网络有关的招数。接下来，再来说说和个人软件有关的防范知识。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★为啥要防范个人软件？</h2><br/>
 　　2009年那个臭名昭著的“绿霸事件”，大伙儿应该记忆犹新吧？据说这玩意儿可以把你上过哪些网站、甚至通过键盘打了哪些字都记录下来，然后发送到“绿霸”所在公司的服务器上。如果你的电脑上装了它，基本上你的一举一动，都在党国的监视之下（这就是传说中的<q>老大哥在看着你</q>）。这时候，你即便再搞什么隐藏 IP、加密代理，也是白搭。<br/>
@@ -12,10 +12,10 @@
 <br/>
 <br/>
 <h2>★即时聊天（IM）软件</h2><br/>
-　　说到聊天工具，自然就会提及 QQ ——毕竟它占据了国内IM市场的大头。所以俺就具体说一下，党国是如何利用腾讯公司来监控/打压不和谐的声音。<br/>
+　　说到聊天工具，自然就会提及 QQ ——毕竟它占据了国内即时通讯市场的大头。所以俺就具体说一下，党国是如何利用腾讯公司来监控/打压不和谐的声音。<br/>
 <br/>
 <h3>◇监控聊天内容</h3><br/>
-　　首先，党国会利用 QQ 监控你的聊天内容（不论是1对1聊天还是群聊）。比如，党国60大寿前后，很多 QQ 群被封——因为群里面的讨论的内容涉及了某些敏感词。另外，还可以到网上搜一下标题为<q>腾讯 QQ 如何监视你的聊天记录</q>的帖子，看看别人的遭遇。另外还有很多揭露 QQ 的文章（请翻墙看“<a href="http://www.chinagfw.org/2009/09/qq_26.html" rel="nofollow" target="_blank">这里</a>”、“<a href="http://www.chinagfw.org/2010/05/qq_28.html" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　首先，党国会利用 QQ 监控你的聊天内容（不论是“一对一聊天”还是“群聊”）。比如，党国60大寿前后，很多 QQ 群被封——因为群里面的讨论的内容涉及了某些敏感词。另外，还可以到网上搜一下标题为<q>腾讯 QQ 如何监视你的聊天记录</q>的帖子，看看别人的遭遇。另外还有很多揭露 QQ 的文章（请翻墙看“<a href="http://www.chinagfw.org/2009/09/qq_26.html" rel="nofollow" target="_blank">这里</a>”、“<a href="http://www.chinagfw.org/2010/05/qq_28.html" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 <h3>◇利用聊天历史记录取证/抓人</h3><br/>
 　　有些维权人士、异议人士、民运人士明显缺乏对党的斗争经验，居然敢用QQ相互联络。结果是：不光自己暴露了，还牵连了别人。这样的例子太多了，俺就拿前几天（4月20日）刚宣判的“<a href="https://zh.wikipedia.org/wiki/%E4%B8%A5%E6%99%93%E7%8E%B2%E3%80%81%E8%8C%83%E7%87%95%E7%90%BC%E6%A1%88%E4%BB%B6" rel="nofollow" target="_blank">严晓玲、范燕琼案件</a>”来说一下。<br/>
@@ -24,7 +24,7 @@
 <br/>
 <h3>◇利用 QQ 搜罗电脑中的文件</h3><br/>
 　　今年1月份，坊间又有新的传言，说 QQ 还会扫描你硬盘上的某些文件（具体请看：“<a href="http://software.solidot.org/article.pl?sid=10/01/02/0952203" rel="nofollow" target="_blank">这里</a>”、“<a href="http://www.chinagfw.org/2010/01/windows7qq.html" rel="nofollow" target="_blank">这里（墙外）</a>”、“<a href="http://www.ipc.me/qq-invasion-of-privacy.html" rel="nofollow" target="_blank">这里</a>”）。如此一来，QQ的危险性又增加了一层。不排除今后有关部门利用QQ庞大的装机量，收集 QQ 用户电脑中的敏感文件。这虽然有点耸人听闻，但俺一向不惮以最坏的恶意来揣测咱们伟大的党。<br/>
-　　顺便说一下，有2个 QQ 的替代品：其一是：腾讯提供的 Web 版的 QQ 工具（在“<a href="http://web.qq.com/" rel="nofollow" target="_blank">这里</a>”）；其二是：开源的<a href="https://zh.wikipedia.org/wiki/Pidgin" rel="nofollow" target="_blank">Pidgin</a>（原先支持 QQ 协议，后来疼讯升级了 QQ 版本后可能无法支持了）。用这2个替代品，可以避免 QQ 客户端软件扫描你的硬盘文件，但还是无法避免你的聊天内容被监控。<br/>
+　　顺便说一下，有2个 QQ 的替代品：其一是：腾讯提供的 Web 版的 QQ 工具（在“<a href="http://web.qq.com/" rel="nofollow" target="_blank">这里</a>”）；其二是：开源的<a href="https://zh.wikipedia.org/wiki/Pidgin" rel="nofollow" target="_blank">Pidgin</a>（原先支持 QQ 协议，后来疼讯升级了 QQ 版本后可能无法支持了）。用这2个替代品，可以避免 QQ 客户端软件扫描你的硬盘文件，但还是【无法】避免你的聊天内容被监控。<br/>
 <br/>
 <h3>◇还有哪些 IM 可能被监控？</h3><br/>
 　　既然党国的有关部门会利用 QQ 进行监控，它自然也不会放过其它几款【国内】的聊天工具——毕竟它们的老窝还在天朝之内，有关部门要它干啥，都得乖乖听话。因此，如下的几款 IM，都【有可能】处于党国有关部门的严密监视之下。<br/>
@@ -33,13 +33,10 @@
 新浪的 UC（前身是朗玛 UC）<br/>
 网易的泡泡<br/>
 百度的 HI<br/>
-　　另外，Skype 虽然是国外进口软件，但它的 Tom 版，后门可是大大滴哦！所以，如果你平常使用 Skype，一定要用国际版（在“<a href="https://www.skype.com/download/" rel="nofollow" target="_blank">这里</a>”），【千万别用 Tom版】！<br/>
+　　另外，Skype 虽然是国外进口软件，但它的【Tom 版】，后门可是大大滴哦！所以，如果你平常使用 Skype，一定要用国际版（在“<a href="https://www.skype.com/download/" rel="nofollow" target="_blank">这里</a>”），【千万别用 Tom版】！<br/>
 <br/>
-<h3>◇比较可靠的 IM</h3><br/>
-　　那如何选择可靠的聊天工具捏？俺建议使用如下几款：<br/>
-<a href="https://google.com/hangouts/" rel="nofollow" target="_blank">Google 环聊</a>相关介绍在“<a href="https://zh.wikipedia.org/wiki/Google_Hangouts" rel="nofollow" target="_blank">这里</a>”<br/>
-<a href="http://www.skype.com/download/" rel="nofollow" target="_blank">Skype</a>——务必要用<b>国际版</b>，相关介绍在“<a href="https://zh.wikipedia.org/wiki/Skype" rel="nofollow" target="_blank">这里</a>”<br/>
-<a href="http://www.pidgin.im/" rel="nofollow" target="_blank">Pidgin</a>——开源的IM客户端，支持N多种IM通讯协议（包括 QQ），相关介绍在“<a href="https://zh.wikipedia.org/wiki/Pidgin" rel="nofollow" target="_blank">这里</a>”。<br/>
+<h3>◇如何选择【国外的】IM？</h3><br/>
+　　在<a href="../../2012/02/howto-cover-your-tracks-4.md">本系列第4篇</a>，俺会专门谈【通讯工具】这个话题，到时候再谈“IM 如何选型”。<br/>
 <br/>
 <br/>
 <h2>★杀毒软件</h2><br/>
@@ -63,11 +60,11 @@
 　　俺通常推荐国外知名的浏览器。目前比较知名的有 Firefox、Chrome、IE。这三款如何选捏？从安全性角度（防骇客入侵）考虑，排除掉 IE（具体原因请看“<a href="../../2012/08/howto-prevent-hacker-attack-5.md">这篇博文</a>”）；从隐私方面考虑，Firefox 比 Chrome 要好（具体原因请看“<a href="../../2013/06/privacy-protection-1.md">这篇博文</a>”）。<br/>
 <br/>
 <h3>◇记得清除上网的痕迹</h3><br/>
-　　主流的浏览器（包括：Firefox、Chrome、IE）都支持“隐私浏览模式”。如果你通过浏览器进行某些敏感的操作，建议在隐私浏览模式下进行。这样，当你干完事情后，只要关闭了浏览器，你的浏览历史（包括浏览器 cookie）就不会保存下来。<br/>
-　　提醒一下，<b>隐私模式对浏览器插件是无效的</b>。比如隐私模式可以控制“浏览器 cookie”，但是【无法】控制 Flash 的 Cookie！也就是说，即使你用了隐私模式，Flash 的 Cookie 还是会保存在硬盘上。（插件和扩展是两码事儿，别搞混了。关于两者的差异，请看“<a href="../../2012/08/howto-prevent-hacker-attack-5.md">这篇博文</a>”中介绍的“◇插件和扩展的区别”）<br/>
+　　两大主流的浏览器（Firefox、Chrome）都支持【隐私浏览模式】。如果你通过浏览器进行某些敏感的操作，建议在隐私浏览模式下进行。这样，当你干完事情后，只要关闭了浏览器，你的浏览历史（包括浏览器 cookie）就不会保存下来。<br/>
+　　提醒一下，<b>隐私模式对浏览器【插件】是无效滴！</b>比如隐私模式可以控制“浏览器 cookie”，但是【无法】控制 Flash 的 Cookie！也就是说，即使你用了隐私模式，Flash 的 Cookie 还是会保存在硬盘上。（插件和扩展是两码事儿，别搞混了。关于两者的差异，请看“<a href="../../2012/08/howto-prevent-hacker-attack-5.md">这篇博文</a>”中介绍的“◇插件和扩展的区别”）<br/>
 　　对于浏览器插件留下的痕迹，该咋办捏？有两个办法：<br/>
 　　<b>办法1</b><br/>
-　　你的浏览器不要装任何插件（比如 Flash 插件、Java 插件、PDF 插件、媒体播放器插件 ...）<br/>
+　　你的浏览器【不要】装任何插件（比如：Flash 插件、Java 插件、PDF 插件、媒体播放器插件 ...）<br/>
 　　<b>办法2</b><br/>
 　　利用虚拟机的快照功能。你先设置好一个干净的虚拟机快照，然后在该虚拟机中上网。上网结束后，回退到快照，那么你在虚拟机中的任何痕迹都会被抹去。<br/>
 　　没用过虚拟机的同学，请看《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》。<br/>
@@ -78,7 +75,7 @@
 <br/>
 <br/>
 <h2>★输入法</h2><br/>
-　　得益于热心网友在评论中的提醒，俺再追加“输入法”这一节。<br/>
+　　（得益于热心网友在评论中的提醒，俺再追加“输入法”这一节）<br/>
 <br/>
 <h3>◇输入法的危险性</h3><br/>
 　　其实，早期传统的输入法都是单机软件，是没有太大的隐私风险。<br/>
@@ -98,7 +95,7 @@
 　　关于个人软件的话题就聊到这儿，下一个帖子，俺来介绍一下“<a href="../../2010/05/howto-cover-your-tracks-3.md">操作系统的防范</a>”。<br/>
 <br/>
 <br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">回到本系列的目录</a>
+<b><a href="../../2010/04/howto-cover-your-tracks-0.md">回到本系列的目录</a></b>
 </div>
 
 

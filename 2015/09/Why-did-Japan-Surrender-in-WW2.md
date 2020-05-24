@@ -351,12 +351,11 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2015/09/Japan-in-WW2.md">聊聊二战中的日本——分析各方面的优势劣势</a>》<br/>
 《<a href="../../2010/09/sino-japanese-war.md">关于抗日战争——谈谈真理部对抗战历史的篡改</a>》<br/>
+《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
 《<a href="../../2011/03/ccp-vs-japanese.md">谁是最可恨的人？——写给仇日愤青们</a>》<br/>
 《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a>》<br/>
-《<a href="../../2014/03/propaganda-for-patriotism.md">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>》<br/>
 《<a href="../../2015/09/weekly-share-92.md">每周转载：关于习呆呆的93大阅兵（各方报道及网友评论）</a>》<br/>
-《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》<br/>
-《<a href="../../2012/04/weekly-share-1.md">每周转载：看看当年的共产党是如何唱高调的（网文4篇）</a>》
+《<a href="../../2012/09/weekly-share-22.md">每周转载：关于朝廷对爱国主义的忽悠（网文5篇）</a>》
 </div>
 
 

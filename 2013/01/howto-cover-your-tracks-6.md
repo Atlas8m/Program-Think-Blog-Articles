@@ -62,7 +62,7 @@
 　　关于“虚拟机结合代理来隐匿公网IP”，基本原理就介绍到这里。<a href="../../2013/01/howto-cover-your-tracks-7.md">本系列的下一篇</a>，俺写一个傻瓜化的配置教程，附上详细的截图，告诉你如何操作。<br/>
 <br/>
 <br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">回到本系列的目录</a>
+<b><a href="../../2010/04/howto-cover-your-tracks-0.md">回到本系列的目录</a></b>
 </div>
 
 
