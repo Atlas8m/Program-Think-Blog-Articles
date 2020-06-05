@@ -331,7 +331,7 @@
 （尖沙咀集会现场）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/qGH1iB9uTb2kkrApGJJwpbgfDs4pnmqgToTAFHjpATu65iLPREzzZt6lgge2qutrXohfc3ulGxulJA1UFA_r6oBLcfrnocz_Oj3q-D7ABp6gSC-Cevcf6nxP4ELXFd68buZy"/><br/>
 （【中学生】静坐支持占中。<br/>
-标语牌上写着：<q style="background-color:#DDD;">我们是中学生，我们感谢有人有勇气一直坚持保护我们的未来</q>）</center><br/>
+标语牌上写着：<q>我们是中学生，我们感谢有人有勇气一直坚持保护我们的未来</q>）</center><br/>
 <h3>◇香港警方开始大量运送“橡皮子弹”</h3><br/>
 《<a href="https://www.bbc.com/zhongwen/simp/china/2014/10/141002_police_tear_gas_preparation" rel="nofollow" target="_blank">香港警方“运送橡胶子弹” 以备抗议升级 @ BBC/英国广播公司</a>》<br/>
 <center><img alt="不见图 请翻墙" src="images/qoQvg8sVC6jvhpmXVy79GgO1zKHJGSE4R3s85Rq3lEP1KrhuHy0Btn4MzMRdOJ-FzxBpVx5NeMlwVbXe6UnM4RHuOnP0v4Ckd72AmFC6ALaNhW2eXjyLvleY2rL1Vh9gevGO"/></center><br/>
@@ -387,6 +387,7 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）</a>》<br/>
 《<a href="../../2019/06/weekly-share-133.md">每周转载：香港“反送中”抗议活动的外媒报道和网友评论（6月16日至6月22日）</a>》<br/>

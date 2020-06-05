@@ -34,7 +34,7 @@
 <h2>★8月11日：<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B48%E6%9C%8811%E6%97%A5%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8A%E8%A1%8C" rel="nofollow" target="_blank">深水埗游行</a>”</h2><br/>
 　　此次游行又称“8.11港岛东大游行”，由香港深水埗区和东区的民众自发举行。<br/>
 　　游行民众要求香港特区政府回应【五大诉求】——<br/>
-<blockquote style="background-color:#DDD;">1、撤控示威者<br/>
+<blockquote>1、撤控示威者<br/>
 2、取消暴动宣称<br/>
 3、追究开枪责任<br/>
 4、按议事规则撤回修例<br/>
@@ -42,14 +42,14 @@
 　　当日多处发生冲突。医院管理局公布有45人在示威活动中受伤，包括31男/14女，年龄介乎8~56岁。<br/>
 <br/>
 《<a href="https://www.bbc.com/zhongwen/simp/chinese-news-49316550" rel="nofollow" target="_blank">香港警察近距离施放催泪弹和示威者装扮引发争议 @ BBC/英国广播公司</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/27lWJqUy--YLDRIRgoNCgTUAU7iH2_nA2JUZmSCEI1NbhpGmYupksqs1AHJw23GJ43x50RgqsV_3Hld9m0g4ea3ggGjuOsQCFgZBzkW_a7BGlJiLbrWvuB5knLuekkYupufdEDtFY6U"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/27lWJqUy--YLDRIRgoNCgTUAU7iH2_nA2JUZmSCEI1NbhpGmYupksqs1AHJw23GJ43x50RgqsV_3Hld9m0g4ea3ggGjuOsQCFgZBzkW_a7BGlJiLbrWvuB5knLuekkYupufdEDtFY6U"/></center><br/>
 正当香港示威者被批评行为超出“和平、理性、非暴力”时，警方也被指加大镇压力度以及改变执法策略，<br/>
 追捕示威者时在地铁站近距离向正在撤退的示威者发射胡椒弹以及在地铁站内施放催泪弹，波及站内乘客和职员。<br/>
 此外，警方还被指乔装成黑衣示威者，混入人群协助搜捕示威者。<br/>
 <br/>
 ......</blockquote><br/>
 《<a href="https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20190812/s00001/1565551348407/%E8%AD%A6%E6%B8%AF%E9%90%B5%E7%AB%99%E6%96%BD%E5%82%AC%E6%B7%9A%E5%BD%88-%E8%83%A1%E6%A4%92%E5%BD%88%E5%85%A9%E7%B1%B3%E5%85%A7%E5%B0%84%E4%BA%BA-%E4%BA%BA%E6%AC%8A%E5%9C%98%E9%AB%94-%E5%9A%B4%E9%87%8D%E9%81%95%E6%8C%87%E5%BC%95-%E4%B8%8D%E7%AC%A6%E6%9C%80%E4%BD%8E%E6%AD%A6%E5%8A%9B" rel="nofollow" target="_blank">警港鐵站施催淚彈 胡椒彈兩米內射人 人權團體：嚴重違指引 不符最低武力 @ 明報</a>》<br/>
-<blockquote style="background-color:#DDD;">【明報專訊】昨日的深水埗及銅鑼灣反修例示威，演變為多區快閃圍堵行動，警方改變佈防與示威者對峙策略，驅散之餘大舉武力拘人：在港鐵葵芳站，有警員向閘內示威者發射催淚彈及橡膠子彈；在太古站，有防暴警察在約兩米內向示威者連續開槍發射胡椒彈；在銅鑼灣，有無戴委任證、黑衣裝扮的疑似警察，在示威者人群中現身拘人（見另稿）。昨日多名示威者頭破血流，亦有一名警員被燒傷。人權團體強烈譴責警方室內發射催淚彈，稱是極度危險，嚴重違反指引，「完全不合符警方聲稱最低武力原則」。</blockquote><br/>
+<blockquote>【明報專訊】昨日的深水埗及銅鑼灣反修例示威，演變為多區快閃圍堵行動，警方改變佈防與示威者對峙策略，驅散之餘大舉武力拘人：在港鐵葵芳站，有警員向閘內示威者發射催淚彈及橡膠子彈；在太古站，有防暴警察在約兩米內向示威者連續開槍發射胡椒彈；在銅鑼灣，有無戴委任證、黑衣裝扮的疑似警察，在示威者人群中現身拘人（見另稿）。昨日多名示威者頭破血流，亦有一名警員被燒傷。人權團體強烈譴責警方室內發射催淚彈，稱是極度危險，嚴重違反指引，「完全不合符警方聲稱最低武力原則」。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/D3Ze02qdyNT_tHDjYX8wyLJ-7SqBRPF6kgFhz7oxtkE44w-QHnmdZIrgs0gMV-zWCBpXUbU9HKSnCdDzAvCNxSRNCgpQ87_G12BGrtnjjPimnSuwZsUMOXSv-qWFQy2DPFRBNMdpLRU"/><br/>
 （太古站。防爆警察手持胡椒球枪，在不足一米内扫射；并狂殴倒地的示威者。照片来源：立場新聞）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/17W8ihRiyqEiHW98gImE2Lly6178zbYCpAuzNlrkKTZcAWfGmWXQ3jg8N0cKjRgR5SCAhteH7FWJB-i3iagQSAMHTc8H2Bi7OEWQrG8nrzexd78Il6AHRBfO3ccqu0-XYM4JZrK4UJQ"/><br/>
@@ -63,11 +63,11 @@
 <center><img alt="不见图 请翻墙" src="images/oFwkjWP2Lnr6vyUI7u9j8Hd9UeCeWQgYi0BXyJ8kkxyGOLTCwF_IX0MU63qwqdSmpLOsb2rPtXGTstRFcSGdbzoE2LZZgQ3gYrk-_n5SmRjGyIVpAjWeoa4qMmJEz21B_JaLbrn5VgE"/><br/>
 （维园的集会者。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/d7_5b9vjiTzHKMgy5oT7GdeNwq1arrHOPpgoPzfH66lxMg5wNL58vXpz8_DjpUpeTX1ZZ4unXBPWBLfKmXXF13NRjwTIEaj0tJaDCqqozPnieD4bW9AIDjzYxRbhe52oQSK-Pi08k3Q"/><br/>
-（维园的集会者，举着<q style="background-color:#DDD;">民主</q>的标语牌。照片来源：香港01）</center><br/>
+（维园的集会者，举着<q>民主</q>的标语牌。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/28Vw8TyIGbnEj9F9_0wVg3sVIcyUDGrnz9A18XJyfUn3SAR9ZQRJfcjXoUqW5ZGAUOSyKHBasszN5_zFzPprB_h6wqxno5uL0EJQ9EyybZdpEQ2yXgc0S3Loeh2pUCqt-PfU-j9y6BE"/><br/>
-（维园的集会者，举着<q style="background-color:#DDD;">谴责警黑勾结 无惧白色恐怖</q>的标语牌。照片来源：香港01）</center><br/>
+（维园的集会者，举着<q>谴责警黑勾结 无惧白色恐怖</q>的标语牌。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/McJlTBqkLV0D8xl62Tq_zqchS1Nxi5VBYBNL_Cor8KEkTlcAx_Y9Xu-Zl9naaz5mGN6hYTlDgbqV5uMBEcKA4cAH71yLX6yP6zz-nIm2MfxF9eG5baFuZ9nYKWHI47132oYTNpsCqJQ"/><br/>
-（维园的集会者，连折扇都写着<q style="background-color:#DDD;">我要真普选</q>。照片来源：香港01）</center><br/>
+（维园的集会者，连折扇都写着<q>我要真普选</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/7D2z0utgDTYz3o75ooNp9ZipR7qprP_3OR0wmJ05uTgKx9ZVIrboJKHjOXWJ8I54Rce8AIqKwPFvjM_necqltqU54rzBUzFOO1W-L8LnYGWSDqKQoZW1xEArejSS7gKktZmCbro4JkU"/><br/>
 （铜锣湾的示威者。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/n0YWVRsxXKAMDizmMV9HPjRPtl9Jzxa0mPwClwgmz118y41arHG9mBmeRMEw3QZ4SBfsiCNq6sHkTLDGAN-i5wxBUHw8baSU3RberiUoldCsfMwGroi2HU8SFZv7y5HHlbL2rwWFW3E"/><br/>
@@ -102,7 +102,7 @@
 <center><img alt="不见图 请翻墙" src="images/cjCeIeQERm22U08Z_Y7LIB6KPrQY6I9JRUGVdpBq98Z76MW62cTGYiXXzTwg9ncByWSKAHcMpobX5Dg6EZbklggWrtzlEp9Pfd7_0mucPw3uioOJtJsoMl61MgaJf7cub4r5L234PNo"/><br/>
 （大量航班被取消。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/cj2qb6feYYygy1ToAT-TjnoV3QUU5w4OzMpT2U7UT3mvRtBuzMod_6Jl021ah6zlrJarbGv-jM9dpvQrCj9VbEt7uOL3D4nu7NeL2onjhyFtxO_TXPjROQLadI1WIQGX-Y-zi6KOOsk"/><br/>
-（抗议民众在机场展示标语牌：<q style="background-color:#DDD;">光复香港 时代革命</q>。照片来源：香港01）</center><br/>
+（抗议民众在机场展示标语牌：<q>光复香港 时代革命</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/1uqjuvfhmKXNUYcs3kqFUQV_ArXudlcUyKuTFi82-_H4BFa5-fmmA6ZkxI8v2IoosyPo4oF6AxSuprysqWpNmqQgPHs9HaGc19QKvCGuiTbqG4Nst9xW5EiL7NhPZZ8dhejXDjZ2TDk"/><br/>
 （在机场席地而卧的抗议民众，以及身上的标语牌。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/dv5rWg_d6EYQyDgELr52PaZwoYB9mF1eC292SPC_mHJ4CLK7Yps3xFnXln7Rm8XNTGnxGfdtqWPUD-hluBhIYFFk9wuSVcuP-N2G3K1Xiv0o-4j4W2RIvb231Jl9nTSMuul5oLkDF6Q"/><br/>
@@ -113,7 +113,7 @@
 　　然后此人被示威民众包围长达5个小时，并遭到殴打；之后被香港警方救走。以下是台湾《自由时报》的报道：<br/>
 <br/>
 《<a href="https://news.ltn.com.tw/news/world/breakingnews/2883424" rel="nofollow" target="_blank">又是無間道？疑中國公安喬裝示威者遭識破 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;">近來，香港警察「臥底」成反送中示威者，引發輿論譁然。今日示威者再度集結至香港機場宣傳時，甚至發現疑為中國的公安喬裝成示威者混在示威者中。另有一名男子也被懷疑為公安，雖然他矢口否認自己公安的身份，僅稱是來港工作，不過並沒有取信於群眾，而將該名男子留在現場。<br/>
+<blockquote>近來，香港警察「臥底」成反送中示威者，引發輿論譁然。今日示威者再度集結至香港機場宣傳時，甚至發現疑為中國的公安喬裝成示威者混在示威者中。另有一名男子也被懷疑為公安，雖然他矢口否認自己公安的身份，僅稱是來港工作，不過並沒有取信於群眾，而將該名男子留在現場。<br/>
 <br/>
 昨（12）日香港警方公開證實，有警員「喬裝」成「不同人士」，混入示威群眾之中。為了防範警方勢力滲透，香港網友還製作文宣教授「如何辨識便衣」。<br/>
 <br/>
@@ -171,7 +171,7 @@
 <center><img alt="不见图 请翻墙" src="images/S4p9rRw4t7K5quwzfL3r0ENpVBVGJdqtmUQdRYUngmSJOskhgJPqHt1vY7N0s8obe8IsaU5benDdN_Shj2hUvmfIuVsf_x-9mEWm5MocK3IGw15zTAjDNf0ZpspZMi8K_FQPELlp0tc"/><br/>
 （法律界团体“法政汇思”7名历任召集人一同出席反送中集会。照片来源：立場新聞）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/9KFjpFOFOuH01tDPnADS9vl_J1FyIRSIGNmvTA4ZI1-tMGIgDsqA3FVflCkF_aabZ1auM5yZpdeT_SL7iXI5UP7i2QD3uDI75BpjBEOpxLJfZJ-tX53Dcqe0UHYtUZDtE2psW5lycSk"/><br/>
-（台湾人陈先生手持<q style="background-color:#DDD;">台湾快闪 香港加油</q>的标语牌，在现场表示支持。照片来源：立場新聞）</center><br/>
+（台湾人陈先生手持<q>台湾快闪 香港加油</q>的标语牌，在现场表示支持。照片来源：立場新聞）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/WJjiMDFeppzAd0whldPs4qVYGtAiV-ZdADA7GeIawQ2ln85LjepDZaBqMpLisimVXRBVsxpn1uwR-GC2wRjlHAoN7KArAUP0K-6x2_50L_MDke1Ozd8MNqoLGQwmIuzLFjPtSZHLirc"/><br/>
 （示威者在喷涂标语。照片来源：端傳媒）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8DRVDsJx95Vqc8hJRG87w5APan5SjJD3-u4udqf6coD5bISiuMeOcg-nZXH3tGeleTldtzXFmx-isYxWJFQUsTEttFuBSiJsqPB0cf_sYq64Eh_KjguNu9oubka5MMVewPdu6B2L7PU"/><br/>
@@ -191,7 +191,7 @@
 <center><img alt="不见图 请翻墙" src="images/HDtmbV4lpCDkdTis-gmlwaB3-WV58YlgXopq8eTbAcUS0CB7124MLlllxjnk9-wdAMFbncDaQMUJtRFO-z1NusGuxJhTO2El1q1L9bsMmJaIt9eRX17ojjaB8gkjvSQg4C3DRfF_vRA"/><br/>
 （位于尖沙咀星光大道的“香港之路”。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/lK9koDHXmDEXrN6Nvg3Ex2I9WKTO655MTInefhau3lwogt1nk5cdQKmuTLoY09YK-I0L5gRP5yrVK4J7ad__2NEgE_oOZBZGiw8hE471jopri0HtuWOC88bYzBQ1aumKhLNBNJIzs50"/><br/>
-（市民登狮子山，筑人链。某市民表示：<q style="background-color:#DDD;">狮子山代表香港人打不死的精神</q>。照片来源：维基百科）</center><br/>
+（市民登狮子山，筑人链。某市民表示：<q>狮子山代表香港人打不死的精神</q>。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8Fe01CjOr965atpp8ml_uTbhoFIpmbMDNps-4S_1vmRVUv5ZIUPpXiUlLO3Y23v-zavKvZooW-CWpgwNmK-SwdfUqgkKsSaUYkSJIum2GWTWWAUFOI0RkJU_RPFlredP3JUatoVrDF8"/><br/>
 （乐富横头磡东道的“香港之路”。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/Pun-7bLKQQK1uDfonO0GCiYyGhwkD7ca7QQtHoT8YCIqzArj-4f4nc7VSly5HwYCtHVOyFVWU2gfGZX1oQ_9Mv683TPaiOCsJ5ytUZR7RGkbUy_m4GAqHRUtSnBjVl26o7AGR22-5qE"/><br/>
@@ -233,7 +233,7 @@
 <br/>
 <h2>★8月25日：<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B48%E6%9C%8825%E6%97%A5%E9%82%84%E8%AD%A6%E6%96%BC%E6%B0%91%E9%9B%86%E6%9C%83" rel="nofollow" target="_blank">“还警于民”集会</a></h2><br/>
 　　该集会由“警员亲属连线”发起，人数不多，大约500人。提出的诉求是：<br/>
-<blockquote style="background-color:#DDD;">政治问题，政治解决<br/>
+<blockquote>政治问题，政治解决<br/>
 重整警队不良风气<br/>
 成立市民与警察真诚沟通平台<br/>
 警员克己自律，保护市民<br/>
@@ -253,7 +253,7 @@
 <br/>
 <h3>◇关于“动用《紧急法》”的传闻</h3><br/>
 　　游行前的那几天，坊间一直有传闻说：港府会动用《紧急情况规例条例》。<br/>
-　　这个传闻【不是】空穴来风。比如说：作为朝廷喉舌的《坏球时报》已经在游行前2天（29日）发了一篇社论，文中称：<q style="background-color:#DDD;">探讨动用《紧急法》是香港社会朝着依法止暴制乱迈出的正确一步</q>。<br/>
+　　这个传闻【不是】空穴来风。比如说：作为朝廷喉舌的《坏球时报》已经在游行前2天（29日）发了一篇社论，文中称：<q>探讨动用《紧急法》是香港社会朝着依法止暴制乱迈出的正确一步</q>。<br/>
 　　这个“紧急法”是个什么玩意儿？下面是台湾媒体的扫盲：<br/>
 《<a href="https://news.ltn.com.tw/news/world/paper/1313861" rel="nofollow" target="_blank">小檔案：香港緊急法——緊急情況規例條例 @ 自由時報電子報</a>》<br/>
 <br/>
@@ -321,7 +321,7 @@
 （受伤民众。照片来源：香港01）</center><br/>
 　　（编程随想注：下面这篇是“前学联副秘书长”岑敖暉发表的评论，对比“8-31太子站袭击事件”与“7-21元朗袭击事件”）<br/>
 《<a href="https://www.inmediahk.net/node/1066918" rel="nofollow" target="_blank">岑敖暉：八三一恐襲比七二一恐襲可怕上千倍 @ 香港獨立媒體</a>》<br/>
-<blockquote style="background-color:#DDD;">這是一場比七二一恐怖上千百倍的國家級恐怖襲擊。<br/>
+<blockquote>這是一場比七二一恐怖上千百倍的國家級恐怖襲擊。<br/>
 <br/>
 721班白衫之所以可以這樣為所欲為，主要是因為有政權的武裝系統撐腰。但事後因為警暴處不敢再撐他們，已經通通成為了condoms，再也沒可能有721這樣為所欲為的機會。<br/>
 而且向他們還擊，進行自衛，在法律上也是容許的。<br/>
@@ -355,7 +355,7 @@
 （玛丽医院的医护人员响应学生罢课，有400人在医院外组成人链。照片来源：德国之声）</center><br/>
 <br/>
 <h2>★9月4日：正式宣布撤回《逃犯条例》</h2><br/>
-　　（注：经热心网友提醒，更严谨的说法是——<q style="background-color:#DDD;">在立法会复会后，发起撤回动议</q>）<br/>
+　　（注：经热心网友提醒，更严谨的说法是——<q>在立法会复会后，发起撤回动议</q>）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/jTlOhI7WjZTQZFV7S3NI8RkOtCXrnDmVCktvg4nRrup5XrvjJDfo3qk-NSIROEtG3MI9u7cY9EDSg0sWU3aj5sUjV859RmV1ZkiH4Z3kOjkgXJVoLjfImO2m5tI8iupUwG7T2xUBA9Q"/><br/>
 （香港特首林郑月娥9月4日发表电视讲话。照片来源：RFI/法广）</center><br/>
@@ -371,7 +371,7 @@
 <br/>
 《<a href="https://cn.nytimes.com/china/20190905/carrie-lam-hong-kong-protests/" rel="nofollow" target="_blank">林郑月娥让步后，香港抗议会继续吗？ @ 纽约时报</a>》<br/>
 （编程随想注：以下是此文的摘录）<br/>
-<blockquote style="background-color:#DDD;">......<br/>
+<blockquote>......<br/>
 <br/>
 尽管林郑月娥在修例上做出了让步，但示威活动可能还会继续下去。林郑月娥周三做出宣布之后，许多抗议者在社交即时短信群和在线论坛上誓言，将继续走上街头，指出他们的口号是“五大诉求，缺一不可”。<br/>
 抗议者的五项诉求是：正式撤回修订《逃犯条例》，对警方反应展开独立调查，赦免被捕的抗议者，用直接选举来产生所有立法会议员和行政长官，以及不把6月12日的抗议活动定性为“暴动”。<br/>
@@ -383,7 +383,7 @@
 ......</blockquote><br/>
 《<a href="https://cn.nytimes.com/china/20190904/hong-kong-protests-carrie-lam/" rel="nofollow" target="_blank">若林郑月娥辞职，谁能成为下任香港特首？ @ 纽约时报</a>》<br/>
 （编程随想注：以下是此文的摘录）<br/>
-<blockquote style="background-color:#DDD;">据知情人士透露，在政治方面，直到夏初之前，最受北京青睐的接班人人选是香港财政司司长、香港政府的三号人物陈茂波。因为在北京做出决定之前讨论这一问题的政治敏感性，这些知情人士坚持要求不具名。<br/>
+<blockquote>据知情人士透露，在政治方面，直到夏初之前，最受北京青睐的接班人人选是香港财政司司长、香港政府的三号人物陈茂波。因为在北京做出决定之前讨论这一问题的政治敏感性，这些知情人士坚持要求不具名。<br/>
 陈茂波长期从事会计工作，是梁振英的门生。梁振英是一位坚定支持北京的房地产测量师，也是林郑月娥之前的香港行政长官。<br/>
 据两位熟悉北京遴选过程的人士说，但香港的政治纠纷和暴力冲突大大降低了陈茂波出任的可能性。<br/>
 <br/>
@@ -410,12 +410,13 @@
 　　自3月31日运动爆发，至港府宣布撤回，历经158天；由6月9日大游行开始计算则是88天。运动中提出的“五大诉求”仅有一项被正面回应。<b>因此，运动【并未】结束！！！</b><br/>
 <br/>
 　　在本文的结尾，再次贴出之前引用过的打油诗：<br/>
-<blockquote style="background-color:#DDD;font-size:150%;">台湾民众要努力啊，否则就变成香港！<br/>
+<blockquote style="font-size:125%;">台湾民众要努力啊，否则就变成香港！<br/>
 香港民众要努力啊，否则就变成大陆！<br/>
 大陆民众要努力啊，否则就变成朝鲜！<br/>
 朝鲜民众要努力啊，否则就变成地狱！</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/11/weekly-share-139.md">每周转载：香港“反送中”政治抗议活动大事记（10月至11月）</a>》<br/>
 《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》<br/>

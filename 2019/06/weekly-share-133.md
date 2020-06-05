@@ -14,7 +14,7 @@
 <center><img alt="不见图 请翻墙" src="images/_tR9WtPviySHYQ7FJC1lDKd5zBlFJbQKmOJCkhc82Uvy_YvjECY-tihEycF0TZFPxe8UPvYd7q3H2TtYQ_enYU0ko6YP8yVD4rypUJ4UAH7Vk_3_5MrLhnp3jTWy1YJXvlFWaHcDV3w"/><br/>
 （周日，数百人聚集在一起悼念死者，警方确认其身份为梁姓35岁男子。Lam Yik Fei for The New York Times）</center><br/>
 《<a href="https://thestandnews.com/politics/6-16-%E5%A4%A7%E9%81%8A%E8%A1%8C-%E9%BB%83%E9%9B%A8%E8%A1%A3-%E5%A2%AE%E6%A8%93%E7%94%B7%E5%AD%90%E6%82%BC%E5%BF%B5%E8%80%85%E4%B8%8D%E7%B5%95%E1%85%A0%E8%AC%B9%E8%A8%98%E9%80%9D%E8%80%85%E9%81%BA%E8%A8%80/" rel="nofollow" target="_blank">「黃雨衣」墮樓男子 悼念者不絕ㅤ謹記逝者遺言 @ 立場新聞</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/vnU1RJQ5VTNbWzMXctzXjE_aF8F1GIvOYjjt6WjF6LnJu5kH0-HxAu2xk9LBh-90UrGFna39tOafIkqjPphzukqE-s2ur1ogtGjhyv1Le4fiAXtuXl6oDkOxywvjLTHeS7uVK0FlrRY"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/vnU1RJQ5VTNbWzMXctzXjE_aF8F1GIvOYjjt6WjF6LnJu5kH0-HxAu2xk9LBh-90UrGFna39tOafIkqjPphzukqE-s2ur1ogtGjhyv1Le4fiAXtuXl6oDkOxywvjLTHeS7uVK0FlrRY"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/pirX-BwN6uFsRH-ZPrU_mlt3EZN6lBp_T6mJP6YfxYQwseCKV75QGOd8lNRsqh0Akzu4sUXKeoa8e5oA9XiSOBg3ZI_jCsjX-ME4cYUlW5c5-j_OpTohSwKOHzD8S4fpgaQ_miGZu6s"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/QElJ7Jwp-ER0pR9hptBxpLpLQPM-uvfnq4tGrrSprEFvah1oEWoD_n9Z_wOQkpK5HrQ5vu1l3RIVMHyrjbu6oVvJF9mz7B32GuqeoyXeuXc8oKXbi1ZEP_jm78r7uVHqRGPaYBIby3Y"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/ZgUy0MwkwxKgc9RqoiNdiy8NqFAeDCPC4yMBkhXCD9M774lkAaNZv7xWKCYFsOmkJxasYUt0kv7vhAYTFhm5mV8MLEn4JBhajmeh8_uuMcix-F39JRpIw-QvGW0VbuMF8TyJ8bD8XS4"/></center></blockquote><br/>
@@ -55,7 +55,7 @@ What happen in HK yesterday night😢😢😢plseade help me share<br/>
 <h3>◇【香港本地】的报道和网友评论</h3><br/>
 <center><img alt="不见图 请翻墙" src="images/GffxxnEUj_Oja46ztBK8eW9pOFSOzq5eadO3RITytdgT0xtN5mLwn7J2f3upJhYmEfKfO1XXZF82FIXKdRnjDs0vFuK_CGcyY0iptf3qIhYrIEnbrlgnYKWLTkzTuRnylxCw78cd92c"/></center><br/>
 《<a href="https://news.ltn.com.tw/news/world/breakingnews/2824232" rel="nofollow" target="_blank">現場直擊616遊行 香港民陣：總人數200萬+1 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;">香港民陣今天下午再度發起反送中大遊行，訴求撤回條例、林鄭下台，人潮比6月9日還多！晚間近11點，民陣宣布，今天下午到晚上參與遊行的人數接近200萬人，而且遊行擴大到香港6條主要幹道，是香港史上前所未有，晚上11點多宣布遊行結束；民陣最後宣布，加上昨天墜樓身亡的抗議者，遊行總人數「200萬+1」。<br/>
+<blockquote>香港民陣今天下午再度發起反送中大遊行，訴求撤回條例、林鄭下台，人潮比6月9日還多！晚間近11點，民陣宣布，今天下午到晚上參與遊行的人數接近200萬人，而且遊行擴大到香港6條主要幹道，是香港史上前所未有，晚上11點多宣布遊行結束；民陣最後宣布，加上昨天墜樓身亡的抗議者，遊行總人數「200萬+1」。<br/>
 <br/>
 ......<br/>
 <br/>
@@ -76,7 +76,7 @@ What happen in HK yesterday night😢😢😢plseade help me share<br/>
 （有民眾對警察拿鈴做收妖狀喊 shame。記者簡惠茹攝）</center><br/>
 ......</blockquote><br/>
 《<a href="https://news.ltn.com.tw/news/world/breakingnews/2824128" rel="nofollow" target="_blank">香港民眾上街怒吼！ 大數據預估人數可破144萬人 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/1ahPc_Jd0yWibCtJpAD26ZX-ic28T3tfaXvNNQe6oG6tSPhl1H6oyrtC9JxxJUFkR4dICOEMmOjE8WCagPllZrxEYY2FXiChoIEwTYk8OOiaChhkMy_CAPNQjEDQKunXHINkZqBtJ9M"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/1ahPc_Jd0yWibCtJpAD26ZX-ic28T3tfaXvNNQe6oG6tSPhl1H6oyrtC9JxxJUFkR4dICOEMmOjE8WCagPllZrxEYY2FXiChoIEwTYk8OOiaChhkMy_CAPNQjEDQKunXHINkZqBtJ9M"/><br/>
 （香港民眾不滿特首林鄭月娥宣布送中「逃犯條例」只是暫緩修訂但不撤回，<br/>
 16日繼續上街示威，大數據預估人數有72％的機率達到144萬人。路透）</center><br/>
 香港特首林鄭月娥昨（15日）宣布「逃犯條例」暫緩修訂但不撤回後，有烈士在太古廣場掛出反送中布條並墜樓殞命，種種因素持續引發民眾怒火，今（16日）下午3時展開的「黑色大遊行」，經過大數據預估可達到破紀錄的144萬人上街示威！<br/>
@@ -86,14 +86,14 @@ What happen in HK yesterday night😢😢😢plseade help me share<br/>
 李鴻彥說，這次616大遊行人數顯然會比6月9日的75.5萬人（民陣計算103萬人）還多，因為大數據系統顯示今天有 85％ 的機會破89.2萬人，72％ 的機率達到144萬人。<br/>
 李鴻彥表示，最後示威民眾的多寡，要看烈士墜樓身亡的消息會刺激到多少人，因為這個消息是從今天凌晨才開始逐漸發酵的。</blockquote><br/>
 《<a href="https://www.cna.com.tw/news/firstnews/201906160210.aspx" rel="nofollow" target="_blank">近200萬港人反送中如黑海 修法不撤抗爭恐不停息[影] @ CNA/台灣中央社</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/KXMqZGOp718BX2A5iz4rws2l6I0MY750GyjclmD0Eiln27v2OGqNd7GXyFsmWWEVIXhADINZsZX4c4bVyprX1DmJTsdVl0bjhHGugO96FqN9Fu5gNyprjqtOd_oVsrUSCGwIqil2VDI"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/KXMqZGOp718BX2A5iz4rws2l6I0MY750GyjclmD0Eiln27v2OGqNd7GXyFsmWWEVIXhADINZsZX4c4bVyprX1DmJTsdVl0bjhHGugO96FqN9Fu5gNyprjqtOd_oVsrUSCGwIqil2VDI"/><br/>
 （香港泛民主派團體民間人權陣線16日再發起反修訂逃犯條例大遊行，民眾身穿黑衣上街，高舉布條表達訴求，遊行隊伍行進時高喊要求行政長官林鄭月娥下台。<br/>
 中央社記者裴禛香港攝 108年6月16日）</center><br/>
 近200萬香港民眾今天著黑衣上街表達「反送中」訴求，並要求行政長官林鄭月娥下台，龐大示威人潮宛如「黑海」。抗議人士和專家說，港府若不撤回修訂逃犯條例，抗議不會停。<br/>
 <br/>
 法新社報導，香港民間人權陣線（Civil Human Rights Front）發言人表示，今天的大遊行有將近200萬人參加。這個人數幾乎是9日首次「反送中」大遊行的兩倍。</blockquote><br/>
 《<a href="https://www.cna.com.tw/news/firstnews/201906170018.aspx" rel="nofollow" target="_blank">香港200萬人黑衣反送中 陸媒持續沉默 @ CNA/台灣中央社</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/2Qr1cUUN77vJu2foUeMvEat4f0jlsEnFN1bkKMZEf5jl8DNYyp6RbW9WXvKLTz4JMDDiDXkAdF0RAl3I6GVh_uL8H7zBMUd2CQc1D_0duI8pP6WumEcSKBG_LR3rSA4lbQfExdsblaA"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/2Qr1cUUN77vJu2foUeMvEat4f0jlsEnFN1bkKMZEf5jl8DNYyp6RbW9WXvKLTz4JMDDiDXkAdF0RAl3I6GVh_uL8H7zBMUd2CQc1D_0duI8pP6WumEcSKBG_LR3rSA4lbQfExdsblaA"/><br/>
 （香港泛民主派團體民間人權陣線16日再次發起反修訂逃犯條例大遊行，大批民眾身穿黑衣走上街頭，有人高舉繪製的標語要求行政長官林鄭月娥下台。<br/>
 中央社記者裴禛香港攝　108年6月16日）</center><br/>
 香港街頭昨天湧現身穿黑衣的「反送中」人潮，估計約有200萬人參與抗議，中國官方媒體多半保持沉默，社群平台不見相關照片或隻字片語提到這場集會。<br/>
@@ -203,7 +203,7 @@ Jian Alan Huang：<br/>
 <br/>
 <h3>◇【其它国家/地区】的声援</h3><br/>
 《<a href="https://news.ltn.com.tw/news/politics/breakingnews/2824066" rel="nofollow" target="_blank">台灣撐香港！主辦單位宣布現場突破1萬人次 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/GragbVXCAJtG71V2QS21fI7HhJ19oAc36V53O-Ijr4uvXHS9fW2dcKoMcXLl3C98zVAKdwPDK-OCECcnlJaD_N6mO2xJYgfLWkzfxysrxB5WPIgW-yyt2-t0yNGgYgK9KA49mUN6BsU"/></center>（台灣社會響應香港「撐香港，反送中」，今天黑衣人潮聚集在立法院外，主辦單位剛剛宣布現場集會人數已經突破5千人。記者劉信德攝）<br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/GragbVXCAJtG71V2QS21fI7HhJ19oAc36V53O-Ijr4uvXHS9fW2dcKoMcXLl3C98zVAKdwPDK-OCECcnlJaD_N6mO2xJYgfLWkzfxysrxB5WPIgW-yyt2-t0yNGgYgK9KA49mUN6BsU"/></center>（台灣社會響應香港「撐香港，反送中」，今天黑衣人潮聚集在立法院外，主辦單位剛剛宣布現場集會人數已經突破5千人。記者劉信德攝）<br/>
 <br/>
 台灣社會響應香港「撐香港，反送中」，今天黑衣人潮聚集在立法院外，主辦單位於下午4點23分宣布參與集會人潮已經突破1萬人次。主辦單位盼台灣立法院發表「反送中聲明」，呼籲台灣政府與國會應針對庇護港澳政治難民設立具體配套，並針對香港公務員、警察及「中資具重大影響力」的港資來台進行嚴格管制，阻止中國傷害香港。<br/>
 <br/>
@@ -266,7 +266,7 @@ baobao：<br/>
 <center><img alt="不见图 请翻墙" src="images/N7aPp1x2Bdw7fgoj44IcweFH2y7bSXmuQoLRHgRUz08gwndNcLGBHNA19V0NgK5bWxZIrxtdvYz7F-z74bMKuIm_xUbKdHSCdhN1cHrYS35mg-XMsxIyEOkqPmeCb_9D_vQne5vp78c"/></center><br/>
 <h3>◇《逃犯条例》的生与死</h3><br/>
 《<a href="https://www.setn.com/News.aspx?NewsID=559113" rel="nofollow" target="_blank">會期2020結束　港府：接受修例自然死亡事實 @ 三立新聞網</a>》<br/>
-<blockquote style="background-color:#DDD;">香港明報報導，民主建港協進聯盟立法會議員蔣麗芸今天接受 Now 新聞台節目「時事全方位」電話訪問時表示，「是否可把條例稍為延遲一兩個月」，在這段時間內政府有人力物力，做更多大型宣傳，甚至在數個電視台「日播夜播」，盡量解釋清楚。<br/>
+<blockquote>香港明報報導，民主建港協進聯盟立法會議員蔣麗芸今天接受 Now 新聞台節目「時事全方位」電話訪問時表示，「是否可把條例稍為延遲一兩個月」，在這段時間內政府有人力物力，做更多大型宣傳，甚至在數個電視台「日播夜播」，盡量解釋清楚。<br/>
 <br/>
 報導稱，出席同一節目的議會陣線立法會議員朱凱?反問蔣麗芸：「這是否民建聯的立場？你指多做幾個月後再重推這修例？你不是說笑吧？」<br/>
 <br/>
@@ -296,10 +296,10 @@ Latest public opinion polls conducted by @mingpaocom, one of #HongKong’s most 
 <br/>
 <h2>★林郑月娥【公开道歉】</h2><br/>
 《<a href="https://news.ltn.com.tw/news/world/breakingnews/2824383" rel="nofollow" target="_blank">林鄭月娥發道歉聲明 民陣送4字：「歉你老＿！」 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/HK81gCt8C7bvmXO8DS21EXf4B2KNV6T7PILyi30hZ3cB8gWCuDHEVwcu6hPdXdn3E_8IQyoBPhyrKmuaGwpyyxEQTDkBR5d07Kgz_fIGNN8m5KsR32dNjZGLrWRzQ2VWlRlLzuCZq8o"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/HK81gCt8C7bvmXO8DS21EXf4B2KNV6T7PILyi30hZ3cB8gWCuDHEVwcu6hPdXdn3E_8IQyoBPhyrKmuaGwpyyxEQTDkBR5d07Kgz_fIGNN8m5KsR32dNjZGLrWRzQ2VWlRlLzuCZq8o"/><br/>
 （對於政府的道歉，民間人權陣線表示，「歉你老＿！」 圖擷取自民間人權陣線）</center></blockquote><br/>
 《<a href="https://www.dw.com/a-49248593" rel="nofollow" target="_blank">香港各界评价林郑月娥的道歉 @ DW/德国之声</a>》<br/>
-<blockquote style="background-color:#DDD;">根据香港电台的报道，民阵方面评价林郑月娥在记者会上的表现认为：”林郑月娥至今仍然未有回应市民五大诉求，认为香港人不会收货。“<br/>
+<blockquote>根据香港电台的报道，民阵方面评价林郑月娥在记者会上的表现认为：”林郑月娥至今仍然未有回应市民五大诉求，认为香港人不会收货。“<br/>
 这5大诉求是：<br/>
 完全撤回逃犯条例修订、<br/>
 追究警察开枪镇压、<br/>
@@ -371,7 +371,7 @@ sir z：<br/>
 <h2>★香港民众要求林郑月娥【下台】</h2><br/>
 <h3>◇外媒报道</h3><br/>
 《<a href="https://cn.nytimes.com/china/20190617/carrie-lam-hong-kong-protests/" rel="nofollow" target="_blank">香港民众抗议“只缓不撤”，要求林郑月娥辞职 @ 纽约时报</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/t7xgGplzZhpo0FdTz03owz4ksVrh9nx19oD-Gcrc2vdQP18WU-FGZxWojH9EobUyxo7aswhOlLrXHFOrORUMY1zzccxS-yeb675TbtWgnc1l8xf8sBthTzSbZl7AkRvmxrkckxEDTic"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/t7xgGplzZhpo0FdTz03owz4ksVrh9nx19oD-Gcrc2vdQP18WU-FGZxWojH9EobUyxo7aswhOlLrXHFOrORUMY1zzccxS-yeb675TbtWgnc1l8xf8sBthTzSbZl7AkRvmxrkckxEDTic"/></center><br/>
 周日，抗议者带着新的决心和更多的要求涌上香港街头，抗议政府对有争议的引渡法案“只缓不撤”，并延长了笼罩这个半自治领地的政治危机。<br/>
 陷入窘境的香港领导人林郑月娥周六搁置了该法案，并于次日罕见致歉，亲民主的活动人士批评这远远不够，且为时已晚。据组织者给出的未经证实的估数，香港700万人口中近200万人参与了抗议，抗议规模本身已明确表明，公众依然不满意。<br/>
 许多抗议者表示，他们对林郑月娥的声明感到失望，称其缺乏诚意。<br/>
@@ -412,7 +412,7 @@ sir z：<br/>
 <h2>★关于林郑月娥（妖娥子）的其它评论</h2><br/>
 <h3>◇外媒报道</h3><br/>
 《<a href="https://cn.nytimes.com/china/20190617/carrie-lam-hong-kong/" rel="nofollow" target="_blank">危机中的林郑月娥——强硬、矛盾与退让 @ 纽约时报</a>》<br/>
-<blockquote style="background-color:#DDD;">问题是引渡法案究竟是林郑月娥的主意，还是北京的领导人敦促她提出的。<br/>
+<blockquote>问题是引渡法案究竟是林郑月娥的主意，还是北京的领导人敦促她提出的。<br/>
 她说过，法案是她对台湾谋杀案受害者父母寄给她的五封信所做的回应。中共领导人后来对该提议表示支持。<br/>
 <br/>
 两名了解香港政府决策的人士表示，这项立法是林郑月娥的主意，他们因所牵扯的政治敏感性而坚持要求匿名。他们称作为对信件的回应，她当即对法案予以推进，甚至几乎未在港府内部或同北京方面进行商榷。<br/>
@@ -425,7 +425,7 @@ sir z：<br/>
 问题在于，为在引渡议题上获胜，林郑月娥还会愿意付出多大的政治代价。<br/>
 “她的公信力现已严重受损，”陈方安生说。“如果她坚持在亲北京党派占多数的立法会强行通过这项提案，那么她将发现，未来三年在香港施政会越来越困难。”</blockquote><br/>
 《<a href="https://www.cna.com.tw/news/firstnews/201906160056.aspx" rel="nofollow" target="_blank">反送中處理不當 外媒曝北京懷疑林鄭月娥能力 @ CNA/台灣中央社</a>》<br/>
-<blockquote style="background-color:#DDD;">路透社16日引述一位定期與中央高層會面的消息來源稱，北京認為香港政府對修法爭議的處理方式相當拙劣。該人士表示，僅僅一週前，北京看起來仍不可能放棄修法，但暴力和動亂的升級促使他們出手。<br/>
+<blockquote>路透社16日引述一位定期與中央高層會面的消息來源稱，北京認為香港政府對修法爭議的處理方式相當拙劣。該人士表示，僅僅一週前，北京看起來仍不可能放棄修法，但暴力和動亂的升級促使他們出手。<br/>
 消息人士也稱，北京現在強烈懷疑林鄭月娥的能力。而中國國務院與香港中聯辦並未回覆這個說法。<br/>
 <br/>
 ......<br/>
@@ -440,7 +440,7 @@ sir z：<br/>
 <br/>
 ......</blockquote><br/>
 《<a href="https://news.ltn.com.tw/news/politics/breakingnews/2823947" rel="nofollow" target="_blank">林鄭栽贓台灣 蔡英文：領導人不能守護民主 說什麼都是藉口 @ 自由時報</a>》<br/>
-<blockquote style="background-color:#DDD;">香港特首林鄭月娥15日宣布暫緩爭議性的《逃犯條例》修法工作，重新展開諮詢，並稱是因台灣當局多次表示不會在通過該條例草案的情況下接受嫌犯移交。對此，總統蔡英文今於台北大同普願宮參拜後受訪表示，任何國家領導人最基本也最重要的任務，就是守護人民的民主自由，若沒決心或能力做到，說什麼都是藉口。<br/>
+<blockquote>香港特首林鄭月娥15日宣布暫緩爭議性的《逃犯條例》修法工作，重新展開諮詢，並稱是因台灣當局多次表示不會在通過該條例草案的情況下接受嫌犯移交。對此，總統蔡英文今於台北大同普願宮參拜後受訪表示，任何國家領導人最基本也最重要的任務，就是守護人民的民主自由，若沒決心或能力做到，說什麼都是藉口。<br/>
 <br/>
 此外，法務部15日晚間也重砲轟擊林鄭政府，痛批港方「妄扯」發生在台灣的個案爭議，其「推諉、卸責」之舉，須嚴正駁斥。</blockquote><br/>
 <h3>◇网友评论</h3><br/>
@@ -499,7 +499,7 @@ Jian Alan Huang：<br/>
 <h3>◇香港警方【过度】使用武力</h3><br/>
 《<a href="https://cn.nytimes.com/china/20190614/hong-kong-extradition/" rel="nofollow" target="_blank">香港警方被批对抗议者过度使用武力 @ 纽约时报</a>》<br/>
 （这篇报道发表于14日，前一篇《每周转载》没有转贴这篇报道，这次补上）<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/yhn8vPOAKyDhOU6UyE8IoEThg3JoGomGhgX3j99kmZwqbcmUhDcFmGzcmGq07AYYzHCqgfXnG4uEvwKQKb7UtWkg6TMTReJvU4uKOEUXGlzpl3AtwQQ9VmvzF6lyv52bIvfkrwtUJak"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/yhn8vPOAKyDhOU6UyE8IoEThg3JoGomGhgX3j99kmZwqbcmUhDcFmGzcmGq07AYYzHCqgfXnG4uEvwKQKb7UtWkg6TMTReJvU4uKOEUXGlzpl3AtwQQ9VmvzF6lyv52bIvfkrwtUJak"/></center><br/>
 周四，香港安全部队遭到广泛批评，当地警方前一天曾动用催泪瓦斯和橡皮子弹驱散抗议一项不受欢迎法案的数万民众。该法案允许把犯罪嫌疑人引渡至中国大陆。<br/>
 安全部队的举动迅速引来批评，加大了坚决支持该法案的香港行政长官林郑月娥的政治成本。相关的立法辩论此前从周三推至周四，现再次延后至少两天。<br/>
 警察似乎过度使用武力的抗议活动视频在社交媒体上广泛传播，民主活动人士、人权团体和反对派议员对警方的行为予以谴责。<br/>
@@ -585,7 +585,7 @@ uncle8894：<br/>
 <br/>
 <h2>★21日，包围香港政府总部</h2><br/>
 《<a href="https://www.bbc.com/zhongwen/simp/chinese-news-48717368" rel="nofollow" target="_blank">香港修法抗争变阵　政府大楼接连被围堵 @ BBC/英国广播公司</a>》<br/>
-<blockquote style="background-color:#DDD;">示威者星期五（6月21日）早上在金钟政府总部聚集，其后有人号召堵塞总部南侧之夏悫道马路，但让被堵车辆离去。在场 BBC 记者观察到，这些行动都显得突如其来。<br/>
+<blockquote>示威者星期五（6月21日）早上在金钟政府总部聚集，其后有人号召堵塞总部南侧之夏悫道马路，但让被堵车辆离去。在场 BBC 记者观察到，这些行动都显得突如其来。<br/>
 <br/>
 他们随后涌至200米外之香港警察总部抗议。至下午，一些示威者转移至不远处之入境事务大楼与税务大楼，堵塞地面大堂。大楼门外干道告士打道也出现疑似示威者架设的路障。<br/>
 <br/>
@@ -599,14 +599,14 @@ uncle8894：<br/>
 <center><img alt="不见图 请翻墙" src="images/Accqhw8o7UyCwGnIvJ6mvHgoOUzjunGAZnPRl0PptjZlWTAqkimCfskhy1CMwJjUTvzNefZsCO2ktnuivDhWq0JD73a-5Tqg_35YuME1jOAbx8aOvZpqYC0VKuF3--u5wNUJ3ZrPCqU"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/v55O_Z80G4Vl58ThLZGue4YvmMpQuoJexB8zcauelcpYwpz4wbsQJn7u3usRCg-ZHuaFZFZXJtCYTOjiZxEQlzMat9BEpT1VI167cDX-mvCvBUj-WyUoPG7vzIRdo9Fv5r1No2-d6eQ"/></center></blockquote><br/>
 《<a href="https://www.setn.com/News.aspx?NewsID=558753" rel="nofollow" target="_blank">反送中／持續抗爭！林鄭月娥未回應訴求　上千民眾包圍港府 @ 三立新聞網</a>》<br/>
-<blockquote style="background-color:#DDD;">上千民眾今（21）日稍早湧入香港政府辦公區發起示威活動，抗議傾中的香港特首林鄭月娥未回應他們的訴求，他們先前走上街頭「反送中」的大型集會撼動整座城市。<br/>
+<blockquote>上千民眾今（21）日稍早湧入香港政府辦公區發起示威活動，抗議傾中的香港特首林鄭月娥未回應他們的訴求，他們先前走上街頭「反送中」的大型集會撼動整座城市。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/EtQ5Wb54GvUw7dCfzomUjcvPE23FN46f84kr3o1S84BZQwpaBz3NrG2WUzocRDM9Xd6iY6XeSJ0Jf88meZwD0t3h1AVhEhzzQcLLPA0ROqS-YYyRtWvVgz50jY13TZOL99n4OobSvxY"/><br/>
 （上千民眾今日稍早湧入香港政府辦公區發起示威活動。翻攝自《Stand News 立場新聞》臉書）</center></blockquote><br/>
 <br/>
 <h2>★21日，包围香港警察总部</h2><br/>
 《<a href="https://www.voachinese.com/a/hong-kong-students-protest-20190621/4968145.html" rel="nofollow" target="_blank">香港学界抗议者包围警察总部 @ VOA/美国之音</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/L9ChqRx5FdTu1_Escicpb-emzf0KKWvLwouiKPQY8-g1HRWle_9s6vEU3NZ1-nms1Uq8uX2ttiPZ4biYUgNXCENNLCnR3axJqiYDfYPNUNAM-BTb7Bu82UKRBAfLHVY3zgkCqtJvkp4"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/L9ChqRx5FdTu1_Escicpb-emzf0KKWvLwouiKPQY8-g1HRWle_9s6vEU3NZ1-nms1Uq8uX2ttiPZ4biYUgNXCENNLCnR3axJqiYDfYPNUNAM-BTb7Bu82UKRBAfLHVY3zgkCqtJvkp4"/><br/>
 （在2019年6月21日香港人在警察总部外抗议，要求香港领导人下台，并撤回引渡法案）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/iG2D9LA6KTzyRGigPVyeslUQ7j-XNUe0sfhYQVSz3VKeYievOO5lQC7XWBZsTsDVql0BMcUZMBxwCJsK2LbfTKMkJ6ohtQdoAnd9s5irubpiudccJnceJlAIm5aV4nCEOyN_qBhp9f4"/><br/>
 （2019年6月21日香港人示威抗议。美国之音申华拍摄）</center><br/>
@@ -629,7 +629,7 @@ At a standstill. Earlier protesters shouting “Stephen Lo (hk police chief), co
 <h2>★关于“习包子/习呆呆/习二逼/习猪头”</h2><br/>
 <h3>◇外媒报道</h3><br/>
 《<a href="https://cn.nytimes.com/opinion/20190619/xi-butterfly-effect-hongkong/" rel="nofollow" target="_blank">习近平的威权统治折戟香港 @ 纽约时报</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/L8WIa-Zf0h_Ks4I681NPUZEK4oqLJHu5WYqeligKp_vbjT2abLO096efPxWtdbreyWm_qrnZ9kTVpa18dVBEov8nu9DvXbsHt7tbseMkpFXyinWxdX-dqHMpK31Se0ugrNR_X1MPzCY"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/L8WIa-Zf0h_Ks4I681NPUZEK4oqLJHu5WYqeligKp_vbjT2abLO096efPxWtdbreyWm_qrnZ9kTVpa18dVBEov8nu9DvXbsHt7tbseMkpFXyinWxdX-dqHMpK31Se0ugrNR_X1MPzCY"/><br/>
 （连续第二个周日，数十万民众在香港抗议引起争议的引渡法。Lam Yik Fei for The New York Times）</center><br/>
 一只蝴蝶轻轻地扇动翅膀，可能引发千里之外的一场风暴，这就是气候学上的“蝴蝶效应”。港府近期启动《逃犯条例》的修订引发了香港市民两场“反送中”百万大游行，不仅迫使特首道歉，还使得港府无限期暂缓修例。这次巨变大大出乎舆论意料，可以说，也使习近平的威权折戟香港。从历史来看，这会是此次港府修例带来的“蝴蝶效应”。<br/>
 <br/>
@@ -639,7 +639,7 @@ At a standstill. Earlier protesters shouting “Stephen Lo (hk police chief), co
 <br/>
 ......</blockquote><br/>
 《<a href="https://cn.nytimes.com/china/20190617/china-hong-kong-politics/" rel="nofollow" target="_blank">习近平治下中国最大的政治让步是如何发生的？ @ 纽约时报</a>》<br/>
-<blockquote style="background-color:#DDD;">香港——香港行政长官林郑月娥在香港立法会拥有非常忠诚的多数席位。她享有中国政府的全力支持。她还有一个随时准备推动其议程的庞大官僚机构。<br/>
+<blockquote>香港——香港行政长官林郑月娥在香港立法会拥有非常忠诚的多数席位。她享有中国政府的全力支持。她还有一个随时准备推动其议程的庞大官僚机构。<br/>
 然而周六，她被迫无限期地推迟了她为赢得一项法案的通过而长达数月的努力，该法案将允许香港政府将犯罪嫌疑人引渡到中国、台湾和其他地方。林郑月娥的决定是自2012年习近平成为中国最高领导人以来，中国在政治问题上最大的一次让步。<br/>
 大批示威者走上香港街头，进行越来越暴力的抗议活动。当地工商界领袖也开始反对林郑月娥。就连北京的官员也开始对其判断力产生怀疑，认为她在这个问题上自找麻烦，分散了对他们真正的优先事务——让严格的国家安全立法在香港获得通过——的注意力。<br/>
 香港政府面临的风险是，公众（尤其是年轻人）可能会产生这样一种印象，那就是，暴力抗议是阻止不受欢迎的政策举措的唯一途径。自1997年香港从英国回归中国以来，政府在相继发生的一起起重大事件中软化态度、改变路线之前，抗议活动的暴力程度不断上升。<br/>
@@ -658,7 +658,7 @@ Fred Dufour/Agence France-Presse — Getty Images）</center><br/>
 （周六，绝食抗议者在立法会附近举行示威。 Carl Court/Getty Images）</center><br/>
 ......</blockquote><br/>
 《<a href="https://www.voachinese.com/a/ny-experts-winston-lord-on-hk-20190619/4965825.html" rel="nofollow" target="_blank">洛德：香港抗议使习近平面临两难困境 @ VOA/美国之音</a>》<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/4z66wePOKHXlYlZ69KvxT8A6sIIGgBhVSy-cI2pPju3C5L5WV0AT4UyVyl2wLFbzNVyr39azuFa9Qu6WOdhXRvFlB9Dd83qYqEal7wnhpROOFY2kGrlfCdCN6KOE4iB01mjZQE_-iJA"/><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/4z66wePOKHXlYlZ69KvxT8A6sIIGgBhVSy-cI2pPju3C5L5WV0AT4UyVyl2wLFbzNVyr39azuFa9Qu6WOdhXRvFlB9Dd83qYqEal7wnhpROOFY2kGrlfCdCN6KOE4iB01mjZQE_-iJA"/><br/>
 （6月17日下午，香港政府总部公民广场铁闸外挂了很多白丝带、白花，悼念6月15日在金钟太古广场堕楼身亡的反送中示威者。美国之音/汤惠芸）</center><br/>
 过去两周香港爆发大规模反送中条例市民抗议以来，中国最高领导人习近平至今未对此公开表态。美国前驻华大使温斯顿·洛德（Winston Lord）表示，香港抗议使习近平面临两难困境。<br/>
 <br/>
@@ -783,7 +783,7 @@ ZhangWeiGuo 张伟国：<br/>
 <br/>
 <h2>★关于“斗争策略”</h2><br/>
 《<a href="https://www.bbc.com/ukchina/simp/vert-fut-48720142" rel="nofollow" target="_blank">“3.5% 定律”——非暴力运动如何改变世界 @ BBC/英国广播公司</a>》<br/>
-<blockquote style="background-color:#DDD;">使用非暴力策略有很多道德方面的原因，但哈佛大学政治学家切诺韦思（Erica Chenoweth）的研究发现，和平抗议不仅是个道德的选择，也是改变世界政治最有力的手段，而且比其他手段有效得多。<br/>
+<blockquote>使用非暴力策略有很多道德方面的原因，但哈佛大学政治学家切诺韦思（Erica Chenoweth）的研究发现，和平抗议不仅是个道德的选择，也是改变世界政治最有力的手段，而且比其他手段有效得多。<br/>
 <br/>
 切诺韦思通过对20世纪数百场运动的研究发现，非暴力运动达到目标的可能性是暴力运动的两倍。尽管影响因素有很多，但她发现，当有超过人口 3.5% 的民众参与抗议时，就能带来重大的政治变革。<br/>
 <br/>
@@ -928,6 +928,7 @@ Clear：<br/>
 <center><img alt="不见图 请翻墙" src="images/vj1sqwlz6jCM2IQ5dvA9pFKunRi3MRfTOTDgw_JX_NzlbtnjN5fw3y7bYRpZODCOf16BZZfD9jDdMHsqDaRfamXBqR3Bp2WpMA1ZszK2700s4lzFRYsJqyUuyr4EseI0rcFZv1liv-g"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/06/weekly-share-132.md">每周转载：香港“反送中”抗议活动的外媒报道（6月9日至6月15日）</a>》<br/>
 《<a href="../../2019/08/weekly-share-135.md">每周转载：香港“反送中”政治抗议活动大事记（7月初至8月初）</a>》<br/>

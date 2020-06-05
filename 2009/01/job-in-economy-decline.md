@@ -3,7 +3,7 @@
 -----
 
 <div class="post-body entry-content">
-　　今天看到新闻说“<a href="http://news.xinhuanet.com/world/2009-01/23/content_10707226.htm" rel="nofollow" target="_blank">微软公司宣布裁员5000人</a>”。不由得感慨：连最牛的（微软手头现金最多）公司都不得不裁员了。去年（2008）爆发次贷危机，几大金融机构在去年9月倒台，距今也不过才4个月，金融危机已经波及到每一个行业（当然也包括 IT 业）——不禁让人想起“1929-1933”的那次萧条（那次号称是史上最强的）。面对这种情况，大伙该咋办捏？<br/>
+　　今天看到新闻说“<a href="http://news.xinhuanet.com/world/2009-01/23/content_10707226.htm" rel="nofollow" target="_blank">微软公司宣布裁员5000人</a>”。不由得感慨：连最牛的（微软手头现金最多）公司都不得不裁员了。去年（2008）爆发次贷危机，几大金融机构在去年（2008）9月倒台，距今也不过才4个月，金融危机已经波及到每一个行业（当然也包括 IT 业）——不禁让人想起“1929~1933”的那次萧条（那次号称是史上最强的）。面对这种情况，大伙该咋办捏？<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★1、分析自己公司的情况</h2><br/>
@@ -37,9 +37,9 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2013/09/knowledge-structure.md">如何完善自己的知识结构</a>》<br/>
-《<a href="../../2013/04/how-to-read-book.md">《如何阅读一本书》——书评及内容纲要</a>》<br/>
-《<a href="../../2009/02/study-technology-in-three-steps.md">学习技术的三部曲：WHAT、HOW、WHY</a>》<br/>
+《<a href="../../2013/04/how-to-read-book.md">＜如何阅读一本书＞——书评及内容纲要</a>》<br/>
 《<a href="../../2009/11/job-hopping.md">跳还是不跳，是一个问题——跳槽时该如何权衡？</a>》<br/>
 《<a href="../../2014/01/misunderstanding-about-making-money.md">为啥急功近利反而赚不到钱——给拜金主义者的忠告</a>》<br/>
 《<a href="../../2018/06/weekly-share-121.md">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》

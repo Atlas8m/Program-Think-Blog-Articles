@@ -19,13 +19,13 @@
 <h3>◇梁凌杰（35岁）</h3><br/>
 <center><img alt="不见图 请翻墙" src="images/LhmfXjmAkvGxuJ7qcf4CztSAH0sAXiQmp2lJ2AmWyWUNebHxKN9NupFehtgiJ1s6W4F-acH0flZ_L59TsluudvOi4VDdn46AwqsHXqONziLEgxQi8x0WcSRJcY7TziqyWeZb9SdQxvA"/><br/>
 （梁凌杰2016年旧照。照片来源：维基百科）</center><br/>
-6月15日，他身穿写有<q style="background-color:#DDD;">林鄭殺港 黑警冷血</q>的黄雨衣，于太古广场悬挂反送中标语，之后跳楼。<br/>
+6月15日，他身穿写有<q>林鄭殺港 黑警冷血</q>的黄雨衣，于太古广场悬挂反送中标语，之后跳楼。<br/>
 事后，建制派媒体（亲共媒体）【污蔑】说——此人犯有数宗罪案，乃畏罪自杀。<br/>
 <br/>
 <h3>◇卢晓欣（21岁）</h3><br/>
 教育大学音乐系学生，6月29日于粉岭嘉福邨福泰楼跳楼。<br/>
 自杀前在墙上留下红色字体的遗言：<br/>
-<blockquote style="background-color:#DDD;">致香港人：<br/>
+<blockquote>致香港人：<br/>
 雖然抗爭時間久了<br/>
 但絕對不能忘記<br/>
 我們一直以來的理念<br/>
@@ -40,13 +40,13 @@
 <h3>◇邬幸恩（29岁）</h3><br/>
 曾任幼稚园教师、公证行文员。6月30日于中环国际金融中心（IFC）跳楼。<br/>
 自杀前留下 Facebook 遗言：<br/>
-<blockquote style="background-color:#DDD;">香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天……</blockquote><br/>
+<blockquote>香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天……</blockquote><br/>
 <br/>
 <h2>★7月1日：<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B4%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E8%A1%9D%E7%AA%81" rel="nofollow" target="_blank">七一大游行</a></h2><br/>
 （编程随想注：“7月1日”是香港回归日（沦陷日）。1997之后，每年的这天都有政治抗议游行，“历年游行的介绍”可参见维基百科的“<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%B8%80%E5%A4%A7%E9%81%8A%E8%A1%8C" rel="nofollow" target="_blank">这个页面</a>”）<br/>
 <br/>
 今年的“七一游行”由民阵主办，主题为【撤回恶法 林郑下台】，诉求为：<br/>
-<blockquote style="background-color:#DDD;">撤回《逃犯条例》修订；<br/>
+<blockquote>撤回《逃犯条例》修订；<br/>
 撤回警方就6月12日金钟冲突的“暴动”定性，释放被拘捕的人士，同时促请成立调查委员会彻查警方有否过分使用武力；<br/>
 重启政改，即于立法会选举及行政长官选举达至“真普选”。<br/>
 要求时任行政长官林郑月娥下台。</blockquote><br/>
@@ -59,7 +59,7 @@
 <center><img alt="不见图 请翻墙" src="images/HmzHbjVsxbe-xJlXjbS3y65VKCtjbV3eCE2BCCzpuer8JK60R6tbxBDR-tcgE3mqUp4CIqy6cBZwp1NzT7-g2pV0dgLoP1SolWFpexsIdm_-bhTsnIyXOHrMY7ibpE9E3qweZUWYNA0"/><br/>
 （街道航拍。照片来源：法新社）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/xzJ24z93AT_juY6nM6aeEJe4ZpUFuv-nbC6UxIw89o1UmPtOkE1sxqieRPV8DEJ-VV7FgcF95Dx15C8ruq6K-dbQmFCb_b3glwCHL7Jj9CNCaiqFBh_oR3esWf590QOpQwDxE7GZCOM"/><br/>
-（街头抗议民众的标语牌：<q style="background-color:#DDD;">林鄭月娥下台！</q>、<q style="background-color:#DDD;">自由香港！</q>。照片来源：法新社）</center><br/>
+（街头抗议民众的标语牌：<q>林鄭月娥下台！</q>、<q>自由香港！</q>。照片来源：法新社）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/CDnBZynOGolJ-NwaKrickuQJRNuk9eNX4eR6w-cMRg66DoSPK4H6JZtnQtkSkS2doOtRz2CievSbOd-QNoUyiEHsFqnQYXjnhRhHm_oBZuBT0yJ3eZQ88-GH3h-zul-taDc-WrSs57E"/><br/>
 （参加“七一”游行的民众要求香港政府“撤回送中恶法”。照片来源：路透社）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/jOfFYRCE_AbbDKIzVPh19uAoy5xniffJLftCtIbZR8-Nfc1p9suBplZJJQg0hY1jQHI08Be1sMU5Mf6pFD1jdojJzg91_m1J0Fg8jdbgJE5kVX5HHfNju5u4JjDvMQBbLKmSbq9eajA"/><br/>
@@ -78,10 +78,10 @@
 <center><img alt="不见图 请翻墙" src="images/pViBMkdHaui8hA18k2s5FczcX8W99iWo4AKigY81Y9zzNODJLcWoNwPtSD2Y8NlJ6Ra58EMKKH5tzi8tR12qi05uLinDn6O2cIJVFZgpNpaFwgR6-47e5u5znQopqgkFDpVFsFfjEYM"/><br/>
 （攻占立法会后，抗议者在主席台悬挂“港英旗”，并在墙上书写“反送中”相关标语。照片来源：路透社）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/ZA6snB-sJOl2z8VkMJWY6WXpuQ2niLBMYkR5cEnIdzE7nK4MFXVsu4cDiYPj9a-69qwL3r4YyAdIz3NlyZAlfYqd3Qk4lOurKXNj43XFvtm0EyvE5xYJBOqzYue9fs6snJ_qEM4i5Qk"/><br/>
-（抗议者在立法会讲台上拉起横幅——<q style="background-color:#DDD;">没有暴徒 只有暴政！</q>照片来源：维基百科）</center><br/>
+（抗议者在立法会讲台上拉起横幅——<q>没有暴徒 只有暴政！</q>照片来源：维基百科）</center><br/>
 <br/>
 占领立法会之后，网上同时流传《香港人抗争宣言》和《香港己亥宣言》。后者的文本如下：<br/>
-<blockquote style="background-color:#DDD;">各位香港市民，<br/>
+<blockquote>各位香港市民，<br/>
 <br/>
 我们是一群来自民间的示威者。万不得已，我们并不想走上以身对抗暴政的路，以占领香港特区政府立法会作为我们谈判的筹码；但满口谎言、满口歪理的政府却无意回应香港人不断走上街的诉求。我们只好以公义、良知、以及对香港、对香港人无穷无尽的爱，去抗衡横蛮的政府。<br/>
 <br/>
@@ -103,7 +103,7 @@
 <br/>
 第4位自杀抗议者——麦姓女子，名不详，28岁。<br/>
 7月3日清晨于长沙湾青山道住所跳楼，并留下书面遗言：<br/>
-<blockquote style="background-color:#DDD;">不是民选的政府<br/>
+<blockquote>不是民选的政府<br/>
 是不会回应诉求的<br/>
 香港需要的是革命</blockquote><center><img alt="不见图 请翻墙" src="images/Qp_6oRYzWtv80xSwfeIQwJbJXbjaok526UPkfhpTSV6ChiXPGG3XPEtjecn8iP-f3xi0Bf0kHhfiSYLyqrsDJf-X9_vsG_Ei_pJUkwrYeSmMB-DY3WaKrJq2o9WPIV8Zt7higuLq00g"/><br/>
 （麦姓女子遗言。照片来源：本土新闻）</center><br/>
@@ -156,7 +156,7 @@
 组织者称有逾11.5万人参与，警方称最高峰有2.8万人。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/IvxIaYOOlWoHsAwcCpHusaV3A-G9q3kqLCB99kIbYqqKzbOJamUnhWLPNxsn3fkI17_UKFBZOiYfsG5Q-biNRS1lrP3EBZLFXIbWoOo3mV2F2EUWFkxDL0KlZ7Hq9FUe-DEC5c7s-Jo"/><br/>
-（游行队伍中<q style="background-color:#DDD;">撤回惡法</q>的横幅。照片来源：维基百科）</center><br/>
+（游行队伍中<q>撤回惡法</q>的横幅。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/mX_SzdUP9ytPEARi2yynXHfHiIueSVpw6r8O96lTbHOS-HngEKLYKsBVmqLLonB6Ie5QzGM9tJdib0oOmyY0I9UM0TuUWf7_Hfw3pDoikqQKk4knQXJn1wcLgIkX9Lk7MCYhqouw7Qw"/><br/>
 （游行队伍经过沙田正街新城市广场3期。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8Sp3DM20EvpmGmpuU9bAKLJJXYcAR8Mlzw10iAGQxk1_0NBpvzVyNbrJnxPJeuSx_qowPOnWygLUcae8cwSctO2VPYGqpXyZou4y3NpE2fAYbYRQ2xWkk0At_lmO2l8LmdWBE0beHeA"/><br/>
@@ -166,9 +166,9 @@
 香港的老年人也站出来，支持年轻人的抗议活动。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/KamWjEXXatXItW8FqjSQFXgeWSq5MdxdsPYcXzHN1QFcryXtfndbtulig_Os6vd2QVHx_SUBlYLJSr9RWTwZ4D2wPjPAxMIp7f-Y7aYiEMneJlXoeIau7YhhiAcwvy3dsz47VKFt5DA"/><br/>
-（香港女艺人叶德娴与几位老人手持<q style="background-color:#DDD;">支持青年 守護香港</q>的横幅，穿行港岛金融区。照片来源：美国之音）</center><br/>
+（香港女艺人叶德娴与几位老人手持<q>支持青年 守護香港</q>的横幅，穿行港岛金融区。照片来源：美国之音）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/CF02-8vLmOrjG-uZNWp6pmCiAWr_YeWerKkl1r65wnlF27X6YXf4INBrJqOBGeBsSlnpXwNeQbPp4D-wrP0R6vAkaxWSm4qs0tKH_qJkIf33UY-ikpc26adWG8TfdPlDV_Q0TACfVdI"/><br/>
-（游行中的标语牌——<q style="background-color:#DDD;">林鄭罪魁禍首 學生不是暴徒</q>。照片来源：美国之音）</center><br/>
+（游行中的标语牌——<q>林鄭罪魁禍首 學生不是暴徒</q>。照片来源：美国之音）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/7O1LriNEXVMoEcoSQtXUeVXkKCyyi4wOPed83rjGq2c9z0_wKhYN8v57lYXSKUrHnyB3ZTF0frh67A0X5i-RGIMJqvQ-f1UydY23GIHAdTuKTgy8Wf5e-X2k7gZvIC5Wfp-iyCYNzlQ"/><br/>
 （照片来源：德国之声）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/sQ1dncK_BWc-VlkzYZK80RVck-s7jM624bGxznyOc8adIwFj036S540VWNG4ne17UgS-rkTqRO7J43wFAFEHfeZbA2aVdovjjjSPIoOBa2MSIq0UkHYkzScjEDc6GZ-cqi4KAyh8h1U"/><br/>
@@ -179,18 +179,18 @@
 当日的抗议活动，警察共发射55枚催泪弹、5发橡胶子弹，24发海绵弹；多人受伤。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/NiuVWR82CjxYm7rJ0y8OaAMqp7GGG2Q467w6s5LTo3cDftjCekGoj6J6L_Jol5Rg5af9psHMX8IGS4mYzvqRMb6M85gWAJhdqMWUmYvrHAPFVXwXOgflbUonfQ9gSEejt3DH3-NAjds"/><br/>
-（游行人士途经怡和街行人天桥。示威者举牌<q style="background-color:#DDD;">五大訴求 缺一不可</q>。照片来源：维基百科）</center><br/>
+（游行人士途经怡和街行人天桥。示威者举牌<q>五大訴求 缺一不可</q>。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/mQkdPgeizTuQdAzL2jW2t4XH9k4lYKCP_AFOWod27GtnpDLKmbBO9nXVQJKfU_kVK50k7yiPGOTCmUe5uWyLDLnJ74VOyX-Qn_p7pntDzxe0gA8kNigKc3OXsVfNOx_q7cybO4LdO04"/><br/>
 （在维园内等待出发的游行人士。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/Sig2QWAl6SgkGoHTDZ2scGrk2d2xRiHibOP6BwV2WOe3jzG1QznFxGot5agfIahoBK-A7m2cEPPScEvM7OJ4318QfXKeAeMDsO8_KMllQZgNDCTtzH9Sub4ANT1K5ewAf2Sp3Lu07zM"/><br/>
-（游行队伍途经轩尼诗道鹅颈桥。很多人举牌<q style="background-color:#DDD;">全面撤回 送中惡法</q>。照片来源：维基百科）</center><br/>
+（游行队伍途经轩尼诗道鹅颈桥。很多人举牌<q>全面撤回 送中惡法</q>。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/9gkImZOR9GMM3ATot92tygTmN0zSgNvWU7SbiJbA7ml-QBPtCTYMAfZZQ8s66FN02kyE_757xkdrhnTZg7iVxEjWwwJiPTOpBgWOV4ZK4NsMNCYoQenFNLlzHdHCqtecCTpI31nXQDM"/><br/>
 （游行队伍途经轩尼诗道湾仔段。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/K0xRd5BlGDUAx4CWxwEicqkmGkvBq2XkuNvV42FYeQjF4GI3yWHjWRutE3KVMM6UPoc23oUDHGh-S0ELwpE2_MGrPKdk241q7Mvl36RahWQMdq_PPDs8QxC2PwkOWrJgol4wEWFkU0U"/><br/>
 （游行队伍途经金钟道警察总部附近。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/ZJBO-zLmdbgDh6Fuqgz1QTiaquFEfEX96ix5SWswQM24b8wwKoL8OAIIuQRQQGHJgU3gpsHq777X__rsefSHjg-3kRyB7qOCbpqaVNfh3i4TLHIe_VEHC1hypsJDBsMGYLAaVMMY9s0"/><br/>
 （政府总部外架设了水马，并且有防暴警察看守。照片来源：维基百科）</center><br/>
-<center><img alt="不见图 请翻墙" src="images/XlWFBH54xOlEIG6lvovOBIVX6wySeeUNTx574tyfkFb9d6C-8LwuxiJzzSHnWFPFf5ZyeK9TJ17feMXYhRy5HoT2TuaHNaM510DTvK3Cn1GXrTUEhzxb17GVKbrk3c-XJm1nBzv2vvw"/></center>（干诺道中毕打街行车隧道墙身被喷上<q style="background-color:#DDD;">時代革命、Hong Kong is NoT China、Free HONG KONG</q>等字样。照片来源：维基百科）<br/>
+<center><img alt="不见图 请翻墙" src="images/XlWFBH54xOlEIG6lvovOBIVX6wySeeUNTx574tyfkFb9d6C-8LwuxiJzzSHnWFPFf5ZyeK9TJ17feMXYhRy5HoT2TuaHNaM510DTvK3Cn1GXrTUEhzxb17GVKbrk3c-XJm1nBzv2vvw"/></center>（干诺道中毕打街行车隧道墙身被喷上<q>時代革命、Hong Kong is NoT China、Free HONG KONG</q>等字样。照片来源：维基百科）<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/FthtwpbK8bdQFnxU_Yf1nlSxlBXG-6bKBxzzwgPbgpNd3q8DHNnnZ-A5n-l4CwfGGkBVeuoV6EaSNydlzIjIXc12lu3OSxDoaZLWY0O0DUqKK4dvfbUqPPGmwUwEOaUnMv1ZoPJeV-E"/><br/>
 （晚上10时20分，警方在信德中心外施放催泪弹。照片来源：维基百科）</center><br/>
@@ -224,7 +224,7 @@
 看完之后，你应该能想明白是咋回事儿）<br/>
 <br/>
 《<a href="https://matters.news/@az/%E5%85%83%E6%9C%97%E9%BB%91%E5%A4%9C-%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC-zdpuApH9pC1eAMbZmv4RJPq5NqesR5yyGxRANeZnND8BnL71b" rel="nofollow" target="_blank">元朗黑夜，發生了什麼？ @ Matters</a>》<br/>
-<blockquote style="background-color:#DDD;">7月22日晚上的香港元朗，發生了什麼？這篇文參考了各種新聞直播視頻、報道、警方的記者會，僅作信息梳理。6月開始，反對逃犯條例修訂的市民和平遊行，怎樣一步步走到如今黑惡勢力出場，恐懼蔓延，市民對警方的信任降至冰點？香港為何高燒不退？接下來會怎麼樣？另文再談。<br/>
+<blockquote>7月22日晚上的香港元朗，發生了什麼？這篇文參考了各種新聞直播視頻、報道、警方的記者會，僅作信息梳理。6月開始，反對逃犯條例修訂的市民和平遊行，怎樣一步步走到如今黑惡勢力出場，恐懼蔓延，市民對警方的信任降至冰點？香港為何高燒不退？接下來會怎麼樣？另文再談。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/QCsKUayBptNQC25HckMFfaLngUWXOJptz9vDKXJc2F-5GLWYy4aM8jdQ3atx58oCU26CniKGmgRJ0_EQu5iyjvearYAv78Dg3PWiVwwb6rkF2e2aC6_kZ1izdx2RCZjrnTcMMCpuiD0"/><br/>
 （元朗在香港新界西北部，遠離港島，靠近深圳灣）</center><br/>
@@ -325,7 +325,7 @@
 公开信说：我们的家失去了秩序。今天，我们不能只说专业，更要讲良知！<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Q1-0qgUomI7Gso7_BeUaUgvVH-eRbaKGd0xDLJfP5-iicCMm9zKTCkhYPqUAK1GGcDyklrMvdU_9gV-37K7arY35tExdUNdVU5ljPE9zanSw5licyoNZBrWJjXUQApYjuYaJVt03gtM"/><br/>
-（航空界人士在香港国际机场集会抗议。标语牌：<q style="background-color:#DDD;">7·26 Airport Protest</q>。照片来源：美国之音）</center><br/>
+（航空界人士在香港国际机场集会抗议。标语牌：<q>7·26 Airport Protest</q>。照片来源：美国之音）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/-kqoPaJAVfCi_RJEQXOieweVfaCIl1BNFHzPOZoaJaLgku3e4rnBHCxyiwKf5Rgd17p6tosX8tMRSxa--T5jBZZarFQp41hj8-ACvYaNIWYc9O1Wosr-XqT2VknqRzqupDAi2ZL3L0w"/><br/>
 （机场的抗议者呼喊口号、手举标语、分发传单。照片来源：德国之声）</center><br/>
 <br/>
@@ -366,7 +366,7 @@
 <br/>
 <h2>★8月2日：香港【高层】公务员，声援反送中抗议</h2><br/>
 （注：以下摘自《纽约时报》的<a href="https://cn.nytimes.com/china/20190802/hong-kong-protests-civil-servants/" rel="nofollow" target="_blank">这篇报道</a>）<br/>
-<blockquote style="background-color:#DDD;">近日来，一些公务员团体似乎在（匿名地）呼吁政府设法解决抗议者担心的问题。在社交媒体上的请愿书和公开信中，数百名公务员用上传自己公务员卡照片的方式以示支持，不过他们掩盖了照片中的姓名。<br/>
+<blockquote>近日来，一些公务员团体似乎在（匿名地）呼吁政府设法解决抗议者担心的问题。在社交媒体上的请愿书和公开信中，数百名公务员用上传自己公务员卡照片的方式以示支持，不过他们掩盖了照片中的姓名。<br/>
 <br/>
 上周，似乎有100多名政务主任（香港约有700名政务主任，他们是精英级别的政策制定者）对一封公开信表示支持，要求对围绕抗议活动的问题展开独立调查，包括暴徒上周在一个火车站附近袭击抗议者和旁观者，以及警察未能阻止袭击的原因。<br/>
 公开信要求调查的问题还包括，林郑月娥政府将一项现已暂停的法案提交给立法会的过程。该法案允许把逃犯引渡到中国大陆，这是引发抗议活动的原因。<br/>
@@ -438,6 +438,7 @@
 （香港网友爆料——防暴警察讲普通话 <a href="https://www.facebook.com/ChanKamShui/videos/717859425321095/?v=717859425321095" rel="nofollow" target="_blank">视频链接</a>）</center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/11/weekly-share-139.md">每周转载：香港“反送中”政治抗议活动大事记（10月至11月）</a>》<br/>
 《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》<br/>

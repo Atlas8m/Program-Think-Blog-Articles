@@ -21,7 +21,7 @@
 　　这是第5届香港行政长官“妖蛾子”所发表的第3份施政报告，主题为“珍惜香港 共建家园”。<br/>
 　　根据民调，这份《施政报告》的“平均得分”29.7，是<b>1997年有记录以来最差的一次</b>。<br/>
 　　“香港民意研究计划”的调查显示——<br/>
-<blockquote style="background-color:#DDD;">【65%】受访市民表示“不满意”《施政报告》（比2018年高31个百分点）；<br/>
+<blockquote>【65%】受访市民表示“不满意”《施政报告》（比2018年高31个百分点）；<br/>
 17% 受访市民认为“满意”；<br/>
 8% 受访市民回答“一半一半”；<br/>
 9% 认为“不知道或很难说”。</blockquote><br/>
@@ -29,13 +29,13 @@
 　　林郑月娥两次宣读《施政报告》，两次都不满一分钟就因为抗议而暂停。“立法会主席梁君彦”在第2次暂停后，正式宣布休会。<b>这种情况为1997年以来【首次】发生。</b><br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/W2spL4cW7CRITHfS01mC88S8Xbi6WxdLPVGAABOmBoKvj8O9qmoXX14XMvDMfRgNHs0huyeL7agMfFmn6uIgE3C6QEZ6m815xk9lscsojkacbOiiIVPcGGmL5vClDQEBYSjxURwshHY"/><br/>
-（立法会现场，民主派议员在墙壁上投射出<q style="background-color:#DDD;">五大诉求 缺一不可</q>的标语。照片来源：维基百科）</center><br/>
+（立法会现场，民主派议员在墙壁上投射出<q>五大诉求 缺一不可</q>的标语。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/mJYeJVeR4dmOhX2RavTKJf5LfVS8wxkChx0PYeCG7Ai83SBg0Klp6jsvRj6DWdg3aWpHBHFxcgq9xiV_IHt0kjQe7oOaNdzv_iubztGjaXKBme-bU17uitQr_aGMdgdvpegJXEUu1sU"/><br/>
 （胡志伟议员被赶出会场。周边座位上可以看到抗议的标语牌。照片来源：维基百科）</center><br/>
 <br/>
 <h2>★10月16日：美国众议院通过《<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%AC%8A%E8%88%87%E6%B0%91%E4%B8%BB%E6%B3%95%E6%A1%88" rel="nofollow" target="_blank">香港人权与民主法案</a>》</h2><br/>
 　　（香港时间10月16日）美国众议院以口头表决形式，【一致通过】了众议院版本的《香港人权与民主法案》；另外还通过《保护香港法案》，禁止向香港出口催泪气体和橡胶子弹等人群管制装备，避免被香港警方利用作残酷镇压抗争者。<br/>
-　　同时又以口头表决形式，一致通过决议：<q style="background-color:#DDD;">承认香港与美国之双边关系、谴责中华人民共和国干预香港事务和支持香港人示威权利</q>。<br/>
+　　同时又以口头表决形式，一致通过决议：<q>承认香港与美国之双边关系、谴责中华人民共和国干预香港事务和支持香港人示威权利</q>。<br/>
 <br/>
 <br/>
 <h2>★10月16日：（民运领袖）<a href="https://zh.wikipedia.org/wiki/%E5%B2%91%E5%AD%90%E6%9D%B0" rel="nofollow" target="_blank">岑子杰</a>遇袭事件</h2><br/>
@@ -48,7 +48,7 @@
 <center><img alt="不见图 请翻墙" src="images/heAByRIO8qcv92hK2BFEbtzKZZYorKWn1GdJN0d4QCu46UBEBcha6E1gtMy1USvY7Qt4ElGdAQO_Al4n_1mZed1Cs04u1DDBlMfmep1osk4lQuWKkHc9O_hn_rVHLaR36aHEOPr32TI"/><br/>
 （岑子杰遇袭倒地。照片来源：中国时报）</center><br/>
 　　民阵对此次袭击事件发表6点声明（如下）：<br/>
-<blockquote style="background-color:#DDD;">一、岑子杰於晚上7時許在旺角雅蘭里遇襲，4至5名兇徒以鐵槌襲擊岑子杰，附近有車房職員嘗試上前阻止，但被兇徒持刀恐嚇。兇徒行兇後逃去。<br/>
+<blockquote>一、岑子杰於晚上7時許在旺角雅蘭里遇襲，4至5名兇徒以鐵槌襲擊岑子杰，附近有車房職員嘗試上前阻止，但被兇徒持刀恐嚇。兇徒行兇後逃去。<br/>
 二、岑子杰倒臥地上，頭部流血，手腳關節亦受傷。岑子杰送院時清醒，現時急救中，需要留院治理。<br/>
 三、民陣強烈譴責事件，要求警方徹查，將兇徒緝拿歸案。<br/>
 四、岑子杰在救護車上有一句說話對香港人講：「五大訴求，缺一不可！」<br/>
@@ -210,7 +210,7 @@
 　　警方公布的视频，出自【丘品新闻】在现场录像。<br/>
 　　警方公布视频之前，【并未】取得授权，并且还【篡改】了视频内容。<br/>
 　　以下是【丘品新闻】在其 Facebook 专页发布的声明（引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">就昨天（11日）早上七時許，本台採訪記者於直播期間攝了交通警員發射三槍實彈事件成為獨家片段事宜，不少讀者就此提出多個疑問，對此，本台有以下三個要點需要嚴正公開澄清，給予各讀者一個明確的交代。<br/>
+<blockquote>就昨天（11日）早上七時許，本台採訪記者於直播期間攝了交通警員發射三槍實彈事件成為獨家片段事宜，不少讀者就此提出多個疑問，對此，本台有以下三個要點需要嚴正公開澄清，給予各讀者一個明確的交代。<br/>
 <br/>
 一、本台並沒有私下授權警方於記者會上公開有關影片片段。本台無疑與大眾同時間才得悉警方於昨天四點鐘記者會公開播映，作為向市民解釋事發經過的資料片段。而警方亦沒有接觸本台相關記者進行錄口供的程序。<br/>
 <br/>
@@ -268,9 +268,8 @@
 　　行凶者目前还没抓到。如果确实来自某个激进的抗议者。那俺不得不说——此人是这场政治抗议运动中的【猪队友】。<br/>
 　　这种行为无疑给香港政府和中共政权提供了充足的【舆论弹药】。<br/>
 　　另外，俺还想引用尼采的一句名言（俺博客副标题的动态格言中，有这句）：<br/>
-<blockquote style="font-weight:bold;background-color:#DDD;">与恶魔战斗的勇士, 要小心自己也变成恶魔！<br/>
-当你长久地凝视深渊, 深渊也在凝视着你！<br/>
-</blockquote><br/>
+<blockquote style="font-weight:bold;">与恶魔战斗的勇士, 要小心自己也变成恶魔！<br/>
+当你长久地凝视深渊, 深渊也在凝视着你！</blockquote><br/>
 <h2>★11月11~15日：<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%B8%E8%AD%A6%E6%B0%91%E8%A1%9D%E7%AA%81" rel="nofollow" target="_blank">香港中文大学【攻防战】</a></h2><br/>
 　　香港中文大学的【攻防战】，开始于上述提到的“<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B411%E6%9C%8811%E6%97%A5%E9%BB%8E%E6%98%8E%E8%A1%8C%E5%8B%95" rel="nofollow" target="_blank">黎明行动</a>”。<br/>
 　　为配合“全港三罢”。中文大学的抗议者在11日早上6时左右发起“二号桥行动”，从中大校内的【二号桥】向下方投掷物品，导致新界交通阻塞。因为该桥下方是连接新界各地的交通要道“吐露港公路”，以及连接新界和九龙的“港铁东铁线”。<br/>
@@ -313,12 +312,12 @@
 <center><img alt="不见图 请翻墙" src="images/m_c1GSW88_6IewuhfGt_Wsp0_7jVV0RaXvSWuCsx2m4J6V7XGCFxpU3Kp45ZoA5Kc1c_CVHJbodOvN66yzInVuxFgPqPSKducBcyQJG7pgu58pOjsUkAI_LwbzoEtPZ0qEXisx86f7E"/><br/>
 （警方向港中大某操场上的抗议者发射催泪弹。照片来源：BBC/英国广播公司）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/bhkLV9z12J5kdjfRMq_9rlqOk8HMacOQ6doDsLTDtVMI2K8cR1YCE96URpNLlWcHWcDeyAgJESwp-Ma6mxGGPLyleOkGvnVmCuMKHd4jHsJwbqrzc-VtTik7ah2yTLzEVjbKmBcGVNw"/><br/>
-（港中大的抗议者举起<q style="background-color:#DDD;">光复香港 时代革命</q>的旗帜。照片来源：BBC/英国广播公司）</center><br/>
+（港中大的抗议者举起<q>光复香港 时代革命</q>的旗帜。照片来源：BBC/英国广播公司）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/VHNoFkLXc-V9E1ofXQ5hqvdFofcaEIROsmYuUF0lOICCJBB0_GnOXdgnf2lJB8QMIvk8fJn2uxELHVObP7xlmbS8D8PWW7cy1eEuw7MGcuQKI2h9PNXldnUmuht6vb6SQybaPOASJp0"/><br/>
 （11月15日，香港中文大学的抗议者。照片来源：纽约时报）</center><br/>
 <h3>◇市民发起“围魏救赵”行动</h3><br/>
 　　为分散警力，避免警方人员继续派驻中文大学。网民号召沙田区和大埔区发起“围魏救赵行动”。当日下午到晚间，全港各区都爆发警民冲突，香港多区都施放催泪弹，至少包括以下区域：<br/>
-<blockquote style="background-color:#DDD;">新界——屯门、东涌、元朗、天水围、上水、大埔、荃湾、大围、沙田、马鞍山、将军澳<br/>
+<blockquote>新界——屯门、东涌、元朗、天水围、上水、大埔、荃湾、大围、沙田、马鞍山、将军澳<br/>
 九龙——太子、旺角、蓝田、土瓜湾、深水埗<br/>
 港岛——中环、香港仔、西湾河</blockquote><br/>
 　　沙田有单独行动的警员被示威者包围，警员逃离现场，警车被纵火（这是本次运动以来，首次出现“烧警车”的现象）。<br/>
@@ -350,7 +349,7 @@
 <center><img alt="不见图 请翻墙" src="images/EJj12obTol6tS4RQVEWuK9t-C0m-43QrURONbQRyWxAq7BnCsVdkhH7fquWuZsiQWW3zkKMK4eYuvksfWv1upT2hF2m9iAGIBqsOXuDkZAcObeagmVKvrgwUa627sDNMBoTKmHsCyeQ"/><br/>
 （消防队在“又一城商场”灭火。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/7SsKwiaaCl7ZwJf9dWc5S_vDBB9fMuCu8NkCHzMZufyb0RqfREx22o0wuNGLfIGCWYdNBD2yLHwdBNMvSzxHZ9goxUraO3HOSRofTK63li9ZqTQ5TdwRRXrHgOmPnALAeStiwHG3gEA"/><br/>
-（抗议者在“香港城市大学/城大”附近的天桥打出标语牌：<q style="background-color:#DDD;">你若放弃 谁佑我城</q>。照片来源：香港01）</center><br/>
+（抗议者在“香港城市大学/城大”附近的天桥打出标语牌：<q>你若放弃 谁佑我城</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/DTaEKDmH3Dgv5BmukscANlzEc4YQHCnfqMokToflPhP8voCjlOXVahh2fgh6xcTI8TgK3iAUVdfJQ-BQpE15Uak5AfJzD_B4ZvWZ6q9xpS3rb30bsvkoOuNs_ndnOmdjJuOnDCC-J2s"/><br/>
 （“城大”的抗议者阻塞九龙塘的交通干道。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/gvATktQdqo4ne5qv16Qky9-uPWV8jIym_JYz0ukRlBXZotmP_gXLlgwspkfLRnnaz0Jq57xHDtyi1gWkaC7ldSQ8yFD4PKW5lOc3dE4KRccpGgcHx0_1jOrWtXmLPgy0728cNaQ5Qxw"/><br/>
@@ -472,7 +471,7 @@
 <center><img alt="不见图 请翻墙" src="images/UBXtudxFLBJcfQUkVS3PK4PD2yyfoVgcQM_c7JLayUyr-UCYLoGf7Sedutl7Hm2jS5-nUZCWBLmIcUhWaI5q_Ej5X1SlylCeHxOogVk-dshyx8eNoBDNn1ka5XAX_6MaPRvvBrXo-wc"/><br/>
 （香港高等法院。照片来源：德国之声）</center><br/>
 《<a href="https://cn.reuters.com/article/hk-police-court-ban-1118-idCNKBS1XS12A" rel="nofollow" target="_blank">香港法院裁定禁蒙面法违宪，警方即时暂停执法，而政府暂不回应 @ 路透社</a>》<br/>
-<blockquote style="background-color:#DDD;">路透香港11月18日<br/>
+<blockquote>路透香港11月18日<br/>
 香港法院周一裁定《禁止蒙面规例》（禁蒙面法）部分条文违宪后，警方随即宣布即时暂停执行相关法例；而政务司司长张建宗表示，政府将详细研究判词内容，暂不作回应。<br/>
 <br/>
 香港特首林郑月娥10月初引用《紧急情况规例条例》（紧急法）订立并实施禁蒙面法，以遏止社会上激进的违法行为及帮助警方执法。其后民主派立法会议员等入禀高等法院申请司法覆核，要求法庭颁令裁定紧急法及禁蒙面法无效及违宪。<br/>
@@ -483,7 +482,7 @@
 <br/>
 ......</blockquote><br/>
 《<a href="http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20191118-%E7%A6%81%E8%92%99%E9%9D%A2%E6%B3%95%E8%BF%9D%E5%AE%AA-%E9%A6%99%E6%B8%AF%E9%AB%98%E9%99%A2%E6%89%87%E4%BA%86%E6%B8%AF%E5%BA%9C%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89" rel="nofollow" target="_blank">禁蒙面法违宪，香港高院扇了港府一记耳光 @ RFI/法广</a>》<br/>
-<blockquote style="background-color:#DDD;">如果说香港还没有完全失去一国两制的话，大约有两点可以举证，一个是香港满街的反抗者，他们因为害怕失去一国两制而反抗，这场反抗目前正由学生们扛起了大梁，但也处在了最危险的时候；另外一个大约就是香港的高等法院，周一正式裁定『禁蒙面法』违宪，这是以香港的司法独立，法律专业来挑战北京的威权。<br/>
+<blockquote>如果说香港还没有完全失去一国两制的话，大约有两点可以举证，一个是香港满街的反抗者，他们因为害怕失去一国两制而反抗，这场反抗目前正由学生们扛起了大梁，但也处在了最危险的时候；另外一个大约就是香港的高等法院，周一正式裁定『禁蒙面法』违宪，这是以香港的司法独立，法律专业来挑战北京的威权。<br/>
 <br/>
 在不少观察者看来，香港的局势发烧到今天这种地步，除了修例引爆，就是修例夭折之后，『禁蒙面法』可以视为是一部火上浇油的恶法。它不但没有起到法律的正当作用，起到了让香港全社会大爆炸到不可收拾的地步。『禁蒙面法』是在对应示威者五大诉求之一“独立调查警察滥权行为”情况下政府强行推出的一部法律，这部源自于英殖民地时期的法律，不单单起着禁止示威者蒙面的作用，它还可以延伸到更多的禁止领域，对香港的半自由状态构成严重威胁，此法一出，引发社会爆炸，第二天就爆发了反抗此法的大游行。<br/>
 <br/>
@@ -501,7 +500,7 @@
 　　参议院通过的法案文本，与众议院一个月前（10月中旬）通过的法案文本，有一些小差异。根据美国宪法，国会两院通过的法案文本必须要【完全一致】才能生效。<br/>
 　　为了在感恩节假期休会前完成国会的立法程序，众议院以【罕见的速度】在次日（20日）重新对参议院的法案文本再次进行投票，以“417票赞成、1票反对”的大比例通过法案。<br/>
 　　这样的投票结果，应该在很多人的意料之中。俺在前一期的《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》中曾经写过如下点评：<br/>
-<blockquote style="background-color:#DDD;">以目前美国政坛的【反中】（反中共）立场，通过该法案是【没有】悬念滴。悬念只在于——是否会【全票通过】。<br/>
+<blockquote>以目前美国政坛的【反中】（反中共）立场，通过该法案是【没有】悬念滴。悬念只在于——是否会【全票通过】。<br/>
 顺便说一下：<br/>
 最近两三年，涉及台湾的几个法案，在美国参众两院经常以【全票】通过。相比5年前，美国政坛的对华立场已经完全不同了。相关的介绍参见如下博文：<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
@@ -516,6 +515,7 @@
 （CCAV 主持人义正辞严，腮帮子都鼓起来了。照片来源：CCAV 官网）</center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/10/weekly-share-138.md">每周转载：香港“反送中”政治抗议活动大事记（9月初至10月初）</a>》<br/>
 《<a href="../../2019/09/weekly-share-137.md">每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）</a>》<br/>

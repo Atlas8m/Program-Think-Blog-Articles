@@ -34,8 +34,8 @@
 <h2>★品牌的【定位】</h2><br/>
 　　搞定了受众之后，就要琢磨一下，针对【每一类】受众，该如何进行品牌定位。通俗地说，就是你希望品牌在这类受众的心目中是一个什么形象？比如 Google（谷歌）的定位就是"搜索"，因此，大众一看到“Google”这个名称，脑海中首先会联系到“搜索”。<br/>
 　　定位是很有讲究滴，简直可以称得上是一门艺术。稍微跑题一下：<br/>
-著名的营销大牛——<a href="https://zh.wikipedia.org/wiki/%E6%9D%B0%E5%85%8B%C2%B7%E7%89%B9%E9%B2%81%E7%89%B9" rel="nofollow" target="_blank">杰克·特劳特</a>（Jack·Trout），就专门写过一本书叫《<a href="https://docs.google.com/document/d/1w0ccxjkmQP8VzR69wOb_Ct_JbP6F05FSPSmfgs0YwkA/" target="_blank">定位</a>》，专门介绍“如何定位”的艺术（此书多年前已经分享到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>）<br/>
-　　个人品牌的定位，要考虑到如下几点：<br/>
+著名的营销大牛——<a href="https://zh.wikipedia.org/wiki/%E6%9D%B0%E5%85%8B%C2%B7%E7%89%B9%E9%B2%81%E7%89%B9" rel="nofollow" target="_blank">杰克·特劳特</a>（Jack·Trout），就专门写过一本书叫《<a href="https://docs.google.com/document/d/1w0ccxjkmQP8VzR69wOb_Ct_JbP6F05FSPSmfgs0YwkA/" target="_blank">定位</a>》，专门介绍【如何定位的艺术】（此书多年前已经分享到<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>）<br/>
+　　对“个人品牌”的定位，要考虑到如下几点：<br/>
 <br/>
 <h3>◇体现自己的特长</h3><br/>
 　　首先，你的定位要和自己的特长相称，也就是扬长避短。这个道理很浅显，俺就不多费口水了。<br/>
@@ -64,7 +64,7 @@
 <h3>◇多帮助别人</h3><br/>
 　　千万不要以为帮助别人就是自己吃亏。在大多数情况下，帮助别人也就是在帮助自己，是一种双赢。前面提到的“增加曝光率”，主要是提升知名度。而“帮助别人”，不光可以提高“知名度”，还可以提高“美誉度”（还记得<a href="../../2009/09/personal-branding-advantage.md">上一个帖子</a>提到的三个“度”吗？）。因此，效果更好。<br/>
 <br/>
-<h3>◇通过沟通施加影响</h3><br/>
+<h3>◇通过【沟通】施加影响</h3><br/>
 　　你可以增加和关键受众的沟通机会，并利用沟通的过程，对其施加影响，从而达到（针对该类受众）定位的目的。<br/>
 　　比如，你已经确定你的上司是关键受众，并且你想把自己定位成一个擅长管理的员工。那你可以在平时汇报工作时，多提一些你在管理方面的感想和建议；多提一些你从管理书籍学习到的知识。说不定，你的上司从此对你刮目相看。<br/>
 　　这说起来简单，但是操作起来，有一定难度。第一，你要有一定的沟通技巧，能够通过沟通施加影响；第二，你的受众要厚道（不会嫉贤妒能）。关于第一点（如何施加影响），俺在<a href="../../2009/05/social-engineering-3-influence.md">介绍社会工程学</a>时，曾经提到过。具体的一些技巧，限于篇幅，此处就不细说了。建议大伙儿有空多看看《<a href="https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/" target="_blank">影响力</a>》这本书（此书的电子版，已经分享到“<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>”）。至于第二点（受众是否厚道），那就得看运气了，俺帮不上什么忙 <b>:(</b><br/>
@@ -72,6 +72,7 @@
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2009/09/personal-branding-advantage.md">闲话个人品牌的包装——从李开复离职想到的</a>》<br/>
+《<a href="../../2019/12/Time-and-Life.md">时间与人生——跨入本世纪20年代的随想</a>》<br/>
 《<a href="../../2015/06/The-Mythical-Theories-of-Success.md">成功学批判——简述其危害性及各种谬误</a>》<br/>
 《<a href="../../2018/06/weekly-share-121.md">德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>
 《<a href="../../2009/02/80-20-principle-0-overview.md">无处不在的二八原理</a>》（系列）

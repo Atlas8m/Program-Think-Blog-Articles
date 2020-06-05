@@ -20,7 +20,7 @@
 <br/>
 <h2>★9月8日：（第 N 次）<a href="https://zh.wikipedia.org/wiki/2019%E5%B9%B49%E6%9C%888%E6%97%A5%E9%A6%99%E6%B8%AF%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8A%E8%A1%8C" rel="nofollow" target="_blank">周日大游行——美国领事馆请愿</a></h2><br/>
 　　此次游行获警方许可。民众先于遮打花园集合，举行【香港人权与民主祈祷会】；然后再一路走到“美国驻港领事馆”。之所以去“美国领事馆”，是为了敦促美国国会通过《<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%AC%8A%E8%88%87%E6%B0%91%E4%B8%BB%E6%B3%95%E6%A1%88" rel="nofollow" target="_blank">香港人权与民主法案</a>》。<br/>
-　　游行的标语包括：<q style="background-color:#DDD;">特朗普总统，请拯救香港</q>、<q style="background-color:#DDD;">令香港再次变得强大</q>等。沿途不断有示威者唱美国国歌。<br/>
+　　游行的标语包括：<q>特朗普总统，请拯救香港</q>、<q>令香港再次变得强大</q>等。沿途不断有示威者唱美国国歌。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/POIpsAFwosTSsnK8q_X4UghpvniOWroGRM1ot9hwAQykeDhnhXKW0V6JPzNyOOBMnqJtsHnkONgy1UuAE3x7nt8rPDMqBzi45wcqLVZzf6-NoI8KwVcstKRMv_GtzMN3KK_0HX_nfNE"/><br/>
 （举星条旗的抗议民众。照片来源：香港01）</center><br/>
@@ -56,7 +56,7 @@
 　　关于这首歌在那天走红，参见下面这篇报道：<br/>
 《<a href="http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20190911-%E6%8A%97%E4%BA%89%E6%AD%8C%E6%84%BF%E8%8D%A3%E5%85%89%E5%BD%92%E9%A6%99%E6%B8%AF8%E6%97%B631%E5%88%86%E5%93%8D%E9%81%8D%E5%85%A8%E6%B8%AF%E5%8B%BF%E5%BF%98%E5%8F%97%E4%BC%A4%E7%A4%BA%E5%A8%81%E8%80%85" rel="nofollow" target="_blank">抗争歌《愿荣光归香港》8时31分响遍全港 @ RFI/法广</a>》<br/>
 （以下是此文的摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;"><center><img alt="不见图 请翻墙" src="images/DBUEQYtxGNGkx47B_0rqm17bboVhhiSTAhVw_eIAoy0ndjq_QBNlzmZ56BGWPqHJc8PNslLZwPSB6MC6mObhiYSv008UoqqlVN4O0L_F5WJKiK0DlxCeqChpTjrdq23gWUeBbFa1mcM"/></center><br/>
+<blockquote><center><img alt="不见图 请翻墙" src="images/DBUEQYtxGNGkx47B_0rqm17bboVhhiSTAhVw_eIAoy0ndjq_QBNlzmZ56BGWPqHJc8PNslLZwPSB6MC6mObhiYSv008UoqqlVN4O0L_F5WJKiK0DlxCeqChpTjrdq23gWUeBbFa1mcM"/></center><br/>
 《愿荣光归香港》一曲由连登（LIHKG）的网民们创作，目前已成为反送中抗争者的众人之歌，有网民发起在昨晚（10日）8时31分在全港各区一起合唱该曲，据该曲“愿荣光团队”11日在连登网站发文称，他们“感谢各支持这首歌的人帮手（忙）将这首歌散播每一角落”。<br/>
 <br/>
 一名在球场观看香港对伊朗足球赛事的郑先生说，他本来不知道当晚有这场各区合唱的安排，以为球迷只会向国歌喝倒彩。<br/>
@@ -78,7 +78,7 @@
 <h3>◇此曲的来历</h3><br/>
 　　该歌曲创作于8月份，由化名“Thomas dgx yhl”的香港音乐人作词作曲。然后经过经“连登论坛”（LIHKG）上的热心网民协作修改。<br/>
 　　关于作者的创作思路，以下摘录自该歌曲的维基百科页面。<br/>
-<blockquote style="background-color:#DDD;">创作人之一的 T 开始构思一首新的抗争歌曲，他认为，过去社运街头时常响起《海阔天空》、《光辉岁月》，这些流行歌曲与现场氛围有些格格不入。两首歌曲虽能引起大家共鸣，但旋律上不是很符合现场的气氛。<br/>
+<blockquote>创作人之一的 T 开始构思一首新的抗争歌曲，他认为，过去社运街头时常响起《海阔天空》、《光辉岁月》，这些流行歌曲与现场氛围有些格格不入。两首歌曲虽能引起大家共鸣，但旋律上不是很符合现场的气氛。<br/>
 <br/>
 有别于流行曲，他主张抗争歌曲的旋律应该以古典音乐为基础。因此，他在创作时候参考了巴洛克音乐和一些现代军歌，例如英国国歌《天佑女王》、美国国歌《星条旗》、俄罗斯联邦国歌、美国爱国歌曲《共和国战歌》和基督宗教赞美诗《荣归主颂》等等。在花了约两个月时间完成作曲后，他开始着手填词。他第一句想到的——也是歌曲最后的一句——就是“我愿荣光归香港”；他表示这一句歌词有两种意思：<br/>
 1、“展望未来，希望香港可变返一个大家心目中的光荣、荣耀的城市”；<br/>
@@ -90,7 +90,7 @@
 <br/>
 <h2>★9月13日：<a href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95%E9%81%8E%E7%A8%8B_(2019%E5%B9%B49%E6%9C%88)" rel="nofollow" target="_blank">中秋节的“反送中运动”</a></h2><br/>
 <center><img alt="不见图 请翻墙" src="images/4hBzSYE18o11rg40QGQtFVu2Yd4_qfyNx-B9uhZoyXbmgWSIQOyT5U6YGaXKc6C3U1pWY3gmeOM8_PMsnL_ySaQlhGAe-kRRg3ihQGMXN6IdmW9qsbCoUOjZk1j_E2FDzfObwEtqqW4"/><br/>
-（中秋夜，香港市民在狮子山顶挂出大型条幅：<q style="background-color:#DDD;">实行真双普选</q>。照片来源：端传媒）</center><br/>
+（中秋夜，香港市民在狮子山顶挂出大型条幅：<q>实行真双普选</q>。照片来源：端传媒）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/Am9hnTqW4F678fWuA5XG3hqdIsY7fNtyXQDzsuQwf2JS3wm-9T1iTXiL4w6DY2q2FhiSHjwEMdowKwtiHTu12bIrfRGy5yaCtZJD_-yKRp39bkQb8vOn5XwLs4-UYz49tTRlDdfOogw"/><br/>
 （大批香港市民登上狮子山，组成“光影人链”。照片来源：端传媒）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/z7Ofi2Zz3I2GL6opMR8ECOCgtetGWKc2twSV6pE2E2ELpC8CqMnzivQ5VHyA2nbjLT27kz_Ya8gAj3IBaCGjH-V5ye2upeDPbu07ExnBjKBJ-pG0ERUiKeiDHzoI2kwXcpUYQ72v2po"/><br/>
@@ -110,11 +110,11 @@
 <center><img alt="不见图 请翻墙" src="images/8zQj59gnlcCrFYpVfIUrh8sC9k4arpwFu1KQ6UaTaQodcwvDhMJYdJW8d-r9griMopDYlWvaLkWA6190wyUukhBgmRAL8qJZhmAQoASNjqam12icdEW2kw3eIHLPuOow4xQdZeKcc24"/><br/>
 （中秋夜，“新城市广场”的营业时间已经结束，仍有大量民众聚集。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/0_ccJ-hk-OWrmdqpaltvMeMxaGdKVPQr3Eu_mTFozHt-bS6odc6zjGdqGZzXUHN-rTxs70hyxZ8QBgYRSqFp-Eup-78vT27nSNG8_MIE5N0EqyogwJe9H-kPrcckSoJFRC8WVCsjR6I"/><br/>
-（apm 商场的中秋集会；标语牌上写：<q style="background-color:#DDD;">不是有希望才坚持 是坚持了才有希望</q>。照片来源：维基百科）</center><br/>
+（apm 商场的中秋集会；标语牌上写：<q>不是有希望才坚持 是坚持了才有希望</q>。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/TMfbOKvFyuwkI6Tg2r6dZ4R1GPO6K1tMEl-sDC_N7HZdMfhjjqn_0b3YoFMR0U6vKAsBCVQGPWrK8LMEjQ_jrjKk0GONmtEott1cwtvE_uqov9lhac7J2zfA6_e3v7vqLGARX2_B7BE"/><br/>
 （以“反修例运动”为主题的折纸灯笼。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/BqVFpfUTfo9dScBjhaoxl4vrGVkqcVMWyghA3TppIIMhpbownQ5I2tHtFDfdOdFyjIyiVhOHPjBZGpjfX9QK93IHYtxei_L2VxZI7NXwWs5j7FUSO4s3yDMs3jAZ-MxOFGiP-WJyKsU"/><br/>
-（狮子山顶的灯笼，上面写运动的口号：<q style="background-color:#DDD;">五大诉求 缺一不可</q>。照片来源：端传媒）</center><br/>
+（狮子山顶的灯笼，上面写运动的口号：<q>五大诉求 缺一不可</q>。照片来源：端传媒）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/t5Da3tf6nWc1_YmqoM2r81Vn3mc5CJaRnA4B34Upr0n4m0Nr9DwE2a6_qdbdbj5PIqAF9qk2z5Ak47hlXQ3ZeZR1kY9n8zhBRov4PXP1rTRwtlH5P_Pi26KR3trgUFa5qPW5AzFhWbg"/><br/>
 （印有【香港人】的月饼。照片来源：德国之声）</center><br/>
 <br/>
@@ -156,7 +156,7 @@
 <h2>★9月25日：美国参众两院的【外交委员会】均通过《<a href="https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%AC%8A%E8%88%87%E6%B0%91%E4%B8%BB%E6%B3%95%E6%A1%88" rel="nofollow" target="_blank">香港人权与民主法案</a>》</h2><br/>
 <h3>◇法案内容</h3><br/>
 　　该法案大致内容如下：<br/>
-<blockquote style="background-color:#DDD;">要求美国国务卿每年向国会提交报告，去审视香港是否仍然有足够的“自治”去享受美国给予的特殊待遇（包括关税）；<br/>
+<blockquote>要求美国国务卿每年向国会提交报告，去审视香港是否仍然有足够的“自治”去享受美国给予的特殊待遇（包括关税）；<br/>
 <br/>
 如果香港日后就23条“国家安全相关”的法例立法，美国总统及国务卿会审视相关法例，是否抵触《中英联合声明》和香港市民及外国居民的人权会否受到限制；<br/>
 <br/>
@@ -176,7 +176,7 @@
 <h3>◇外媒报道</h3><br/>
 《<a href="https://www.bbc.com/zhongwen/simp/world-49835074" rel="nofollow" target="_blank">《香港人权与民主法案》——美国升级涉及香港的法律武器 @ BBC/英国广播公司</a>》<br/>
 （编程随想注：以下是此文摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">美国众议院外交事务委员会（Foreign Affairs Committee）在周三上午的会议中讨论多项议案，<b>无异议通过</b>《香港人群与民主法案》，随后参议院外交关系委员会（Foreign Relations Committee）亦通过该法案的修订案。<br/>
+<blockquote>美国众议院外交事务委员会（Foreign Affairs Committee）在周三上午的会议中讨论多项议案，<b>无异议通过</b>《香港人群与民主法案》，随后参议院外交关系委员会（Foreign Relations Committee）亦通过该法案的修订案。<br/>
 <br/>
 共和党众议员史密斯（Chris Smith）的新闻发言人杰夫·萨格尼普（Jeff Sagnip）表示，众议院全体表决将安排在10月，很可能会在10月14日美国联邦法定假日——哥伦布日之后。众议员史密斯是《香港人权与民主法案》的提出者之一。<br/>
 <br/>
@@ -204,9 +204,9 @@
 <h3>◇全球声援活动</h3><br/>
 　　这是一次由网民发起的【全球性】抗议活动。<br/>
 　　世界各地的抗争者于2019年9月28日或9月29日举办公众行动，以抗议中国共产党（伟光正）通过“极权”的方式在世界发挥影响力。世界各国约六十个城市响应本次活动。除了香港，参与的城市包括：<br/>
-<blockquote style="background-color:#DDD;">（台湾）台北、高雄、新竹、台中、花莲...<br/>
+<blockquote>（台湾）台北、高雄、新竹、台中、花莲...<br/>
 （加拿大）温哥华、多伦多、渥太华、卡加里、爱民顿、哈里法斯...（注：多伦多与温哥华的游行，分别有2000人和2500人参加）<br/>
-（澳洲）悉尼、墨尔本、布里斯本、珀斯...（注：珀斯的抗议者用小型飞机拉起<q style="background-color:#DDD;">Perth Stands with Hong Kong</q>的横额）<br/>
+（澳洲）悉尼、墨尔本、布里斯本、珀斯...（注：珀斯的抗议者用小型飞机拉起<q>Perth Stands with Hong Kong</q>的横额）<br/>
 （英国）伦敦、曼徹斯特...<br/>
 （德国）柏林、汉堡、慕尼黑、法兰克福...<br/>
 （法国）巴黎...<br/>
@@ -296,7 +296,7 @@
 <h3>◇大量商场在沦陷日停止营业</h3><br/>
 　　由于警方【反对】10月1日的游行，而抗议民众决心不顾警方的反对，进行更大规模的抗议。大量商场都在当日停止营业，以免被殃及。<br/>
 　　以下是停业的部分名单，摘自“<a href="https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/381155/10-1%E9%81%8A%E8%A1%8C-%E8%BF%9130%E5%80%8B%E8%B3%BC%E7%89%A9%E5%95%86%E5%A0%B4%E9%97%9C%E9%96%80-%E6%96%99%E5%87%BA%E5%8B%95%E4%BA%94%E5%8D%83%E8%AD%A6%E5%8A%9B-%E4%B8%80%E5%93%A5%E5%9D%90%E9%8E%AE%E6%8C%87%E6%8F%AE" rel="nofollow" target="_blank">这篇报道</a>”。<br/>
-<blockquote style="background-color:#DDD;"><b>新鴻基地產旗下將於10月1日暫停營業的商場如下</b><br/>
+<blockquote><b>新鴻基地產旗下將於10月1日暫停營業的商場如下</b><br/>
 沙田新城市廣場<br/>
 元朗YOHO MALL<br/>
 中環IFC<br/>
@@ -358,7 +358,7 @@ Fashion Walk<br/>
 <center><img alt="不见图 请翻墙" src="images/vkqZ0qHNkFNuJ4ya93Ro-_cMV63Uy4JrKvbOdws5u3n0BwMv7_Et7sZTuybq6lfEyFbmD5DkT_pCwQIlglb8_wVsoLFxjIqzzYo64wnnokLtRfWc76r15SyXO83ImQ6eyCjvWpNEHmo"/><br/>
 （荃湾大河道，示威者放置路障并纵火，以阻挡警车通行。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/L16G98o5OudGwsxQH7ehv7022LaT8XzBVY8ZTEiSgFtzHv-AyxNfVsLFagAhqQUeIcUoz0frjWTvBlOXUSQbrPMLyVzjQ0tYU87hXp1js6BSPkb9V7vxbM3AsYKJUiQ1lnygDvTVREU"/><br/>
-（位于长沙湾道的【政府合署】被砸烂，外墙的涂鸦：<q style="background-color:#DDD;">贺你老母！</q>。照片来源：香港01）</center><br/>
+（位于长沙湾道的【政府合署】被砸烂，外墙的涂鸦：<q>贺你老母！</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/O4yZJm6nkXY5u4UZS0VnGI79ErnYISyA2BkxeijK5s4sHjV2ZTjnoV0-4tDjqrEw1NKzOY9AkIwG8prY6bECScPKzkuyKu8WcV7axSWG8h2_zmfhmOlSJBr04zcKddtlFevpbN5DikM"/><br/>
 （位于长沙湾道的【政府合署】被砸烂。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/31BdGV99_5QvlFjuZcu-RWSaErEYg3WYdStCgSxlhmfVWlSS0kS0x5jXajdVNEk8xEIh2-iMfRIyrpWGhtAghqnoRT9uTHhAdsTFba_sXJMCG-eXv9ufQJaO5Y9o2v8sWZpZ6r-fekE"/><br/>
@@ -379,7 +379,7 @@ Fashion Walk<br/>
 （赶来的急救人员。照片来源：香港01）</center><br/>
 <h3>◇相关的质疑</h3><br/>
 以下摘自维基百科关于该事件的页面（链接在“<a href="https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%BF%97%E5%81%A5%E6%A7%8D%E6%93%8A%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">这里</a>”）。<br/>
-<blockquote style="background-color:#DDD;">立法会议员涂谨申指，警员持枪主动走近示威者，开枪是否属于自卫，值得质疑[2]。民主派立法会议员在2019年10月1日晚上发表联合声明，强烈谴责警方不必要将武力升级，使用足以致命的实弹，批评该名警员近距离开枪，似攻击多于自卫，加上每名警员的防御和攻击装备十足，质疑是否有必要使用实弹[14]。“民间记者会”发言人表示，曾志健只是为了保护自己和其他人，但是警员没有按《警察通例》规定先发出口头警告的情况下开枪。发言人同时指出，该警员手持的布袋弹枪是杀伤力较低的武器，质疑该警员为什么立刻决定使用致命武器[2]。<br/>
+<blockquote>立法会议员涂谨申指，警员持枪主动走近示威者，开枪是否属于自卫，值得质疑[2]。民主派立法会议员在2019年10月1日晚上发表联合声明，强烈谴责警方不必要将武力升级，使用足以致命的实弹，批评该名警员近距离开枪，似攻击多于自卫，加上每名警员的防御和攻击装备十足，质疑是否有必要使用实弹[14]。“民间记者会”发言人表示，曾志健只是为了保护自己和其他人，但是警员没有按《警察通例》规定先发出口头警告的情况下开枪。发言人同时指出，该警员手持的布袋弹枪是杀伤力较低的武器，质疑该警员为什么立刻决定使用致命武器[2]。<br/>
 <br/>
 香港公共医疗医生协会质疑警方“生命受严重威胁”的说法，质疑为何不以次级武力向非致命部位开枪，批评警员的行径“与行刑无异”[15]。香港教育专业人员协会质疑警员事发时举枪冲前，并在近距离向该名学生使用致命武力的恰当性和相称性，并对事件予以强烈谴责[16]。国际特赦组织香港分会对香港警方处理示威手法表示震惊，呼吁香港警方检视执法手段，防止有更多性命受威胁[2]。<br/>
 <br/>
@@ -391,7 +391,7 @@ Fashion Walk<br/>
 <center><img alt="不见图 请翻墙" src="images/dK7fgRpG5dhlfvYvVqpcG8cus19YnaM_-iz0vF_ZKdj1EvRFmLGnYuyhviSaM6TRlqejDsUzpBlxcPbqPC9yUvxnvAIJxrsSZVfD02HGCxfFgPr3Ox_kanacRk5eKlPVo_7SWoFWLr4"/><br/>
 （中学生在该校外围集会，并举牌抗议。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/LY7rCuqP9zAkWnwn34X1dubsxTdF0S1AVrwtLj9vKiBOCyqE4MMQyStpvCtSs8vGDLLQRDDF8oFr88fzAAWnWYRC9MxLDY7Lw1c2YUQN_WL0yMZc4ek5JKFSJ02E2XIjZiZEwu7LLuA"/><br/>
-（学生与市民在该校外围静坐，铺在地上的标语写：<q style="background-color:#DDD;">警暴肆虐 谋杀学生</q>。照片来源：香港01）</center><br/>
+（学生与市民在该校外围静坐，铺在地上的标语写：<q>警暴肆虐 谋杀学生</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/xDanV1N2HHrd5lsezCkuGMeTOB_PuFH5IS8NXi70GXY-Qo5_uySEGNY5OJICd1DzcqxhrG9WpzTP05VgaO63Ff9rpuBciK5rmc5mT4A4iLNpJHGgLKfgTpZVw5hQBDFxNYbPGwb_2-w"/><br/>
 （抗议的女中学生；手放于心口象征——曾志健被子弹击穿左肺。照片来源：维基百科）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/GotwMuf1Wt4_QIMZurUq3wa80mwXSlJ1TEgZEQex30IPQvfotKS41WYkIU7f9ap6wJ9L6Vxnb5qUGEEkgwYis11kqCr75BGf_mUmJTh8nfpw8Lgxyzn5pZ6PRdsbUJBV6I24wzSfXLo"/><br/>
@@ -399,7 +399,7 @@ Fashion Walk<br/>
 <center><img alt="不见图 请翻墙" src="images/apra7yXW9VwzkVDDAOu52O9Vjf-qK0AXVgXKNUlLkbW253kGDSZ1P_qsvFw8SEbuzvhigPDBgr_Z_3DgXE5xCAd8H9ibOKUS9waz7eXSXlduzOCwhXJlcnJc0yUxlauP7UZB2XPpbzU"/><br/>
 （漫画形式的标语牌。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/HcoUnVPgIbomAnuVa46Lhby2MpAQGfvjmrNViV3LiaiXozm2RFd0-4uPzUMRMWXbZagF0wUy2iQqdeb_2T--SFLOhZuLszUoQpk-Yed_FMCAjzQvqhz0zDy4nB2aVQYw6_RKQm-uPvc"/><br/>
-（标语牌<q style="background-color:#DDD;">还我自由</q>。照片来源：香港01）</center><br/>
+（标语牌<q>还我自由</q>。照片来源：香港01）</center><br/>
 <h3>◇开除的压力 VS 校方的力挺</h3><br/>
 　　枪击事件后，（前任香港特首）<a href="https://zh.wikipedia.org/wiki/%E6%A2%81%E6%8C%AF%E8%8B%B1" rel="nofollow" target="_blank">梁振英</a>反应非常迅速。当日（10月1日）就在 Facebook 连发7篇帖子，把曾志健称作暴徒，并要求所在学校开除其学籍。<br/>
 　　（注：臭名昭著的梁振英，当年干特首的时候，被网民戏称为【香港市委书记】，简称【粱书记】。从特首位置上滚蛋之后，改任“全国政协副主席”）<br/>
@@ -414,14 +414,14 @@ Fashion Walk<br/>
 　　以下是相关的外媒报道。<br/>
 <br/>
 <h3>◇《<a href="https://cn.nytimes.com/opinion/20191008/hong-kong-mask-protest/" rel="nofollow" target="_blank">香港“禁蒙面法”揭露了林郑月娥的真面目 @ 纽约时报</a>》</h3><br/>
-<blockquote style="background-color:#DDD;">一种更为险恶的解释是，街头的进一步暴力可能成为借口，以便正式或事实上实施宵禁，通过其他极端紧急法规。<br/>
+<blockquote>一种更为险恶的解释是，街头的进一步暴力可能成为借口，以便正式或事实上实施宵禁，通过其他极端紧急法规。<br/>
 据说，主要的亲政府党派成员还在担心他们在定于11月下旬举行的区议会选举中的前景：混乱将是推迟或取消这些选举的一个方便借口。<br/>
 <br/>
 来自亲民主阵营党派的议员已经开始了一场法律战，对林郑月娥的法令提出质疑，并要求对其进行司法审查。高等法院上周末拒绝下达阻止该禁令立即生效的临时禁制令，但表示可能在10月底前对此案进行全面审理。<br/>
 <br/>
 我们已经知道“一国两制”行将消亡；现在我们又知道，法制也在消亡。</blockquote><br/>
 <h3>◇《<a href="https://www.dw.com/a-50700046" rel="nofollow" target="_blank">禁蒙面打开了潘多拉的魔盒 @ 德国之声</a>》</h3><br/>
-<blockquote style="background-color:#DDD;">德国之声：<br/>
+<blockquote>德国之声：<br/>
 刚刚港府宣布反蒙面法，您认为，其最大的影响将是什么？<br/>
 <br/>
 刘细良：<br/>
@@ -437,7 +437,7 @@ Fashion Walk<br/>
 动用这种严厉的手段，很明显是警察已经不能控制现在的局面，而且警察也出现了失控的情况。因此唯有采用这种法律的手段。警察已经不能控制香港局面，而且警察更成为香港局面失控的原因。所以港府现在希望用法律的手段来取代警察……，我想这是港府背后的考量。<br/>
 然而港府不明白，动用法律手段，打开了潘多拉魔盒，会带来怎样后果。市民的忧虑和反应会比送中条例更激烈。因为行政权利到了无限制的情况，可以搁置所有的人权、搁置所有法律对自由的保障。不（只）是蒙面的自由没有，最严重的是什么样的自由都可能被政府拿走。在这样的忧虑下，我觉得香港人会出来反抗。</blockquote><br/>
 <h3>◇《<a href="https://www.voachinese.com/a/hong-kong-government-anti-mask-regulation-called-further-violation-of-human-rights/5111610.html" rel="nofollow" target="_blank">香港“禁蒙面”说什么？为何被指侵人权？ @ VOA/美国之音</a>》</h3><br/>
-<blockquote style="background-color:#DDD;">香港知名律师黄国桐星期五下午对美国之音表示，港府不采用回应民意的方式解决冲突，反而再出台禁蒙面法，限制市民的基本权利，是对港人的进一步严重侵害。<br/>
+<blockquote>香港知名律师黄国桐星期五下午对美国之音表示，港府不采用回应民意的方式解决冲突，反而再出台禁蒙面法，限制市民的基本权利，是对港人的进一步严重侵害。<br/>
 <br/>
 他说：“定性也是它（警方），抓人也是它，这就让人感到很不公平。他们说这个是非法集结就是非法集结，不批准你游行就不批准你游行。所以，这些（蒙面）限制是限制了我们的人权。”<br/>
 <br/>
@@ -475,7 +475,7 @@ Fashion Walk<br/>
 <center><img alt="不见图 请翻墙" src="images/id2IVldXyY9K-5PzfSKTSjl3cknMqwy--fLC0OkzH-GXqDHQtC2LJNyvixLDbXHb65YJqK3AvM09LAuEZ46RZpdhUb93SdjmAE39tsXwD9l6Ax3GeQDS6ebp05IPveWGlhrc7MwZ_Sk"/><br/>
 （由于大量抗议民众涌向金钟政府总部。立法会贴出【红色警告】，要求所有人员尽快撤离立法会综合大楼。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/kn-BtjsK0gqmYJAN3EuxLw48du74K_NApUD5NynU9VtmZ7Y6SzenAouwRNdO4eHZBt1bk-ng5pn2JryAeJd61o2bKNSCU3Vl5YYjj3ckPf15CqXVJBg9f9UQbSbfAShdfuRMLtq00wo"/><br/>
-（抗议民众喷涂的标语：<q style="background-color:#DDD;">驱逐共党</q>。照片来源：香港01）</center><br/>
+（抗议民众喷涂的标语：<q>驱逐共党</q>。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/SD1cWSpWCkS5-YDLPDL5ve5BvLTsNNZ9CVw0Nc9YQ-PwXY7GnhdjL3_4xyEBzTxmkgvqeoj7YxAr0ThMC3FA0W7YP_JQqmmI5j4KQF5XQE0GfYhlMTakcBVnsqVvaAqDFd6QCQHpX0E"/><br/>
 （手持燃烧瓶的抗议者。照片来源：香港01）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/62dJ3py9IwcXGtlaFSWVkXv7Go3SkAoApU7f3uIoNs0zQh_Nn3U5SoGMU8d6NPd8Y-xqDVf9C5_ZYL-kTNtFW7_aXiTosegKiIqLUqBuJNvKgOp6IqPOmInZpHso6lDPyoETUZHPZbo"/><br/>
@@ -493,7 +493,7 @@ Fashion Walk<br/>
 　　前面说了：该条例比《送中条例》更加恶劣，直接威胁到【基本人权】。由此引发了更激烈的抗议活动，其中也包括了这个宣言。<br/>
 <br/>
 <h3>◇宣言全文</h3><br/>
-<blockquote style="background-color:#DDD;">在人類文明的進程中，推翻破舊之物以建更美好之物乃必然之事，此之為人類進化之本。如舊有之政府不為人民所立、不為人民所治、不為人民所享，則人民建立屬民之政府，亦為必然之理。今香港特別行政區政府已然不為香港人民所立、所治、所享，故今日我等宣告成立香港臨時政府。<br/>
+<blockquote>在人類文明的進程中，推翻破舊之物以建更美好之物乃必然之事，此之為人類進化之本。如舊有之政府不為人民所立、不為人民所治、不為人民所享，則人民建立屬民之政府，亦為必然之理。今香港特別行政區政府已然不為香港人民所立、所治、所享，故今日我等宣告成立香港臨時政府。<br/>
 <br/>
 「人人生而平等，上天賦予全人類某此不可剝奪之權，包含生命權，自由權、尊嚴權及追求幸福之權。」此乃我等一直所認同及不可踐踏之真理及原則。人民為了不剝奪及不被剝奪，始建立法律及政府以保障自身及他人之權。政府一切之權力，乃源於人所賦予之權。政府如破壞以上原則，則人民有絕對之權力推翻及建立。<br/>
 <br/>
@@ -528,17 +528,17 @@ Fashion Walk<br/>
 <h3>◇休斯顿火箭队的退缩</h3><br/>
 　　一开始，休斯顿火箭队有点【缩】了——<br/>
 1. 莫雷很快就删除了上述推文。<br/>
-2. 休斯顿火箭队老板菲尔蒂塔（Tilman Fertitta）发布推特表示：<q style="background-color:#DDD;">莫雷不能代表休斯顿火箭队</q>。<br/>
+2. 休斯顿火箭队老板菲尔蒂塔（Tilman Fertitta）发布推特表示：<q>莫雷不能代表休斯顿火箭队</q>。<br/>
 3. 火箭队球星哈登向中国球迷致歉。<br/>
 <br/>
 <h3>◇朝廷方面（真理部）跟进，发表抗议</h3><br/>
 《人民日报》新浪微博账号发文称：<br/>
-<blockquote style="background-color:#DDD;">莫雷的立场是对中国球迷的伤害，也是对中国人民的冒犯。<br/>
+<blockquote>莫雷的立场是对中国球迷的伤害，也是对中国人民的冒犯。<br/>
 ......<br/>
 香港事务是中国内政，容不得说三道四。莫雷，你欠中国人民一个道歉，火箭队，你欠中国人民一个解释。</blockquote><br/>
 <h3>◇美国政界、舆论界激烈反弹</h3><br/>
 　　以下是美国知名政界人物对此事的公开表态（收集自维基百科关于此事的页面）<br/>
-<blockquote style="background-color:#DDD;">火箭队长期支持者、德克萨斯州共和党籍联邦参议员泰德·克鲁兹斥责NBA“可耻地退缩”，称“人权是不可出售的”、“NBA不该帮助中共进行审查”；<br/>
+<blockquote>火箭队长期支持者、德克萨斯州共和党籍联邦参议员泰德·克鲁兹斥责NBA“可耻地退缩”，称“人权是不可出售的”、“NBA不该帮助中共进行审查”；<br/>
 <br/>
 佛罗里达州共和党籍参议员里克·斯科特也谴责NBA选择支持中共，拒绝与香港人民站在一起。斯科特要求立即与NBA首席执行官亚当·萧华见面，讨论NBA在中国的活动；<br/>
 <br/>
@@ -562,7 +562,7 @@ Fashion Walk<br/>
 <h3>◇NBA 官方强调【言论自由】</h3><br/>
 　　据说 NBA 官方一开始是准备要向天朝方面道歉。<br/>
 　　但由于美国政界、舆论界激烈反弹。最终 NBA 的头头亚当·萧华发表了一个措辞谨慎的官方声明（如下）<br/>
-<blockquote style="background-color:#DDD;">那条推文已经产生了相当巨大的后果，我读过一些媒体暗示我们不支持达里尔·莫雷，但实际上我们支持。<br/>
+<blockquote>那条推文已经产生了相当巨大的后果，我读过一些媒体暗示我们不支持达里尔·莫雷，但实际上我们支持。<br/>
 ......<br/>
 我认为，作为一个基于价值观的组织，我想明确表示……达里尔·莫雷在行使言论自由的能力方面得到了支持。<br/>
 ......<br/>
@@ -615,7 +615,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 　　在成人动画连续剧方面，其影响力仅次于《辛普森一家》。二位主创还制作了《<a href="https://zh.wikipedia.org/wiki/%E5%8D%97%E6%96%B9%E5%85%AC%E5%9B%AD%E5%89%A7%E5%9C%BA%E7%89%88" rel="nofollow" target="_blank">南方公园电影版</a>》，此片成为美国电影史上票房最高的“限制级动画电影”。<br/>
 <br/>
 　　另，《南方公园》每一集片头的声明（如下），也充满反讽意味 :)<br/>
-<blockquote style="background-color:#DDD;">本动画片中所有的角色和事件——包括以真实人物为原型的角色——均为虚构。<br/>
+<blockquote>本动画片中所有的角色和事件——包括以真实人物为原型的角色——均为虚构。<br/>
 所有的名人配音都是很烂的拟音。<br/>
 此节目语言粗鄙，内容混蛋，任何人都不宜观看。</blockquote><br/>
 　　编程随想注：<br/>
@@ -623,7 +623,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 <br/>
 <h3>◇《南方公园》最新一集：《中国乐队》</h3><br/>
 　　在天朝沦陷日的第二天（10月2日），《南方公园》播出了第23季的第2集（总第299集），标题叫做《中国乐队》（Band in China）。<br/>
-　　这个标题是【双关语】——<q style="background-color:#DDD;">Band in China</q> 与 <q style="background-color:#DDD;">Banned in China</q> 谐音。<br/>
+　　这个标题是【双关语】——<q>Band in China</q> 与 <q>Banned in China</q> 谐音。<br/>
 　　这一集中有很多针对中国的政治讽刺，比如：习近平（维尼熊）、政治审查、死囚器官移植、劳改营......<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/zMLRggCscFxW-zp9YG4zy1_P1hfc5w8z1wwB36oZAirKJtnJ6bmus9IIL6klm_fyaKkMwJMRCCS5_y5BdXJuo4lLAE_egOXeDXwDuDz6uF35He_g1BSiBU2RZbc22iz6Lmzyg37XkXg"/><br/>
@@ -633,11 +633,11 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 <h3>◇真理部【全网封杀】《南方公园》</h3><br/>
 　　不出意外，整个《南方公园》在天朝遭到【全网封杀】——<br/>
 　　在天朝几大视频网站，相关视频已经无法播放（在某些视频网站，连该剧的简介也没了）。<br/>
-　　在“新浪微博、豆瓣、知乎、百度贴吧”等诸多网站，搜索“南方公园”已经看不到任何结果，有的网站会提示——<q style="background-color:#DDD;">根据相关法律法规和政策，搜索结果未予显示</q>。<br/>
+　　在“新浪微博、豆瓣、知乎、百度贴吧”等诸多网站，搜索“南方公园”已经看不到任何结果，有的网站会提示——<q>根据相关法律法规和政策，搜索结果未予显示</q>。<br/>
 <br/>
 <h3>◇《南方公园》官方发表【反讽式】道歉声明</h3><br/>
 　　该剧主创特雷·帕克（Trey Parker）和麦特·斯通（Matt Stone）在10月7日发表了一份【充满反讽】的道歉声明。不但嘲笑了 NBA 事件，还进一步【羞辱了】伟光正的掌门人【习呆呆】。<br/>
-<blockquote style="background-color:#DDD;font-size:150%;">与美国职业篮球（NBA）一样，我们非常欢迎中国的审查员深入我们的家园与内心。<br/>
+<blockquote>与美国职业篮球（NBA）一样，我们非常欢迎中国的审查员深入我们的家园与内心。<br/>
 我们爱钱，胜过自由与民主。<br/>
 习近平一点也不像小熊维尼。<br/>
 <br/>
@@ -646,7 +646,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 祝今秋高粱大丰收！<br/>
 我们现在和好了吧，中国？ </blockquote><br/>
 　　注：道歉声明中的“高粱大丰收”，洋文原文是“sorghum harvest”，影射【器官摘取】（organ harvest）。<br/>
-　　另，据说此剧的下一集（总第300集）中有台词：<q style="background-color:#DDD;">Fuck the Chinese government</q><br/>
+　　另，据说此剧的下一集（总第300集）中有台词：<q>Fuck the Chinese government</q><br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/6X9YH4HVyzViXwncP1ZxuE-LQip-HwNtmHPTa0AphOwjc-dAp3EwwBLwO5ObqFevVEDLcfD7JVVZSC1P-5NDgoSakHnlAeMZVmiwVoC2Bba2cnf28gYnaPUQC14gaF-Z-Mj8gv3Tg_4"/><br/>
 （官方道歉原文。图片来源：<a href="https://twitter.com/SouthPark" rel="nofollow" target="_blank">《南方公园》官方推特</a>）</center><br/>
@@ -659,7 +659,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 （台湾总统蔡英文发表国庆演讲。照片来源：路透社）</center><br/>
 《<a href="https://www.bbc.com/zhongwen/simp/chinese-news-49997574" rel="nofollow" target="_blank">台湾双十节，蔡英文称：拒绝“一国两制”成台湾最大共识 @ BBC/英国广播公司</a>》<br/>
 （以下是此文摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;"><b>国庆演说首次谈到香港</b><br/>
+<blockquote><b>国庆演说首次谈到香港</b><br/>
 <br/>
 蔡英文在这场简短的演讲中专门提到香港，她说，香港“<b>因为一国两制的失败正处于失序边缘</b>”。<br/>
 <br/>
@@ -672,7 +672,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 “中国崛起跟扩张，以威权体制，结合民族主义和经济力量，挑战自由民主的价值和世界秩序。也因此，处于印太地区战略前缘的台湾，成为守护民主价值的第一道防线。”</blockquote><br/>
 《<a href="http://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20191010-%E8%94%A1%E8%8B%B1%E6%96%87%E5%9B%BD%E5%BA%86%E8%AE%B2%E8%AF%9D%E6%8E%A5%E5%8F%97%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%94%9F%E5%AD%98%E7%A9%BA%E9%97%B4" rel="nofollow" target="_blank">蔡英文国庆讲话——接受一国两制，中华民国就没有生存空间 @ RFI/法广</a>》<br/>
 （以下是此文摘录，粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">蔡英文说，「当自由民主受到挑战，当中华民国的生存发展受到胁迫，我们就必须站出来捍卫」。拒绝「一国两制」，是2300万台湾人民不分党派、不分立场，彼此间最大的共识。<br/>
+<blockquote>蔡英文说，「当自由民主受到挑战，当中华民国的生存发展受到胁迫，我们就必须站出来捍卫」。拒绝「一国两制」，是2300万台湾人民不分党派、不分立场，彼此间最大的共识。<br/>
 <br/>
 另外，蔡英文今天下午在总统府接见前来参加国庆典礼的美国联邦参议员克鲁兹（Ted Cruz）。蔡英文说，<b>克鲁兹是35年来第一位来台出席国庆的美国联邦参议员</b>。她要代表台湾人民表达最深感谢，这几年由于克鲁兹的强力支持，台湾的重要议题都被纳入美国国防授权法案。<br/>
 <br/>
@@ -683,7 +683,7 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 <center><img alt="不见图 请翻墙" src="images/JEVtu9M8QDu7o3pD9VSAQmiZcxwAmU1VVl_DE7x_htmgQ-q_Lne6NB-DOsZ0wiTcyqPmIvi92F2PO52S1J4oiCcOKbas_7MUmhcAeLu8EWTkKCTmIXmolDshUcW-Tl1mdKvZ6tSrMYU"/><br/>
 （港台连线 双十庆典。照片来源：Line Today）</center><br/>
 　　双十节前几天，香港政治评论人士桑普在 Facebook 提醒香港民众：<br/>
-<blockquote style="background-color:#DDD;">10月10日，大家千萬不要搞錯，不要用中國國民黨黨旗。<br/>
+<blockquote>10月10日，大家千萬不要搞錯，不要用中國國民黨黨旗。<br/>
 ......<br/>
 我認為不一定需要用足三面旗，用中華民國國旗即可，雖然未能盡善盡美，但可團結大多數。<br/>
 <br/>
@@ -693,14 +693,15 @@ NBA社区的成员仍然可以发表自己的意见，联盟也支持他们这�
 <center><img alt="不见图 请翻墙" src="images/5OKAncPGt1NPfXBwg8Pb_Ms1ghzGrGuBG3_6fd6FvsrPfXNnDlaVA3u9F2qOBQRSEvFe3Cffles6t90n221MhKgRQkTUZx7DobO49IK-NSjlWpPsljDT6apOoNkBjQCGlXqGYKTYuFo"/><br/>
 （位于港铁太子站出口的“青天白日满地红”。照片来源：Line Today）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/8FEb31Ivf_lUblXRYgYnXjClPCQ-e31PG2y63cHOoqkeUmEUb-jT2RWASBJFL-7vtjYE1ohA9pJJVMyHhTHu0a072-mK-6Pr79Vv9JMMUMCjvFmML0XYdbix7UxXBySrONBROLhhJXs"/><br/>
-（标语：<q style="background-color:#DDD;">守住台湾民主自由 台湾香港民主路上一起加油</q>。照片来源：自由时报）</center><br/>
+（标语：<q>守住台湾民主自由 台湾香港民主路上一起加油</q>。照片来源：自由时报）</center><br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　用本文最后一张照片中的标语，与“港台”追求民主自由的读者共勉。<br/>
-<blockquote style="background-color:#DDD;font-size:150%;">守住台湾民主自由<br/>
+<blockquote style="font-size:125%;">守住台湾民主自由<br/>
 台湾香港民主路上一起加油</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2020/05/weekly-share-144.md">每周转载：朝廷推香港版＜国安法＞，【一国一制】降临（外媒报道8篇）</a>》<br/>
 《<a href="../../2019/11/2019-Hong-Kong-Local-Elections.md">变相的“全民公投”，垂死的“一国两制”——2019香港区议会选举随想</a>》<br/>
 《<a href="../../2019/11/weekly-share-139.md">每周转载：香港“反送中”政治抗议活动大事记（10月至11月）</a>》<br/>
 《<a href="../../2019/09/weekly-share-137.md">每周转载：香港“反送中”政治抗议活动大事记（8月初至9月初）</a>》<br/>
