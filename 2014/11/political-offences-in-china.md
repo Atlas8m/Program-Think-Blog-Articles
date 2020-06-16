@@ -3,19 +3,19 @@
 -----
 
 <div class="post-body entry-content">
-　　20年前的“天安门事件”纪念日，“六四屠夫”李鹏签署生效了《国家安全法执行细则》。从那之后，“反革命”这个罪名就基本上退出历史舞台，取而代之的是更具有迷惑性的“危害国家安全”罪名。<br/>
+　　20年前（1994）的“天安门事件”纪念日，“六四屠夫”李鹏签署生效了《国家安全法执行细则》。从那之后，“反革命”这个罪名就基本上退出历史舞台，取而代之的是更具有迷惑性的“危害国家安全”罪名。<br/>
 　　所谓的“危害国家安全罪”是一个大类，下面包含了若干具体的罪名（比如“颠覆国家政权罪、煽动颠覆国家政权罪、分裂国家罪、煽动分裂国家罪”等等）。考虑到俺本人并不具有法学背景，就不点评了。直接给出相关的维基词条（参见下面的“★名词解释”章节）。<br/>
 　　然后，俺又熬了好几个通宵，根据年份，整理了这份很长的名单。本来以为星期一就可以发出本文。没想到名单之长，大大超出俺的预期。所以拖到今天才发。<br/>
 　　名单中除了列举“姓名、罪名、量刑”，还简述了此人被判“谋反罪”的【真正原因】。整理这份名单，主要想达到如下几个目的：<br/>
 1. 让你意识到咱们天朝是怎样的一个独裁专制国家——有些人只是讨论“加强法制建设”就被判“煽颠罪”。<br/>
 2. 让这些敢于反抗独裁政权的小人物，被更多的网友知晓——对大多数网友而言，名单上 90% 的人都是闻所未闻的。<br/>
-3. 将来还会有其他民众继续从事“反党反共”的光荣事业——通过了解前人的遭遇，后来人可以借鉴到宝贵的经验，从而【更有效地】进行反党活动。<a name="more"></a><br/>
-<br/>
+3. 将来还会有其他民众继续从事“反党反共”的光荣事业——通过了解前人的遭遇，后来人可以借鉴到宝贵的经验，从而【更有效地】进行反党活动。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★名词解释</h2><br/>
 <a href="https://zh.wikipedia.org/wiki/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E7%BD%AA" rel="nofollow" target="_blank">危害国家安全罪 @ 维基百科</a><br/>
 <br/>
-<blockquote style="background-color:#DDD;">1995年，南非国际人权会议制订了《乔纳罕斯堡原则》，特别强调言论表达和信息的自由不得以国家安全的名义强加限制，除非政府能够面对独立，公正和公开的法庭，证明这些限制有法律依据，而且是为了保护合法的国家安全利益的。证明的责任一方是政府。<br/>
+<blockquote>1995年，南非国际人权会议制订了《乔纳罕斯堡原则》，特别强调言论表达和信息的自由不得以国家安全的名义强加限制，除非政府能够面对独立，公正和公开的法庭，证明这些限制有法律依据，而且是为了保护合法的国家安全利益的。证明的责任一方是政府。<br/>
 ......<br/>
 在国际人权规范下，所谓危害国家安全的言论，必须是政府可以证明：<br/>
 煽动暴力；<br/>
@@ -47,7 +47,7 @@
 <br/>
 <br/>
 <h2>★1994年</h2><br/>
-（编程随想注：因为《国家安全法执行细则》是在1994年6月才开始生效的。所以1994年缺少相关的案例——党国爪牙还没摸透呢）<br/>
+（编程随想注：《国家安全法执行细则》在1994年6月才出台，大概朝廷走狗还不熟悉该细则，所以1994年缺少相关的案例）<br/>
 <br/>
 <b><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%91%9C" rel="nofollow" target="_blank">高瑜</a>（记者，专栏作家）</b><br/>
 罪名：泄露国家机密罪<br/>
@@ -79,7 +79,7 @@
 1995年是第二次入狱。<br/>
 自2004年刑满释放后，至今一直是六扇门的重点监控对象。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%99%88%E8%A5%BF" rel="nofollow" target="_blank">陈西/原名“陈友才”</a>（政治异议人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E9%99%88%E8%A5%BF" rel="nofollow" target="_blank">陈西</a>（原名“陈友才”，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑10年<br/>
 原因：公开要求平反“六四运动”<br/>
@@ -88,7 +88,7 @@
 <br/>
 <br/>
 <h2>★1996年</h2><br/>
-<b><a href="http://www.penchinese.org/blog/archives/1124" rel="nofollow" target="_blank">哈达</a>（内蒙古人民出版社编辑，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1124" rel="nofollow" target="_blank">哈达</a>（内蒙古人民出版社编辑，民运人士）</b><br/>
 罪名：分裂国家罪，间谍罪<br/>
 判处：有期徒刑15年，剥夺政治权利4年<br/>
 原因：发起成立“蒙古文化救助会”（后更名为“南蒙民主联盟”），并担任主席；出版刊物《南蒙之声》并担任主编。<br/>
@@ -132,7 +132,7 @@
 1989年“六四运动”中知名的学生领袖之一。21人通缉名单排在第15位。<br/>
 2004年在美国的压力下，保外就医。<br/>
 <br/>
-<b>刘宪立/原名“刘庆梅”（政治异议人士）</b><br/>
+<b>刘宪立（原名“刘庆梅”，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利1年<br/>
 原因：1997年参与发起“中国文化复兴运动”；准备把写成的《中国民主人士之心声》拿到海外出版。<br/>
@@ -149,7 +149,7 @@
 后面还会提到他在2011年第3度入狱，罪名是“煽动颠覆国家政权”。<br/>
 《<a href="https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0" rel="nofollow" target="_blank">零八宪章</a>》首批签署人之一。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1081" rel="nofollow" target="_blank">拖乎提·吐尼雅孜/笔名“穆查特”</a>（日本东京大学博士生，历史学者）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1081" rel="nofollow" target="_blank">拖乎提·吐尼雅孜</a>（笔名“穆查特”，日本东京大学博士生，历史学者）</b><br/>
 罪名：煽动分裂国家罪，非法获取国家机密罪<br/>
 判处：有期徒刑11年，剥夺政治权利2年<br/>
 原因：收集有关民族关系问题的敏感材料，发表涉及历史上民族分离的文章<br/>
@@ -172,7 +172,7 @@
 判处：有期徒刑9年，剥夺政治权利2年<br/>
 原因：与高洪明协助徐文立成立“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>”京津党部。<br/>
 <br/>
-<b><a href="http://www.cdpwu.org/mofei_list.asp?id=9848" rel="nofollow" target="_blank">高洪明</a>（民运人士）</b><br/>
+<b>高洪明（民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑8年<br/>
 原因：与查建国协助徐文立成立“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>”京津党部。策划召开“中国民主党第一次全国代表大会”。<br/>
@@ -182,43 +182,43 @@
 判处：有期徒刑12年，剥夺政治权利3年<br/>
 原因：组建<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>四川党部。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1041" rel="nofollow" target="_blank">吴义龙</a>（大学教师，民运人士，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1041" rel="nofollow" target="_blank">吴义龙</a>（大学教师，民运人士，独立中文笔会会员）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑11年，剥夺政治权利3年<br/>
 原因：与朱虞夫、毛庆祥、徐光创办了宣传<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>的《在野党》杂志。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1116" rel="nofollow" target="_blank">毛庆祥</a>（工人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1116" rel="nofollow" target="_blank">毛庆祥</a>（工人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利3年<br/>
 原因：与朱虞夫、吴义龙、徐光创办了宣传<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>的《在野党》杂志。<br/>
 备注：<br/>
 参与1979年的“民主墙运动”，担任杭州民运刊物《资江潮》的编辑。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1121" rel="nofollow" target="_blank">徐光</a>（环保监测站科学工作者，自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1121" rel="nofollow" target="_blank">徐光</a>（环保监测站科学工作者，自由撰稿人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑5年，剥夺政治权利2年<br/>
 原因：与朱虞夫、吴义龙、毛庆祥创办了宣传<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>的《在野党》杂志。<br/>
 备注：<br/>
 2014年再度被捕，还是同样的罪名。（本文后面会提及）<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1005" rel="nofollow" target="_blank">孔佑平</a>（自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1005" rel="nofollow" target="_blank">孔佑平</a>（自由撰稿人，民运人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑1年<br/>
 原因：筹备“六四”10周年烛光晚会。<br/>
 备注：<br/>
 2004再次被判“颠覆国家政权罪”，本文后面会提及。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1431" rel="nofollow" target="_blank">岳天祥</a>（汽车运输公司下岗工人，民运人士，维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1431" rel="nofollow" target="_blank">岳天祥</a>（汽车运输公司下岗工人，维权人士，工运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：1998年参与组建<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>甘肃筹委会；同年成立“甘肃人权观察站”，帮助当地下岗工人维权。与郭新民和王凤山成立《中国工人观察》并担任主编。<br/>
 <br/>
-<b>郭新民（下岗工人）</b><br/>
+<b>郭新民（下岗工人，工运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑2年<br/>
 原因：与岳天祥和王凤山成立《中国工人观察》。加入<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>。<br/>
 <br/>
-<b>王凤山（高级工程师）</b><br/>
+<b>王凤山（高级工程师，工运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑2年<br/>
 原因：与岳天祥和郭新民成立《中国工人观察》。加入<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>。<br/>
@@ -241,19 +241,19 @@
 备注：<br/>
 此人在1957年曾经因“反革命罪”入狱，直到文革结束后的1978年才获释。<br/>
 <br/>
-<b><a href="http://prison.alliance.org.hk/?p=5908" rel="nofollow" target="_blank">王泽臣</a>（工人，民运人士）</b><br/>
+<b>王泽臣（工人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑6年<br/>
 原因：1998年筹划成立<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>辽宁党部，并制定了《中国民主党章程》。参与筹备“六四”10周年纪念活动。<br/>
 备注：<br/>
 文革时期因为反对“四人帮”被判处死刑。后来四人帮被打倒，他才死里逃生。<br/>
 <br/>
-<b><a href="http://prison.alliance.org.hk/?p=4774" rel="nofollow" target="_blank">王文江</a>（律师，民运人士）</b><br/>
+<b>王文江（律师，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑4年<br/>
 原因：与王泽臣等人筹备“六四”10周年纪念活动。<br/>
 <br/>
-<b><a href="http://www.baike.com/wiki/%E7%B6%A6%E5%BD%A6%E8%87%A3" rel="nofollow" target="_blank">綦彦臣</a>（自由撰稿人）</b><br/>
+<b><a href="https://www.baike.com/wiki/%E7%B6%A6%E5%BD%A6%E8%87%A3" rel="nofollow" target="_blank">綦彦臣</a>（自由撰稿人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年<br/>
 原因：在1999年发表政治异议文章<br/>
@@ -287,10 +287,10 @@
 因为参与“六四运动”，1989年第一次入狱，罪名是“反革命组织罪”。<br/>
 2012年死于邵阳某医院，死因可疑。官方宣布为“自杀”；亲友怀疑为“被自杀”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1053" rel="nofollow" target="_blank">徐泽荣</a>（香港亚洲科学出版社社长，广州社科院客座教授，中山大学东亚研究所副研究员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1053" rel="nofollow" target="_blank">徐泽荣</a>（香港亚洲科学出版社社长，广州社科院客座教授，中山大学东亚研究所副研究员）</b><br/>
 罪名：为境外非法提供情报和非法经营（一审），为境外非法提供国家机密和非法经营（二审）<br/>
 判处：有期徒刑13年，剥夺政治权利3年<br/>
-原因：发表“五六十年代中共支持马来亚共产党武装叛乱”等内幕文章。<br/>
+原因：发表《五六十年代中共支持马来亚共产党武装叛乱》等内幕文章。<br/>
 <br/>
 <b><a href="https://zh.wikipedia.org/wiki/%E9%83%AD%E5%BA%86%E6%B5%B7" rel="nofollow" target="_blank">郭庆海</a>（时评人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
@@ -299,17 +299,17 @@
 备注：<br/>
 为了避免再次被捕，2008年偷渡出境。如今流亡美国。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/536" rel="nofollow" target="_blank">王金波</a>（作家，独立中文笔会会员）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E9%87%91%E6%B3%A2" rel="nofollow" target="_blank">王金波</a>（作家，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利2年<br/>
-原因：在互联网上发表“要求中国政府重新评价六四天安门事件和中国民主党”等文章。<br/>
+原因：在互联网上发表《要求中国政府重新评价六四天安门事件和中国民主党》等文章。<br/>
 <br/>
 <b>刘卫方（个体经营户）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：使用署名“Lgwf”在网上发布多篇政治评论文章，涉及维吾尔族自治问题，西部开发问题。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1060" rel="nofollow" target="_blank">刘浩锋</a>（报刊记者和编辑，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1060" rel="nofollow" target="_blank">刘浩锋</a>（报刊记者和编辑，自由撰稿人）</b><br/>
 罪名：危害国家安全罪<br/>
 判处：劳教3年<br/>
 原因：组织“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>国内联合总部第二阵线”；在互联网上发表有关中国农民目前状况的文章。<br/>
@@ -353,7 +353,7 @@
 因为“三罪并罚”，所以一开始重判9年。<br/>
 2009年在加拿大获政治难民身份。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1488" rel="nofollow" target="_blank">胡明军/笔名“胡明君”</a>（小企业主，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1488" rel="nofollow" target="_blank">胡明军</a>（笔名“胡明君”，小企业主，民运人士）</b><br/>
 罪名：颠覆国家政权<br/>
 判处：有期徒刑11年，剥夺政治权利4年<br/>
 原因：参与组建<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>四川党部并担任负责人。支持四川当地的工人运动。<br/>
@@ -363,24 +363,24 @@
 判处：有期徒刑11年<br/>
 原因：抗议当局打压<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>，要求释放政治犯；为民众疾苦呼吁的公开信签名活动；为营救被监禁的异议人士，通过国际媒体对中国政府施压。<br/>
 <br/>
-<b><a href="http://prison.alliance.org.hk/?p=451" rel="nofollow" target="_blank">王森</a>（工人，民运人士）</b><br/>
+<b>王森（工人，民运人士）</b><br/>
 罪名：起诉时定的罪名是“煽动颠覆国家政权”，宣判的罪名是“颠覆国家政权”<br/>
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：加入<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>。支持四川当地的工人运动。在网上曝光“当地红十字会高价倒卖国际红十字会赠送的药品”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1064" rel="nofollow" target="_blank">张玉辉/笔名“和事佬”</a>（外国投资公司经理，网站编辑，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1064" rel="nofollow" target="_blank">张玉辉</a>（笔名“和事佬”，外资公司经理，网站编辑，自由撰稿人）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利2年<br/>
 原因：参与“大纪元”网站的编辑工作，在互联网上发表批评政府文章。<br/>
 备注：<br/>
 在狱中长期遭酷刑虐待。<br/>
 <br/>
-<b>李方/原名“李焕明”（民工）</b><br/>
+<b>李方（原名“李焕明”，农民工）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑9年<br/>
 原因：在广州的立交桥上散发政治传单。<br/>
 备注：<br/>
-这是他的自述《<a href="http://chinadigitaltimes.net/chinese/2012/03/%E5%9B%9A%E5%BE%92%E7%9A%84%E6%A2%A6%E6%83%B3%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%AF%B9%E8%80%85%E7%9A%84%E7%8B%B1%E4%B8%AD%E6%89%8B%E8%AE%B01%E6%9D%8E%E6%96%B9/" rel="nofollow" target="_blank">囚徒的梦想：一个反对者的狱中手记</a>》。<br/>
+这是他的自述《<a href="https://chinadigitaltimes.net/chinese/2012/03/%E5%9B%9A%E5%BE%92%E7%9A%84%E6%A2%A6%E6%83%B3%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%AF%B9%E8%80%85%E7%9A%84%E7%8B%B1%E4%B8%AD%E6%89%8B%E8%AE%B01%E6%9D%8E%E6%96%B9/" rel="nofollow" target="_blank">囚徒的梦想：一个反对者的狱中手记</a>》。<br/>
 <br/>
 <b>吕新华（政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
@@ -389,12 +389,12 @@
 备注：<br/>
 此人与“全国政协新闻发言人”同名。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1046" rel="nofollow" target="_blank">牟传珩</a>（自由撰稿人，律师）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1046" rel="nofollow" target="_blank">牟传珩</a>（自由撰稿人，律师）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利5年<br/>
 原因：在互联网上发表异见文章<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1043" rel="nofollow" target="_blank">陈少文</a>（警察，自由撰稿人，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1043" rel="nofollow" target="_blank">陈少文</a>（警察，自由撰稿人，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：在互联网上撰写40多篇文章，批评失业、社会不公、法制弊端等。<br/>
@@ -424,7 +424,7 @@
 <br/>
 <br/>
 <h2>★2003年</h2><br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=664" rel="nofollow" target="_blank">王炳章</a>（医学博士，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1091" rel="nofollow" target="_blank">王炳章</a>（医学博士，民运人士）</b><br/>
 罪名：组织领导恐怖组织罪<br/>
 判处：<b>无期徒刑</b>，剥夺政治权利终身<br/>
 原因：（参见备注）<br/>
@@ -435,7 +435,7 @@
 <a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>海外联合总部顾问。<br/>
 他是美国永久居民。2002年在越南期间被人绑架到中国境内然后逮捕。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6" rel="nofollow" target="_blank">黄琦/笔名“难博”</a>（民运人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6" rel="nofollow" target="_blank">黄琦</a>（笔名“难博”，民运人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑5年，剥夺政治权利1年<br/>
 原因：因为创办民运网站“<a href="https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E7%BD%91" rel="nofollow" target="_blank">六四天网</a>”，在2000年“六四”纪念日前一天被捕。<br/>
@@ -465,12 +465,12 @@
 因参与1989年的“六四运动”，被北京警方列入“国内反动份子名单”。<br/>
 此案中，“Yahoo/雅虎公司”协助中共当局获取王小宁的网上信息（电子邮件）。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1426" rel="nofollow" target="_blank">阿卜杜勒加尼·梅梅特民</a>（教师，翻译，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1426" rel="nofollow" target="_blank">阿卜杜勒加尼·梅梅特民</a>（教师，翻译，自由撰稿人）</b><br/>
 罪名：泄露国家秘密罪，分裂国家罪<br/>
 判处：有期徒刑9年<br/>
 原因：翻译和传播有关新疆人权状况等信息，提供给境外维吾尔人流亡组织和散发境外有关报道。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1073" rel="nofollow" target="_blank">姜力钧/原名“姜立军”</a>（自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1073" rel="nofollow" target="_blank">姜力钧</a>（原名“姜立军”，自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利1年<br/>
 原因：企图组织“自由民主党”。参与联名签署“致中共十六大公开信”（参见前面的“赵常青”条目）。<br/>
@@ -478,33 +478,33 @@
 此案中，“Yahoo/雅虎公司”协助中共当局收集证据。<br/>
 2014年，姜立军再次被捕，罪名依然是“煽动颠覆国家政权”（本文后面会提及）。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1070" rel="nofollow" target="_blank">陶海东/笔名“愚之心”</a>（自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1070" rel="nofollow" target="_blank">陶海东</a>（笔名“愚之心”，自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑7年，剥夺政治权利3年<br/>
 原因：陶海东撰写并在网上传播《公民主权的文明社会与帝王垄断的罪恶深渊》《公民联盟论》《新人类设想》三部书稿。中共当局称其“肆意丑化、污蔑党和国家领导人”。<br/>
 备注：<br/>
 2000年曾因《新人类设想》一书，被陕西公安局判处三年劳教。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E8%94%A1%E9%99%86%E5%86%9B" rel="nofollow" target="_blank">蔡陆军/笔名“盼民主”</a>（外贸公司业主，自由撰稿人）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E8%94%A1%E9%99%86%E5%86%9B" rel="nofollow" target="_blank">蔡陆军</a>（笔名“盼民主”，外贸公司业主，自由撰稿人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：在互联网上发表异见文章（22篇）；成立网络组织”自由民主同盟会”任主席。<br/>
 备注：<br/>
 如今流亡台湾<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1114" rel="nofollow" target="_blank">李智</a>（财政局官员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1114" rel="nofollow" target="_blank">李智</a>（财政局官员）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利4年<br/>
 原因：法院判决书称：在互联网“木子网站”建立个人主页，大肆宣传敌对思想；教唆、引导他人加入“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>”。<br/>
 备注：<br/>
 此案中，“Yahoo/雅虎公司”协助中共当局获取李智的电子邮件。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1018" rel="nofollow" target="_blank">罗永忠</a>（个体食杂店业主，残疾人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1018" rel="nofollow" target="_blank">罗永忠</a>（个体食杂店业主，残疾人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利2年<br/>
 原因：在“北国之春”和“水晶论坛”等网站发表文章（150多篇），揭露六四的真相，批评中国政府。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1026" rel="nofollow" target="_blank">颜钧</a>（西安第68中学生物教师，自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1026" rel="nofollow" target="_blank">颜钧</a>（西安第68中学生物教师，自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑2年，剥夺政治权利1年<br/>
 原因：在互联网上发表文章（20余篇）批评当局。<br/>
@@ -518,7 +518,7 @@
 《革命及改良的重要认识误区和危害》<br/>
 《帝国启示录》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1076" rel="nofollow" target="_blank">罗长福</a>（下岗工人，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1076" rel="nofollow" target="_blank">罗长福</a>（下岗工人，自由撰稿人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：在海外网站上发表五篇文章，声援被捕入狱的<a href="https://zh.wikipedia.org/wiki/%E5%88%98%E8%8D%BB" rel="nofollow" target="_blank">刘荻</a>，抗议当局对互联网的镇压<br/>
@@ -530,7 +530,7 @@
 《网络世界共和国宣言》<br/>
 《誓死悍卫网上自由》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1032" rel="nofollow" target="_blank">徐伟</a>（《消费日报》记者，记者）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1032" rel="nofollow" target="_blank">徐伟</a>（《消费日报》记者，记者）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利2年<br/>
 原因：徐伟、靳海科、杨子立、张宏海等人成立“新青年学会”，主张通过法治来实现社会的变革<br/>
@@ -538,7 +538,7 @@
 此案被称为“北大新青年四君子网络言罪”。主要人员在2001年被捕，直到2003年才开庭。<br/>
 徐伟在北师大从本科到研究生学的都是马克思主义哲学。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1034" rel="nofollow" target="_blank">靳海科</a>（北京地质勘察院工程师）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1034" rel="nofollow" target="_blank">靳海科</a>（北京地质勘察院工程师）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利2年<br/>
 原因：徐伟、靳海科、杨子立、张宏海等人成立“新青年学会”，主张通过法治来实现社会的变革<br/>
@@ -552,10 +552,10 @@
 备注：<br/>
 此案被称为“北大新青年四君子网络言罪”。主要人员在2001年被捕，直到2003年才开庭。<br/>
 （编程随想注：本文列举这么多案例，就只有这一个是“程序员”）<br/>
-杨子立后来写了一篇《<a href="http://www.boxun.com/news/gb/china/2010/01/201001201628.shtml" rel="nofollow" target="_blank">靳海科和徐伟——从优秀共产党员到反革命囚徒</a>》，从中可了解此事的大致经过。<br/>
+杨子立后来写了一篇《<a href="https://www.boxun.com/news/gb/china/2010/01/201001201628.shtml" rel="nofollow" target="_blank">靳海科和徐伟——从优秀共产党员到反革命囚徒</a>》，从中可了解此事的大致经过。<br/>
 获罪前曾有“羊子的思想家园”个人网站。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1030" rel="nofollow" target="_blank">张宏海</a>（自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1030" rel="nofollow" target="_blank">张宏海</a>（自由撰稿人）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利2年<br/>
 原因：徐伟、靳海科、杨子立、张宏海等人成立“新青年学会”，主张通过法治来实现社会的变革<br/>
@@ -582,14 +582,14 @@
 <br/>
 <br/>
 <h2>★2004年</h2><br/>
-<b><a href="http://www.penchinese.org/blog/archives/1005" rel="nofollow" target="_blank">孔佑平</a>（自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1005" rel="nofollow" target="_blank">孔佑平</a>（自由撰稿人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑15年（二审后改判10年），剥夺政治权利4年<br/>
 原因：参与组建<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>辽宁党部；与宁先华等人筹备组建东北三省独立工会。<br/>
 备注：<br/>
 此次是第2度入狱。前一次是1999年筹备“六四”烛光晚会。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=1630" rel="nofollow" target="_blank">宁先华</a>（民运人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=1630" rel="nofollow" target="_blank">宁先华</a>（民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑12年（二审后改判7年），剥夺政治权利2年<br/>
 原因：参与组建<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>辽宁党部；与孔佑平等人筹备组建东北三省独立工会。<br/>
@@ -604,14 +604,14 @@
 备注：<br/>
 此案中，“Yahoo/雅虎公司”协助中共当局定位电子邮箱的使用者身份，导致师涛身份暴露。<br/>
 <br/>
-<b><a href="http://prison.alliance.org.hk/?p=434" rel="nofollow" target="_blank">黄金秋/笔名“清水君”</a>（记者，栏目主持人，自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1010" rel="nofollow" target="_blank">黄金秋</a>（笔名“清水君”，记者，栏目主持人，自由撰稿人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑12年，剥夺政治权利4年<br/>
 原因：发起“中国爱国民主党”。判决书称：清水君以“中国爱国民主党”筹委会负责人的身份，在互联网发表大量反动文章，发展党员，组织、策划、实施颠覆中国国家政权，推翻中国社会主义制度<br/>
 备注：<br/>
 先后担任《南洋商报》《新生活报》《风采》等南洋报刊的特邀记者。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1016" rel="nofollow" target="_blank">欧阳懿</a>（小学教师，民运人士，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1016" rel="nofollow" target="_blank">欧阳懿</a>（小学教师，民运人士，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑2年，剥夺政治权利2年<br/>
 原因：参与<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>四川筹委会，在网上发表政治评论文章。<br/>
@@ -624,12 +624,12 @@
 判处：有期徒刑3年，缓刑4年，剥夺政治权利2年<br/>
 原因：在“关天茶舍”等网站上连续发表时事评论，抨击中国农村税负过重，社会保障不保农民，义务教育名不副实，压制言论自由等社会问题。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1083" rel="nofollow" target="_blank">桑坚成</a>（退休工人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1083" rel="nofollow" target="_blank">桑坚成</a>（退休工人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年<br/>
 原因：在中共十六大会议期间，参与撰写并散发”致十六大公开信”<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1148" rel="nofollow" target="_blank">张汝泉</a>（退休职工，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1148" rel="nofollow" target="_blank">张汝泉</a>（退休职工，自由撰稿人）</b><br/>
 罪名：最初以“涉嫌颠覆国家政权”和“涉嫌煽动颠覆国家政权”取保候审和监视居住。宣判时改为“诽谤罪”<br/>
 判处：有期徒刑3年<br/>
 原因：先后将周秀宝写的《关于召开党的十六大几个重要问题的严正声明》和《毛泽东——我们永远的领袖》交给同案的张正耀散发。文中抨击邓小平和江泽民路线反动和腐败。<br/>
@@ -637,7 +637,7 @@
 张汝泉与张正耀是同案犯。<br/>
 俺猜测此人多半是毛粉<br/>
 <br/>
-<b><a href="http://prison.alliance.org.hk/?p=7378" rel="nofollow" target="_blank">张正耀（工运领袖）</a></b><br/>
+<b>张正耀（工运人士）</b><br/>
 罪名：最初以“涉嫌颠覆国家政权”和“涉嫌煽动颠覆国家政权”取保候审和监视居住。宣判时改为“诽谤罪”<br/>
 判处：有期徒刑3年<br/>
 原因：帮助张汝泉散发周秀宝写的《关于召开党的十六大几个重要问题的严正声明》和《毛泽东——我们永远的领袖》。<br/>
@@ -645,8 +645,9 @@
 张正耀与张汝泉是同案犯。<br/>
 俺猜测此人多半是毛粉<br/>
 <br/>
+<br/>
 <h2>★2005年</h2><br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=657" rel="nofollow" target="_blank">许万平</a>（自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=657" rel="nofollow" target="_blank">许万平</a>（自由撰稿人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑12年，剥夺政治权利4年<br/>
 原因：2005年，许万平与多位政治异议人士联名致函联合国人权委员会，要求关注中国日益恶化的人权状况。<br/>
@@ -654,12 +655,12 @@
 1989年“六四运动”后，许万平因筹建“中国行动党”，被判入狱8年，剥夺政治权利5年。<br/>
 此次是第2度遭到重判。<br/>
 <br/>
-<b><a href="http://www.weiquanwang.org/?p=18854" rel="nofollow" target="_blank">卓玛嘉</a>（作家，中学教师）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E5%8D%93%E7%8E%9B%E5%98%89" rel="nofollow" target="_blank">卓玛嘉</a>（作家，中学教师）</b><br/>
 罪名：间谍罪，煽动颠覆国家政权罪<br/>
 判处：有期徒刑10年零6个月<br/>
 原因：曾经去过印度（达兰萨拉）。写作了《骚动的喜马拉雅山》一书（尚未出版）。此书包括不同主题：民主、西藏主权、共产主义下的西藏、殖民主义、宗教信仰等。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2129" rel="nofollow" target="_blank">努尔莫哈提·亚辛</a>（作家，诗人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1532" rel="nofollow" target="_blank">努尔莫哈提·亚辛</a>（作家，诗人）</b><br/>
 罪名：煽动分裂国家罪<br/>
 判处：有期徒刑10年<br/>
 原因：在2004年第5期《喀什噶尔文学》杂志上发表了短篇小说《野鸽子》。<br/>
@@ -688,7 +689,7 @@
 《〈九评共产党〉读后感》<br/>
 《伟大语言的力量──论〈九评〉》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1482" rel="nofollow" target="_blank">李元龙/笔名“夜狼”</a>（记者，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1482" rel="nofollow" target="_blank">李元龙</a>（笔名“夜狼”，记者，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑2年，剥夺政治权利2年<br/>
 原因：判决书称：在境外网站发表了4篇文章，捏造、歪曲、夸大有关事实，煽动颠覆国家政权，推翻社会主义制度。<br/>
@@ -711,17 +712,18 @@
 备注：<br/>
 2007年获释后，继续被“监视居住”。<br/>
 <br/>
+<br/>
 <h2>★2006年</h2><br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2054" rel="nofollow" target="_blank">陆建华/笔名“文聿”</a>（中国社科院公共政策研究室副主任）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1469" rel="nofollow" target="_blank">陆建华</a>（笔名“文聿”，中国社科院公共政策研究室副主任）</b><br/>
 罪名：泄露国家机密罪<br/>
 判处：有期徒刑20年<br/>
 原因：表面原因是——牵涉“程翔间谍案”。<br/>
 备注：<br/>
 为啥说是“表面原因”？两人同案，主犯程翔才判5年，而陆建华重判20年。<br/>
-有人猜测——他写的《中国“左”祸》（使用笔名“文聿”出版）——让中共高层很恼火。<br/>
+有人猜测——他写的《<a href="https://docs.google.com/document/d/1SXoOeES1zgXKR2_r-4igJ_7iNLjc2VpYw_Ukw5Jz7Zs/" target="_blank">中国“左”祸</a>》（使用笔名“文聿”出版）——此书让朝廷方面很恼火。<br/>
 <a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了此书的电子版。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=671" rel="nofollow" target="_blank">杨天水/原名“杨同彦”</a>（民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1150" rel="nofollow" target="_blank">杨天水</a>（原名“杨同彦”，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑12年，剥夺政治权利4年<br/>
 原因：筹组<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>苏皖党部。在网上发表政治评论文章。<br/>
@@ -732,7 +734,7 @@
 《十一是中华民族的灾难日》<br/>
 《敦劝中共的当权派》<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=1493" rel="nofollow" target="_blank">任自元</a>（中学教师）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=1493" rel="nofollow" target="_blank">任自元</a>（中学教师，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：在网上发表政治文章，与别人讨论成立“大陆民主阵线”。<br/>
@@ -745,7 +747,7 @@
 曾被中国司法部选为“中国十佳律师”。<br/>
 长期替弱势群体维权打官司，曾代理多宗民众维权案件控告地方政府。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1486" rel="nofollow" target="_blank">郭起真</a>（房管所工作人员，自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1486" rel="nofollow" target="_blank">郭起真</a>（房管所工作人员，自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利3年<br/>
 原因：从2002年起，在互联网上发表政治评论文章。<br/>
@@ -756,7 +758,7 @@
 《株连九族的妖风正在大陆肆虐》<br/>
 《从“我不敢说”小议日本的领土扩张》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1476" rel="nofollow" target="_blank">李建平</a>（医疗器械公司董事长，自由撰稿人，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1476" rel="nofollow" target="_blank">李建平</a>（医疗器械公司董事长，自由撰稿人，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑2年，剥夺政治权利2年<br/>
 原因：判决书称：李建平于2003年至2005年5月间，编辑文章18篇，攻击我国国家制度，煽动颠覆国家政权。通过邮件发往“议报、大纪元、民主论坛”等境外网站。<br/>
@@ -766,12 +768,12 @@
 《中共的面子至高无上》<br/>
 《&lt;反分裂法&gt;，替胡锦涛承担决策责任的安抚法》<br/>
 <br/>
-<b>易晓斌/笔名“易尧”（自由撰稿人）</b><br/>
+<b>易晓斌（笔名“易尧”，自由撰稿人）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑1年，剥夺政治权利1年<br/>
 原因：判决书称：在“民主论坛”等网站发表若干文章，对中国共产党及社会主义制度大肆谩骂与诽谤。把中共中央领导集团污蔑为“代表暴力的邪恶集团”，把当今社会污蔑为“极权主义社会”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1605" rel="nofollow" target="_blank">左晓环</a>（四川乐山师范学院教师，自由撰稿人，维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1605" rel="nofollow" target="_blank">左晓环</a>（四川乐山师范学院教师，自由撰稿人，维权人士）</b><br/>
 罪名：涉嫌煽动颠覆国家政权罪<br/>
 判处：劳教2年<br/>
 原因：在互联网上发表文章和接受境外媒体采访，批评有关当局。<br/>
@@ -780,7 +782,7 @@
 <br/>
 <br/>
 <h2>★2007年</h2><br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%BB%BA%E7%BA%A2" rel="nofollow" target="_blank">张建红/笔名“力虹”</a>（作家，维权人士，独立中文笔会会员）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%BB%BA%E7%BA%A2" rel="nofollow" target="_blank">张建红</a>（笔名“力虹”，作家，维权人士，独立中文笔会会员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑6年，剥夺政治权利1年<br/>
 原因：以“力虹”为笔名撰写了60余篇政治评论文章，发表在海外网站。其中涉及“活体盗卖法轮功学员人体器官”。<br/>
@@ -791,7 +793,7 @@
 《评欧美对华立场与政策的转变》<br/>
 《中国民主化，不靠美国靠谁？》<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%99%88%E6%A0%91%E5%BA%86" rel="nofollow" target="_blank">陈树庆</a>（作家，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1538" rel="nofollow" target="_blank">陈树庆</a>（作家，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利1年<br/>
 原因：参与<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>浙江筹委会；在互联网上发表政治异议文章。<br/>
@@ -804,7 +806,7 @@
 《中国民主党人对中国古代儒学说的评析》<br/>
 《贵州毕节“夜狼”事件中共当局到底要向社会证明什么？》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1439" rel="nofollow" target="_blank">严正学</a>（画家，自由撰稿人，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1439" rel="nofollow" target="_blank">严正学</a>（画家，自由撰稿人，独立中文笔会会员）</b><br/>
 罪名：以“颠覆国家政权罪”起诉，以“煽动颠覆国家政权”宣判<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：判决书称：发表了“攻击、丑化党和政府、攻击社会主义制度”的文章。<br/>
@@ -831,13 +833,14 @@
 判处：有期徒刑9年<br/>
 原因：荣杰阿扎的同案犯<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1547" rel="nofollow" target="_blank">王德佳/笔名“荆楚”</a>（工商银行职员，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1547" rel="nofollow" target="_blank">王德佳</a>（笔名“荆楚”，工商银行职员，自由撰稿人）</b><br/>
 罪名：以“煽动颠覆国家政权罪”拘留<br/>
 判处：（未判刑，取保候审）<br/>
 原因：在互联网上发表异议文章<br/>
 <br/>
+<br/>
 <h2>★2008年</h2><br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=1434" rel="nofollow" target="_blank">饶文蔚</a>（重庆市决策研究学会秘书长，重庆巫山县政法委书记）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1689" rel="nofollow" target="_blank">饶文蔚</a>（重庆市决策研究学会秘书长，重庆巫山县政法委书记）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑12年，剥夺政治权利3年<br/>
 原因：在网上“大纪元”等网站发表了52篇政治评论文章。<br/>
@@ -851,12 +854,12 @@
 判处：有期徒刑2年<br/>
 原因：饶文蔚同案犯，把饶文蔚的文章在网上转贴。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6" rel="nofollow" target="_blank">黄琦/笔名“难博”</a>（民运人士，维权人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E9%BB%84%E7%90%A6" rel="nofollow" target="_blank">黄琦</a>（笔名“难博”，民运人士，维权人士）</b><br/>
 罪名：非法持有国家机密文件罪<br/>
 判处：有期徒刑3年<br/>
 原因：2008年汶川地震后，黄琦积极参与救灾活动，并在网上撰文揭露“豆腐渣”工程<br/>
 备注：<br/>
-这是黄琦第2度入狱。<br/>
+这是黄琦【第2度】入狱。<br/>
 <br/>
 <b><a href="https://zh.wikipedia.org/wiki/%E8%83%A1%E4%BD%B3_(%E7%A4%BE%E6%9C%83%E6%B4%BB%E5%8B%95%E5%AE%B6)" rel="nofollow" target="_blank">胡佳</a>（维权人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
@@ -865,7 +868,7 @@
 备注：<br/>
 判决书提到的两篇文章，标题是：《十七大之前中国政法系统大范围制造恐怖气氛》、《一国不需要两制》。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=1700" rel="nofollow" target="_blank">杨春林</a>（下岗工人，维权人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=1700" rel="nofollow" target="_blank">杨春林</a>（下岗工人，维权人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑5年，剥夺政治权利2年<br/>
 原因：发起“不要奥运要人权”活动，征集了上万失地农民和下岗工人的签名支持。<br/>
@@ -885,7 +888,7 @@
 《独裁白皮书》<br/>
 《中国最大的特务组织——政法委》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1559" rel="nofollow" target="_blank">陈道军</a>（作家，四川省报记者，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1559" rel="nofollow" target="_blank">陈道军</a>（作家，四川省报记者，政治异议人士）</b><br/>
 罪名：拘捕的罪名是“煽动分裂国家”，法院宣判的罪名是“煽动颠覆国家政权”<br/>
 判处：有期徒刑3年，剥夺政治权利3年<br/>
 原因：持藏人的基本权利并谴责对藏人抗议的暴力镇压。判决书称：通过互联网散布传播诽谤中国共产党的文章，号召大家联合起来造反，妄图推翻中国共产党的统治。<br/>
@@ -893,17 +896,17 @@
 导致他获罪的部分文章标题如下：<br/>
 《官逼民反——向英勇抗争的藏民致敬》<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1566" rel="nofollow" target="_blank">买布布·阿卜卡/阿布露莎</a>（新疆人民广播电台职工，网络作家）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1566" rel="nofollow" target="_blank">买布布·阿卜卡/阿布露莎</a>（新疆人民广播电台职工，网络作家）</b><br/>
 罪名：煽动分裂国家罪<br/>
 判处：有期徒刑3年<br/>
 原因：在网络上张贴批评中国政府政策和新疆自治区领导的文章<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1573" rel="nofollow" target="_blank">魏桢凌</a>（《浙江青年报》的记者，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1573" rel="nofollow" target="_blank">魏桢凌</a>（《浙江青年报》的记者，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑1年9个月（减刑3个月）<br/>
 原因：在互联网上发表异议文章。参与网络团体“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F" rel="nofollow" target="_blank">中国泛蓝联盟</a>”并担任杭州地区召集人<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1556" rel="nofollow" target="_blank">周远志</a>（作家，中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1556" rel="nofollow" target="_blank">周远志</a>（作家，中文笔会会员）</b><br/>
 罪名：以“煽动颠覆国家政权罪”逮捕<br/>
 判处：（拘押之后获释，未判刑。但被监视居住，禁止接受媒体采访，不许发表文章）<br/>
 原因：2008年在香港出版了《我们向谁控诉——湖北省钟祥市航运公司职工维权纪实》一书（使用笔名“华梁兴”）。发表关于社会问题尤其是人权状况和官员腐败的文章。<br/>
@@ -925,7 +928,7 @@
 说到诺贝尔奖，俺曾经写过一篇《<a href="../../2010/12/anti-nobel-prize-history.md">那些对抗诺贝尔奖的政权——和平奖颁奖致辞有感</a>》，介绍历史上几个臭名昭著的独裁政权如何对待“诺贝尔和平奖”和“诺贝尔文学奖”。<br/>
 <a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了他的几本著作。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8D%A3%E6%B8%85" rel="nofollow" target="_blank">王荣清</a>（民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1575" rel="nofollow" target="_blank">王荣清</a>（民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑6年，剥夺政治权利2年<br/>
 原因：策划召开<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>全国代表大会。在网络上发表多篇有关民主党的文章。<br/>
@@ -934,7 +937,7 @@
 1998年参与<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>浙江筹委会。<br/>
 服刑期间因身患肾衰竭，（刑满之后）2014年6月去世。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=677" rel="nofollow" target="_blank">谢长发</a>（工程师，民运人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=677" rel="nofollow" target="_blank">谢长发</a>（工程师，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑13年，剥夺政治权利5年<br/>
 原因：参与策划召开<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>全国代表大会。汶川地震后，发表文章批评豆腐渣工程。<br/>
@@ -946,7 +949,7 @@
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：创办“中国新民党”，公开发表文章，反对“一党专政”<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1664" rel="nofollow" target="_blank">文炎/网名“孙不二”</a>（作家，维权人士，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1664" rel="nofollow" target="_blank">文炎</a>（网名“孙不二”，作家，维权人士，民运人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑6年，剥夺政治权利2年<br/>
 原因：发起政治组织“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F" rel="nofollow" target="_blank">中国泛蓝联盟</a>”并任总负责人。<br/>
@@ -965,22 +968,22 @@
 备注：<br/>
 2012年11月再次被公安逮捕。之后越狱，经过20个月的逃亡，于2014年抵达印度达兰萨拉。逃亡期间，他沿路乞讨，穿越了冰雪覆盖的大山。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1677" rel="nofollow" target="_blank">更嘎仓央</a>（青海省藏族僧人，作家，环保人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1677" rel="nofollow" target="_blank">更嘎仓央</a>（青海省藏族僧人，作家，环保人士）</b><br/>
 罪名：煽动分裂国家罪，泄露国家秘密罪<br/>
 判处：有期徒刑5年<br/>
 原因：在互联网上发表涉及“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”的文章。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1579" rel="nofollow" target="_blank">袁显臣</a>（维权律师）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1579" rel="nofollow" target="_blank">袁显臣</a>（维权律师）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑4年，剥夺政治权利5年<br/>
 原因：撰写及散发异议文章，接受境外媒体采访，维权上访<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1577" rel="nofollow" target="_blank">张起</a>（作家，政治异议人士，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1577" rel="nofollow" target="_blank">张起</a>（作家，政治异议人士，独立中文笔会会员）</b><br/>
 罪名：以“非法获取国家秘密”逮捕，以“煽动颠覆国家政权罪”宣判<br/>
 判处：有期徒刑4年，剥夺政治权利2年<br/>
 原因：担任“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%B3%9B%E8%93%9D%E8%81%94%E7%9B%9F" rel="nofollow" target="_blank">中国泛蓝联盟</a>”重庆召集人。“六四”17周年，与“中国泛蓝联盟”的同仁在重庆举行纪念活动，并高举代表中华民国的青天白日旗及国民党党旗。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1588" rel="nofollow" target="_blank">张鹏/笔名“张怀阳”</a>（仓库运输，网络作者）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1588" rel="nofollow" target="_blank">张鹏</a>（笔名“张怀阳”，仓库运输，网络作者）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：劳动教养1年6零个月<br/>
 原因：在牛博网发帖《真的没人敢上街纪念六四吗？》。又据说自己做了3件文化衫，内容涉及到纪念“六四”<br/>
@@ -994,19 +997,19 @@
 备注：<br/>
 曾任《文化人》主编、民间环保组织“绿色江河”副秘书长。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1623" rel="nofollow" target="_blank">买买提江·阿布都拉</a>（中央人民广播电台维语部播音员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1623" rel="nofollow" target="_blank">买买提江·阿布都拉</a>（中央人民广播电台维语部播音员）</b><br/>
 罪名：分裂国家罪、泄露国家秘密罪、组织非法示威罪<br/>
 判处：<b>无期徒刑</b><br/>
-原因：2009年韶关事件后接受境外采访，把世维会发言人号召示威的敏感文章翻译成维语发在<a href="http://www.salkin.cn" rel="nofollow" target="_blank">彩丽肯网</a><br/>
+原因：2009年韶关事件后接受境外采访，把世维会发言人号召示威的敏感文章翻译成维语发在“彩丽肯网”（www.salkin.cn）<br/>
 备注：<br/>
 关于此人被重判，<a href="http://woeser.middle-way.net/2009/11/blog-post_6.html" rel="nofollow" target="_blank">这个链接</a>有相关报道。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1627" rel="nofollow" target="_blank">古丽米拉·艾明</a>（政府公务员、网络作家）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1627" rel="nofollow" target="_blank">古丽米拉·艾明</a>（政府公务员、网络作家）</b><br/>
 罪名：分裂国家罪、泄露国家秘密罪、组织非法示威罪<br/>
 判处：<b>无期徒刑</b><br/>
 原因：在“<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">乌鲁木齐75事件</a>”中，用手机与境外担任挪威维吾尔协会副秘书长的丈夫拜合提亚尔联系20多次，通报看到的情况。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E8%B4%A1%E5%8D%B4%E6%89%8D%E5%9F%B9" rel="nofollow" target="_blank">贡却才培</a>（中学教师，作家，琼迈藏语文学网 tibetcm.com 编辑）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1674" rel="nofollow" target="_blank">贡却才培</a>（中学教师，作家，琼迈藏语文学网 tibetcm.com 编辑）</b><br/>
 罪名：泄露国家秘密罪<br/>
 判处：有期徒刑15年<br/>
 原因：在互联网上发表与“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”有关的文章<br/>
@@ -1021,47 +1024,47 @@
 备注：<br/>
 “<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">乌鲁木齐75事件</a>”之后，海莱提在接受亚洲周刊专访时称：骚乱发生前，他就曾向当局提出预警，但未获采纳。事后，他认为骚乱的组织者是南疆的宗教组织伊扎布特。他认为王乐泉的高压政策，将反分裂扩大化了。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1613" rel="nofollow" target="_blank">尼加提·阿扎提</a>（音乐人，“露水娱乐在线”站长）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1613" rel="nofollow" target="_blank">尼加提·阿扎提</a>（音乐人，“露水娱乐在线”站长）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑10年<br/>
 原因：在网站上发布当局认为与“<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">乌鲁木齐75事件</a>”相关的“政治敏感”内容。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1608" rel="nofollow" target="_blank">迪力夏提·帕尔哈提</a>（地亚尔网站 diayarim.com 创办人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1608" rel="nofollow" target="_blank">迪力夏提·帕尔哈提</a>（地亚尔网站 diayarim.com 创办人）</b><br/>
 罪名：危害国家安全<br/>
 判处：有期徒刑5年<br/>
 原因：当局认为与“<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">乌鲁木齐75事件</a>”是“境内外分裂势力”利用“维吾尔在线”和“地亚尔网”策划实施的。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1658" rel="nofollow" target="_blank">布旦/笔名“布达”</a>（医生，作家，藏文月刊《时代的我》编辑）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1658" rel="nofollow" target="_blank">布旦</a>（笔名“布达”，医生，作家，藏文月刊《时代的我》编辑）</b><br/>
 罪名：拘捕时的罪名“涉嫌煽动分裂国家”，宣判的罪名“煽动颠覆国家政权”<br/>
 判处：有期徒刑4年<br/>
 原因：2008年在藏文月刊《夏东日》发表涉及“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”的文章《回顾和思索》。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2681" rel="nofollow" target="_blank">尕让云巴/格桑金巴</a>（作家，藏文月刊《时代的我》编辑）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=2681" rel="nofollow" target="_blank">尕让云巴/格桑金巴</a>（作家，藏文月刊《时代的我》编辑）</b><br/>
 罪名：拘捕时的罪名“涉嫌煽动分裂国家”，宣判的罪名“煽动颠覆国家政权”<br/>
 判处：有期徒刑3年<br/>
 原因：2008年在藏文月刊《夏东日》发表涉及“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”的文章《鲜血与生命的控诉》。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1656" rel="nofollow" target="_blank">江泽东科/蒋哲容科</a>（作家）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1656" rel="nofollow" target="_blank">江泽东科/蒋哲容科</a>（作家）</b><br/>
 罪名：拘捕时的罪名“涉嫌煽动分裂国家”，宣判的罪名“煽动颠覆国家政权”<br/>
 判处：有期徒刑4年<br/>
 原因：2008年在藏文月刊《夏东日》发表涉及“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”的文章《我们有多少人权》。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1662" rel="nofollow" target="_blank">卓日次成</a>（四川藏族僧人，藏文杂志《雪之生命》编辑）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1662" rel="nofollow" target="_blank">卓日次成</a>（四川藏族僧人，藏文杂志《雪之生命》编辑）</b><br/>
 罪名：煽动分裂国家罪<br/>
 判处：有期徒刑4年零6个月<br/>
 原因：因撰写和筹备出版有关玉树地震的书，揭露相关的黑幕。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1666" rel="nofollow" target="_blank">扎西绕登/扎西热丹</a>（作家，藏文月刊《夏东日》主编）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1666" rel="nofollow" target="_blank">扎西绕登/扎西热丹</a>（作家，藏文月刊《夏东日》主编）</b><br/>
 罪名：煽动分裂国家罪<br/>
 判处：有期徒刑4年<br/>
 原因：自费出版《血书》一书，揭露“<a href="https://zh.wikipedia.org/wiki/2008%E5%B9%B4%E8%A5%BF%E8%97%8F%E9%AA%9A%E4%B9%B1" rel="nofollow" target="_blank">2008年西藏314抗议事件</a>”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1611" rel="nofollow" target="_blank">努尔艾力·艾力</a>（彩丽肯网站 salkin.cn 创办人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1611" rel="nofollow" target="_blank">努尔艾力·艾力</a>（彩丽肯网站 salkin.cn 创办人）</b><br/>
 罪名：危害国家安全罪<br/>
 判处：有期徒刑3年<br/>
 原因：在网站发布当局认为与“<a href="https://zh.wikipedia.org/wiki/%E4%B8%83%E4%BA%94%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">乌鲁木齐75事件</a>”相关的“政治敏感”内容。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1603" rel="nofollow" target="_blank">刘永根</a>（河南省新县纪律检查委员会常委）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1603" rel="nofollow" target="_blank">刘永根</a>（河南省新县纪律检查委员会常委）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，剥夺政治权利1年<br/>
 原因：在“大纪元”、“清心论坛”等海外网站发表批评中共当局的文章。<br/>
@@ -1078,21 +1081,21 @@
 判处：有期徒刑1年零6个月<br/>
 原因：从2006年开始与陈锦平、张继安等人在网络开展民主宣传。并成立了“中国民主工民党”。2009年加入<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1605" rel="nofollow" target="_blank">左晓环</a>（四川乐山师范学院教师，自由撰稿人，维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1605" rel="nofollow" target="_blank">左晓环</a>（四川乐山师范学院教师，自由撰稿人，维权人士）</b><br/>
 罪名：以“涉嫌颠覆国家政权罪”拘留，以“涉嫌煽动颠覆国家政权”逮捕<br/>
 判处：（关押6个月，检察院撤诉）<br/>
 原因：在互联网上发表文章和接受境外媒体采访，批评有关当局。<br/>
 备注：<br/>
 在2006年，以相同罪名入狱过（前面有提及）。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1605" rel="nofollow" target="_blank">郭贤良</a>（电力设计院助理工程师）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1605" rel="nofollow" target="_blank">郭贤良</a>（电力设计院助理工程师）</b><br/>
 罪名：以“涉嫌颠覆国家政权罪”拘留<br/>
 判处：（以“取保候审”释放）<br/>
 原因：在广州出差时撰写和散发介绍刘晓波获诺贝尔和平奖的传单<br/>
 <br/>
 <br/>
 <h2>★2011年</h2><br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E5%88%98%E8%B4%A4%E6%96%8C" rel="nofollow" target="_blank">刘贤斌</a>（作家，民运人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E5%88%98%E8%B4%A4%E6%96%8C" rel="nofollow" target="_blank">刘贤斌</a>（笔名“万贤明”，作家，民运人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利2年零4个月<br/>
 原因：参与《<a href="https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0" rel="nofollow" target="_blank">零八宪章</a>》，是首批签署人之一。<br/>
@@ -1102,7 +1105,7 @@
 2011年已经是第3度入狱了。<br/>
 陈卫、刘贤斌、欧阳懿三人在民运界被称为“遂宁三杰”（此三人，本文都有提及）。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%99%B3%E8%A1%9B" rel="nofollow" target="_blank">陈卫</a>（网络作家，民运人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E9%99%B3%E8%A1%9B_(%E7%95%B0%E8%A6%8B%E4%BA%BA%E5%A3%AB)" rel="nofollow" target="_blank">陈卫</a>（网络作家，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑9年，剥夺政治权利4年<br/>
 原因：参与<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%B0%91%E4%B8%BB%E9%BB%A8" rel="nofollow" target="_blank">中国民主党</a>四川筹委会；签署《<a href="https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0" rel="nofollow" target="_blank">零八宪章</a>》；宣传“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”。<br/>
@@ -1113,14 +1116,14 @@
 2011年这次是第3度入狱了。<br/>
 陈卫、刘贤斌、欧阳懿三人在民运界被称为“遂宁三杰”（此三人，本文都有提及）。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E9%99%88%E8%A5%BF" rel="nofollow" target="_blank">陈西/原名“陈友才”（政治异议人士）</a></b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E9%99%88%E8%A5%BF" rel="nofollow" target="_blank">陈西</a>（原名“陈友才”，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：宣布参选当地人大代表<br/>
 备注：<br/>
 这是他因为相同罪名，第2度入狱。前一次是1995年（本文前面有提及）。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E8%B3%88%E7%94%B2" rel="nofollow" target="_blank">贾甲</a>（民运人士）</b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E8%B3%88%E7%94%B2" rel="nofollow" target="_blank">贾甲</a>（学者，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利2年<br/>
 原因：2006年在香港发起成立“中华民主联邦共和国政府”。2007年发起成立“中国民主核心党”。<br/>
@@ -1130,22 +1133,22 @@
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：2009年发表了《关于江泽民的‘二奸二假’和政治诈骗问题与要求调查的呼吁》；2010年发表了《关于江泽民的假中共地下党员问题的最新证据》。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=645" rel="nofollow" target="_blank">金安迪</a>（自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1681" rel="nofollow" target="_blank">于钧艺</a>（吕加平之妻，政治异议人士）</b><br/>
+罪名：煽动颠覆国家政权罪<br/>
+判处：有期徒刑3年，缓刑5年，剥夺政治权利1年<br/>
+原因：吕加平之妻，因为替丈夫打字，被当作“同案犯”。<br/>
+<br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1683" rel="nofollow" target="_blank">金安迪</a>（自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利1年<br/>
 原因：吕加平同案犯。协助吕加平搜集资料、修改文章并在网上传播。<br/>
-<br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=646" rel="nofollow" target="_blank">于钧艺</a>（政治异议人士）</b><br/>
-罪名：煽动颠覆国家政权罪<br/>
-判处：有期徒刑3年，缓刑5年，剥夺政治权利1年<br/>
-原因：吕加平同案犯，吕加平之妻。<br/>
 <br/>
 <b>周岁雄（政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑1年零6个月<br/>
 原因：在柳州市公共场所散发政治宣传资料，张贴政治标语<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=1405" rel="nofollow" target="_blank">黄成城</a></b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=1405" rel="nofollow" target="_blank">黄成城</a></b><br/>
 罪名：以“煽动颠覆国家政权罪”刑拘<br/>
 判处：劳教2年<br/>
 原因：“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”期间，在网上邀请网友一起喝“花茶”<br/>
@@ -1155,7 +1158,7 @@
 判处：（此案被成都中院以“证据不足”退回）<br/>
 原因：在互联网发表异议文章；接受采访谈论“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1638" rel="nofollow" target="_blank">吴杨伟/笔名“野渡”</a>（网络作家，编辑）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1638" rel="nofollow" target="_blank">吴杨伟</a>（笔名“野渡”，网络作家，编辑）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权罪”刑拘<br/>
 判处：（未判，改为“监视居住”）<br/>
 原因：在互联网发表政治异议文章，接受境外媒体采访。<br/>
@@ -1163,29 +1166,29 @@
 拘留期间遭酷刑虐待，被长时间连续审问不准睡眠。<br/>
 从拘留时间看，可能与“茉莉花革命”有关。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1642" rel="nofollow" target="_blank">莫建刚</a>（自由撰稿人，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1642" rel="nofollow" target="_blank">莫建刚</a>（自由撰稿人，独立中文笔会会员）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权罪”刑拘<br/>
 判处：（以“取保候审”释放）<br/>
 原因：在互联网发表政治异议文章。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1650" rel="nofollow" target="_blank">刘士辉</a>（律师，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1650" rel="nofollow" target="_blank">刘士辉</a>（律师，自由撰稿人）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权罪”刑拘<br/>
 判处：（未判，改为“监视居住”）<br/>
 原因：2011年2月20日前往广州“茉莉花”集会处，遭警方殴打至两腿受伤，后接受采访谈及此事。<br/>
 备注：<br/>
 拘留期间遭酷刑虐待。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1646" rel="nofollow" target="_blank">刘正清</a>（律师，自由撰稿人，独立中文笔会会员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1646" rel="nofollow" target="_blank">刘正清</a>（律师，自由撰稿人，独立中文笔会会员）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权罪”刑拘<br/>
 判处：（未判，改为“监视居住”）<br/>
 原因：谈论中东北非“茉莉花革命”<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1617" rel="nofollow" target="_blank">唐才龙/笔名“华夏匹夫”</a>（退职干部，自由撰稿人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1617" rel="nofollow" target="_blank">唐才龙</a>（笔名“华夏匹夫”，退职干部，自由撰稿人）</b><br/>
 罪名：以“涉嫌诽谤罪”拘留，以“涉嫌煽动颠覆国家政权罪”逮捕和起诉<br/>
 判处：（以“取保候审”释放）<br/>
 原因：在海外华人网站发表异议文章3篇，揭露当地党政官员腐败行为，抨击中共一党独裁。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1679" rel="nofollow" target="_blank">高纯炼</a>（小学教师，博客作者）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1679" rel="nofollow" target="_blank">高纯炼</a>（小学教师，博客作者）</b><br/>
 罪名：以“煽动颠覆国家政权罪”逮捕<br/>
 判处：（以“取保候审”释放）<br/>
 原因：“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”期间，在博客上发表政治评论文章。<br/>
@@ -1204,12 +1207,12 @@
 1979年组建杭州民运刊物《四五月刊》。<br/>
 多次被捕，屡次被抄家。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=395" rel="nofollow" target="_blank">李铁</a>（退职干部，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1621" rel="nofollow" target="_blank">李铁</a>（笔名“华汉武”，武汉市物资局退职干部，政治异议人士）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权罪”拘留，以“颠覆国家政权罪”逮捕和判决<br/>
 判处：有期徒刑10年，剥夺政治权利3年<br/>
 原因：判决书称：在网上发表《人以尊严为天》等13篇文章，借着民主的名义，达到“推翻国家政权、和平演变”的目的。加入“中国社会民主党”，与境外敌对势力的网站联系。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%B5%B7%E6%B3%A2%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">曹海波</a>（网吧管理员）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1668" rel="nofollow" target="_blank">曹海波</a>（网吧管理员）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑8年，剥夺政治权利2年<br/>
 原因：在2010年创立网站和 QQ 群“振华会”。组建“中国共和党”。在网上发表《后三民主义——民主篇》。<br/>
@@ -1248,24 +1251,24 @@
 备注：<br/>
 她作为独立竞选人参选当地的人大代表，结果被当地警方带走。联名推荐她的人，全部遭到警方威胁。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1685" rel="nofollow" target="_blank">岗吉·志巴加/笔名“岗麦达”</a>（教师，藏语作家，藏文报《哈达》编辑）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1685" rel="nofollow" target="_blank">岗吉·珠巴嘉</a>（笔名“岗麦达/血火狮”，教师，藏语作家，藏文报《哈达》编辑）</b><br/>
 罪名：分裂国家罪<br/>
 判处：有期徒刑5年零6个月，剥夺政治权利2年<br/>
 原因：组织西藏反抗运动（Marchung Ngogol Tsokpa），向西藏流亡人士的《国际西藏邮报》（TPI）提供消息。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1697" rel="nofollow" target="_blank">吉美/久美</a>（青海藏族僧人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1697" rel="nofollow" target="_blank">吉美/久美</a>（青海藏族僧人）</b><br/>
 罪名：煽动分裂国家罪<br/>
 判处：有期徒刑5年<br/>
 原因：出版《赞普的勇气》两部书，在第二部中解释为何有那么多藏人自焚。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1699" rel="nofollow" target="_blank">刘本琦</a>（复员军人，自由职业者）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1699" rel="nofollow" target="_blank">刘本琦</a>（复员军人，自由职业者）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年<br/>
 原因：在互联网上批评政府，呼吁十八大期间到北京游行。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2420" rel="nofollow" target="_blank">黄文勋</a>（维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/58308" rel="nofollow" target="_blank">黄文勋</a>（笔名“黄子”，农民工，维权人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
-判处：有期徒刑4年<br/>
+判处：有期徒刑5年，剥夺政治权利3年<br/>
 原因：“赤壁事件”（参见备注）<br/>
 备注：<br/>
 黄文勋展开“光明中国梦”行动，到全国各地巡回——宣传民主，交流公民活动经验，要求官员公示财产。<br/>
@@ -1273,16 +1276,16 @@
 赤壁当地的维权人士“袁奉初、陈剑雄、李银莉“以及湖南的维权人士“袁小华”去声援。在活动即将结束时5人被当地警方逮捕。<br/>
 其中4人（黄文勋、陈剑雄、李银莉、袁小华）的罪名是“煽动颠覆国家政权罪”；而袁奉初的罪名是“颠覆国家政权罪”。<br/>
 黄文勋、袁奉初、陈剑雄、李银莉、袁小华5人，被称为“赤壁五君子”。<br/>
-<a href="http://xgmyd.com/archives/5520" rel="nofollow" target="_blank">刘士辉律师：黄文勋未经审判就判了4年 @ 新公民运动</a><br/>
+<a href="https://cmcn.org/archives/5520" rel="nofollow" target="_blank">刘士辉律师：黄文勋未经审判就判了4年 @ 新公民运动</a><br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2421" rel="nofollow" target="_blank">袁奉初/原名“袁兵”</a>（维权人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=2421" rel="nofollow" target="_blank">袁奉初</a>（原名“袁兵”，维权人士）</b><br/>
 罪名：以“颠覆国家政权罪”逮捕<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：“赤壁事件”（参见“黄文勋”条目）<br/>
 备注：<br/>
 黄文勋、袁奉初、陈剑雄、李银莉、袁小华5人，被称为“赤壁五君子”。<br/>
 <br/>
-<b><a href="http://www.64wiki.com/info/content.php?pid=2429" rel="nofollow" target="_blank">袁小华</a>（维权人士）</b><br/>
+<b><a href="https://www.64wiki.com/info/content.php?pid=2429" rel="nofollow" target="_blank">袁小华</a>（维权人士）</b><br/>
 罪名：以“煽动颠覆国家政权罪”逮捕<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：“赤壁事件”（参见“黄文勋”条目）<br/>
@@ -1311,7 +1314,7 @@
 原因：浦志强于2014年5月参加了一场由社科院学者<a href="https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81" rel="nofollow" target="_blank">徐友渔</a>组织、在北京电影学院教授郝建家中举行的私人聚会，与会者一同纪念天安门事件25周年。<br/>
 备注：<br/>
 1989年“六四运动”时，浦志强是中国政法大学首批参与绝食的学生。<br/>
-《<a href="http://cn.nytimes.com/china/20141120/cc20pu/" rel="nofollow" target="_blank">维权律师浦志强案已移送检察院 @ 纽约时报</a>》一文提及浦志强被追加的罪名。<br/>
+《<a href="https://cn.nytimes.com/china/20141120/cc20pu/" rel="nofollow" target="_blank">维权律师浦志强案已移送检察院 @ 纽约时报</a>》一文提及浦志强被追加的罪名。<br/>
 <br/>
 <b><a href="https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%C2%B7%E5%9C%9F%E8%B5%AB%E6%8F%90" rel="nofollow" target="_blank">伊力哈木·土赫提</a>（中央民族大学副教授）</b><br/>
 罪名：分裂国家罪<br/>
@@ -1329,23 +1332,23 @@
 “立人乡村图书馆”为中国民间教育公益机构，投身乡村图书馆事业，成立于2007年，先后在全国12个省市建立了22个分馆。从2012年开始被官方打压。<br/>
 文革期间，赵一凡、徐晓等人因参与地下文学的“通信沙龙”活动而入狱，罪名是〝参加第四国际反革命集团〞。<br/>
 <br/>
-<b><a href="https://zh.wikipedia.org/wiki/%E6%A2%81%E6%B5%B7%E6%80%A1" rel="nofollow" target="_blank">梁海怡/网名“渺小”</a></b><br/>
+<b><a href="https://zh.wikipedia.org/wiki/%E6%A2%81%E6%B5%B7%E6%80%A1" rel="nofollow" target="_blank">梁海怡</a>（网名“渺小”，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：有期徒刑3年，缓刑2年<br/>
 原因：“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”期间，在哈尔滨街头公开演讲。<br/>
 备注：<br/>
 2011年此案在哈尔滨开庭，但没有宣判。2014年转到广东从化（梁海怡原籍）开庭并宣判。<br/>
 她是参与“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%8C%89%E8%8E%89%E8%8A%B1%E9%9D%A9%E5%91%BD" rel="nofollow" target="_blank">中国茉莉花革命</a>”而被刑拘的第一人。<br/>
-<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9" rel="nofollow" target="_blank">王丹</a>在Facebook向梁海怡致敬：<q style="background-color:#DDD;">梁海怡在今天的政治高压下敢于这样做，她具备了比我们当年更大的勇气。</q><br/>
+<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B8%B9" rel="nofollow" target="_blank">王丹</a>在 Facebook 向梁海怡致敬：<q>梁海怡在今天的政治高压下敢于这样做，她具备了比我们当年更大的勇气。</q><br/>
 梁海怡在读书时曾经被评为“广东省省级三好学生”。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1073" rel="nofollow" target="_blank">姜力钧/原名“姜立军”</a>（自由撰稿人，政治异议人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1073" rel="nofollow" target="_blank">姜力钧</a>（原名“姜立军”，自由撰稿人，政治异议人士）</b><br/>
 罪名：煽动颠覆国家政权罪<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：在互联网上发表异见文章。<br/>
 备注：<br/>
 在2003年，他已经被定罪“煽动颠覆国家政权”。<br/>
-此次是第2度入狱，入狱后遭酷刑逼供（参见《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-09222014103102.html" rel="nofollow" target="_blank">辽宁异议人士姜力钧受酷刑险死 @ RFA/自由亚洲电台</a>》）<br/>
+此次是【第2度】入狱，入狱后遭酷刑逼供（参见《<a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-09222014103102.html" rel="nofollow" target="_blank">辽宁异议人士姜力钧受酷刑险死 @ RFA/自由亚洲电台</a>》）<br/>
 <br/>
 <b><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%91%9C" rel="nofollow" target="_blank">高瑜</a>（记者，专栏作家）</b><br/>
 罪名：泄露国家机密罪<br/>
@@ -1354,7 +1357,7 @@
 备注：<br/>
 这是她第2度以相同罪名被判刑。前一次是1994年（本文开头有提及）。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1121" rel="nofollow" target="_blank">徐光</a>（环保监测站科学工作者，自由撰稿人，民运人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1121" rel="nofollow" target="_blank">徐光</a>（环保监测站科学工作者，自由撰稿人，民运人士）</b><br/>
 罪名：颠覆国家政权罪<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：利用微信交流政治信息。<br/>
@@ -1370,7 +1373,7 @@
 唐荆陵、袁新亭、王清营三人，同日被捕，称为“广州三君子案”。三人都签署过《<a href="https://zh.wikipedia.org/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0" rel="nofollow" target="_blank">零八宪章</a>》。<br/>
 曾参与多起知名的维权事件（比如：<a href="/wiki/%E5%A4%AA%E7%9F%B3%E6%9D%91%E7%BD%A2%E5%85%8D%E4%BA%8B%E4%BB%B6" rel="nofollow" target="_blank">太石村罢免事件</a>）<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1764" rel="nofollow" target="_blank">王清营</a>（高校教师，维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1764" rel="nofollow" target="_blank">王清营</a>（高校教师，维权人士）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权”逮捕<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：在广州发起各种公民维权活动（“公民不合作”运动、“六四静思节”行动、“429林昭纪念日”活动）<br/>
@@ -1378,7 +1381,7 @@
 2014年5月被拘留，6月正式逮捕，罪名是“煽动颠覆国家政权”。<br/>
 唐荆陵、袁新亭、王清营三人，同日被捕，称为“广州三君子案”。三人都签署过《零八宪章》。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/1766" rel="nofollow" target="_blank">袁朝阳/笔名“袁新亭”</a>（出版社编辑，自由撰稿人，维权人士）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/1766" rel="nofollow" target="_blank">袁朝阳</a>（笔名“袁新亭”，出版社编辑，自由撰稿人，维权人士）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权”逮捕<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：在广州发起各种公民维权活动（“公民不合作”运动、“六四静思节”行动、“429林昭纪念日”活动）<br/>
@@ -1386,7 +1389,7 @@
 2014年5月被拘留，6月正式逮捕，罪名是“煽动颠覆国家政权”。<br/>
 唐荆陵、袁新亭、王清营三人，同日被捕，称为“广州三君子案”。三人都签署过《零八宪章》。<br/>
 <br/>
-<b><a href="http://www.penchinese.org/blog/archives/3639" rel="nofollow" target="_blank">徐志强/圣观法师</a>（僧人）</b><br/>
+<b><a href="https://www.chinesepen.org/blog/archives/3639" rel="nofollow" target="_blank">徐志强/圣观法师</a>（僧人）</b><br/>
 罪名：以“涉嫌煽动颠覆国家政权”逮捕<br/>
 判处：（截止俺写本文时，尚未宣判）<br/>
 原因：2006年在江西宜春化成寺担任监寺期间，为"六四死难者"举行超度仪式；2011年到印度德里拜见藏人精神领袖<a href="https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B" rel="nofollow" target="_blank">达赖喇嘛</a>。<br/>
@@ -1401,12 +1404,15 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a><br/>
-<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通</a><br/>
-<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a><br/>
-<a href="../../2011/12/revolution-0.md">谈革命</a>（系列）<br/>
-<a href="../../2014/01/anti-brainwashing-and-enlightenment.md">如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验</a><br/>
-<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>（系列）
+《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
+《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
+《<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清【言论自由】的各种误区</a>》<br/>
+《<a href="../../2013/11/political-reform-or-economic-reform.md">若政治制度不公平，则经济改革无意义——谈谈天朝这个大赌场</a>》<br/>
+《<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是啥货色——兼谈“议会道路的改良”行不通</a>》<br/>
+《<a href="../../2020/06/Common-Law.md">如何理解“英美法系”（普通法系）——从“英国古代史”聊到“香港国安法”</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2014/01/anti-brainwashing-and-enlightenment.md">如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验</a>》<br/>
+《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）
 </div>
 
 

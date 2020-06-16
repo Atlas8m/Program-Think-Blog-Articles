@@ -7,9 +7,9 @@
 <a name="more"></a><br/>
 <br/>
 <h2>★事先声明</h2><br/>
-　　TrueCrypt 项目已经在2014年死亡，俺写了一篇《<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a>》。<br/>
-　　然后，俺在2015年介绍了 TrueCrypt 的替代品，参见《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》。<br/>
-　　<b>虽然 TrueCrypt 已经死亡，但是它的替代品（VeraCrypt），完全兼容 TrueCrypt 原有的功能。所以本文介绍的内容，依然有用。</b><br/>
+　　TrueCrypt 项目已经在2014年死亡，当时俺写了一篇《<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a>》。<br/>
+　　又过了一年（2015），俺介绍了 TrueCrypt 的【完美替代品】，参见《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》。<br/>
+　　<b>虽然 TrueCrypt 已经死亡，但是它的替代品（VeraCrypt）完全兼容 TrueCrypt【所有的】功能。所以本文的内容以及下面列出的系列教程，依然是有用滴！</b><br/>
 　　本文主要介绍 TrueCrypt 的特色，【不是】详细的教程。更详细的使用介绍，参见下面列出的4篇。<br/>
 <br/>
 <a name="index"> </a><br/>
@@ -136,6 +136,7 @@
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
 《<a href="../../2014/06/truecrypt-dead.md">分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施</a>》
 </div>

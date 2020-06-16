@@ -6,12 +6,11 @@
 　　很抱歉，又拖了好几天才更新博文。最近实在太忙了 :( 而且这篇博文的内容比较杂，整理起来也有点费时。<br/>
 　　（本文发出后，俺顺便清理了博客管理界面的“留言垃圾箱”，里面有30多条“被 Google 误判为垃圾广告的留言”，刚才都已经恢复了）<br/>
 <br/>
-<br/>
 <h2>★引子</h2><br/>
 　　9月底，TrueCrypt 曝光了高危安全漏洞。于是俺在10月初写了<a href="../../2015/10/VeraCrypt.md">一篇教程</a>，介绍 VeraCrypt 这个替代品——它可以完全覆盖 TrueCrypt 原有的功能，并且在安全方面还所有增强（比如用 PIM 来对抗“抗暴力破解”）。<br/>
 　　那篇博文发出后，有些读者担心这个 VeraCrypt 本身是否可靠，是否会有后门。从目前 VeraCrypt 的口碑来看，这款工具应该还是比较靠谱滴！当然，俺无法向你担保 VeraCrypt 一定没有后门（谁都没法打这个包票）。<br/>
 　　为了照顾那些“对安全性要求【特别高】的同学”，今天来介绍另一款磁盘加密工具——Linux 内核自带的“dm-crypt”。<br/>
-　　另外，在本文的结尾部分，俺还会聊到：如何在【不使用】TrueCrypt/VeraCrypt 软件的情况下，使用它们的加密盘。<br/>
+　　另外，在本文的结尾部分，俺还会聊到：如何在【不使用】TrueCrypt/VeraCrypt 软件的情况下，挂载它们的加密盘。<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★本文的目标读者</h2><br/>
@@ -58,16 +57,16 @@
 　　有空的话，俺再单独写一篇关于 LVM 的扫盲（又是一个坑）<br/>
 <br/>
 <br/>
-<h2>★“dm-crypt”与“TrueCrypt/VeraCrypt”的对比</h2><br/>
+<h2>★dm-crypt VS TrueCrypt/VeraCrypt</h2><br/>
 　　为了让大伙儿有个直观的认识，俺整理了如下的对照表。通过对比，你可以大致了解 dm-crypt 相对于“TrueCrypt和VeraCrypt”的优缺点。<br/>
 　　再次提醒：dm-crypt 的 TCRYPT 模式，需要 cryptsetup 的版本号大于等于【1.6.0】才行。<br/>
 <br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr><th>功能点</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt / VeraCrypt</th></tr>
-<tr><td>支持的操作系统</td><td>Linux</td><td>Linux</td><td>Windows<br/>
+<tr style="background:lightgrey;"><th>功能点</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt / VeraCrypt</th></tr>
+<tr><td style="background:lightgrey;">支持的操作系统</td><td>Linux</td><td>Linux</td><td>Windows<br/>
 Linux<br/>
 Mac OS</td></tr>
-<tr><td>支持的加密算法</td><td>AES<br/>
+<tr><td style="background:lightgrey;">支持的加密算法类型</td><td>AES<br/>
 Twofish<br/>
 Serpent</td><td>AES<br/>
 Twofish<br/>
@@ -84,19 +83,20 @@ Serpent-AES<br/>
 Twofish-Serpent<br/>
 AES-Twofish-Serpent<br/>
 Serpent-Twofish-AES</td></tr>
-<tr><td>支持多重加密算法</td><td><b>NO</b></td><td>Yes</td><td>Yes</td></tr>
-<tr><td>物理分区加密</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>虚拟分区加密</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>无系统分区的全盘加密</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>含系统分区的全盘加密</td><td>YES</td><td><b>NO</b></td><td>仅限 Windows</td></tr>
-<tr><td>加密系统分区</td><td>Yes</td><td><b>NO</b></td><td>仅限 Windows</td></tr>
-<tr><td>基于“密码”的认证</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>基于“Keyfiles”的认证</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>修改认证因素</td><td>Yes</td><td><b>NO</b></td><td>Yes</td></tr>
-<tr><td>加密系统分区并用 Keyfiles 认证</td><td>Yes</td><td><b>NO</b></td><td><b>NO</b></td></tr>
-<tr><td>隐藏卷（Plausible Deniability）</td><td><b>NO</b></td><td>Yes</td><td>Yes</td></tr>
-<tr><td>操作外层卷并对隐藏卷写保护</td><td><b>NO</b></td><td><b>NO</b></td><td>Yes</td></tr>
-<tr><td>自定义“生成密钥的迭代次数”</td><td>Yes</td><td><b>NO</b></td><td>仅 VeraCrypt</td></tr>
+<tr><td style="background:lightgrey;">支持多重加密算法（多算法级联）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密【物理】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密【虚拟】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【无】系统分区的全盘加密</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【含】系统分区的全盘加密</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
+<tr><td style="background:lightgrey;">基于“密码”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">基于“Keyfiles”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">修改认证因素</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区并用 Keyfiles 认证</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td></tr>
+<tr><td style="background:lightgrey;">隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">操作外层卷并对隐藏卷写保护</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">自定义“生成密钥的迭代次数”</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅 VeraCrypt</td></tr>
+<tr><td style="background:lightgrey;">加密格式的模糊性</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
 </tbody></table></center><br/>
 <br/>
 <h2>★预备知识</h2><br/>
@@ -304,7 +304,7 @@ RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，�
 　　大体上，这些发行版的安装过程，都有一个步骤是“硬盘分区”。在这个步骤，会提供相关的“加密选项”。<br/>
 　　对于想要进行全盘加密的同学，装系统过程中进行分区的时候，要把 <code>/boot</code> 单独分一个区。并且这个分区是【不能】加密的——因为 <code>/boot</code> 要用来放置引导管理器与内核。<br/>
 <br/>
-<h3>◇“全盘加密”的弱点</h3><br/>
+<h3>◇“全盘加密”的【弱点】</h3><br/>
 　　从理论上讲：任何一种磁盘加密工具，（在不借助外部机制的情况下）都【不可能】实现真正的“自启动全盘加密”。<br/>
 　　为啥捏？因为要想【自启动】，必须要有一个引导程序，至少这个引导程序不能加密（引导程序如果被加密了，就无法引导了）。所以，凡是能够实现“自启动全盘加密”的，其【引导程序】都是明文的（无加密的）<br/>
 　　比如 TrueCrypt 和 VeraCrypt 进行全盘加密，都会替换原有的主引导扇区的内容，在里面放入一段代码。这段代码会在开机启动的时候，提示你输入密码，然后用你输入的密码进行解密。<br/>
@@ -314,7 +314,7 @@ RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，�
 　　攻击举例：<br/>
 　　如果某个攻击者可以物理接触你的电脑，此人完全可以把你硬盘上的引导程序替换为一个假的引导程序。当你开机启动的时候，这个【假的】引导程序照样会提示你输入解密的密码。如此一来，你的密码就泄漏了。<br/>
 <br/>
-<h3>◇如何防范“全盘加密的弱点”</h3><br/>
+<h3>◇如何防范“全盘加密的【弱点】”</h3><br/>
 　　常规的防范措施有如下几种：<br/>
 <br/>
 　　<b>方法1——采用 BIOS 提供的“硬盘口令”功能</b><br/>
@@ -398,6 +398,7 @@ RedHat Enterprise Linux（RHEL）</blockquote>　　由于不同的发行版，�
 《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》<br/>
 《<a href="../../2013/08/truecrypt-3.md">TrueCrypt 使用经验[3]：关于加密盘的破解和防范措施</a>》<br/>
 《<a href="../../2013/10/truecrypt-4.md">TrueCrypt 使用经验[4]：关于隐藏卷的使用和注意事项</a>》<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>

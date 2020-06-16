@@ -7,8 +7,8 @@
 　　顺便说一下：上周日（16日）俺曾经在博客评论区出现过。所以这次静默的时间并不长，大伙儿无需担心。<br/>
 <br/>
 <hr/>　　本来这周要写另一个话题的博文，但是7月15日看到孙政才被拿下，俺就预感到后面有好戏，先观望了一周。果不其然，栗战书紧接着也被爆出丑闻。今天这篇就来聊聊近期高层的权斗（纯属政治八卦，顺便抹黑朝廷）。<br/>
-　　有句话俺要再次唠叨：随着十九大的临近，将来还会有更多好戏 :)<a name="more"></a><br/>
-<br/>
+　　有句话俺要再次唠叨：随着十九大的临近，将来还会有更多好戏 :)<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★关于王岐山（东厂王公公）的官方报道和小道消息</h2><br/>
 <center><img alt="不见图 请翻墙" src="images/9YCOwi6gvi8ns4673EIkeETtz5LlLOHfZJ2EkxZLfIoM8v4njhaVZ2qhwyjHzdyu-8zkp53ogHIOOb3lgVc_wrshjIcLJUZXRgJWE8D3OrW-QncIMdssBRrdAUHmBp6TMGQzNEApuyQ"/></center><br/>
@@ -236,16 +236,17 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2017/04/weekly-share-112.md">每周转载：郭文贵撕逼王岐山——网友热议“海航、高空寻欢、习王斗”（多图）</a><br/>
-<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a><br/>
-<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br/>
-<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a><br/>
-<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a><br/>
-<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a><br/>
-<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a><br/>
-<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a><br/>
-<a href="../../2016/02/Zhao-at-GitHub.md">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a>
+《<a href="../../2017/04/weekly-share-112.md">每周转载：郭文贵撕逼王岐山——网友热议“海航、高空寻欢、习王斗”（多图）</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2017/09/weekly-share-116.md">每周转载：习呆呆上台五周年，糗事一箩筐（图片及网友评论）</a>》<br/>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
+《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》
 </div>
 
 

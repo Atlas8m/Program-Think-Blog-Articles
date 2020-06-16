@@ -1481,6 +1481,8 @@ joynow：<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2019/04/996-Working-Hour-System.md">“996工作制”只不过是【劫贫济富】的缩影——“马云奇葩言论”随想</a>》<br/>
 《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2020/06/Common-Law.md">如何理解“英美法系”（普通法系）——从“英国古代史”聊到“香港国安法”</a>》<br/>
+《<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清【言论自由】的各种误区</a>》<br/>
 《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>
 《<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a>》<br/>
 《<a href="../../2014/11/political-offences-in-china.md">被判“谋反罪”的都是哪些人？——“危害国家安全罪”出笼20年随想</a>》<br/>

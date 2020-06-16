@@ -6,8 +6,8 @@
 <center><img alt="不见图 请翻墙" src="images/HBzJTDyl3fbFY3fG8RRMu4Yo2Xa7F6SWSCT2zMQSRQ0lPqgANgzaDXXomnceOHm0yVoxSEUCd7igS_sTykTIY_Dqc8qysCymq8jewK1VfVtT8Zyi8RpGo3W4TttgG8wveHvYP--vz_M"/></center><br/>
 　　原计划这篇《每周转载》应该聊聊 “于欢案/辱母杀人案” 或者是 “泸州太伏离奇死亡事件”。但是前几天郭文贵与朝廷方面【狗咬狗】，由此引发的轰动效应，犹如当年的王立军（王立军叛逃美国领事馆，也是一出狗咬狗的宫廷大戏）。<br/>
 　　熟悉本博客的老读者应该都知道：俺一贯丧心病狂地攻击党和国家领导人。这次逮到这么好的机会，当然不能错过 :)<br/>
-　　在本文开篇，先提醒大伙儿一下：今年是2017年，也就是召开【十九大】的年份。大伙儿可以回顾一下2012年（那年召开十八大），出了多少精彩的宫廷大戏（全都是狗咬狗）。所以，今年是非常值得期待的一年，应该会有一些好戏上场 :)<a name="more"></a><br/>
-<br/>
+　　在本文开篇，先提醒大伙儿一下：今年是2017年，也就是召开【十九大】的年份。大伙儿可以回顾一下2012年（那年召开十八大），出了多少精彩的宫廷大戏（全都是狗咬狗）。所以，今年是非常值得期待的一年，应该会有一些好戏上场 :)<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★美国之音（VOA）直播郭文贵访谈，中途被掐掉</h2><br/>
 （编程随想注：<br/>
@@ -795,10 +795,11 @@ ccming：<br/>
 <center><img alt="不见图 请翻墙" src="images/4_CsmhYgYR41mqZGHzJrAaual-L4we1lPBJ4SzdyASp5JUpLIfEeRDTa1Jx9gGYpxMYcJgILSIEzXDNaBcEGSGiA830imoPGUgoyf5-WFuamD_YN-aUlYaBXyfRKw8BEK2Nbvbmyg-c"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2017/07/Chinese-Leaders-Power-Struggle-WangQishan-SunZhengcai-LiZhanshu.md">八卦一下“十九大”高层权斗：王岐山高调现身，孙政才黯然落马，栗战书惹上麻烦</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
 《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
 《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
-《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
 《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》<br/>
 《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>

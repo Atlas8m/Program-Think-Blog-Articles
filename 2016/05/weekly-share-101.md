@@ -626,6 +626,7 @@ redfireage：<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2019/05/weekly-share-129.md">每周转载：中国智商税简史</a>》<br/>
 《<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a>》<br/>
 《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>

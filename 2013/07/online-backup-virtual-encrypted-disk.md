@@ -3,24 +3,17 @@
 -----
 
 <div class="post-body entry-content">
-<h2>★先插播一段鸣谢和站务通告</h2><br/>
-　　前几天（23日）已经把原先存放在 SkyDrive 的电子书全部同步到 Dropbox。另外，<a href="https://github.com/programthink/books" target="_blank">电子书清单</a>已经补充了 Dropbox 的下载链接。想下载电子书的网友，今后可以从这两个网盘任选其一。<br/>
-　　在此，<b>郑重感谢几十位帮俺扩容 Dropbox 空间的网友，你们的帮助会激励俺分享更多电子书</b>。<br/>
-　　顺便提醒一下：<br/>
-　　仅仅点击俺的邀请链接进行注册，并不会给俺增加 500 MB 空间；需要在注册成功之后，再安装 Dropbox 客户端才会真正扩容。<br/>
-　　另外，根据 <a href="https://www.dropbox.com/pricing_terms" rel="nofollow" target="_blank">Dropbox 的服务条款</a>，<b>免费帐号如果连续90天不使用，可能会被强制销户</b>。目前俺不清楚的是：如果某个帮俺扩容的网友被销户，俺网盘扩容的空间是否被收回？<br/>
-　　如果还有其他网友想要开通 Dropbox，可以继续点击<a href="http://db.tt/fRYKnoQ2" rel="nofollow" target="_blank">俺的邀请链接</a>，双方都可以增加 500 MB（确实想使用 Dropbox 的再点击）。<a name="more"></a><br/>
-<hr/><br/>
-<h2>★名词解释</h2><br/>
-　　今天要讲的招数，其实在3月份的博文《<a href="../../2013/03/google-reader-dead.md">Google Reader 之死——原因分析、应对措施、教训</a>》中已经稍微提到过了。当时俺承诺说：抽空单独写一篇介绍，所以就有了今天这篇博文。<br/>
-　　在进入正题之前，先稍微做一下名词解释。“网盘”就不用解释了吧？大伙儿应该都明白。“加密盘”这个概念，技术菜鸟可能没听过，俺稍微解释一下。<br/>
+　　今天要聊的招数，其实在前不久（2013年3月）的博文《<a href="../../2013/03/google-reader-dead.md">Google Reader 之死——原因分析、应对措施、教训</a>》中已经稍微提到过了。当时俺承诺说：抽空单独写一篇介绍，所以就有了今天这篇博文。<br/>
+<a name="more"></a><br/>
+<br/>
+<h2>★名词解释</h2>　　在进入正题之前，先稍微做一下名词解释。“网盘”就不用解释了吧？大伙儿应该都明白。“加密盘”这个概念，技术菜鸟可能没听过，俺稍微解释一下。<br/>
 <br/>
 　　磁盘加密有两种常见的类型：物理加密盘 和 虚拟加密盘。下面分别介绍。<br/>
 <br/>
 <h3>◇物理加密盘</h3><br/>
 　　磁盘加密工具直接对你的某个分区（或整个硬盘）进行加密。加密之后，该分区（或硬盘）上存储的数据全部变成密文。即使有人盗取你的硬盘，也无法读取其中存储的数据。<br/>
 <br/>
-<h3>◇虚拟加密盘</h3><br/>
+<h3>◇虚拟加密盘（virtual volume）</h3><br/>
 　　加密工具先创建一个虚拟分区。这个虚拟分区其实对应于物理硬盘上的一个大文件（以下称“卷文件”）。你创建的虚拟分区有多大，这个“卷文件”就有多大。然后捏，加密工具可以挂载（Mount）该文件，挂载之后，你的系统会多出一个盘符。给你的感觉就好象多了一块硬盘（虚拟硬盘）。你存放到这个虚拟硬盘上的数据，都自动被加密。<br/>
 <br/>
 <h3>◇优缺点对比</h3><br/>
@@ -61,9 +54,15 @@
 <br/>
 <br/>
 <h2>★磁盘加密软件的选择</h2><br/>
-　　在《<a href="../../2013/06/privacy-protection-1.md">如何保护隐私[1]：关于软件和服务的选择</a>》一文中，俺提到商业公司和非营利组织的差异，也提到开源软件和闭源软件的差异。那篇博文提到的原则也适用于磁盘加密工具的选型。比如10年俺用的是 PGPdisk，前几年就改用 TrueCrypt。因为 PGP 是商业公司（已经被 Symantec 收购），而 TrueCrypt 是开源组织维护的。<br/>
+　　在《<a href="../../2013/06/privacy-protection-1.md">如何保护隐私[1]：关于软件和服务的选择</a>》一文中，俺提到商业公司和非营利组织的差异，也提到“开源软件”与“闭源软件”的差异。那篇博文提到的原则也适用于磁盘加密工具的选型。比如早些年俺用的是 PGPdisk，2010年之前已经改用 TrueCrypt。因为 PGP 是商业公司（已经被 Symantec 收购），而 TrueCrypt 是开源组织维护的。<br/>
 　　到目前为止，TrueCrypt 是最靠谱的磁盘加密工具。这玩意儿不光功能齐全，而且应用很广；当然最重要还是它的坚固性——据说美国 FBI 碰到嫌犯使用的 TrueCrypt 加密盘也束手无策。<br/>
 　　关于 TrueCrypt，俺在2011年写过一篇介绍《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt——文件加密的法宝</a>》。没用过的同学，不妨先看看。<br/>
+<br/>
+　　<b>补充说明</b><br/>
+　　本文写于2013年7月。而 TrueCrypt（以下简称 TC）这个开源项目已经在2014年死掉了 :(<br/>
+　　不过别担心！ TC 的替代品 VeraCrypt（以下简称 VC）已经能完全兼容 TC 的功能和加密盘格式。另外，集成到 Linux 内核的 dm-crypt 也支持 TC 的加密格式。相关教程参见如下几篇博文：<br/>
+《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
 <br/>
 <br/>
 <h2>★网盘的选择</h2><br/>
@@ -122,6 +121,7 @@
 《<a href="../../2011/05/recommend-truecrypt.md#index">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）
 </div>
 

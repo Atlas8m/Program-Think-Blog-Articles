@@ -655,12 +655,12 @@ qcyl：<br/>
 <center><img alt="不见图 请翻墙" src="images/1cgioX4htBLV3-8t_zxftYYOJwji2yuNRBeuzb7-BoBpFhuWj8V0lweT65b1o2ngr6Fex4RQJBEUDtUJIqApCAIdH7BG5tUmAvaWWK7E_35I3G0YRqsxpwY-XUPyAnkRMNKCAO-jSvE"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/01/doublethink.md">比“欺骗”更有效的洗脑——基于【双重思想】的思维控制</a><br/>
-<a href="../../2018/07/weekly-share-123.md">每周转载：关于“全国性疫苗丑闻”的引申阅读（网文5篇）</a><br/>
-<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a><br/>
-<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a><br/>
-<a href="../../2013/04/weekly-share-46.md">每周转载：关于禽流感的网友评论</a>
+《<a href="../../2018/07/weekly-share-123.md">每周转载：关于“全国性疫苗丑闻”的引申阅读（网文5篇）</a>》<br/>
+《<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》 <br/>
+《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/04/weekly-share-46.md">每周转载：关于禽流感的网友评论</a>》
 </div>
 
 

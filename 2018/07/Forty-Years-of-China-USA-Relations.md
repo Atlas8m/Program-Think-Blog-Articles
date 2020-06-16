@@ -160,7 +160,9 @@
 　　他长期被评价为“超级鹰派”（鹰派中的鹰派），不信请看他在公开场合说过的一些话（引用自“<a href="https://www.voachinese.com/a/strait-talk-white-house-20180325/4315431.html" rel="nofollow" target="_blank">美国之音的报道</a>”）：<br/>
 <blockquote>他支持台湾自决，在2007年访台时曾主张美国应该跟台湾恢复全面的外交关系，他认为这符合美国的最佳利益。<br/>
 他更早在1994年时，就主张美国应支持台湾成为联合国的完全会员。<br/>
-台湾前总统李登辉发表“特殊两国论”时，博尔顿也表示支持。</blockquote><br/>
+台湾前总统李登辉发表“特殊两国论”时，博尔顿也表示支持。</blockquote>　　补充说明：<br/>
+　　本文发布之后，又过了一年（2019年9月），“国家安全顾问”换成<a href="https://en.wikipedia.org/wiki/Robert_C._O%27Brien_(attorney)" rel="nofollow" target="_blank">罗伯特·欧布莱恩</a>。此人同样也很强硬，其强硬态度体现在他2016年出版的一本书《沉睡的美国——恢复美国在危机中的领导地位》。<br/>
+<br/>
 <h3>◇同样是超级鹰派的国务卿<a href="https://en.wikipedia.org/wiki/Mike_Pompeo" rel="nofollow" target="_blank">蓬佩奥</a></h3><br/>
 <center><img alt="不见图 请翻墙" src="images/lHzt-knGKVw8WxzuKVYKIRkhUpt5h4FxB0bsUJNFw7GHOUa487eOLMUibyv8GIL_taHltXyidDS27jfuwvFRwvsssFCPCNL4GDhteAMvaWMRXlqgT7eDqnjD8r5jXYH6FEKKaOeI-AQ"/><br/>
 （蓬佩奥）</center><br/>

@@ -78,10 +78,12 @@
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2012/07/form-of-government.md">扫盲各种政治体制</a>》<br/>
 《<a href="../../2012/07/form-of-government-in-china.md">聊聊天朝的政治体制</a>》<br/>
 《<a href="../../2012/03/national-people-congress.md">看看全国人大代表都是些什么货色——兼谈“议会道路的改良”行不通</a>》<br/>
 《<a href="../../2013/03/princelings.md">俺整理的＜太子党关系网络＞</a>》<br/>
+《<a href="../../2011/12/revolution-0.md">谈革命</a>》（系列）<br/>
+《<a href="../../2020/06/Common-Law.md">如何理解“英美法系”（普通法系）——从“英国古代史”聊到“香港国安法”</a>》<br/>
 《<a href="../../2016/06/USA-Separation-of-Powers-with-Balances.md">聊聊美国政体中的权力制衡——不仅仅是三权分立</a>》<br/>
 《<a href="../../2012/05/weekly-share-3.md">每周转载：关于天朝的政治改革（4篇）</a>》
 </div>

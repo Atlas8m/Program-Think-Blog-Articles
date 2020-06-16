@@ -4,13 +4,13 @@
 
 <div class="post-body entry-content">
 <center><img alt="不见图 请翻墙" src="images/u_Kg6ew3h3RwDWTHuimy-G8-ZBDadQAzGcfsJq1MmRtjxEAlUGJAWbNrUeOSoIuHuFeL2IUSO7PYDKmqH94cX6iJ9o5RWKlBpl5q4-meDhB89BF7hLyhu5PmDBn4S4pk_SFFsp2Zuss"/></center><br/>
-　　最近两天，疫苗丑闻【又一次】震动朝野。涉及到儿童的食品/药品丑闻，打击面总是非常广，而且毫无疑问会进一步削弱朝廷的统治基础。俺当然也要利用这个机会，抹黑一下伟光正。<a name="more"></a><br/>
-<br/>
+　　最近两天，疫苗丑闻【又一次】震动朝野。涉及到儿童的食品/药品丑闻，打击面总是非常广，而且毫无疑问会进一步削弱朝廷的统治基础。俺当然也要利用这个机会，抹黑一下伟光正。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★疫苗之王</h2><br/>
 《<a href="https://chinadigitaltimes.net/chinese/2018/07/%e5%85%bd%e6%a5%bc%e5%a4%84-%e7%96%ab%e8%8b%97%e4%b9%8b%e7%8e%8b/" rel="nofollow" target="_blank">疫苗之王 @ 中国数字时代</a>》<br/>
 （编程随想注：此文最早发布于<a href="https://mp.weixin.qq.com/s/hkyOFUCqB86iWwdQOrWKdQ" rel="nofollow" target="_blank">微信公号“兽楼处”</a>。很显然，此文已经被和谐。俺贴出的是墙外网站的转载，以下是【全文】摘录）<br/>
-<blockquote style="background-color:#DDD;">2001年，东北一家国有疫苗公司悄无声息进行改制。多年后再回首，人们才明白其中意义。<br/>
+<blockquote>2001年，东北一家国有疫苗公司悄无声息进行改制。多年后再回首，人们才明白其中意义。<br/>
 那年的9月18日，上市公司长春高新旗下的长生生物迎来了两位新的股东——韩刚君和杜伟民。<br/>
 韩刚君用1932万元买下了长生生物 30% 的股权，成为第二大股东；他和杜伟民的合资公司则成为了长生的小股东。<br/>
 杜伟民是长生生物的销售总监。<br/>
@@ -779,7 +779,7 @@ dachiyidun：<br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　在本文结尾，引用几句名言：<br/>
-<blockquote style="background-color:#DDD;">你可以不关心政治，但政治会来关心你。<br/>
+<blockquote>你可以不关心政治，但政治会来关心你。<br/>
 <br/>
 一切拥有权力的人都有滥用权力为自己谋求私利的倾向<br/>
 ——孟德斯鸠<br/>
@@ -796,13 +796,14 @@ dachiyidun：<br/>
 天朝的每一个重大社会新闻，都是绝好的移民广告。</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/07/weekly-share-123.md">每周转载：关于“全国性疫苗丑闻”的引申阅读（网文5篇）</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a><br/>
-<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a><br/>
-<a href="../../2017/11/weekly-share-117.md">每周转载：携程托儿所虐童事件（各方评论及照片、视频）</a><br/>
-<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>
+《<a href="../../2018/07/weekly-share-123.md">每周转载：关于“全国性疫苗丑闻”的引申阅读（网文5篇）</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a>》<br/>
+《<a href="../../2017/11/weekly-share-117.md">每周转载：携程托儿所虐童事件（各方评论及照片、视频）</a>》<br/>
+《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》
 </div>
 
 

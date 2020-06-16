@@ -12,7 +12,7 @@
 <center><img alt="不见图 请翻墙" src="images/WO3fsZGf9aeoQLxEiyta0s4Vvogdzom2hrP6cznYlsuj0sLtv6fY8ibEv7p4iFtVLH4ndlTsBLdqiRbdHPYF2H6kMEaKKChtvAM3nPUAhh8tSb7zI-A2HbVExiMDn7iIOvPUio5AljM"/></center><br/>
 　　关于这个淫僧的简历，可以参见维基百科（链接在“<a href="https://zh.wikipedia.org/wiki/%E9%87%8A%E5%AD%A6%E8%AF%9A" rel="nofollow" target="_blank">这里</a>”）<br/>
 　　此人头上有相当多光环，至少包括：<br/>
-<blockquote style="background-color:#DDD;">中国佛教协会会长<br/>
+<blockquote>中国佛教协会会长<br/>
 中国宗教学会副会长<br/>
 全国政协常委<br/>
 全国政协民族和宗教委员会副主任<br/>
@@ -22,7 +22,7 @@
 福建莆田广化寺方丈<br/>
 陕西扶风法门寺方丈<br/>
 ......</blockquote>　　了解天朝官场的同学，多半能猜到——此人必有后台。根据外媒爆料：<br/>
-<blockquote style="background-color:#DDD;">释学诚仕途发迹的后台是曾长期把持佛教界的【赵朴初】。<br/>
+<blockquote>释学诚仕途发迹的后台是曾长期把持佛教界的【赵朴初】。<br/>
 1988年，福建莆田广化寺方丈毅然法师退居，赵朴初“力排众议”，举荐仍在学习中的释学诚担任住持，年仅23岁的释学诚成了当时年纪最轻的名寺方丈。<br/>
 1989年释学诚又被任命为中佛协副秘书长，当时的中佛协会长、中国佛学院院长仍是赵朴初。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/Qvt7Ap--ycSaJ60KsYwLa-QQhW70rgJzFuZNkCEuJ9HyfHktBVdEFtkw9PxLuSdeg0--uc_2aqDPTH9HtP85DXbwueBSfvw7TD3TLYf6hQsnFBVKDpPly4z0jrLuKYESzylU1qSzpB0"/><br/>
@@ -36,7 +36,7 @@
 　　举报人是淫僧的两位徒弟，分别是释贤启（俗名“杜启新”）、释贤佳（俗名“刘新佳”），这俩都是清华理工科博士，两人合写了一份长达95页的举报材料。这份举报材料被网友称作是【博士论文级别】——其中的条理清晰、逻辑严密、证据确凿。而且还处处引用佛教经书......<br/>
 　　（注：举报材料的 PDF 已经上传到“<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>”，放到“政治类 / 中国 / 腐败问题”目录下）<br/>
 　　由于举报材料太长（95页），俺只列出目录部分（对应 PDF 的第 2 ~ 4 页）：<br/>
-<blockquote style="background-color:#DDD;">目录<br/>
+<blockquote>目录<br/>
 <br/>
 一、性骚扰短信带来的发现<br/>
 (一)释学诚向多位出家女弟子发出性骚扰短信<br/>
@@ -99,14 +99,14 @@
 附件四 比丘尼释贤甲(化名)与释学诚短信互动始末<br/>
 附件五 财务信息</blockquote><br/>
 　　考虑到这篇举报材料很长，估计某些同学没耐心看完，俺摘录其中部分如下：<br/>
-<blockquote style="background-color:#DDD;">我们通过律师咨询了国家公安部、最高人民检察院的技术侦查部和移动通讯的技术主管。专家们一致回复：目前不存在盗号和伪机站入侵的可能，入侵服务器并更改记录更是天方夜谭，司法系统以服务器记录的信息为有效法律证据。当时的我们都不相信释学诚会做出这种无聊的事情。为弄清真相，找到真凶，我们通过法律程序，取得相关的释学诚手机短信记录。<br/>
+<blockquote>我们通过律师咨询了国家公安部、最高人民检察院的技术侦查部和移动通讯的技术主管。专家们一致回复：目前不存在盗号和伪机站入侵的可能，入侵服务器并更改记录更是天方夜谭，司法系统以服务器记录的信息为有效法律证据。当时的我们都不相信释学诚会做出这种无聊的事情。为弄清真相，找到真凶，我们通过法律程序，取得相关的释学诚手机短信记录。<br/>
 <br/>
 然而，短信记录不仅粉碎了我们的预想，更给我们带来无比震惊的事实：在 2017 年 12 月底至 2018 年 2 月初的手机短信记录中，除贤甲外,释学诚还同时与极乐寺其他 5 位出家女弟子有着男女性话题的短信交流（<b>详见附件二《淫秽短信摘录》</b>）。<br/>
 确实如贤甲所说,在短信互动中,释学诚诱导或胁迫出家女弟子突破道德和戒律上的心理防线,让她们答应其性需求。不同女弟子的对话程度深浅不一，其中 4 位女弟子或顺从、或经历犹疑挣扎，终究答应了释学诚的性需求；另外 2 位女弟子的警惕和防御相对强一些，但面对不息不饶的短信，她们的立场也开始产生动摇。</blockquote><br/>
 　　举报材料中还附上了若干微信截图作为证据（截图如下）：<br/>
 <center><img alt="不见图 请翻墙" src="images/9ZoAtGlcFMhNidOB7tNQ3dFveqSZ1_geSdCXKLgKVpv2-vRM3KAcRTKASH9XfS7_z67mSIeFU1Nkzt_tLzq94OBngL4FUpxsL8K5bPz79RhgVtkStZng9s5FQwtzQ7IQP-o4DH2DxVU"/></center><br/>
 　　俺曾经推荐过经典影片《V怪客 / V字仇杀队》（链接在“<a href="../../2011/11/film-v-for-vendetta.md">这里</a>”），片中 V 在杀淫棍主教之前，对主教说：<br/>
-<blockquote style="background-color:#DDD;"><b>外表装圣徒，内心是魔鬼。</b></blockquote>　　这句话用来描述【淫僧释学诚】，还挺贴切的哦。<br/>
+<blockquote><b>外表装圣徒，内心是魔鬼。</b></blockquote>　　这句话用来描述【淫僧释学诚】，还挺贴切的哦。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/QnEnxSeH1QHxMIezEHsC2uTEBk5Rkye5i5zOgVdojNIPVlrvA-UR7P-98SXqKOEYpTXZgO5Hat2OgM5SWGOZG5JR7lNBz4mQ33SNl1iq2knwXoq1Vamr6PNPP70iS-X6F9YK-xWy6lQ"/></center><br/>
 <br/>
@@ -141,7 +141,7 @@
 <br/>
 <h2>★天朝官方（国家宗教事务局）的定性——正式宣告淫僧垮台</h2><br/>
 　　中国国家宗教事务局【官网】于23日发布《关于对举报学诚和北京龙泉寺有关问题的调查核实情况》（链接在“<a href="http://www.sara.gov.cn/xwfb/xwjj20170905093618359691/583630.htm" rel="nofollow" target="_blank">这里</a>”）。<br/>
-<blockquote style="background-color:#DDD;">第一，举报材料中反映学诚发送骚扰信息问题，经查属实，涉嫌违反佛教戒律，已责成中国佛教协会按照佛教教义教规和《中国佛教协会章程》严肃处理。<br/>
+<blockquote>第一，举报材料中反映学诚发送骚扰信息问题，经查属实，涉嫌违反佛教戒律，已责成中国佛教协会按照佛教教义教规和《中国佛教协会章程》严肃处理。<br/>
 <br/>
 第二，对举报材料中反映北京龙泉寺违章建筑问题进行了调查，现已查明，所举报的建筑，未依法取得建设工程规划许可证，地方有关部门正在深入调查取证，将依法作出处理。<br/>
 <br/>
@@ -488,15 +488,16 @@ Wucari：<br/>
 <br/>
 <h2>★结尾</h2><br/>
 　　在本文的结尾，俺再分享《V怪客 / V字仇杀队》影片中 V 的另一句台词：<br/>
-<blockquote style="background-color:#DDD;"><b>人们往往用至诚的外表和虔敬的行动，来掩饰一颗魔鬼般的心。</b></blockquote><br/>
+<blockquote><b>人们往往用至诚的外表和虔敬的行动，来掩饰一颗魔鬼般的心。</b></blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/EY4MzBBNYugcrEfm4YoJj7F7t_X3JqkNcjlehd7pIvN7Ji432BAizt-tUUpLvhf_t6gCF5w2aWFfX914az4xpJ3A9oPn83GDDZFuGoqKSx_RunRStLt5FtH97Pn7K31BdrLeLoFpG9M"/></center><br/>
 　　想想朝堂之上那些道貌岸然的高官，大都如此。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/12/weekly-share-33.md">每周转载：关于《编译局言情录》的电子书、网文、网友评论</a><br/>
-<a href="../../2012/11/weekly-share-30.md">每周转载：关于雷政富(网文4篇，评论若干，图片若干)</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总天朝近几年关于男童女童的性侵案 (30起，附图)</a>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2012/12/weekly-share-33.md">每周转载：关于＜编译局言情录＞的电子书、网文、网友评论</a>》<br/>
+《<a href="../../2012/11/weekly-share-30.md">每周转载：关于雷政富(网文4篇，评论若干，图片若干)</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总天朝近几年关于男童女童的性侵案 (30起，附图)</a>》
 </div>
 
 

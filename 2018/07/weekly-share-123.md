@@ -3,16 +3,15 @@
 -----
 
 <div class="post-body entry-content">
-　　本博客很少连着发两篇《每周转载》。但是这次的疫苗丑闻，打击面实在太大了——几乎是全国性的恐慌。这实在是抹黑天朝的大好机会，俺当然要再接再厉。今天分享5篇网文，都与疫苗有关瓜葛。<a name="more"></a><br/>
-　　另附上前一篇的链接：<br/>
-《<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>》<br/>
-<br/>
+　　本博客很少连着发两篇《每周转载》。但是这次的疫苗丑闻，打击面实在太大了——几乎是全国性的恐慌。这实在是抹黑天朝的大好机会，俺当然要再接再厉。今天分享5篇网文，都与疫苗有关瓜葛。<br/>
+　　另附上前一篇的链接：《<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>》<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★<a href="https://chinadigitaltimes.net/chinese/2018/07/%E6%88%91%E6%98%AF%E5%91%A8%E5%86%B2-%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E5%B9%B8%E5%85%8D%E4%BA%8E%E9%9A%BE/" rel="nofollow" target="_blank">没有人能幸免于难 @ 中国数字时代</a></h2><br/>
 （编程随想注：看到这篇的标题，俺想起米兰·昆德拉说过——<br/>
 <b>永远不要认为我们可以逃避。我们的每一步都决定着最后的结局，我们的脚步正在走向我们自己选定的终点。</b>）<br/>
 <br/>
-<blockquote style="background-color:#DDD;">　　这几天刷屏的事件中，我看到了非常多的愤怒。最令我有感触的一句话是，婴儿要躲毒奶粉，幼儿要躲三色，少儿要躲问题疫苗，中年要躲p2p，老年要防某某药酒，每一个时期，都有一个“老朋友”在等着你。你想躲？躲哪儿去呢？放眼一望，都是相似的人与事。<br/>
+<blockquote>　　这几天刷屏的事件中，我看到了非常多的愤怒。最令我有感触的一句话是，婴儿要躲毒奶粉，幼儿要躲三色，少儿要躲问题疫苗，中年要躲p2p，老年要防某某药酒，每一个时期，都有一个“老朋友”在等着你。你想躲？躲哪儿去呢？放眼一望，都是相似的人与事。<br/>
 <br/>
 　　千万不要觉得自己是幸运儿。事实上，撒下大网的时候，没有人会是漏网之鱼。<br/>
 <br/>
@@ -48,7 +47,7 @@
 <center><img alt="不见图 请翻墙" src="images/_jsX7hlTcbf6aDatT1pIer7k29iYW-d0tUEDOEMIsTxZITI3ZKVP-QtjDbg4_D81yPwQNmiCgnY9olsKarvErtaHNvRjYfszYJqYIOfP86VpiVvqux-mQhNYktF8VLQ8ABDWkJ2aaIY"/></center></blockquote><br/>
 <br/>
 <h2>★<a href="http://tech.163.com/18/0724/17/DNGFQAFL00097U81.html" rel="nofollow" target="_blank">我们为什么打不上进口疫苗？ @ 网易科技</a></h2><br/>
-<blockquote style="background-color:#DDD;">　　国产疫苗又出事了，想必大家已经知道了。这次出事的是几十万只百白破疫苗，这是一种针对百日咳、白喉和破伤风的三联疫苗，主要的接种人群是刚刚出生三个月到半年的小婴儿。<br/>
+<blockquote>　　国产疫苗又出事了，想必大家已经知道了。这次出事的是几十万只百白破疫苗，这是一种针对百日咳、白喉和破伤风的三联疫苗，主要的接种人群是刚刚出生三个月到半年的小婴儿。<br/>
 <br/>
 　　在家长们欲哭无泪、急着核对自家孩子有没有接种涉事疫苗的同时，不少人将“打进口疫苗”提上了日程。打进口疫苗并不是新鲜事。人们有很多理由想打进口疫苗：或许是对国产疫苗的不信任，或许只是单纯地想用比较贵的疫苗，或许只是因为想打的新型疫苗没有国产品种。然而，进口疫苗并不是你想打就能打的。<br/>
 <br/>
@@ -141,7 +140,7 @@
 <h2>★<a href="http://blog.sina.com.cn/s/blog_473abae60102w12v.html" rel="nofollow" target="_blank">郑渊洁：我在1995年和疫苗打过一次交道</a></h2><br/>
 （编程随想注：此文写于1998年7月。整整20年过去了，天朝的疫苗问题不但没解决，反而更糟了！）<br/>
 <br/>
-<blockquote style="background-color:#DDD;">　　1995年12月4日，读小学的儿子郑亚旗放学回家后对我说：“郑渊洁，老师让明天交18元钱。”<br/>
+<blockquote>　　1995年12月4日，读小学的儿子郑亚旗放学回家后对我说：“郑渊洁，老师让明天交18元钱。”<br/>
 　　我说：“知道了。一会儿给你放在书包里。”<br/>
 　　吃晚饭时，我无意问了郑亚旗一句：“交钱买什么？”<br/>
 　　郑亚旗说：“打针。”<br/>
@@ -186,7 +185,7 @@
 本文收入1999年出版的郑渊洁著作《第一次写皮皮鲁》</blockquote><br/>
 <br/>
 <h2>★<a href="http://tech.sina.com.cn/csj/2018-07-23/doc-ihftenhz2197657.shtml" rel="nofollow" target="_blank">深度调查行业兴衰史——中国调查记者都去哪了？ @ 新浪专栏</a></h2><br/>
-<blockquote style="background-color:#DDD;">　　过去两天，焦虑席卷全国，除了制药公司的资本大鳄之外，还有两个人物被意外牵出，他们就是著名记者王克勤，以及他在《中国经济时报》的顶头上司包月阳。<br/>
+<blockquote>　　过去两天，焦虑席卷全国，除了制药公司的资本大鳄之外，还有两个人物被意外牵出，他们就是著名记者王克勤，以及他在《中国经济时报》的顶头上司包月阳。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Zr2x80nzRKKTTAC-z4IwH_hizmldRJLBsSLJtVI699c_uakW4iPw1w5PcFvXQDn-XPZH7-Hqxr7qsCYkefr45lR7HwTX29-iEYrr9xMijM1g9q6Rbdo6clfwKA9zcUMON-RKQAND6n8"/><br/>
 （左：王克勤　　右：包月阳）</center><br/>
@@ -321,7 +320,7 @@
 <h2>★十七进制：疫苗和“猪圈理论”</h2><br/>
 （编程随想注：此文是某热心读者转贴到俺博客评论区的，特此鸣谢）<br/>
 <br/>
-<blockquote style="background-color:#DDD;">　　<b>01. 看不见的“猪圈理论”</b><br/>
+<blockquote>　　<b>01. 看不见的“猪圈理论”</b><br/>
 <br/>
 　　一头猪生病了是猪自身抵抗力不行，一群猪病了应该是猪圈出了问题。出过一次问题，可能是某猪免疫力低下。年年都出问题，猪倌是否该反思下饲养方式？<br/>
 <br/>
@@ -459,13 +458,14 @@
 　　所以，开火锅店的猪老板转发完声讨疫苗问题的文章后，狠狠地往刚熬制好的汤锅里多掺了两桶地沟油！</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a><br/>
-<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a><br/>
-<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a><br/>
-<a href="../../2017/11/weekly-share-117.md">每周转载：携程托儿所虐童事件（各方评论及照片、视频）</a><br/>
-<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>
+《<a href="../../2018/07/weekly-share-122.md">每周转载：疫苗之殇，万民遭殃（大量网友评论）</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2017/11/weekly-share-117.md">每周转载：携程托儿所虐童事件（各方评论及照片、视频）</a>》<br/>
+《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》
 </div>
 
 

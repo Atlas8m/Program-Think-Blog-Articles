@@ -308,28 +308,23 @@
 <br/>
 　　<b>1. 用 dm-crypt（LUKS）全盘加密</b><br/>
 　　装 Linux 系统时，<code>/boot</code> 通常会单独分一个区。<code>/boot</code> 的加密会比较麻烦。不太熟悉 Linux 的同学，可以把 <code>/boot</code>【之外】的其它分区都用 LUKS 加密。如果你想把 <code>/boot</code> 也加密，可以到网上搜相关的教程。<br/>
-　　（注：因为 <code>/boot</code> 分区通常很小（几十 MB），而且【不】存放个人数据，该分区的保密性要求并不高）<br/>
-　　然后你可以在已经用 LUKS 加密的分区上，用 LVM（Logical Volume Manager）创建一系列逻辑分区（也叫“逻辑卷”）。请注意：规划逻辑分区时，要特意留几个空闲的（未用的）。<br/>
-　　关于 LUKS（也叫“dm-crypt”）的教程，请阅读如下教程：<br/>
+　　（注：因为 <code>/boot</code> 分区通常很小（再大也就一百多兆），而且【不】存放个人数据，该分区的保密性要求并不高）<br/>
+　　然后你可以在已经用 LUKS 加密的分区上，用 LVM（Logical Volume Manager）创建一系列逻辑分区（也叫“逻辑卷”）。请注意：规划逻辑分区时，要特意留一个空闲的（未用的）。<br/>
+　　关于 LUKS（也叫“dm-crypt”）的使用，请阅读如下教程：<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+　　关于 LVM 的使用，请阅读如下教程：<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 <br/>
-　　<b>2. 用 TrueCrypt / VeraCrypt 在空闲的逻辑分区创建【敏感加密盘】</b><br/>
+　　<b>2. 用 TrueCrypt / VeraCrypt 在“空闲逻辑分区”创建【敏感加密盘】</b><br/>
 　　先再次唠叨一下：虽然 TrueCrypt（以下简称 TC）这个开源项目已死，但其替代品 VeraCrypt（以下简称 VC）完全兼容 TC 的功能和加密盘格式。所以，这两个软件大体上可以通用滴。<br/>
-　　俺在前一个步骤提到：预留几个空闲的逻辑分区。到了这一步，你选择某个空闲的逻辑分区，用 TC/VC 在这个分区上创建加密盘，用来存放【特别敏感】的数据（跟你的敏感虚拟身份相关的数据）。为了叙述方便，该加密盘称之为“敏感加密盘”。<br/>
-　　TC/VC 的加密盘【格式】有一个优点，是传统加密盘所不具备滴。那就是 TC/VC 的加密盘【没有】特定的文件头，也【没有】任何其它特征。换句话说，给你一段看似随机的数据，你【完全无法】通过数据本身来判断其是否 TC/VC 的加密盘数据。<br/>
+　　俺在前一个步骤提到：预留空闲的逻辑分区。到了这一步，你选择这个空闲的逻辑分区，用 TC/VC 在这个分区上创建加密盘，用来存放【特别敏感】的数据（跟你的敏感虚拟身份相关的数据）。为了叙述方便，该加密盘称之为“敏感加密盘”。<br/>
+　　TC/VC 的加密盘【格式】有一个优点，是其它磁盘加密格式所不具备滴。那就是 TC/VC 的加密盘【没有】特定的文件头，也【没有】任何其它特征。换句话说，给你一段看似随机的数据，你【完全无法】通过数据本身来判断其是否 TC/VC 的加密盘数据。<br/>
 　　这个优点很重要。因为某个未格式化的分区，其数据看上去是随机的；把这个分区做成 TC/VC 的加密盘之后，数据依然看上去像是随机的。这样就【不易】引起怀疑；即便引起了怀疑，你也可以抵赖，一口咬定该分区就是闲置未用滴。<br/>
 <br/>
-　　<b>3. 加密盘示意图</b><br/>
-　　为了便于理解，用表格画个简单的示意图：<br/>
-<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr><td rowspan="2">用来存放不那么敏感的数据</td><td>存放高度敏感的数据</td><td rowspan="5">&nbsp;</td></tr>
-<tr><td>TrueCrypt / VeraCrypt</td></tr>
-<tr><td>普通逻辑分区（正常格式化）</td><td align="center">空闲逻辑分区（先不格式化）</td></tr>
-<tr><td align="center" colspan="2">LVM</td></tr>
-<tr><td align="center" colspan="2">dm-crypt（LUKS）</td></tr>
-<tr><td align="center" colspan="2">物理分区</td><td align="center">物理分区</td></tr>
-<tr><td align="center" colspan="3">物理硬盘</td></tr>
-</tbody></table></center><br/>
+　　<b>3. 详细的磁盘布局</b><br/>
+　　在如下博文中，俺介绍了详细的磁盘布局方案，并有大量配图。<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
+<br/>
 　　<b>4. “敏感加密盘”的【配置】原则</b><br/>
 　　由于这个加密盘特别重要，建议使用如下措施来强化其安全性：<br/>
 <br/>
@@ -623,10 +618,11 @@ Android 系统包括两部分：AOSP（Android Open Source Project）和 GMS（G
 《<a href="../../2013/10/linux-distributions-guide.md">扫盲 Linux：如何选择发行版</a>》<br/>
 《<a href="../../2013/12/linux-tails-guide.md">扫盲 Tails——专门强化隐匿性的 Linux 发行版</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
-《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
+《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
