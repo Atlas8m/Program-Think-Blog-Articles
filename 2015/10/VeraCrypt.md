@@ -13,8 +13,8 @@
 <a name="more"></a><br/>
 <br/>
 <h3>◇先说说 TrueCrypt 的安全漏洞</h3><br/>
-　　这次的安全漏洞由 Google 的安全研究人员（James Forshaw）发现。共有2个漏洞（编号 CVE-2015-7358、CVE-2015-7359），影响的是 Windows 平台，Linux 和 Mac OS X【不受影响】。<br/>
-　　（因为该漏洞只影响 Windows 平台，这说明该漏洞跟加密盘的文件格式【无关】）<br/>
+　　这次的安全漏洞由 Google 的安全研究人员（James Forshaw）发现。共有2个漏洞（漏洞编号：CVE-2015-7358、CVE-2015-7359），影响的是 Windows 平台，Linux 和 Mac OS X【不受影响】。<br/>
+　　（因为该漏洞只影响 Windows 平台，这说明该漏洞与“加密盘格式”【无关】）<br/>
 　　对技术感兴趣的同学，可以到“<a href="https://code.google.com/p/google-security-research/issues/detail?id=538" rel="nofollow" target="_blank">这里</a>”和“<a href="https://code.google.com/p/google-security-research/issues/detail?id=537" rel="nofollow" target="_blank">这里</a>”看这2个漏洞的详细描述。<br/>
 　　顺便表扬一下 Google 的安全研究团队，确实有两下子。之前大名鼎鼎的“<a href="../../2014/04/openssl-heartbleed.md" rel="nofollow" target="_blank">Heartbleed 漏洞</a>”也是 Google 安全研究团队曝光的。<br/>
 　　俺选择 Blogspot 作为博客平台，就是考虑到 Google 在安全方面的实力；<br/>
@@ -61,14 +61,14 @@ Mac OS X（版本号大于等于 10.6）<br/>
 <h2>★设置界面语言</h2><br/>
 　　考虑到某些网友是洋文菜鸟，先说一下如何配置界面的语言。<br/>
 　　如果你打开 VeraCrypt 之后，界面是英文，先到主菜单中点击“Settings”，然后再点击“Language”菜单项，就会弹出一个选择语言的对话框，你把列表框的滚动条拉到底部，就会看到“简体中文”和“繁體中文”。具体截图如下：<br/>
-<center><img alt="不见图 请翻墙" src="images/y7cF9avhexDGngDSVILoCR9QQ2PUZbjZIAVkEW48KupIJRYTN2tSnghFlbzPvGew7Q-OF_4uRePy3aDd7AvYPxB3ikTzN0LYCIdWSuQlV_U7mRqvbcYmAwkmcgr00895fWFSKWQGCg"/></center>（之所以出现2个“繁體中文”，是分别对应“港台”）<br/>
+<center><img alt="不见图 请翻墙" src="images/y7cF9avhexDGngDSVILoCR9QQ2PUZbjZIAVkEW48KupIJRYTN2tSnghFlbzPvGew7Q-OF_4uRePy3aDd7AvYPxB3ikTzN0LYCIdWSuQlV_U7mRqvbcYmAwkmcgr00895fWFSKWQGCg"/></center>（之所以出现2个“繁體中文”，是分别对应“港/台”）<br/>
 <br/>
 　　选完中文之后，界面变为如下：<br/>
 <center><img alt="不见图 请翻墙" src="images/FABE5dOfVuRa5e2DJiprEy3zHROK230JBlxmnZ3H9rlFvp01ivxnInss7Sn9wTJNprSqBNepdz73zCXbaasiCbEUmVsyTKe8IpBgbgtVxFo-5l4f_thloBQJU6fc1hTTk3SOjRrFNQ"/></center><br/>
 <br/>
 <h2>★支持的加密盘格式</h2><br/>
 　　VeraCrypt 支持两种加密盘的格式，其中一种就是原先 TrueCrypt 使用的格式，另一种是 VeraCrypt 自己新创的格式。因此，如果你手头有原先 TrueCrypt 创建的加密盘，也可以用 VeraCrypt 直接挂载（mount）。<br/>
-　　这两种格式的差异在于：VeraCrypt 的新格式支持 PIM 功能（关于此功能，待会儿介绍）。<br/>
+　　这两种格式的【唯一差异】在于——VeraCrypt 的新格式支持 PIM 功能（关于此功能，待会儿介绍）。<br/>
 <br/>
 　　为了防止混淆，再唠叨一下关于加密盘的类型（“类型”与“格式”是两个概念，别混淆了）。<br/>
 　　TrueCrypt 支持两种类型的加密盘——物理加密盘（加密分区、全盘加密）和虚拟加密盘（卷文件）；VeraCrypt 也支持这两种类型。<br/>
@@ -88,7 +88,7 @@ Mac OS X（版本号大于等于 10.6）<br/>
 <br/>
 <br/>
 <h2>★加密盘的认证方式</h2><br/>
-　　TrueCrypt 原先支持两种认证方式：“密码”和“keyfiles”。这两种，VeraCrypt 也都支持。相关的介绍，请大伙儿自行翻阅前些年的博文《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》，俺就不浪费口水了。<br/>
+　　TrueCrypt 原先支持两种认证方式：“密码 ＆ keyfiles”。这两种方式，VeraCrypt 也都支持。相关的介绍，请大伙儿自行翻阅前些年的博文《<a href="../../2013/08/truecrypt-2.md">TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证</a>》，俺就不浪费口水了。<br/>
 　　另外，VeraCrypt 还新增了一个 PIM 功能。从某种意义上讲，PIM 也可以算是一种认证方式（因为挂载加密盘到时候也需要它）。关于 PIM 功能，本文下面专门用一个章节来详述。<br/>
 <br/>
 <br/>
@@ -139,11 +139,11 @@ Mac OS X（版本号大于等于 10.6）<br/>
 　　在生成“Header Key”的过程中，会采用你指定的散列算法进行 N 次迭代，以生成一个难以猜测的密钥。这个 N 就是前面所说的“迭代次数”。<br/>
 　　每当用户要挂载某个加密盘，软件界面会提示用户输入“密码和 keyfile”。然后根据用户的输入，计算出“Header Key”，然后用这个密钥对加密的头部进行解密（解到内存中）。如果解密成功，就说明用户输入的是对的。反之，则提示用户输入错误。<br/>
 <br/>
-　　<b>N 次迭代的用途</b><br/>
-　　从上述可以看出：这个“迭代次数”越大，计算头部密钥的时间就越长，因此挂载加密盘的过程就越慢；表面上看，这是一个缺点。但其好处在于：如果某个攻击者想要采用暴力破解的方式对“头部”进行穷举解密，每次一次尝试也同样需要花很长时间（同样要迭代 N 次）。所以，当 N 足够大，暴力破解就变得【不可行】。<br/>
+　　<b>为啥要“迭代 N 次”？</b><br/>
+　　从上述可以看出：这个“迭代次数”越大，计算头部密钥的时间就越长，因此挂载加密盘的过程就越慢；表面上看，这是一个缺点。但其好处在于：如果某个攻击者想要采用暴力破解的方式对“头部”进行穷举解密，每次一次尝试也需要花很长时间（同样要迭代 N 次）。所以，当 N 足够大，暴力破解就变得【不可行】。<br/>
 <br/>
-　　<b>“Header Key”和“Master Key”分离的好处</b><br/>
-　　从上述可以看出，加密盘中存在两种密钥：“Header Key”和“Master Key”。为啥要搞出两种密钥捏？其中一个好处是为了方便用户修改密码。当用户修改加密盘的密码或 keyfile，只需要“重新加密头部”，数据区不用改动（因为“Master Key”【没有】发生变化）。<br/>
+　　<b>“Header Key”与“Master Key”分离的好处</b><br/>
+　　从上述可以看出，加密盘中存在两种密钥：“Header Key ＆ Master Key”。为啥要搞出两种密钥捏？其中一个好处是为了方便用户修改密码。当用户修改加密盘的密码或 keyfile，只需要“重新加密头部”，数据区不用改动（因为“Master Key”【没有】发生变化）。<br/>
 　　对于那些超大的加密盘（TB 级），这个好处非常明显。<br/>
 <br/>
 <h3>◇VeraCrypt 相对 TrueCrypt 的改进</h3><br/>
@@ -169,7 +169,7 @@ PIM 功能就是用来配置加密盘的某个“迭代次数”的。“迭代�
 <center><img alt="不见图 请翻墙" src="images/N1WiiQtMASwjArURp8d1HZfKBeN9HqePrwLTc-QZp1yvWW5MYNLbjW2o-dfu4SMDN1VTwjLhQCwkztEWt-1y5Iixj5GG3wIQG_xsRNggp_5xB7-d6AAmbfoWzbJxwHTD-bZIxAzy6Q"/></center><br/>
 　　<b>挂载加密盘时</b><br/>
 　　下面是挂载加密盘的界面。如果你创建加密盘的时候，指定了 PIM 数值，那么在挂载的时候，需要输入【相同的】PIM 数值。<b>如果输入的数值与创建时指定的 PIM 数值不一致，则挂载失败。</b><br/>
-　　再次罗嗦一下：<b>一旦你在创建加密盘时设置了“PIM 数值”，【千万别忘记了】——忘记它的后果就如同忘记密码！</b><br/>
+　　再次罗嗦一下：<b>一旦你在创建加密盘时设置了“PIM 数值”，【千万别忘了】——忘记它的后果就如同忘记密码！</b><br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/GtnE1AM8HURqEsa1PCLXV54QtxL8g1EI1t9fxYp6rRREfmTy-FLMuEEeYox_-xf65SWOybKkMlYodwIlmYUWQMhhf4tZYDnIJ2cmXr3LwrL1vOfz4i3Rba14wA5B70j46HAQNhZfAA"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/CgfQgzCnIShLTBqmcADRaw1G9fLOy7zKsKuiL0qnIY4JqLpbnFY-eKzR6vr4PdG1BYBP-zxtVLSikr0yVB7_MQrg6293Zl20wCFMK4DIujo8acWezLasbUuog8ilQouzCgWFEd4svg"/></center><br/>
@@ -181,7 +181,7 @@ PIM 功能就是用来配置加密盘的某个“迭代次数”的。“迭代�
 <br/>
 <br/>
 <h2>★扩容功能</h2><br/>
-　　另一个比较显著的新功能是“加密盘扩容”。原先的 TrueCrypt 没有扩容功能——如果你的加密盘，空间不够了，你不得不重新创建一个更大的加密盘，然后把原先加密盘的文件拷贝到新加密盘（步骤繁琐）。<br/>
+　　另一个比较显著的新功能是“加密盘扩容”。原先的 TrueCrypt【没有】扩容功能——如果你的加密盘，空间不够了，你不得不重新创建一个更大的加密盘，然后把原先加密盘的文件拷贝到新加密盘（步骤繁琐）。<br/>
 　　如今有了这个扩容功能，你可以直接扩大原有加密盘的容量。<b>前提是：文件系统必须是 NTFS。</b><br/>
 　　下面给出扩充操作的系列截图（共8张），描述文字都标注在截图中了。<br/>
 <br/>

@@ -3,8 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　有些读者希望俺发一篇关于“天堂文件”的《每周转载》。之所以今天没发这个话题，是因为“天堂文件”的内容很庞大（类似于当年的“巴拿马文件”），各国记者把里面的素材整理汇总出来，需要一定的时间。所以今天先聊“携程幼儿园虐童事件”。<a name="more"></a><br/>
-<br/>
+　　有些读者希望俺发一篇关于“天堂文件”的《每周转载》。之所以今天没发这个话题，是因为“天堂文件”的内容很庞大（类似于当年的“巴拿马文件”），各国记者把里面的素材整理汇总出来，需要一定的时间。所以今天先聊“携程幼儿园虐童事件”。<br/>
+<a name="more"></a><br/>
 <center><img alt="不见图 请翻墙" src="images/RME5zk6ycnJdtpcJQ-ww_mwXeBymXc5NyAFG52vtELfiIIOq-FX7r7NdILCXYLEKIt3S2DyX8FEyuwlx6IStTeg8sRHl-6CNM0NTfVJM-RsiY5HGxteFOhyQtwCUf0Sn_a1yc4Xqn9I"/></center><br/>
 <br/>
 <h2>★被虐儿童家长的哭诉</h2><br/>
@@ -523,9 +523,10 @@ Her peirong：<br/>
 <center><img alt="不见图 请翻墙" src="images/pbBENTWmnvy09KOD6BJY5B1X03Z7EgLlleZ6j7K3DE7aV_wSfYhrdB1RdIYX-D_GuJ63qAfJhZl4d_Y3LXU3RcWBpIaY_5gnPe63jwxdXdc-CuydVlY9-zpcWuv_2LQ5ci22HpN2x9I"/></center><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a><br/>
-<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a><br/>
-<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>
+《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>
+《<a href="../../2020/06/weekly-share-145.md">每周转载：超级富豪王振华性侵9岁女童（大量网友评论，多图）</a>》<br/>
+《<a href="../../2013/05/weekly-share-51.md">每周转载：汇总未成年人被性侵被嫖宿的案件（38起，附图）</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》
 </div>
 
 

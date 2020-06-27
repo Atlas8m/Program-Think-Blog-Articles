@@ -261,24 +261,38 @@ vgchange -ay</pre>　　为了判断内核是否确实找到了外置存储中�
 　　某些老手可能想要自己控制 PE 尺寸——可以在创建 VG 时指定 PE 尺寸，命令如下：<br/>
 <pre class="shell" style="background-color:Black;color:LawnGreen;">vgcreate -s 64M VG_XXX /dev/sdb1</pre>（注：上述命令指定新创建的 VG 使用 64MiB 作为 PE 尺寸；对于 LVM2，PE 最小值是 1KiB）<br/>
 <br/>
-　　早期的 LVM1，对 LV 有一个硬性上限——每个 LV 最多只能有 65534 个 LE（仔细看刚才那张图的右上角）。所以，早期的 LVM1 用户，如果想要创建一个超大的 LV，需要在创建 VG 时就指定一个偏大的“PE 尺寸”。<br/>
+　　早期的 LVM1，对 LV 有一个硬性上限——每个 LV 最多只能有 65534 个 LE（仔细看刚才那张图的右上角，有 LVM1 的各项指标）。因为这个限制，早期的 LVM1 用户，如果想要创建一个【超大】的 LV，需要在创建 VG 时就指定一个足够大的“PE 尺寸”。<br/>
 　　到了如今的 LVM2，每个 LV 包含的 LE 数量已经【没有】那个上限了。所以“PE 尺寸”就不像以前那么重要了。<br/>
 <br/>
 <h3>◇VG 的元数据</h3><br/>
-　　每个 VG 都有自己的一些元数据。比如刚才所说的“PE 尺寸”就是它的元数据之一。<br/>
+　　每个 VG 都有自己的一些元数据。比如刚才所说的“PE 尺寸”就是它的元数据之一；另外，“VG 名称”与“VG 的 UUID”也算是它的元数据。<br/>
 　　那“VG 的元数据”存储在哪里捏？它们保存在 PV 的头部——当你创建 VG 时，至少要指定一个或多个 PV；新创建的 VG，其元数据就保存在这些 PV 头部。如果这个 VG 后来又加入其它 PV，其元数据也会保存在这些新的 PV 中。元数据保存多份，也是为了达到某种冗余。<br/>
 　　你可以用命令 <code>vgcfgbackup</code> 把某个 VG 的元数据导出到单个文件中；需要的话，还可以再用命令 <code>vgcfgrestore</code> 导入。<br/>
 <br/>
+　　某些爱思考的读者会问：为啥要要把 VG 的元数据保存在 PV 头部，为啥不存储到某个系统目录？<br/>
+　　俺认为：其关键在于【数据自包含】。因为 PV 隶属于 VG，VG 的元数据存储在 PV 就达到【自包含】。当你在某个【外置存储】中创建了 PV，然后又把这个“外置存储”挂到另一台 Linux 电脑，另一个 Linux 内核依然能获取该 PV 对应的“VG 元数据”。<br/>
 <br/>
-<h2>★（高级教程）LVM 自带的 RAID 功能</h2><br/>
+<br/>
+<h2>★RAID 简介</h2><br/>
 <h3>◇啥是 RAID？</h3><br/>
 　　RAID 是洋文“Redundant Array of Inexpensive Disks”的缩写，中文称之为“磁盘冗余阵列”。<br/>
-<br/>
-<h3>◇哪些同学需要考虑 RAID？</h3><br/>
-　　使用 RAID 的前提是：你有【多个】物理磁盘。如果没有这个前提，搞 RAID 是没意义滴。<br/>
-　　RAID 的好处包括两方面：<br/>
-其一，通过增加数据的【冗余度】来提升其【可靠性】（除了 RAID0，其它各种 RAID 类型都可以不同程度提高可靠性）<br/>
+　　搞这个玩意儿的好处包括两方面：<br/>
+其一，通过增加数据的【冗余度】来提升其【可靠性】（RAID 有好几种类型；除了 RAID0，其它各种类型都可以不同程度地提高可靠性）<br/>
 其二，提升“读性能”或“写性能”或“读写性能”（取决于你具体使用哪种 RAID 类型）<br/>
+<br/>
+<h3>◇Linux 的 RAID 工具</h3><br/>
+　　在 Linux 上，你既可以用 <a href="https://en.wikipedia.org/wiki/Mdadm" rel="nofollow" target="_blank">mdadm</a> 也可以用 LVM 来实现 RAID。<br/>
+　　因为本文是 LVM 教程，当然只聊 LVM 如何实现 RAID。<br/>
+<br/>
+<h3>◇RAID 的类型</h3><br/>
+　　RAID 有很多种类型，详细解释参见维基百科的“<a href="https://zh.wikipedia.org/wiki/RAID" rel="nofollow" target="_blank">这个链接</a>”。<br/>
+LVM 已经支持如下几种 RAID 类型：<br/>
+<blockquote style="background-color:#DDD;">RAID 0<br/>
+RAID 1<br/>
+RAID 4<br/>
+RAID 5<br/>
+RAID 6<br/>
+RAID 10</blockquote>　　考虑到篇幅，俺挑几种常用的 RAID 类型，在下一个章节介绍。介绍的时候，会顺便说说该 RAID 类型的【原理】。<br/>
 <br/>
 <h3>◇“软 RAID”与“硬 RAID”</h3><br/>
 　　<b>硬 RAID</b><br/>
@@ -289,15 +303,11 @@ vgchange -ay</pre>　　为了判断内核是否确实找到了外置存储中�
 　　在这种模式下，每个磁盘都直接连到主板上，操作系统可以看到每个磁盘，RAID 功能由操作系统层面（软件层面）实现。故称之为“软 RAID”。<br/>
 　　本文讨论的就是这种。<br/>
 <br/>
-<h3>◇RAID 的类型</h3><br/>
-　　RAID 有很多种类型，详细解释参见维基百科的“<a href="https://zh.wikipedia.org/wiki/RAID" rel="nofollow" target="_blank">这个链接</a>”。LVM 已经支持如下几种：<br/>
-<blockquote style="background-color:#DDD;">RAID 0<br/>
-RAID 1<br/>
-RAID 4<br/>
-RAID 5<br/>
-RAID 6<br/>
-RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类型，稍微说一下。<br/>
+<h3>◇哪些同学需要考虑 RAID？</h3><br/>
+　　使用 RAID 的【前提】是——你的电脑上同时装了【多个】物理磁盘。如果没有这个前提，搞 RAID 是没意义滴。<br/>
 <br/>
+<br/>
+<h2>★（高级教程）LVM 自带的 RAID 功能</h2><br/>
 <h3>◇RAID 0 的玩法</h3><br/>
 　　<b>原理</b><br/>
 　　RAID0 有时候也称作“带区集 or 条纹集”。通俗地说就是：把 N 个设备凑成一个大的逻辑设备。每次要写入数据时，先拆分为 N 等份，平均写入每个设备。<br/>
@@ -381,10 +391,21 @@ RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类
 　　一般来说，如果你要采用 RAID 的方式，应该为此单独创建一个新的 VG，该 VG 中的 PV 只用于 RAID 方式。<br/>
 <br/>
 <br/>
+<h2>★为啥需要“磁盘加密”？</h2><br/>
+　　如果你是本博客的长期读者，对“磁盘加密”应该已经耳熟能详；反之，你是新来的读者，可以先看如下这篇，稍微了解相关概念。<br/>
+《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
+<br/>
+　　对于【国内的】政治高危人士（民运人士、政治异议人士、维权人士 ...），“磁盘加密”尤其重要。如果你属于这类人士，强烈建议你：通过如下博文了解【磁盘加密】的各种招数。<br/>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+<br/>
+　　在本文的后续章节，俺会介绍：LVM 与两种磁盘加密格式（LUKS ＆ TC）的搭配方式。<br/>
+<br/>
+<br/>
 <h2>★（高级教程）LVM 与 LUKS 组合</h2><br/>
 <h3>◇概述</h3><br/>
-　　本文后续部分提及的 LUKS 也就是指 dm-crypt 这个磁盘加密工具以及它对应的【磁盘加密格式】。为了打字省力，俺一概用 LUKS 这个写法。<br/>
-　　由于本章节讨论 LVM 与 LUKS 的整合，显然你需要懂得 LUKS 的使用。不太懂的同学可以看如下教程：<br/>
+　　本文后续部分提及的 LUKS 是指 Linux 社区通行的【磁盘加密格式】；要使用该格式，需要用到 dm-crypt 这款软件（该软件已经集成到 Linux 内核中）。<br/>
+　　请注意：（在本文的后续章节）当俺提及 LUKS，指的是“磁盘加密【格式】”；当俺提及 dm-crypt，指的是“磁盘加密【软件】”。<br/>
+　　由于本章节讨论 LVM 与 LUKS 的整合，显然你需要懂得 dm-crypt 的使用。不太懂的同学可以看如下教程：<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
 　　LVM 与 LUKS 组合有几种不同的玩法，俺在如下几个小节分别说明。<br/>
 　　由于 LVM 与 LUKS 组合之后，系统内的“块设备”关系会变得复杂（层次变多），你要记得用前面介绍的 <code>lsblk</code> 命令，有助于理清思路。<br/>
@@ -426,7 +447,7 @@ RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类
 <br/>
 <h3>◇更复杂的方式</h3><br/>
 　　当然，你还可以玩更复杂的花样，比如“TC on LVM on LUKS”或者“LUKS on LVM on TC” ......<br/>
-　　由于这种更复杂的组合方式同时涉及不同的磁盘加密工具，俺在本文末尾专门用一个单独的章节来讨论。<br/>
+　　由于这种更复杂的组合方式同时涉及【多种】磁盘加密格式，俺在本文末尾专门用一个单独的章节来讨论。<br/>
 <br/>
 <br/>
 <h2>★（高级教程）LVM 与 TC 组合</h2><br/>
@@ -454,7 +475,7 @@ RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类
 <br/>
 <center><img alt="不见图 请翻墙" src="images/pSZUBXTzqLE1g1dLA82_gcCqyiRaFuCUJCOpzDgxv0ybElbpVbEsKhlheW--28TfG3k2fPRr08_ez1jezY7qtP7pHGgTMx_zskgKQR115klxwCksd9fnX-l9E5MW6AEdSkPoSomJidQ"/></center><br/>
 　　你需要先完成 PV、VG、LV 的创建工作。如果你想在某个 LV 上创建 LUKS 加密，这个 LV 先【不】格式化。<br/>
-　　以上图中的 <code>lv_data</code> 为例，假设 VG 名叫 <code>VG_XXX</code>，你用 <code>cryptsetup</code> 命令对设备 <code>/dev/VG_XXX/lv_data</code> 进行加密，就得到图中紫红色的那一坨。之后的操作，就【不】需要再用到“TrueCrypt 或 VeraCrypt”了（后续的操作都通过 LUKS 相关工具来完成）。<br/>
+　　以上图中的 <code>lv_data</code> 为例，假设 VG 名叫 <code>VG_XXX</code>，你用 TrueCrypt 或 VeraCrypt 的相关命令对设备 <code>/dev/VG_XXX/lv_data</code> 进行加密，就得到图中紫红色的那一坨。之后的操作，就【不】需要再用到“TrueCrypt 或 VeraCrypt”了（后续的操作都通过 LUKS 相关工具来完成）。<br/>
 　　完成加密之后，再用 <code>cryptsetup</code> 打开该加密设备，建立映射（紫红色那坨标注的，就是映射后的路径）。<br/>
 　　再然后，你就可以对它（映射后的设备）进行格式化，创建文件系统。<br/>
 <br/>
@@ -464,7 +485,7 @@ RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类
 <br/>
 <h3>◇更复杂的方式</h3><br/>
 　　当然，你还可以玩更复杂的花样，比如“TC on LVM on LUKS”或者“LUKS on LVM on TC” ......<br/>
-　　由于这种更复杂的组合方式同时涉及不同的磁盘加密工具，俺在下一个章节讨论。<br/>
+　　由于这种更复杂的组合方式同时涉及【多种】磁盘加密格式，俺在下一个章节专门讨论。<br/>
 <br/>
 <br/>
 <h2>★（高级教程）LVM【同时组合】TC 与 LUKS</h2><br/>
@@ -472,44 +493,69 @@ RAID 10</blockquote>　　考虑到篇幅，俺挑几种有代表性的 RAID 类
 　　由于上述这篇博文是【全面汇总】，“磁盘加密”只是其中一个细分领域，所以当时没细聊。今天借“扫盲 LVM”的机会，细聊一下。<br/>
 <br/>
 <h3>◇两种“磁盘加密格式”的功能特性对比</h3><br/>
-　　当年俺写《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》的时候，整理过一个表格，正好复制过来。<br/>
+　　当年俺写《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》的时候，整理过一个表格。这次正好直接拿过来用，并略作补充。<br/>
 <br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr style="background:lightgrey;"><th>功能点</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt / VeraCrypt</th></tr>
+<tr style="background:lightgrey;"><th> </th><th>LUKS 加密盘格式</th><th colspan="3">TC 加密盘格式</th></tr>
+<tr style="background:lightgrey;"><th>功能特性</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt</th><th>VeraCrypt</th></tr>
 <tr><td style="background:lightgrey;">支持的操作系统</td><td>Linux</td><td>Linux</td><td>Windows<br/>
 Linux<br/>
+Mac OS</td><td>Windows<br/>
+Linux<br/>
 Mac OS</td></tr>
-<tr><td style="background:lightgrey;">支持的加密算法类型</td><td>AES<br/>
+<tr><td style="background:lightgrey;">支持的加密算法类型</td><td>（内核 Crypto API）</td><td>AES<br/>
+Twofish<br/>
+Serpent</td><td>AES<br/>
 Twofish<br/>
 Serpent</td><td>AES<br/>
 Twofish<br/>
 Serpent<br/>
-AES-Twofish<br/>
-Serpent-AES<br/>
-Twofish-Serpent<br/>
-AES-Twofish-Serpent<br/>
-Serpent-Twofish-AES</td><td>AES<br/>
-Twofish<br/>
-Serpent<br/>
-AES-Twofish<br/>
-Serpent-AES<br/>
-Twofish-Serpent<br/>
-AES-Twofish-Serpent<br/>
-Serpent-Twofish-AES</td></tr>
-<tr><td style="background:lightgrey;">支持多重加密算法（多算法级联）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密【物理】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密【虚拟】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">【无】系统分区的全盘加密</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">【含】系统分区的全盘加密</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
-<tr><td style="background:lightgrey;">加密系统分区</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
-<tr><td style="background:lightgrey;">基于“密码”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">基于“Keyfiles”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">修改认证因素</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密系统分区并用 Keyfiles 认证</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td></tr>
-<tr><td style="background:lightgrey;">隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">操作外层卷并对隐藏卷写保护</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">自定义“生成密钥的迭代次数”</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅 VeraCrypt</td></tr>
-<tr><td style="background:lightgrey;">加密格式的模糊性</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+Camellia<br/>
+Kuznyechik</td></tr>
+<tr><td style="background:lightgrey;">支持多重加密算法（多算法级联）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>AES–Twofish<br/>
+Serpent–AES<br/>
+Twofish–Serpent<br/>
+AES–Twofish–Serpent<br/>
+Serpent–Twofish–AES</td><td>AES–Twofish<br/>
+Serpent–AES<br/>
+Twofish–Serpent<br/>
+AES–Twofish–Serpent<br/>
+Serpent–Twofish–AES</td><td>AES–Twofish<br/>
+AES–Twofish–Serpent<br/>
+Camellia–Kuznyechik<br/>
+Camellia–Serpent<br/>
+Kuznyechik–AES<br/>
+Kuznyechik–Serpent–Camellia<br/>
+Kuznyechik–Twofish<br/>
+Serpent–AES<br/>
+Serpent–Twofish–AES<br/>
+Twofish–Serpent</td></tr>
+<tr><td style="background:lightgrey;">支持的哈希算法</td><td>RIPEMD-160<br/>
+SHA1<br/>
+SHA256<br/>
+SHA512</td><td>RIPEMD-160<br/>
+SHA-512<br/>
+Whirlpool</td><td>RIPEMD-160<br/>
+SHA-512<br/>
+Whirlpool</td><td>RIPEMD-160<br/>
+SHA-256<br/>
+SHA-512<br/>
+Whirlpool<br/>
+Streebog</td></tr>
+<tr><td style="background:lightgrey;">【创建】加密的物理分区</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】加密的物理分区</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【创建】虚拟加密盘（virtual volume）</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】虚拟加密盘（virtual volume）</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区（引导时自解密）</td><td>YES（仅 Linux 系统分区）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES（仅 Windows 系统分区）</td><td>YES（仅 Windows 系统分区）</td></tr>
+<tr><td style="background:lightgrey;">支持“密码”的认证方式</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">支持“Keyfiles”的认证方式</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区支持 Keyfiles</td><td>YES（仅 Linux 系统分区）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td></tr>
+<tr><td style="background:lightgrey;">修改密码或 Keyfiles</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【创建】隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">操作外层卷时，对隐藏卷写保护</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">自定义“生成密钥的迭代次数”</td><td>YES</td><td>YES（cryptsetup ≥ 2.0.0）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES（PIM 功能，版本 ≥ 1.12）</td></tr>
+<tr><td style="background:lightgrey;">加密格式的模糊性</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td><td>YES</td></tr>
 </tbody></table></center><br/>
 　　（上述表格的最后一项）关于【加密格式的模糊性】，恐怕很多读者（包括技术老手）不一定明白俺在说啥。稍微解释一下：<br/>
 　　TC 这种存储格式有个显著的优点是——【没有】明显的头部信息。当你把某个分区加密成 TC 格式，这个分区的数据看起来就像是【全随机】的数据，没有任何明显的标志。<br/>
@@ -554,11 +600,11 @@ Serpent-Twofish-AES</td></tr>
 　　为了尽量降低不必要的风险，你要确保系统中【没有】TC/VC 或诸如此类的软件。<br/>
 <br/>
 　　某些技术小白可能会问：没有这些软件，如何操作 TC 加密盘捏？<br/>
-　　很简单，因为 dm-crypt 相关的软件包已经提供了 <code>cryptsetup</code> 命令，它既可以挂载 LUKS 格式，还可以挂载 TC 格式。<br/>
-　　另外，虽然 <code>cryptsetup</code> 命令可以用来【挂载】TC 加密盘，但要【创建】TC 加密盘，还是需要 TrueCrypt 或 VeraCrypt 软件。<br/>
+　　很简单，因为 dm-crypt 软件包已经提供了 <code>cryptsetup</code> 命令，它既可以挂载 LUKS 格式，还可以挂载 TC 格式。<br/>
+　　遗憾的是，虽然 <code>cryptsetup</code> 命令可以用来【挂载】TC 加密盘，但如果要【创建】TC 加密盘，还是需要 TrueCrypt 或 VeraCrypt 软件（注：<code>cryptsetup</code> 命令对 TC 格式的支持不够全，详情参见刚才那张很复杂的对照表）<br/>
 　　咋办捏？<br/>
-　　办法之一是：你在某个“虚拟机”（Guest OS）中安装 TrueCrypt 或 VeraCrypt，然后把“物理系统”（Host OS）中需要加密的分区挂载到 VM（Guest OS），在虚拟机中完成“创建加密盘”的操作。完事儿之后，把虚拟机【回退快照】就可以彻底抹掉你刚才创建加密盘的操作痕迹。<br/>
-　　（如何在 Guest OS 中挂载 Host OS 的分区，有一些技巧。有空的话，另写篇博文来聊）<br/>
+　　办法之一是：你在某个“虚拟机”（Guest OS）中安装 TrueCrypt 或 VeraCrypt，然后把“物理系统”（Host OS）中需要加密的分区挂载到 VM（Guest OS），在虚拟机中完成“创建加密盘”的操作。完事儿之后，把虚拟机【回退快照】就可以彻底抹掉你刚才创建加密盘的操作痕迹。之后对 TC 加密盘的操作（挂载加密盘），全靠 <code>cryptsetup</code> 命令来搞定。<br/>
+　　（注：如何在 Guest OS 中挂载 Host OS 的分区，有一些技巧。有空的话，另写篇博文来聊）<br/>
 <br/>
 <h3>◇如何组合 LUKS ＆ TC？</h3><br/>
 　　在本小节的讨论中，俺以【单硬盘】电脑来举例（至于【多】硬盘的情况，大伙儿请依样画葫芦）。<br/>
@@ -574,12 +620,12 @@ Serpent-Twofish-AES</td></tr>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr><td align="center" rowspan="5">GRUB<br/>
 kernel</td><td align="center" rowspan="4">系统文件</td><td align="center" rowspan="2">用来存放【不太】敏感的数据</td><td align="center">存放【高度敏感】的数据</td></tr>
-<tr><td align="center">TrueCrypt / VeraCrypt<br/>
+<tr><td align="center">TC 加密格式<br/>
 （如安全性要求很高，启用【隐藏卷】）</td></tr>
 <tr><td align="center">多个 LV（逻辑卷）</td><td align="center">单个 LV，先不格式化<br/>
 （空间占比【不应】太大，伪装成未用空间）</td></tr>
 <tr><td align="center" colspan="2">LVM</td></tr>
-<tr><td align="center">dm-crypt（LUKS）</td><td align="center" colspan="2">dm-crypt（LUKS）</td></tr>
+<tr><td align="center">LUKS 加密格式</td><td align="center" colspan="2">LUKS 加密格式</td></tr>
 <tr><td align="center">引导分区</td><td align="center">系统分区</td><td align="center" colspan="2">数据分区（可以有多个）</td></tr>
 <tr><td align="center" colspan="4">物理硬盘</td></tr>
 </tbody></table></center><br/>
@@ -591,7 +637,7 @@ kernel</td><td align="center" rowspan="3">系统文件</td><td align="center">�
 <tr><td align="center">多个 LV（逻辑卷）</td><td align="center">多个 LV（逻辑卷）</td></tr>
 <tr><td align="center">LVM</td><td align="center">LVM<br/>
 （创建【单独的】VG，【不】与左边那个共用）</td></tr>
-<tr><td align="center">dm-crypt（LUKS）</td><td align="center">dm-crypt（LUKS）</td><td align="center">TrueCrypt / VeraCrypt<br/>
+<tr><td align="center">LUKS 加密格式</td><td align="center">LUKS 加密格式</td><td align="center">TC 加密格式<br/>
 （如安全性要求很高，启用【隐藏卷】）</td></tr>
 <tr><td align="center">引导分区</td><td align="center">系统分区</td><td align="center">数据分区（可以有多个）</td><td align="center">单个数据分区，先不格式化<br/>
 （空间占比【不应】太大，伪装成未用空间）</td></tr>
@@ -605,13 +651,13 @@ kernel</td><td align="center" rowspan="3">系统文件</td><td align="center">�
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
-《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》<br/>
 《<a href="../../2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.md">扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
+《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
+《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）
 </div>

@@ -3,8 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-　　前几天（5月28日），TrueCrypt 官网突然变脸。全球的安全社区纷纷表示震惊。已经有若干读者在博客留言，希望俺点评一下此事。因为上周恰逢“六四事件”25周年，俺发了<a href="../../2014/06/weekly-share-68.md">相关博文</a>表示纪念。相应地，TrueCrypt 的点评放到本周发布。<a name="more"></a><br/>
-<br/>
+　　前几天（5月28日），TrueCrypt 官网突然变脸。全球的安全社区纷纷表示震惊。已经有若干读者在博客留言，希望俺点评一下此事。因为上周恰逢“六四事件”25周年，俺发了<a href="../../2014/06/weekly-share-68.md">相关博文</a>表示纪念。相应地，TrueCrypt 的点评放到本周发布。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★TrueCrypt 官网的“变脸”</h2><br/>
 　　先简单说一下 TC 官网的变脸。<br/>
@@ -143,12 +143,16 @@ TC 长期以来一直是 NSA 的眼中钉，NSA 自然有充足的动机和热�
 　　如果是前者，大伙儿当然是高枕无忧；如果是后者，问题也不大。因为这种隐藏极深的高级后门，通常都是用来对付“高价值目标”滴。啥是“高价值目标”捏？比如说：政府的高级官员、军事系统的重要人员、顶级恐怖组织的重要人员、顶级犯罪组织的重要人员......<br/>
 　　俺博客的读者，99.99% 以上都【不是】“高价值目标”。所以你暂时不用太担心“高级后门”的问题。<br/>
 <br/>
-　　接下来需要关注的是：<br/>
+　　接下来需要关注的几点是：<br/>
 1. 针对 TC 的第二阶段代码审查（几个月之后出报告）<br/>
 2. 最近这段时间可能还会曝出其它猛料，大伙儿稍微留意一下。<br/>
 <br/>
 　　退一步讲，假设第二阶段的代码审查发现严重的后门，到时候俺会再发一篇教程，介绍“TrueCrypt 的替代品”。<br/>
 <br/>
+　　<b>补充说明</b><br/>
+　　本文发出之后又过了一年（2015年4月），TrueCrypt 的代码审计结果出来了。参见【安全大牛 Bruce Schneier】的博客，链接在“<a href="https://www.schneier.com/blog/archives/2015/04/truecrypt_secur.html" rel="nofollow" target="_blank">这里</a>”。<br/>
+　　Bruce Schneier 在开篇写道：<br/>
+<blockquote>The security audit of the TrueCrypt code has been <a href="https://opencryptoaudit.org/reports/TrueCrypt_Phase_II_NCC_OCAP_final.pdf" rel="nofollow" target="_blank">completed</a> (see <a href="https://opencryptoaudit.org/reports/iSec_Final_Open_Crypto_Audit_Project_TrueCrypt_Security_Assessment.pdf" rel="nofollow" target="_blank">here</a> for the first phase of the audit), and the <a href="http://arstechnica.com/security/2015/04/truecrypt-security-audit-is-good-news-so-why-all-the-glum-faces/" rel="nofollow" target="_blank">results</a> <a href="http://www.theregister.co.uk/2015/04/02/truecrypt_security_audit/" rel="nofollow" target="_blank">are</a> <a href="http://betanews.com/2015/04/03/truecrypt-doesnt-contain-nsa-backdoors/" rel="nofollow" target="_blank">good</a>. Some issues were found, but nothing major.</blockquote><br/>
 <h3>◇目前该用哪个版本的 TrueCrypt？</h3><br/>
 　　如果你已经是 TC 的用户，在“第二阶段代码审查”结束之前，你还是继续用 TC 吧，不要急着迁移。<br/>
 　　俺建议：【不要】用官网提供的那个 7.2 版本。因为此事很诡异，那个 7.2 版本会不会有啥猫腻，不得不防。最好是用【前一个】稳定发布版本——也就是【7.1a】版本。<br/>
@@ -162,7 +166,7 @@ TC 长期以来一直是 NSA 的眼中钉，NSA 自然有充足的动机和热�
 　　因为 TC 的源代码是公开的，任何人都可以拿它的代码克隆出一个新的磁盘加密工具。所以官网变脸之后，已经陆续出现了几个克隆（代码 fork）。假以时日，或许其中的某个克隆会再次成为主流。如果真这样的话，TC 就涅磐重生了。<br/>
 　　提醒一下：如果你对安全性的要求比较高，短期内（至少1年之内）不要急着去用这些克隆的 TrueCrypt（这些克隆需要一定的时间才能成熟、稳定）。<br/>
 <br/>
-　　补充说明：<br/>
+　　<b>补充说明</b><br/>
 　　本文发布后，又过了一年（2015），俺写了篇教程（如下)，向大伙儿隆重推荐【VeraCrypt】。TrueCrypt 果然涅磐重生了 :)<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
 <br/>

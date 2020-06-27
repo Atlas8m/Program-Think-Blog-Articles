@@ -62,41 +62,66 @@
 　　再次提醒：dm-crypt 的 TCRYPT 模式，需要 cryptsetup 的版本号大于等于【1.6.0】才行。<br/>
 <br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr style="background:lightgrey;"><th>功能点</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt / VeraCrypt</th></tr>
+<tr style="background:lightgrey;"><th> </th><th>LUKS 加密盘格式</th><th colspan="3">TC 加密盘格式</th></tr>
+<tr style="background:lightgrey;"><th>功能特性</th><th>dm-crypt 的 LUKS 模式</th><th>dm-crypt 的 TCRYPT 模式</th><th>TrueCrypt</th><th>VeraCrypt</th></tr>
 <tr><td style="background:lightgrey;">支持的操作系统</td><td>Linux</td><td>Linux</td><td>Windows<br/>
 Linux<br/>
+Mac OS</td><td>Windows<br/>
+Linux<br/>
 Mac OS</td></tr>
-<tr><td style="background:lightgrey;">支持的加密算法类型</td><td>AES<br/>
+<tr><td style="background:lightgrey;">支持的加密算法类型</td><td>（内核 Crypto API）</td><td>AES<br/>
+Twofish<br/>
+Serpent</td><td>AES<br/>
 Twofish<br/>
 Serpent</td><td>AES<br/>
 Twofish<br/>
 Serpent<br/>
-AES-Twofish<br/>
-Serpent-AES<br/>
-Twofish-Serpent<br/>
-AES-Twofish-Serpent<br/>
-Serpent-Twofish-AES</td><td>AES<br/>
-Twofish<br/>
-Serpent<br/>
-AES-Twofish<br/>
-Serpent-AES<br/>
-Twofish-Serpent<br/>
-AES-Twofish-Serpent<br/>
-Serpent-Twofish-AES</td></tr>
-<tr><td style="background:lightgrey;">支持多重加密算法（多算法级联）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密【物理】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密【虚拟】分区</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">【无】系统分区的全盘加密</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">【含】系统分区的全盘加密</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
-<tr><td style="background:lightgrey;">加密系统分区</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅限 Windows</td></tr>
-<tr><td style="background:lightgrey;">基于“密码”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">基于“Keyfiles”的认证</td><td>YES</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">修改认证因素</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">加密系统分区并用 Keyfiles 认证</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td></tr>
-<tr><td style="background:lightgrey;">隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">操作外层卷并对隐藏卷写保护</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td></tr>
-<tr><td style="background:lightgrey;">自定义“生成密钥的迭代次数”</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>仅 VeraCrypt</td></tr>
-<tr><td style="background:lightgrey;">加密格式的模糊性</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+Camellia<br/>
+Kuznyechik</td></tr>
+<tr><td style="background:lightgrey;">支持多重加密算法（多算法级联）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>AES–Twofish<br/>
+Serpent–AES<br/>
+Twofish–Serpent<br/>
+AES–Twofish–Serpent<br/>
+Serpent–Twofish–AES</td><td>AES–Twofish<br/>
+Serpent–AES<br/>
+Twofish–Serpent<br/>
+AES–Twofish–Serpent<br/>
+Serpent–Twofish–AES</td><td>AES–Twofish<br/>
+AES–Twofish–Serpent<br/>
+Camellia–Kuznyechik<br/>
+Camellia–Serpent<br/>
+Kuznyechik–AES<br/>
+Kuznyechik–Serpent–Camellia<br/>
+Kuznyechik–Twofish<br/>
+Serpent–AES<br/>
+Serpent–Twofish–AES<br/>
+Twofish–Serpent</td></tr>
+<tr><td style="background:lightgrey;">支持的哈希算法</td><td>RIPEMD-160<br/>
+SHA1<br/>
+SHA256<br/>
+SHA512</td><td>RIPEMD-160<br/>
+SHA-512<br/>
+Whirlpool</td><td>RIPEMD-160<br/>
+SHA-512<br/>
+Whirlpool</td><td>RIPEMD-160<br/>
+SHA-256<br/>
+SHA-512<br/>
+Whirlpool<br/>
+Streebog</td></tr>
+<tr><td style="background:lightgrey;">【创建】加密的物理分区</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】加密的物理分区</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【创建】虚拟加密盘（virtual volume）</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】虚拟加密盘（virtual volume）</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区（引导时自解密）</td><td>YES（仅 Linux 系统分区）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES（仅 Windows 系统分区）</td><td>YES（仅 Windows 系统分区）</td></tr>
+<tr><td style="background:lightgrey;">支持“密码”的认证方式</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">支持“Keyfiles”的认证方式</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">加密系统分区支持 Keyfiles</td><td>YES（仅 Linux 系统分区）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td></tr>
+<tr><td style="background:lightgrey;">修改密码或 Keyfiles</td><td>YES</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【创建】隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">【挂载】隐藏卷（hidden volume）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">操作外层卷时，对隐藏卷写保护</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td></tr>
+<tr><td style="background:lightgrey;">自定义“生成密钥的迭代次数”</td><td>YES</td><td>YES（cryptsetup ≥ 2.0.0）</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES（PIM 功能，版本 ≥ 1.12）</td></tr>
+<tr><td style="background:lightgrey;">加密格式的模糊性</td><td style="background-color:lightpink;font-weight:bold;">NO</td><td>YES</td><td>YES</td><td>YES</td></tr>
 </tbody></table></center><br/>
 <br/>
 <h2>★预备知识</h2><br/>
@@ -132,14 +157,15 @@ Serpent-Twofish-AES</td></tr>
 　　上述写法中的【相关参数】是可以不写的。如果不写，则 cryptsetup 会采用相应的默认值。对于安全性要求较高的同学，【不要】使用默认值，要根据自己的需求指定相关的参数。<br/>
 　　当你使用 <code>luksFormat</code> 进行格式化的时候，下面是几个常用参数以及俺推荐的参数值：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr><th>参数名称</th><th>含义</th><th>推荐值</th><th>备注</th></tr>
+<tr style="background:lightgrey;"><th>参数名称</th><th>含义</th><th>推荐值</th><th>备注</th></tr>
 <tr><td>--cipher</td><td>加密方式</td><td>aes-xts-plain64</td><td>AES 加密算法搭配 XTS 模式<br/>
 关于 XTS 模式，可以参见之前的博文：<br/>
 《<a href="../../2013/08/truecrypt-1.md">TrueCrypt 使用经验[1]：关于加密算法和加密盘的类型</a>》</td></tr>
 <tr><td>--key-size</td><td>密钥长度</td><td>512</td><td>因为 XTS 模式需要两对密钥，每个的长度是256</td></tr>
 <tr><td>--hash</td><td>散列算法</td><td>sha512</td><td>N/A</td></tr>
 <tr><td>--iter-time</td><td>迭代时间</td><td>最好大于10000</td><td>单位是毫秒。该值越大，暴力破解越难；但是你在打开加密盘时也要等待更久</td></tr>
-</tbody></table></center>　　下面给一个具体的例子——用 LUKS 方式创建（格式化）加密盘，该加密盘位于 <code>/dev/sda2</code> 分区<br/>
+</tbody></table></center><br/>
+　　下面给一个具体的例子——用 LUKS 方式创建（格式化）加密盘，该加密盘位于 <code>/dev/sda2</code> 分区<br/>
 <pre class="shell">cryptsetup --cipher aes-xts-plain64 --key-size 512 --hash sha512 --iter-time 10000 luksFormat /dev/sda2</pre><br/>
 <h3>◇打开加密盘</h3><br/>
 　　dm-crypt/cryptsetup 可以打开前面提及的各种格式的加密（只要是它支持的格式，就可以打开）。<br/>
@@ -267,27 +293,30 @@ Serpent-Twofish-AES</td></tr>
 <br/>
 <br/>
 <h2>★用 cryptsetup 操作 TrueCrypt/VeraCrypt 的加密盘</h2><br/>
-　　（再次罗嗦：cryptsetup 的版本号必须——大于等于【1.6.0】才能兼容 TrueCrypt/VeraCrypt 加密盘）<br/>
-<br/>
 <h3>◇基本命令</h3><br/>
-　　在前面的“功能概述”中提及：dm-crypt/cryptsetup 可以用来打开 TrueCrypt/VeraCrypt 加密盘。<br/>
+　　在前面的“功能概述”中提及：dm-crypt 软件的 <code>cryptsetup</code> 命令可以用来打开 TrueCrypt/VeraCrypt 加密盘。<br/>
 　　命令行的大致写法如下：<br/>
 <pre class="shell">cryptsetup open --type tcrypt 已加密的物理分区或虚拟盘 映射名</pre>　　也可以使用简写的方式如下：<br/>
 <pre class="shell">cryptsetup tcryptOpen 已加密的物理分区或虚拟盘 映射名</pre><br/>
-<h3>◇相关参数</h3><br/>
+　　（再次唠叨一下：<code>cryptsetup</code> 的版本号必须——大于等于【1.6.0】才能兼容 TrueCrypt/VeraCrypt 加密盘）<br/>
+<br/>
+<h3>◇相关的命令行参数</h3><br/>
 　　在 TCRYPT 模式下，有一些相关的参数，简要说明如下：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
-<tr><th>参数名称</th><th>说明</th><th>参数值</th></tr>
-<tr><td>--tcrypt-hidden</td><td>打开隐藏卷，需要追加该参数</td><td>无</td></tr>
-<tr><td>--tcrypt-system</td><td>打开加密的系统分区，需要追加该参数</td><td>无</td></tr>
-<tr><td>--readonly</td><td>以“只读”方式打开加密分区，需要追加该参数</td><td>无</td></tr>
-<tr><td>--key-file</td><td>如果该加密盘用到了“keyfiles”认证，需要追加该参数</td><td>keyfile 的路径</td></tr>
-<tr><td>--veracrypt</td><td>打开 VeraCrypt 格式的加密盘，需要追加该参数</td><td>无</td></tr>
+<tr style="background:lightgrey;"><th>参数名</th><th>参数值</th><th>说明</th></tr>
+<tr><td>--tcrypt-hidden</td><td>无</td><td>打开隐藏卷，需要追加该参数</td></tr>
+<tr><td>--tcrypt-system</td><td>无</td><td>打开加密的系统分区，需要追加该参数</td></tr>
+<tr><td>--readonly</td><td>无</td><td>以“只读”方式打开加密分区，需要追加该参数</td></tr>
+<tr><td>--key-file</td><td>key file 路径</td><td>如果该加密盘用到了“keyfiles”认证，需要追加该参数</td></tr>
+<tr><td>--veracrypt</td><td>无</td><td>对 VeraCrypt 格式的加密盘，必须追加该参数<br/>
+（cryptsetup 版本号 ≥ 1.6.7 才支持该参数）</td></tr>
+<tr><td>--veracrypt-pim</td><td>PIM 值</td><td>如果 VeraCrypt 格式的加密盘设定了 PIM 值，必须追加该参数<br/>
+（cryptsetup 版本号 ≥ 2.0.0 才支持该参数）</td></tr>
 </tbody></table></center><br/>
 　　关于 VeraCrypt 的补充说明：<br/>
-　　cryptsetup 的版本号要大于等于【1.6.7】才能打开 VeraCrypt 的加密盘。由于这个功能是近期才加入 dm-crypt/cryptsetup，好像还不支持 VeraCrypt 的 PIM 功能——（俺简单测试了一下）如果 VeraCrypt 加密盘设置了 PIM，用 cryptsetup 对其进行 open 操作，没有提示俺输入 PIM，然后显示打开失败。<br/>
-　　估计要等 cryptsetup 更新的版本，或许就会支持 VeraCrypt 加密盘的 PIM 功能。<br/>
-　　（关于 PIM 功能，参见《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》）<br/>
+　　<code>cryptsetup</code> 命令的版本号必须【≥ 1.6.7】才能打开 VeraCrypt 的加密盘。截止俺写这篇博文时，还【不】支持 VeraCrypt 的 PIM 功能。<br/>
+　　本文发出之后又过了4年（2019年8月），<code>cryptsetup</code> 命令升级到【2.0.0】版本终于支持 VeraCrypt 加密盘的 PIM 功能啦！<br/>
+　　（关于 PIM 功能的详细介绍，请参见《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》）<br/>
 <br/>
 <br/>
 <h2>★用 cryptsetup 加密系统分区（root filesystem）或全盘加密</h2><br/>

@@ -234,7 +234,9 @@ X = 2000砣<br/>
 据王盛波的说明，他奶奶当时人就在家里，并不需要别人送她回家，是雷锋和新闻干事季增找上门来攀谈。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/C4KeoB8Puo684_WIaC88UXr8yAYFL_tHQZLY21Ixs8F3Lx76pzcz2Pfzk-pD9bzRWrwzW-GiPlO5njC3Xig_L0ZQY1G5OX6yPXIWBiMGABcosXq7QLRkkZs9vyA"/><br/>
-（编程随想注：这是“雷锋送老大娘回家”的照片，你稍微思考一下，就知道这是【摆拍】）</center><br/>
+（编程随想注：这是“雷锋送老大娘回家”的照片；你稍微思考一下，就知道这是【摆拍】）</center><br/>
+<center><img alt="不见图 请翻墙" src="images/OImrm3kWGV5ZQYrnxnsbsVRTwfa2JrPQ8KpC02RtmuKCJOxFMBcMVdYULiKVYqQpcl3ZcMiHQ6FeHu0VAQcPCnz3Ao4vZYDjP_hdlz4HfS5zVVb5JMChmisI1_OCqoa_PrDib_SD_gM"/><br/>
+（编程随想注：这是天朝官方宣传，爱思考的读者会问：<b>是谁每天把被子弄乱的？</b>）</center><br/>
 一些官方的谣言<br/>
 1. 周恩来去世联合国降半旗是例行公事；<br/>
 2. 邓小平与菲律宾总统没有关于南海的对话；<br/>
@@ -254,8 +256,7 @@ X = 2000砣<br/>
 雷锋每次做好事，都会有一个扛着照相器材的工作人员跟着他。<br/>
 <br/>
 　　编程随想注：<br/>
-　　以下几张照片，有明显破绽，分享给大伙瞧一瞧。<br/>
-　　有兴趣的话，还可以看一下《<a href="../../2010/09/censorship-of-images.md">真理部是如何 PS 照片的</a>》。<br/>
+　　以下几张照片，有明显破绽，分享给大伙瞧一瞧。有兴趣的话，还可以看一下《<a href="../../2010/09/censorship-of-images.md">真理部是如何 PS 照片的</a>》。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/biCfKh-YTLQP1fbyEAsaNTrDGXuoNZd-SHkMRY2gwAoduNNje-RxkJycYOO49IHU-mth1pXRsMK1F-0FAKtYcWuw93MOq2n7e8MF9zR0i8zV4qgu5fJAfk1eDk4"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/IrClHF0TA61Kn2Qwa4kCdGS0yi4PKNQ1sE-TpNVm16ZGeKJ5bWPwjrRyWnqR7Se31TAXb9G1-UD0zJFbL_XqaHMvKbatreBs-1B7V7AF4exi7OU6Ls_mwnmm2Ek"/></center><br/>
@@ -359,7 +360,7 @@ X = 2000砣<br/>
 虽然电影零售票房不理想，但该片放映以包场为主，迄今为止，全国各地已组织超过200场团体包场......”<br/>
 <br/>
 （某网友）：<br/>
-偌大的南京，影院应该有几十家，首映当天只有90人观看，这跟"零票房"有多大区别? 还好意思提"包场"——所谓"包场"，不就是公家埋单吗? 而公款埋的单能算是真正的“票房”吗？<br/>
+偌大的南京，影院应该有几十家，首映当天只有90人观看，这跟“零票房”有多大区别? 还好意思提“包场”——所谓“包场”，不就是公家埋单吗? 而公款埋的单能算是真正的“票房”吗？<br/>
 <br/>
 （某网友）：<br/>
 90个人观看啊，赶上阿凡达首映了！<br/>
@@ -373,16 +374,18 @@ X = 2000砣<br/>
 五岳散人：<br/>
 洗脑还要自己出钱买票，现在哪里还有这样的傻逼啊！<br/>
 <br/>
+（某网友）：<br/>
 一群骗子演给一群傻子看！<br/>
 <br/>
+（某网友）：<br/>
 大家对骗人的东西产生反感，才会把怒火和厌恶放到一部电影的评分上。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a><br/>
-<a href="../../2011/08/libyan-civil-war.md">看看真理部对利比亚革命的忽悠</a><br/>
-<a href="../../2012/04/weekly-share-1.md">每周转载：看看当年的共产党是如何唱高调的（网文4篇）</a><br/>
-<a href="../../2013/01/weekly-share-35.md">每周转载：关于真理部的几篇旧文（网文5篇）</a>
+《<a href="../../2010/09/censorship-of-images.md">看看真理部是如何 PS 照片的</a>》<br/>
+《<a href="../../2011/08/libyan-civil-war.md">看看真理部对利比亚革命的忽悠</a>》<br/>
+《<a href="../../2012/04/weekly-share-1.md">每周转载：看看当年的共产党是如何唱高调的（网文4篇）</a>》<br/>
+《<a href="../../2013/01/weekly-share-35.md">每周转载：关于真理部的几篇旧文（网文5篇）</a>》
 </div>
 
 

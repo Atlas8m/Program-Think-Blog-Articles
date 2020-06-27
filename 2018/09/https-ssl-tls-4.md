@@ -27,22 +27,22 @@
 　　说到这儿，某些聪明的同学已经联想到【散列函数】——用散列函数计算出来的哈希值确实可以用来作为 MAC。这种基于哈希（HASH）的“消息验证代码”也称作“HMAC”。不了解哈希算法的同学可以看这篇博文：《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 <br/>
 <h3>◇MAC 的几种搞法</h3><br/>
-　　常见的有如下三种。俺从维基百科剽窃了对应的流程图，大伙儿看图就明白其原理，省得俺浪费力气打字了。<br/>
+　　常见的有如下3种。俺从维基百科剽窃了对应的流程图，大伙儿看图就明白其原理，省得俺浪费力气打字了。<br/>
 <br/>
-　　<b>Encrypt-then-MAC （EtM）</b><br/>
+　　<b>Encrypt-then-MAC（EtM）</b><br/>
 <center><img alt="不见图 请翻墙" src="images/ZQkpnuTEiUkPvn2psD0gPxtUbENwZP1onhRNDCb2F7JAovU6bGFTBwu20aop2R4WFlwWx0Hd-B0meLWd8xKHhRFzisfxSO0Epf8oeNK8w0Q6pwcLgTLVqDZrVlLa01V46i6ZaGHus50"/><br/>
-　　先加密明文得到密文，再根据密文计算 MAC，最后把密文与 MAC 合并成一坨</center><br/>
-　　<b>Encrypt-and-MAC （E＆M）</b><br/>
+（先加密明文得到密文，再根据密文计算 MAC，最后把密文与 MAC 合并成一坨）</center><br/>
+　　<b>Encrypt-and-MAC（E＆M）</b><br/>
 <center><img alt="不见图 请翻墙" src="images/BKYtLQ_do3AKtTYeI-Atao5MztF_PLPvjdsv4TVPneDWJGZZ6RVFq7QqaTMF-ulgEnupLr8IJCB989gnXGEomqSxPqupKky6xOrWwqs3Vhk7qeqQHGkoiCDI8cxGwmkZT9HCFTgMsp0"/><br/>
-　　对明文加密得到密文，对明文计算 MAC，最后把密文与 MAC 合并成一坨</center><br/>
-　　<b>MAC-then-Encrypt （MtE）</b><br/>
+（对明文加密得到密文，对明文计算 MAC，最后把密文与 MAC 合并成一坨）</center><br/>
+　　<b>MAC-then-Encrypt（MtE）</b><br/>
 <center><img alt="不见图 请翻墙" src="images/SUX0koVBgoYe2zey_lL1ptgiFtyTgHHXfrKi2AwSl3cELjk9ObToDlPUODdugOOsPKFbK-jzBFPmwT2fZlEpJIMOj44TS2p8EHOVWVoeWtZ3F_cQrkU4lOobrIb4o3dhdWlNHseog74"/><br/>
-　　对明文计算 MAC，把明文与 MAC 合并成一坨，然后一起加密</center><br/>
+（对明文计算 MAC，把明文与 MAC 合并成一坨，然后一起加密）</center><br/>
 <h3>◇AE（带认证的加密）</h3><br/>
 　　传统的加密算法只负责实现【保密性】，而不负责【完整性】。这么说有点抽象，俺举个例子：<br/>
 　　假设你把一段明文 P 加密为一段密文 C，通过网络把 C 发送给另一个人。中途如果被攻击者篡改了（把 C 修改为 C'），那么接收方收到 C' 之后，还是可以正常进行解密操作（当然，解密之后得到的就不再是 P 了，而是得到一段无意义的数据）<br/>
 　　为了解决上述弊端，业界引入 AE（Authenticated Encryption）算法的概念。也就是说，AE 算法不但能做到【保密性】还可以做到【完整性】。<br/>
-　　刚才扫盲的三种 MAC 实现方式，【从理论上讲】就可以算 AE 啦。但上述那三种 MAC 的实现方式有个弊端——【解密】的一方还要自己进行 MAC 的验证操作。这种搞法既麻烦又增加额外风险。比如说：写解密代码的程序猿万一太粗心忘记进行验证，岂不前功尽弃？<br/>
+　　刚才扫盲的三种 MAC 实现方式，【从理论上讲】就可以算 AE 啦。但上述那三种 MAC 的实现方式有个弊端——【解密】的一方还要自己进行 MAC 的验证操作。这种搞法既麻烦又增加额外风险。比如说：写解密代码的程序猿/程序媛万一太粗心忘记进行验证，岂不前功尽弃？<br/>
 <br/>
 <h3>◇【真正的】AE</h3><br/>
 　　为了避免上述提到的弊端，密码学界那帮专家又捣鼓出一些新的算法（比如 CCM、GCM）。这些算法可以在解密的同时验证数据的有效性，而且这些算法也【不】需要再额外存储一个独立的 MAC 数据。<br/>
@@ -108,7 +108,7 @@ HMAC 增加了 SHA256</blockquote><br/>
 ......</blockquote><br/>
 <br/>
 <h2>★Record 协议概述</h2><br/>
-　　很多介绍 SSL/TLS 的文章都把 record 协议给忽略了。可能这些文章的作者觉得 record 协议不太重要。但俺出于负责任的心态，觉得还是有必要跟大伙儿聊一下。<br/>
+　　很多介绍 SSL/TLS 的文章都把 record 协议给忽略了。可能这些文章的作者觉得 record 协议不太重要。但俺本着“高度负责任”的心态，觉得还是有必要跟大伙儿聊一下。<br/>
 　　SSL/TLS 协议在通讯的过程中会把需要传输的数据分成一坨一坨的，每次都只发送或接收一坨。在洋文中，每一坨称作一个 record。下面要聊的“Record 协议”，就是用来定义这个 record 的格式。<br/>
 <br/>
 <br/>
@@ -165,10 +165,10 @@ HMAC 增加了 SHA256</blockquote><br/>
 　　SSL/TLS 各个版本实现【完整性】的方式：<br/>
 <center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>算法</th><th>SSL 2.0</th><th>SSL 3.0</th><th>TLS 1.0</th><th>TLS 1.1</th><th>TLS 1.2</th><th>TLS 1.3</th></tr>
-<tr><td>HMAC-MD5</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:Pink;">否</td></tr>
-<tr><td>HMAC-SHA1</td><td style="background:Pink;">否</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td><td style="background:Pink;">否</td></tr>
-<tr><td>HMAC-SHA256</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:LightGreen;">是</td><td style="background:Pink;">否</td></tr>
-<tr><td>AEAD</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:Pink;">否</td><td style="background:LightGreen;">是</td><td style="background:LightGreen;">是</td></tr>
+<tr><td>HMAC-MD5</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightpink;">否</td></tr>
+<tr><td>HMAC-SHA1</td><td style="background:lightpink;">否</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td><td style="background:lightpink;">否</td></tr>
+<tr><td>HMAC-SHA256</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightgreen;">是</td><td style="background:lightpink;">否</td></tr>
+<tr><td>AEAD</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightpink;">否</td><td style="background:lightgreen;">是</td><td style="background:lightgreen;">是</td></tr>
 </tbody></table></center><br/>
 <h3>◇填充（padding）</h3><br/>
 　　只有当 record 是加密的，并且使用的加密算法属于【块加密算法】，才会使用“填充”字段。<br/>
@@ -211,7 +211,7 @@ Fatal 表示通讯出现【不可靠】的情况（比如：证书失效、数�
 　　Record 协议的“类型”字段为 <code>24</code>（<code>0x18</code>），表示这条 record 是 Heartbeat 类型。<br/>
 　　这种类型的 record 用来发送心跳信息。<br/>
 　　所谓的【心跳】，主要用来确认“通讯的对端”依然正常。在 SSL/TLS 连接建立之后，有可能在某些情况下出现【通讯空闲】（上层的协议在某个时间段没有数据传输）。这时候就需要依靠【心跳机制】来判断对方是否还活着。<br/>
-　　由于“心跳”的传输是在加密信道建立之后，所以“心跳”的 record 也是加密滴。<br/>
+　　由于“心跳”的传输是在加密信道建立【之后】，所以“心跳”的 record 也是加密滴。<br/>
 　　关于这个心跳机制的技术细节，请参见 RFC6520（链接在“<a href="https://tools.ietf.org/html/rfc6520" rel="nofollow" target="_blank">这里</a>”）。<br/>
 　　这个心跳协议的 RFC 发布于2012年（晚于2008年的 TLS 1.2），因此目前只有 TLS 1.3 版本才支持它。<br/>
 <br/>
