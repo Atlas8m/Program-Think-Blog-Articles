@@ -40,7 +40,7 @@
 4. <a href="../../2011/07/june-fourth-incident-4.md">废帝胡耀邦其人</a><br/>
 5. <a href="../../2011/08/june-fourth-incident-5.md">胡废帝是如何失宠的？</a><br/>
 6. <a href="../../2011/09/june-fourth-incident-6.md">“八六学潮”始末</a><br/>
-7. <a href="../../2011/10/june-fourth-incident-7.md">胡耀邦下台</a><br/>
+7. <a href="../../2011/10/june-fourth-incident-7.md">胡耀邦被废的经过</a><br/>
 8. <a href="../../2011/10/june-fourth-incident-8.md">“十三大”重新排座次</a><br/>
 9. <a href="../../2011/11/june-fourth-incident-9.md">山雨欲来的1989年</a><br/>
 10. <a href="../../2011/12/june-fourth-incident-10.md">4月15日，胡废帝驾崩</a><br/>
@@ -67,7 +67,8 @@
 31. <a href="../../2017/06/june-fourth-incident-31.md">5月13日，开始绝食抗议</a><br/>
 32. <a href="../../2018/06/june-fourth-incident-32.md">5月13、14日，短暂的斡旋无果而终</a><br/>
 33. <a href="../../2019/05/june-fourth-incident-33.md">5月15、16日，中苏峰会，邓赵决裂</a><br/>
-34.（未完待续）
+34. <a href="../../2020/07/june-fourth-incident-34.md">5月17日，“戒严令”出笼的经过</a><br/>
+35.（未完待续）
 </div>
 
 

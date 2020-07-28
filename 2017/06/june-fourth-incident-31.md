@@ -6,9 +6,8 @@
 　　很抱歉没能赶在6月4日发出本文 :(<br/>
 　　最近几天，俺把这个系列的前面30篇又整理了一下——主要是统一排版的样式。比如所有照片都统一用居中对齐，照片的说明统一都放在照片下方，也是居中对齐，并都加上全角括号。这样照片的说明文字就不容易跟正文混淆。<br/>
 <br/>
-<hr/><br/>
-　　<a href="../../2011/06/june-fourth-incident-0.md">本系列的上一篇</a>介绍了绝食抗议的决策是如何作出，今天这篇讲讲绝食第一天的情况。<a name="more"></a><br/>
-<br/>
+<hr/>　　<a href="../../2011/06/june-fourth-incident-0.md">本系列的上一篇</a>介绍了绝食抗议的决策是如何作出，今天这篇讲讲绝食第一天的情况。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★风萧萧兮易水寒</h2><br/>
 　　先来介绍一下几个高校的绝食学生在出发之前的情形。<br/>
@@ -23,32 +22,32 @@
 <center><img alt="不见图 请翻墙" src="images/wLSBFQYH9sCl6RmM8MJNdbvqc3at94B6wuQGADdJTv4k2j4fpyZqt5T0xhNcmq-sRpCaQy8-YwYD7mbQUWsruZnR9OCn_U0VSc4k9mzPsprmW3ubexZHMJk0PgpbzXVrDvIv_eRg8CQ"/><br/>
 （大字报《绝食送行队》）</center><br/>
 　　那天中午，北大的一些青年教师（包括如今名气很大的钱理群）在燕春园（当年北大最高档的校内餐厅）宴请那些参与绝食的学生。那顿饭被称为“最后的午餐”。<br/>
-　　北大作家班的学员为绝食学生写了一个横幅：<q style="background-color:#DDD;">壮士一去<b>盼</b>回还</q>，挂在燕春园饭馆内。很多绝食学生在这个横幅前拍照留念。<br/>
+　　北大作家班的学员为绝食学生写了一个横幅：<q>壮士一去<b>盼</b>回还</q>，挂在燕春园饭馆内。很多绝食学生在这个横幅前拍照留念。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/wb1pHV5gNkjAwG1MviRg53CH2Ngz3rI-XUzoL37DauqfuucuwHKvD83WXNRnm1iKEVxbTnXzOZGV64SxeKZZyPne-YeEqNpBtBJ12n_wbQ0AzlFkzPEWKt5kUi92a7Z7vshE-k131d4"/><br/>
 （头缠白布条的绝食学生在北大燕春园吃“最后的午餐”）</center><br/>
 　　在正式出发之前，为了表示严肃性，所有签名参与绝食的学生先在校内作一次宣誓，地点在29号楼前面（此楼前有一个“D &amp; S”的金属雕像，象征“民主与科学”），由赵体国负责领读誓词（他在之前的示威游行中负责纠察队）。在宣誓之前，赵体国再次强调了绝食的纪律，他的原话是：<br/>
-<blockquote style="background-color:#DDD;">你们都明白绝食意味着什么吗？那意味着你们必须拿出献身的勇气！别以为绝食之后还能偷吃点东西，谁要是抱着这样的侥幸心理就不要在这里宣誓；谁要是绝食之后还这么做，就是对别人的出卖！</blockquote>　　为啥俺这里能一字不差地复述他的原话捏？因为封从德在现场做了录音，上述赵体国的话是根据封从德写的《六四日记——广场上的共和国》摘录的。以下是那本书第276页的照片。<br/>
+<blockquote>你们都明白绝食意味着什么吗？那意味着你们必须拿出献身的勇气！别以为绝食之后还能偷吃点东西，谁要是抱着这样的侥幸心理就不要在这里宣誓；谁要是绝食之后还这么做，就是对别人的出卖！</blockquote>　　为啥俺这里能一字不差地复述他的原话捏？因为封从德在现场做了录音，上述赵体国的话是根据封从德写的《<a href="https://docs.google.com/document/d/1EJI4b4vBBIHXw5TqOD8NKw0RHceBz8kr3_Ut9kJMOUY/" target="_blank">六四日记——广场上的共和国</a>》摘录的。以下是那本书第276页的照片。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/ESp13ZoTr8k-t31FMonL2M6Oys9DqRZyiBMnazF7jR8VAZVIg63gHXe0XyRD6tD0LbRczS38nuELShKfJ688NOZNbUQy8kNTXG39HKAzJvVwizRytLiH5tgBNZn5UrnHgBovJRY-QYA"/><br/>
 （赵体国带领北大绝食学生宣读绝食誓言）</center><br/>
 　　北大的队伍于中午12点半在南门出发。当时有人在校门口贴了对联：<b>风萧萧兮易水寒，壮士一去兮不复还</b>。校门口挤满了围观的学生和市民。从下面的照片可以看出，连校门旁边的屋顶上都站了好些人。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/99-QTuaaqZqOz38gOxLP-Y7GSklVowClA_VN0etVj0jJ02H_-WAV8R6Ac8albJzt1B7niSL6kuDLsejdb1A1azpm0ji7rVRTxwzCsV2lonSVT_9H60rDm-1_Y8PbjcSx97DylpyOtvw"/><br/>
-（对联：<q style="background-color:#DDD;">风萧萧兮易水寒</q>）</center><br/>
+（对联：<q>风萧萧兮易水寒</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/t2kNEIRs3lk15nuqvnde0WB0q7EizV_PXjWARflLx6Gnq1exsNUfHEn0tHCTtbj_c0lXehRgEWLrDi2Y6ZxPG3DGdEH-Te6mPMRAqN9Lbl7GnE34JillqmhyStgNOTJtOqlgAofa7jU"/><br/>
-（对联：<q style="background-color:#DDD;">壮士一去兮不复还</q>）</center><br/>
+（对联：<q>壮士一去兮不复还</q>）</center><br/>
 <h3>◇政法大学</h3><br/>
 　　说完北大，再顺便说一下政法大学。<br/>
-　　如今名气很大的良心律师浦志强，当年是政法大学绝食抗议的积极分子。以下摘自吴仁华所写的《八九天安门事件大事记》（引文中的括号是俺标注的）：<br/>
-<blockquote style="background-color:#DDD;">（13日）午饭前，中国政法大学硕士研究生浦志强等人在校门口拉着“为民主自由绝食”的横幅，因报名参加绝食者不多，浦志强悲愤呼吁“难道法大的男子汉都死绝了吗？！ ”我（吴仁华）与青年教师刘斌临时买了巧克力让他们路上补充热量，以四特酒为他们壮行。临出发，浦志强对着校门磕头诀别。</blockquote><br/>
+　　如今名气很大的良心律师浦志强，当年是政法大学绝食抗议的积极分子。以下摘自吴仁华所写的《<a href="https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/" target="_blank">八九天安门事件大事记</a>》（引文中的小括号是俺标注滴）：<br/>
+<blockquote>（13日）午饭前，中国政法大学硕士研究生浦志强等人在校门口拉着“为民主自由绝食”的横幅，因报名参加绝食者不多，浦志强悲愤呼吁“难道法大的男子汉都死绝了吗？！ ”我（吴仁华）与青年教师刘斌临时买了巧克力让他们路上补充热量，以四特酒为他们壮行。临出发，浦志强对着校门磕头诀别。</blockquote><br/>
 <center><img alt="不见图 请翻墙" src="images/SbGWItaHvwJkUiRc_LeQ6MwDz7gVvnAEwU6GGS4PRVXNDPf2mIW1jH8krrXYhZcnlNbEpA5WBKLdvdckCy9zB2K40L5y9UOsf7YZVsLpXL1HzTUCh-rOplPb22Sn1XiZwaicxiWTA9E"/><br/>
 （13日中午，浦志强在校门口拉出“为民主自由绝食”的横幅）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/fbS1p0EL53249pM_bHsXfbIzSI7Lq-Uaw1mA5oHkXb2QkQAMpiBqSXGpG0nxmyudJTyE217HRI8gj_A3DtF8xz-W_dxixnZtuD8d_fx0_DOcJWFma7rHaa3gFIXSY2epJtWFPU7M1c8"/><br/>
 （浦志强在广场上演讲，头上缠着“法大绝食”的布条，拍摄日期不详）</center><br/>
 <h3>◇北京师范大学</h3><br/>
-　　北师大的情形与北大完全相反——在当日上午【没有】进行任何准备工作。以下是王超华本人的叙述，摘自《回顾与反思——六四流亡学生17人》一书。<br/>
-<blockquote style="background-color:#DDD;">這時我在北大發現，北大已經是相當有秩序了。我不知道他們有一個餞別的宴會，衹看見他們一組一組的來報名，大概是十一點的時候，我以為他們要出去了。然後我就騎車出去，先到師大。到師大的時候，發現冷冷清清。走到他們那個廣播站，看見梁二，我說﹕“你們怎么還在這兒呀？北大同學呆會兒就要過來了。”他說：“哎，不是說不去了嗎？”我說：“怎么不去啊，還去呀。”梁二因為沒有參加常委會，所以他就趕緊廣播。師大倒是一廣播就出來了。</blockquote>　　《回顾与反思》一书是《八九学运回顾与反思研讨会》的会议记录。这个会议是1991年7月在巴黎召开的，参会的17人都是流亡海外的学运骨干分子。这17人中就包括王超华和梁二（原名：梁擎暾）。梁二没有对王超华所说的表示异议，说明王所说的属实。<br/>
+　　北师大的情形与北大完全相反——在当日上午【没有】进行任何准备工作。以下是王超华本人的叙述，摘自《<a href="https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/" target="_blank">回顾与反思——六四流亡学生17人</a>》一书。<br/>
+<blockquote>這時我在北大發現，北大已經是相當有秩序了。我不知道他們有一個餞別的宴會，衹看見他們一組一組的來報名，大概是十一點的時候，我以為他們要出去了。然後我就騎車出去，先到師大。到師大的時候，發現冷冷清清。走到他們那個廣播站，看見梁二，我說﹕“你們怎么還在這兒呀？北大同學呆會兒就要過來了。”他說：“哎，不是說不去了嗎？”我說：“怎么不去啊，還去呀。”梁二因為沒有參加常委會，所以他就趕緊廣播。師大倒是一廣播就出來了。</blockquote>　　《<a href="https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/" target="_blank">回顾与反思</a>》一书是《八九学运回顾与反思研讨会》的会议记录。这个会议是1991年7月在巴黎召开滴，参会的17人都是流亡海外的学运骨干分子。这17人中就包括王超华与梁二（原名：梁擎暾）。梁二没有对王超华所说的表示异议，说明王所说的属实。<br/>
 　　从王超华所说的这段至少可以看出：北师大的学生组织是【比较混乱】的。<a href="../../2011/06/june-fourth-incident-0.md">本系列的上一篇</a>介绍了5月11日策划绝食的过程。其中提到有6个学生领袖在某个小饭馆开会讨论绝食的行动计划。这6人中，有3人就来自北师大，分别是：吾尔开希、程真、杨朝晖。结果到了5月13日那天，各高校的绝食队伍要正式启程前往广场，途中要到北师大会师。而北师大本校的学生组织，竟然都不知道这个计划！（是不是很讽刺？）有3个知情人，有超过一天时间，竟然没有把信息传达下去——这说明存在严重的沟通问题。<br/>
 　　在本系列的第21篇，俺用了整整一篇博文来写《<a href="http://program-think.blogspot.com/2012/10/june-fourth-incident-21.html">反思学运初期暴露出的问题</a>》。这些弊端，在5月13日的北师大，再次得到体现。<br/>
 <br/>
@@ -57,7 +56,7 @@
 　　大部分谈及六四的书籍或文章，都会提到《绝食书》或者《绝食宣言》。所以俺把这2份重要的文档全文引用如下：<br/>
 <br/>
 <h3>◇《绝食书》全文</h3><br/>
-<blockquote style="background-color:#DDD;">　　在阳光灿烂的五月里，我们绝食了。在这最美好的青春时刻，我们却不得不把一切生之美好绝然地留在身后了，但我们是多么的不情愿，多么的不甘心啊！<br/>
+<blockquote>　　在阳光灿烂的五月里，我们绝食了。在这最美好的青春时刻，我们却不得不把一切生之美好绝然地留在身后了，但我们是多么的不情愿，多么的不甘心啊！<br/>
 　　然而，国家已经到了这样的时刻：物价飞涨、官倒横流、强权高悬、官僚腐败、大批仁人志士流落海外、社会治安日趋混乱，在这民族存亡的生死关头，同胞们，一切有良心的同胞们，请听一听我们的呼声吧！<br/>
 <br/>
 　　国家是我们的国家，<br/>
@@ -89,7 +88,7 @@
 北京大学绝食团全体成员<br/>
 一九八九年五月十三日</blockquote><br/>
 <h3>◇《绝食宣言》全文</h3><br/>
-<blockquote style="background-color:#DDD;">　　各位亲爱的同胞，在继前几次声势浩大的示威游行之后，今天，我们决定在天安门广场进行绝食斗争。<br/>
+<blockquote>　　各位亲爱的同胞，在继前几次声势浩大的示威游行之后，今天，我们决定在天安门广场进行绝食斗争。<br/>
 　　绝食原因：第一，抗议政府对北京学生罢课采取麻木冷淡态度；第二，抗议政府拖延与北京高校对话代表团的对话；第三，抗议政府一直对这次学生民主爱国运动冠以「动乱」的帽子及一系列歪曲报道。<br/>
 　　绝食要求：第一，要求政府迅速与北京高校对话团进行实质性的、具体的、平等的对话；第二，要求政府为这次学生运动正名，并给予公正评价，肯定这是一场爱国、民主的学生运动。<br/>
 　　绝食时间：五月十三日下午二时出发。<br/>
@@ -99,11 +98,11 @@
 （张贴在北大的《绝食宣言》大字报）</center><br/>
 <h3>◇关于《绝食书》作者的争议</h3><br/>
 　　《绝食宣言》是王丹起草的，而《绝食书》的作者有点争议——有的说是柴玲，有的说是白梦（北大作家班成员）。<br/>
-　　在《回顾与反思——六四流亡学生17人》一书中，柴玲本人的复述如下：<br/>
-<blockquote style="background-color:#DDD;">我順便提一下絕食書的事情。有個女生對我說﹕"你們有沒有這種絕食書，好象是你們的遺言﹖"我說﹕"我們有《絕食宣言》了。是王丹寫的，就是絕食要求一、二、三。"她說﹕"你這太幹巴巴了。你不知道絕食完了會有什么結局，也可能就是你們生命的一段重要歷程，也可能就是最後的歷程。你要不要給你的母親，給這個人民，還給那些不了解的老百姓留下些什么東西，讓他們理解你們。你們不就想看看人民的面孔，看看政府的面孔﹖象這樣的話，你把它寫上去。"我說這個主意很好。一個叫何桂芳的人，他在旁邊一個勁的說﹕"我最佩服的就是秋瑾，'人生自古誰無死，留取丹心照汗青'。我真希望柴玲說出這句話來。"我當時氣得要命，我心想，我們是為了生而戰，我們以死的氣概為生而戰。這個當時演講的時候也說過了。我氣得要命，整個思路就全都給攪得亂七八糟。後來張伯笠來找到我，"啊呀，柴玲、老封快去我們那兒。白夢聽了你們的演講以後就哭啊，結果一口氣跑到北大外面買了一大鍋餛飩，等了你和老封趕快去吃，還熱著呢。"說那個餛飩當時沒有盆裝，還跟那個個體戶租了一個盆，交了五塊錢押金，趕快去吃，好趕快還盆把押金要回來。去了以後，白夢也在。<br/>
+　　在《<a href="https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/" target="_blank">回顾与反思——六四流亡学生17人</a>》一书中，柴玲本人的复述如下：<br/>
+<blockquote>我順便提一下絕食書的事情。有個女生對我說﹕"你們有沒有這種絕食書，好象是你們的遺言﹖"我說﹕"我們有《絕食宣言》了。是王丹寫的，就是絕食要求一、二、三。"她說﹕"你這太幹巴巴了。你不知道絕食完了會有什么結局，也可能就是你們生命的一段重要歷程，也可能就是最後的歷程。你要不要給你的母親，給這個人民，還給那些不了解的老百姓留下些什么東西，讓他們理解你們。你們不就想看看人民的面孔，看看政府的面孔﹖象這樣的話，你把它寫上去。"我說這個主意很好。一個叫何桂芳的人，他在旁邊一個勁的說﹕"我最佩服的就是秋瑾，'人生自古誰無死，留取丹心照汗青'。我真希望柴玲說出這句話來。"我當時氣得要命，我心想，我們是為了生而戰，我們以死的氣概為生而戰。這個當時演講的時候也說過了。我氣得要命，整個思路就全都給攪得亂七八糟。後來張伯笠來找到我，"啊呀，柴玲、老封快去我們那兒。白夢聽了你們的演講以後就哭啊，結果一口氣跑到北大外面買了一大鍋餛飩，等了你和老封趕快去吃，還熱著呢。"說那個餛飩當時沒有盆裝，還跟那個個體戶租了一個盆，交了五塊錢押金，趕快去吃，好趕快還盆把押金要回來。去了以後，白夢也在。<br/>
 第二天早上，用了一個早晨，寫了一些絕食書，寫得很痛苦。那個時候真的不是鬧著玩的時候了，你真的覺得要跟生命中成長以來一塊伴隨成長的東西告別。白夢在那看了，抽著煙很嚴肅地說﹕"把東西交給我吧，十二點鐘你來拿。"然後，我就再去籌委會，回來時，把東西拿了。</blockquote><br/>
-　　在张伯笠（北大作家班学员，学生领袖）所写的《逃亡者》一书第8章，也提到《绝食书》。俺引述如下：<br/>
-<blockquote style="background-color:#DDD;">五月十三日，持续了半个月的不死不活的状态被打破了，北京大学等高校的同学采用了和平斗争的最后手段──绝食。绝食的目的是迫使中共否定“四．二六社论”。承认学生运动为爱国民主运动。同时，开辟对话渠道，并通过新闻媒体实况转播。<br/>
+　　在张伯笠（北大作家班学员，学生领袖）所写的《<a href="https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/" target="_blank">逃亡者</a>》一书第8章，也提到《绝食书》。俺引述如下：<br/>
+<blockquote>五月十三日，持续了半个月的不死不活的状态被打破了，北京大学等高校的同学采用了和平斗争的最后手段──绝食。绝食的目的是迫使中共否定“四．二六社论”。承认学生运动为爱国民主运动。同时，开辟对话渠道，并通过新闻媒体实况转播。<br/>
 我因为参加首都知识分子起草《五一六声明》的会议，在回校途中到北京电影制片厂谈我的电视连续剧《酋长》谈到天亮。上午八点钟才回到北大。<br/>
 柴玲，封从德等人都在我的宿舍，《新闻导报》的王果为和曹为等人也在我宿舍等我，我们简单交换了一下意见，立即分散行动，<br/>
 柴玲想写一个绝食书，我忙着要出《新闻导报》关于绝食的号外，把白梦推荐给她，帮她起草绝食书。我叮嘱白梦，写好后立即给我复印或抄一份，我将用在《绝食号外》的第一版。<br/>
@@ -122,21 +121,21 @@
 <center><img alt="不见图 请翻墙" src="images/hmbZ7tbw9N0GlIcDZb4cgXcZG7_Vgf7cRbzbbj0_uCEZliZsNV_mLRkzdORjWN2UGyIeGn53QiMwKO9eTVdN8f4H01yeJQBw4s42KsFol1R2WzfvdN08EuHL8jenidBijuXiNtJ9o4g"/><br/>
 （骑车的是李禄，后座上是柴玲；另一个骑车的是熊焱）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/wL8K831hcGJR1vJbDFDUIYNc6Z3YcClM0rASMqJ9kPtX_Vz2wRLyN_4e8e3a-E2L39Pxbf3KGjavbxZshqO58iMZ5RfQ61-5A5e2ealEY9Y2vqSl2gN0uoWmF6R6wWOAG1r4ySJR2lo"/><br/>
-（某学生衣服上的标语：<q style="background-color:#DDD;">绝食！妈妈，我不是好儿子，但你会为我自豪！</q>）</center><br/>
+（某学生衣服上的标语：<q>绝食！妈妈，我不是好儿子，但你会为我自豪！</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/QdSwswXzFfYgVa7M_JzIekg_pJSXZD5zjGTFIXQ96CtCEDKh1xx8ELZ8snfBkb2naXMiuoDBmu550a_YDYUfKlkBNmghyF5VgMZxFRe7T-3sBUujnCcLRxAy_AfQyi_rrIlE5TBxBqs"/></center><br/>
 <h3>◇再集合去广场</h3><br/>
-　　在北师大会合后，这300多名绝食者在两千多位学生的护送下，前往天安门广场。沿途围观的群众大概有几万人。据《王丹回忆录》中记载：他与吾尔开希、马少方、杨朝晖，4人手拉手走在队伍最前面的。<br/>
+　　在北师大会合后，这300多名绝食者在两千多位学生的护送下，前往天安门广场。沿途围观的群众大概有几万人。据《<a href="https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/" target="_blank">王丹回忆录</a>》中记载：他与吾尔开希、马少方、杨朝晖，4人手拉手走在队伍最前面的。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/L49YtnSMpXnx_OhhiazbRL3Qxx_IgAefUMayEAhXjryb9FEuKQ-IM1D1JIUPR-rFFUKD0LLv67YK80TN-16Tk1v6e1z0wENxSMkFM01ivyrzoGOG10OHttW3LV8qOk5e3_POAXIYtG4"/><br/>
 （队伍前列的4个学生领袖，从左往右依次是：杨朝晖、王丹、马少方、吾尔开希）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/E1QPfZlyo25p_GNhxdAEHjGS_Xh-oycpwZnqeNGtp5Tk3WLinlbDOvaeqQSboSgxTB8hXAgQrlYyZ2er6rMIhDK4V5eGa2wozi6DyqQeWaNnSd5-a_8i1tfhQqwDXakiBCgYZFkLDO0"/><br/>
 （紧跟在几个学生领袖之后的，是“绝食请愿团”的大旗。靠近镜头的女生大概是程真）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/k7cShLlYJa4q03pr7WK2bpMLUMRmwRNtIaeqO5dwmd42P1dpvmeJVDjVQcBcYACOfpn_6qZbHGes3BqhTGLHN6FuG1fDd3PoISsDi9DO4UPc_P_wake8mEh6Am6t5QRsXqoXJzAPE60"/><br/>
-（最左边的是柴玲，身后的横幅写着：<q style="background-color:#DDD;">救救国家</q>）</center><br/>
+（最左边的是柴玲，身后的横幅写着：<q>救救国家</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/wxPugKW5uOrAsdqx--2MgKAEIrZzxKYtOp53uyvoff9Dr6xaJbpG0IDuq-d1rE0OOQ1GjSdoo1Y7_WJr8MQ6Ca-7sFCZuXNQ6Yd6n05wWAHFcITkoL7QFRNOCoqgM7-99lrs7NDF8yk"/><br/>
-（横幅标语：<q style="background-color:#DDD;">我们想活着看到四化——北大绝食一分队</q>）</center><br/>
+（横幅标语：<q>我们想活着看到四化——北大绝食一分队</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/IPJcEN5ag9hZLf18qaT26Fvnf7F1gUTTVfutn8BMmgDeiDhW0C1fdTiLDDJrDTboob1-cOn0DJ-MtwyhZGl7fxZXh-Z7NiMb_Hm_gKcgtupQM0Szskua0AXL-vgkoz05jTpXQz_x2AE"/><br/>
-（横幅标语：<q style="background-color:#DDD;">抗议动乱的帽子，抗议拖延的手段。</q>、<q style="background-color:#DDD;">为民而死在所不惜</q>）</center><br/>
+（横幅标语：<q>抗议动乱的帽子 抗议拖延的手段</q> ＆ <q>为民而死在所不惜</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/94QHqH3vBdz4ryBcR8ox2I99weMM2F59gpDQTHZ3QVp7eH0ZDzrqxcLnzTbhFRz6xUWSL18CiTA6j01DaA1u48l2q1hmD9s-tl4lp3F7wxyGQqtY4cUsvfEtFeHMes4qTFvULj7GPHQ"/><br/>
 （纠察队抓住一个可疑的人，想混入队伍搞破坏）</center><br/>
 <br/>
@@ -152,13 +151,13 @@
 <center><img alt="不见图 请翻墙" src="images/9HKQ798lASwcZebYObcqjHa-UDuDHTUj5tFKlOc0FSmAt8Gpem_Jg1dL8zmtWapkCup6yh3HQAtxi3OzlsfEtrCjhm486uIKra7AtK-zTsAFjDicX_9PH4aNhblmxHrw9hbBgu9eUUg"/><br/>
 （写有《绝食誓言》的纸牌）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/jvtWfrMt2DMgwaqb3atL8p-IPfppvnNE2aI6QvefClnb8IFL8AkTMWiew9alcMTslPdPyhZ7GH7c0RJ5bH_Yp3g_i5trxnsyuA6B3TsVClRD6ofLYcAst8zj39s_K-kQCwk9J59iCgg"/><br/>
-标语牌：<q style="background-color:#DDD;">彻底平反，不是动乱；要求对话，反对拖延。</q></center><br/>
+标语牌：<q>彻底平反，不是动乱；要求对话，反对拖延。</q></center><br/>
 <center><img alt="不见图 请翻墙" src="images/KzEfFiC5BzH9rKADD2aDPgBeCtQHszPHdoNDVoW2rP2GUBwyfOmUeNaBtpH8IivXXKiaoSw5YXvlZwF1AVFTxT8D7yGwY7RiNM5ejZpYe_DovXRWpv6oMFkFaV7ElCi3XJ4SGHOy68k"/><br/>
 （某绝食者写的遗书）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/Ozgy3Ds7dPqn90OY6tpHo5Sq1ZypSpPfBZztxuQcpUJw0fpop27vXR0p_8qrrZTSDlkBjjJO1IGcOLhJLqyMshUs_nJSPE3EO9_lQh26fNmzWu6bjb_CkKN2w3eFPHMA93101VEhV_s"/><br/>
 （某绝食者写的遗书）</center><br/>
 <h3>◇集体宣誓</h3><br/>
-　　大约在17时40分，王丹带领所有绝食者进行集体宣誓，连喊三遍：<q style="background-color:#DDD;">为了中国的民主化进程，为了祖国的繁荣昌盛，我自愿绝食。坚决服从绝食团的纪律。不达目的，誓不罢休！</q><br/>
+　　大约在17时40分，王丹带领所有绝食者进行集体宣誓，连喊三遍：<q>为了中国的民主化进程，为了祖国的繁荣昌盛，我自愿绝食。坚决服从绝食团的纪律。不达目的，誓不罢休！</q><br/>
 　　下面这张就是当时的照片，很经典，在许多六四相关的网站上都能看到。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/tIarhMJF3KkN1Afgl8VJD-jid0gOyCH_sf3YYdiVtEJ6sAR-1Rw-rHoiYcuD-aSOTit9mJX59QdC9-e1GrdqoZNHzsFW9Lh8UmeVi6gqhWZqitoEuulGUJgIFwKNkOtX-Am8r2EQe_Q"/><br/>
@@ -172,17 +171,17 @@
 　　那天晚上，绝食学生们在广场上度过了第一晚。以下是当时的照片。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/9Il7YFy_b2qOkAHHL0Jg1xFp0AnuK4-ig5A_mwe5CqoaNFqvwLGqQyamnYERP7f8Se4KClslN5xcZfaU1G9LNqcDo6a0TAj3PUiBQ5x0oDkHc2qEPJNiE8kESzI0eabUJKQw5iSGFT8"/><br/>
-（横幅：<q style="background-color:#DDD;">生死自由魂</q>）</center><br/>
+（横幅：<q>生死自由魂</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/DHkg4P7prgWMTm7XqvWDEXaBKLxpZ8XzbV6oJEON1kYVagTWkkqDQu27_cGyxZkaxw-qPjgXP62whasq-B1irAUCUxpP7lN7dnL8109lNBNGjQxxO8AZn06N2hfwgAd8pBkIVYm2GB8"/><br/>
-（横幅：<q style="background-color:#DDD;">北京师范大学</q>）</center><br/>
+（横幅：<q>北京师范大学</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/v0M6Wx8vW1Vvha7JHgrf3W2QjvWwLL-NDqVbgyl9cPC_OxchXu26fGPhO7URYD1AJsABNRWt0AMlqzMeZLgQfeZbsTC5aQf3fCaiaMC7D1s3kTAuDT9d1giJaJC6vjY5OvIliWW5Q1c"/><br/>
-（横幅：<q style="background-color:#DDD;">中国戏剧学院</q>）</center><br/>
+（横幅：<q>中国戏剧学院</q>）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/BpH6OIgvjQPcz8A6vwR4lsST1xM_vTix66UmjbqdxOaoyLvHFDRTuK24esChxkaFex5suDWRk1PeXTxw8K4aDRKPNHgUKuIXTpOK9wZ5yLjC7rxS2sArPsH_EYbX-wazQ8lblbAqrvg"/><br/>
 （医护人员在傍晚时分到了广场）</center><br/>
 <center><img alt="不见图 请翻墙" src="images/-U5wRIFIC4y-aAAXiPKalcssv2iQCLrsNtswnaniBkOfCZ9BcVwRE3UjdRV_dWsIg7eyGOUpC5rKQ4koTUsDU-W0J7PiKhM94il29GREMXJtRn5S6lwxv_GqXKjlWjWrtv1LfxeM6Hw"/><br/>
 （来自首都医学院的医护人员）</center><br/>
 <h3>◇绝食黑旗</h3><br/>
-　　在很多关于六四绝食的照片中，都可以看到纪念碑前方有一面写着“绝食”的黑色旗帜。这个“绝食黑旗”是封从德组织几个学生一起制作的，由于面积太大，单单写那两个字就用掉两桶油漆。在封从德所写的《六四日记——广场上的共和国》一书中，他回忆说：搞这么大的旗帜，是为了让长安街上经过的北京市民也能清楚看到。<br/>
+　　在很多关于六四绝食的照片中，都可以看到纪念碑前方有一面写着“绝食”的黑色旗帜。这个“绝食黑旗”是封从德组织几个学生一起制作的，由于面积太大，单单写那两个字就用掉两桶油漆。在封从德所写的《<a href="https://docs.google.com/document/d/1EJI4b4vBBIHXw5TqOD8NKw0RHceBz8kr3_Ut9kJMOUY/" target="_blank">六四日记——广场上的共和国</a>》一书中，他回忆说：搞这么大的旗帜，是为了让长安街上经过的北京市民也能清楚看到。<br/>
 　　这面旗帜在13日晚间22时才制作完毕，大约在深夜时分（或次日凌晨时分）带到广场上升起。下面这张照片，大概是在次日（14日）白天拍摄的。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Xy3ytcVN3dY3EDCYkmoRjOZpUu0vpMa5lgow6RBKp6g8HtEFvCg7MTQJOILoTY_gvwJ-krXCXGUyOFObWDsmQx_W_9WwVte0SM3a5UY6gcAgq_fFAD_BKxyT0BAaqIXifra0IyOaIhU"/><br/>
@@ -191,12 +190,12 @@
 <h2>★一小撮别有用心的绝食者</h2><br/>
 　　经历过八九年的读者，对 “一小撮别有用心的” 这个定语，应该是耳熟能详。这个定语频繁出现在各种官方媒体中，听得俺耳朵都长茧。今天这篇，俺就借用这个定语，来说说当年极个别的【另类绝食者】。<br/>
 <br/>
-　　在《王丹回忆录》中，王丹提及他在广场上碰到一个令他感到意外的绝食者（以下是原文摘录，粗体是俺标注滴）：<br/>
-<blockquote style="background-color:#DDD;">我甚至<b>非常惊讶</b>地看到当时的北大学生会<b>肖姓主席</b>也在绝食队伍中，他看到我<b>有点尴尬</b>，但还是大方地表示：这么多同学都已经参加了绝食，他也不能落后。</blockquote><br/>
+　　在《<a href="https://docs.google.com/document/d/12LxI1j0Sg_FoSSW8k8WRNDpcfyuoYl2EbXpNheskb00/" target="_blank">王丹回忆录</a>》中提及他在广场上碰到一个令他感到意外的绝食者（以下是原文摘录，粗体是俺标注滴）：<br/>
+<blockquote>我甚至<b>非常惊讶</b>地看到当时的北大学生会<b>肖姓主席</b>也在绝食队伍中，他看到我<b>有点尴尬</b>，但还是大方地表示：这么多同学都已经参加了绝食，他也不能落后。</blockquote><br/>
 　　在聊这个“姓肖的学生会主席”之前，为了避免误导读者，俺有必要先说明一下：<br/>
 　　当时的北京各大高校都有【官方的】学生组织（比如“校学生会”）。这些官方学生组织的头头，【不一定】都是朝廷的走狗。举个反例：本系列前面提到的李进进（参见<a href="../../2012/01/june-fourth-incident-12.md">第12篇</a>），原先是北大研究生院的学生会主席，然后成为学运骨干，六四屠城之后被捕坐牢。<br/>
 <br/>
-　　好，现在开始来聊这个“姓肖的学生会主席”。这个人是谁捏？如果你关注过最近半年的政治热点新闻，应该听说过【肖建华】这个人（维基百科的介绍在“<a href="https://zh.wikipedia.org/wiki/%E8%90%A7%E5%BB%BA%E5%8D%8E" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　好，现在开始来聊这个“姓肖的学生会主席”。这个人是谁捏？如果你关注过最近半年（2017上半年）的政治热点新闻，应该听说过【肖建华】这个人（维基百科的介绍在“<a href="https://zh.wikipedia.org/wiki/%E8%90%A7%E5%BB%BA%E5%8D%8E" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/r64Ev4GsgXljuBC6jaUnfIfylZnbDhboy2BdRrhHbnVErTUtFh8DahpspitamnPTsF6x0O4IJOOBIgSyGyge7Hjhay2DumW3mTtWj5mlKIWsIE7LHCFp0Xg8nFuhBK-liWP4hIcPCjA"/><br/>
 （肖建华为数不多的正面照片）</center><br/>
@@ -216,12 +215,12 @@
 <h2>★知识界的反应</h2><br/>
 　　聊完卧底，再来说说知识界的动态。<br/>
 　　当日晚间22时左右，北大校内贴出了一封知识分子的联名公开信，是写给“裆中央、全国人大常委会、国务院”。针对当下的绝食抗议，信中提到了几点建议：<br/>
-<blockquote style="background-color:#DDD;">1. 党和政府的高层领导人尽快与首都高校学生对话代表团进行实质性对话，以求尽快妥善解决问题。<br/>
+<blockquote>1. 党和政府的高层领导人尽快与首都高校学生对话代表团进行实质性对话，以求尽快妥善解决问题。<br/>
 2. 应当尽早对这次学潮的性质做客观、公正的评价，以安民心、党心，不应采取拖延政策。<br/>
 3. 应当高度重视这次绝食请愿活动，以认真、谨慎和人道主义的态度，采取一切措施，保障学生的身心健康。</blockquote>　　这份联名公开信的主要发起人包括：季羡林和严家炎（严家炎和严家其是两个人，别搞混了）。参与联署的多达226人（主要是北大教师）。<br/>
 <br/>
 　　当晚在北大还贴了另一份大字报，标题是《我们再也不能沉默了》，署名作者是：严家其、苏绍智、包遵信。这份大字报动员更多的知识分子参加预定于5月15日发起的“知识界大游行”（计划从复兴门立交桥步行至天安门），以声援学生绝食活动的。<br/>
-　　这份大字报说：<q style="background-color:#DDD;">不能再沉默了！拿出我们的良心、勇气和社会责任感吧！！让我们书写历史！！！</q><br/>
+　　这份大字报说：<q>不能再沉默了！拿出我们的良心、勇气和社会责任感吧！！让我们书写历史！！！</q><br/>
 <br/>
 <br/>
 <h2>★朝廷方面的反应</h2><br/>
@@ -230,7 +229,7 @@
 <h3>◇国家教委与北京市委的官员上广场慰问</h3><br/>
 　　在14日凌晨2点左右（也就是绝食第一夜），国家教委的官员（李铁映）和北京市委的官员（李锡铭、陈希同）带着随从人员到广场慰问学生，并劝学生返校。现场有学生大喊：太晚了，太晚了！<br/>
 　　这几个官员还分头找绝食的学生谈话，但都没有结果。“没有结果”其实是意料之中。前面俺全文引用了《绝食宣言》，里面关于【绝食要求】的原文如下：<br/>
-<blockquote style="background-color:#DDD;">绝食要求：第一，要求政府迅速与北京高校对话团进行实质性的、具体的、平等的对话；第二，要求政府为这次学生运动正名，并给予公正评价，肯定这是一场爱国、民主的学生运动。</blockquote>　　以当时的情形，要想满足第二条，就涉及到【改变学运的定性】。除非邓太上皇改变主意，否则其他任何级别的官员（包括总书记赵紫阳），都无法做到这点。而前往广场慰问的那几人，仅仅是省部级官员，他们更加没有权限来答应学生的要求。他们去广场，除了象征性地表示一下慰问，几乎没啥实质性的意义。<br/>
+<blockquote>绝食要求：第一，要求政府迅速与北京高校对话团进行实质性的、具体的、平等的对话；第二，要求政府为这次学生运动正名，并给予公正评价，肯定这是一场爱国、民主的学生运动。</blockquote>　　以当时的情形，要想满足第二条，就涉及到【改变学运的定性】。除非邓太上皇改变主意，否则其他任何级别的官员（包括总书记赵紫阳），都无法做到这点。而前往广场慰问的那几人，仅仅是省部级官员，他们更加没有权限来答应学生的要求。他们去广场，除了象征性地表示一下慰问，几乎没啥实质性的意义。<br/>
 　　考虑到李锡铭和陈希同都是朝廷中的保守派（本系列前几篇分析过这点），对他们这种【象征性】的慰问，就不会觉得奇怪了。<br/>
 <br/>
 <h3>◇统战部的斡旋</h3><br/>
