@@ -1,4 +1,4 @@
-# 曝光天朝权贵——《太子党关系网络》1.0 版本发布 
+# 曝光天朝权贵——【太子党关系网络】1.0 版本发布 
 
 -----
 
@@ -25,18 +25,30 @@
 2. 如果方便的话，可以帮忙传播 (尤其是传播到墙内网站)<br/>
 俺也会不定期更新此文档，保持与时俱进 :)<br/>
 <br/>
-<font size="4">如果碰到问题 (比如：无法下载、PDF 打不开、图片太大找不到人、等等) 请看"<a href="../../2012/11/princelings-faq.md">关于《太子党关系网络》的常见问题解答</a>"</font><br/>
+<span style="font-weight:bold;font-size:120%;">如果碰到问题 (比如：无法下载、PDF 打不开、图片太大找不到人、等等) 请看<a href="../../2012/11/princelings-faq.md">关于《太子党关系网络》的常见问题解答</a></span><br/>
 <br/>
 　　最后，附上网上找来的打油诗一首<br/>
-<blockquote style="background-color:#DDD;">　　太子党众生相<br/>
+<blockquote>　　太子党众生相<br/>
 办好护照绿卡  子女送到国外<br/>
 赃款洗钱转移  欧美购买豪宅<br/>
 打仗要有后路  进退百战不殆<br/>
 如有风吹草动  登机咱就拜拜<br/>
 嘴上高喊坚持  心中知道好坏<br/>
 不去古巴朝鲜  谁去谁是痴呆</blockquote><br/>
+<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
-<a href="../../2012/05/revolution-4.md">谈革命[4]：为啥改良不可行</a>
+《<a href="../../2012/11/princelings-faq.md">关于【太子党关系网络】的常见问题解答</a>》<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》<br/>
+《<a href="../../2015/02/Princelings.md">曝光天朝权贵——【太子党关系网络】2.2 版本发布</a>》<br/>
+《<a href="../../2013/03/princelings.md">曝光天朝权贵——【太子党关系网络】2.0 版本发布</a>》<br/>
+《<a href="../../2016/01/Zhao-Family.md">聊聊“赵家人”走红网络的重要意义</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》<br/>
+《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
+《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
+《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
+《<a href="../../2012/11/political-fable.md">两个寓言折射天朝政治现状</a>》<br/>
+《<a href="../../2013/03/weekly-share-45.md">每周转载：关于权贵资本主义（网文5篇）</a>》
 </div>
 
 

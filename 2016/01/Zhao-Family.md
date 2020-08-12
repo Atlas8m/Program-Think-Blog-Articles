@@ -4,8 +4,8 @@
 
 <div class="post-body entry-content">
 <center><img alt="不见图 请翻墙" src="images/f4ZCD3lFO5LdHui4DjP7QyMxZ2h1-fyEKmFYLkc4RLnubS-HzDfuuUUuhnGh3_PSVbV1IcnFJ3GdSAwBkHPicA8g-UNZFsC5Kr-pAMG9hRWzhcWNNlaDmj50P7OtqwPU5PWl-YJjEg"/></center><br/>
-　　近期“赵家人”一词闪电般串红，朝廷方面已经开始封杀相关的词汇。朝廷越是封杀，就越值得俺来聊一下。<a name="more"></a><br/>
-<br/>
+　　近期“赵家人”一词闪电般串红，朝廷方面已经开始封杀相关的词汇。朝廷越是封杀，就越值得俺来聊一下。<br/>
+<a name="more"></a><br/>
 <br/>
 <h2>★“赵家人”一词走红的传播学特征</h2><br/>
 　　先来聊聊相关的传播学特征。<br/>
@@ -44,7 +44,7 @@
 <center><img alt="不见图 请翻墙" src="images/XsTAQ9LGTmnDWZT5BZVa4nsWbBO_gWD4qj6GWz2WfO0jXJ3tizjtzNkB0vwo95XBq5raBHouowJNCQFla4nlccXkwFvNN6yEvu9r7ON6P7SV0O-wQ_dIHxeR-GcZam2c8H6JDPMRog"/></center><center><img alt="不见图 请翻墙" src="images/4hrafoJfRppb0Ld6wWQWcVmg3nySS6kfSdZAwv-27TXxBwirVY2UAYboXgL5V9fMDobR2f0e3KPzEbCRl-32w-U91hWY98ZUsyAzpgRbuQkS1J4kyb_v8X2PeWDyyydFwgtYDeHzyw"/></center><br/>
 <h3>◇对“官方话语体系”的全面解构</h3><br/>
 　　前面说的，都只是某些局部。“赵家人”一词更大的妙处在于——【<b>可以全面解构官方的话语体系</b>】。你只需遵循如下规律——对官方话语体系中的名词词组，把其中的“人民”替换为“赵家”。下面俺简单举几个例子（欢迎大伙儿补充）：<br/>
-<table border="1" cellspacing="1"><tbody>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>官方的话语</th><th>解构后的话语</th><th>备注</th></tr>
 <tr><td>中华人民共和国</td><td>赵家共和国</td><td>简称“赵国”</td></tr>
 <tr><td>全国人民代表大会</td><td>赵家代表大会</td><td>简称“赵代会”</td></tr>
@@ -57,9 +57,9 @@
 <tr><td>人民日报</td><td>赵家日报</td><td>简称“赵家报”</td></tr>
 <tr><td>XXX是中国人民的老朋友</td><td>XXX是中国赵家的老朋友</td><td>&nbsp;</td></tr>
 <tr><td>XXX严重伤害了中国人民的感情</td><td>XXX严重伤害了中国赵家的感情</td><td>&nbsp;</td></tr>
-</tbody></table><br/>
+</tbody></table></center><br/>
 　　经某个热心的老读者提醒，还可以采用另一种方式——把官方话语体系中的“国家/中国”替换为“赵家”。于是俺再补上另一个表格如下：<br/>
-<table border="1" cellspacing="1"><tbody>
+<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>官方的话语</th><th>解构后的话语</th><th>备注</th></tr>
 <tr><td>国家安全部</td><td>赵家安全部</td><td>简称“赵安部”</td></tr>
 <tr><td>中国外交部</td><td>赵家外交部</td><td>&nbsp;</td></tr>
@@ -67,7 +67,7 @@
 <tr><td>国家外汇管理局</td><td>赵家外汇管理局</td><td>&nbsp;</td></tr>
 <tr><td>中国常驻联合国代表</td><td>赵家常驻联合国代表</td><td>&nbsp;</td></tr>
 <tr><td>中国梦</td><td>赵家梦</td><td>&nbsp;</td></tr>
-</tbody></table><br/>
+</tbody></table></center><br/>
 <br/>
 <h2>★“赵家人”流行的重要意义</h2><br/>
 <h3>◇朝廷丧失舆论阵地</h3><br/>

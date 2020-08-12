@@ -104,12 +104,14 @@
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》<br/>
+《<a href="../../2015/02/Princelings.md">曝光天朝权贵——【太子党关系网络】2.2 版本发布</a>》<br/>
+《<a href="../../2013/03/princelings.md">曝光天朝权贵——【太子党关系网络】2.0 版本发布</a>》<br/>
+《<a href="../../2012/11/princelings.md">曝光天朝权贵——【太子党关系网络】1.0 版本发布</a>》<br/>
 《<a href="../../2016/01/Zhao-Family.md">聊聊“赵家人”走红网络的重要意义</a>》<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
 《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
-《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
-《<a href="../../2016/03/GitHub-Security-Tips.md">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>》<br/>
-《<a href="../../2015/06/My-GitHub.md">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a>》
+《<a href="../../2013/12/chinese-social-stratification.md">点评中国社会九大阶层——没有公平、难以流动、无法稳定</a>》
 </div>
 
 

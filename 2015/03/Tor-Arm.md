@@ -103,8 +103,9 @@ Slackware</blockquote>（另外，FreeBSD 的软件仓库也内置了 Arm 了）
 菜单的截屏如下。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/_I4xchBopbUJ5-QVlkBxBcbOkY01FIy4g1W5IWRIIQSleFOW_VKchV1V9NfI7bnlyofy3e_c3V8m3gEkAxna6CtOQ5kH3mSJ-3dUW0D_8nMQwG-xciBeTs3ScdvJOGwCrtMg-U5RhQ"/></center><br/>
-　　在第一个下拉菜单中，你可以看到“Start Tor”或“Stop Tor”的菜单项，这就是用来启动/停止 Tor 的。<br/>
-　　最下面的“Exit”是用来退出 Arm 的。如果你不喜欢点菜单，可以直接按键盘的 q 键（连续按两下）。<br/>
+　　在第一个下拉菜单中，你可以看到“Start Tor”或“Stop Tor”的菜单项，这就是用来启动/停止 Tor 的。还有一个“New Identity”可以用来切换 Tor 的线路。最下面的“Exit”是用来退出 Arm 的。如果你不喜欢点菜单，可以直接按键盘的 q 键（连续按两下）。<br/>
+<br/>
+　　你用“左右键”可以打开另外几个下拉菜单。俺分别截图如下，给大伙儿一个感性的印象。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/Y8cF5FQVynCmXyyKaKUEVLGny15uJfTpoFm5wXtRcb7_Bq3nQvd5hLnEdTEPy09LN0frJjA4GGza4UB-9kRsCHMoADJ4UxkHfKAHPe16ZQ34aNkjOFgusQQTS61G4DVeq7vKCyvriA"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/FJpCZviymHyzAb1Na4sAR4lnQugg9P33h3CKB_OjAnMEv1pY_BLuXJHO6k-fjV7Un0efVGQ4OTxg2ZMVGBj3B9ARrBirZ4cjQZv1ooH9AM7UMtYI1v_yYVC5kZ5Q_K7kqsxFncMe_A"/></center><br/>

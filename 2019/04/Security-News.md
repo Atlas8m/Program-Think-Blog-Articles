@@ -17,12 +17,12 @@
 <h2>★隐私保护</h2><br/>
 <h3>◇朝廷监控屁民的数据库被曝光，含【3.64亿】自然人</h3><br/>
 《<a href="https://www.ithome.com.tw/news/129102" rel="nofollow" target="_blank">中國用來存放監控資料的 MongoDB 資料庫曝光了 @ iThome</a>》<br/>
-<blockquote style="background-color:#DDD;">中國政府監控民眾網路行為的政策幾乎舉世皆知，但一名資安研究人員Victor Gevers揭露了一個可公開存取、且存放著中國監控民眾的資料庫，進一步向外界展示了中國的監控規模。<br/>
+<blockquote style="background-color:#DDD;">中國政府監控民眾網路行為的政策幾乎舉世皆知，但一名資安研究人員 Victor Gevers 揭露了一個可公開存取、且存放著中國監控民眾的資料庫，進一步向外界展示了中國的監控規模。<br/>
 <br/>
-此一可公開存取的MongoDB資料庫位於中國，它蒐集了3.64億個連結真實身分的網路個人檔案，紀錄他們在六大社交平台上的聊天內容或檔案傳輸行為，而且透過各省份與縣市的警察局與座落在其它17個地區的MongoDB資料庫同步，這些資料庫都擁有同樣的監控網路名稱，也全都允許公開存取。<br/>
+此一可公開存取的 MongoDB 資料庫位於中國，它蒐集了3.64億個連結真實身分的網路個人檔案，紀錄他們在六大社交平台上的聊天內容或檔案傳輸行為，而且透過各省份與縣市的警察局與座落在其它17個地區的 MongoDB 資料庫同步，這些資料庫都擁有同樣的監控網路名稱，也全都允許公開存取。<br/>
 <br/>
-Gevers從資料庫上找到的六大社交平台代號為imsg、qg、qqmesg、wwhmsg、wxmsg及yymsg，推測它們分別是<br/>
-IS語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、微信及YY傳訊<br/>
+Gevers 從資料庫上找到的六大社交平台代號為 imsg、qg、qqmesg、wwhmsg、wxmsg 及 yymsg，推測它們分別是<br/>
+IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、微信及 YY 傳訊<br/>
 ......</blockquote><br/>
 　　<b>编程随想注：</b><br/>
 　　据俺了解到的情况，前几年公安部就已经在搭建一个大数据的平台，用来汇总各类 SNS 的数据，并以此来建立很详细的【人际关系网络】。所有墙内的帐号（手机、微信、微博、QQ、支付宝、等等），都整合到这个平台上，并且每个帐号都关联到具体的【自然人】。<br/>

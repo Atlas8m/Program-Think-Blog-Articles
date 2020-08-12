@@ -101,10 +101,13 @@ BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    （最后这个不是电子书，是翻墙�
 不去古巴朝鲜 谁去谁是痴呆</blockquote><br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2016/02/Zhao-at-GitHub.md">【太子党关系网络】开源到 GitHub——大伙儿一起来曝光赵国权贵</a>》<br/>
+《<a href="../../2013/03/princelings.md">曝光天朝权贵——【太子党关系网络】2.0 版本发布</a>》<br/>
+《<a href="../../2012/11/princelings.md">曝光天朝权贵——【太子党关系网络】1.0 版本发布</a>》<br/>
 《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
 《<a href="../../2014/01/china-princelings-offshore-companies.md">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a>》<br/>
 《<a href="../../2015/05/Wanda-and-Princelings.md">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a>》<br/>
-《<a href="../../2016/04/Li-Xiaolin.md" rel="nofollow" target="_blank">中国电婊李小琳的精彩人生（多图）</a>》<br/>
+《<a href="../../2016/04/Li-Xiaolin.md">中国电婊李小琳的精彩人生（多图）</a>》<br/>
 《<a href="../../2016/04/weekly-share-100.md">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>》<br/>
 《<a href="../../2014/01/weekly-share-62.md">每周转载：网友热议天朝权贵集团的“离岸”</a>》
 </div>
