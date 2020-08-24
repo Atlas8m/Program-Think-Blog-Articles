@@ -10,25 +10,30 @@
 　　本博客大部分读者来自【墙内】。考虑到真理部的严厉审查，墙内的舆论环境都是【一边倒】的腔调（领袖英明、中或最赢......）。既然你能够翻墙看到俺的博客，俺当然要呈现出与墙内完全不同的【另一种舆论】。通过增加信息来源，这有助于你自己进行【综合分析】。<br/>
 <a name="more"></a><br/>
 <br/>
-<h2>★贸易战升级的过程</h2><br/>
-<h3>◇（7月31日）中美双方在上海谈崩了</h3><br/>
+<h2>★贸易战升级的过程</h2>
+<br/>
+<h3>◇（7月31日）中美双方在上海谈崩了</h3>
+<br/>
 　　7月底的这轮谈判，朝廷方面特地把谈判地点改到【上海】，以减少一些“政治气氛”，并增加一点“商业情调”。<br/>
 　　从这个细节至少这说明：朝廷方面还是希望能谈成，或者至少能保持“悬而未决”的【休战】状态。<br/>
 　　但令人惊讶的是——只谈了【一天】就结束了（7月30日开始谈，美国谈判代表在31日坐飞机回国）<br/>
 　　坊间议论：<br/>
 美方代表早早就买好回国的机票；7月底的这轮谈判，美国佬只是来走一下过场，表示他们还在谈；但已经做好了贸易战升级的打算。<br/>
 <center><img alt="不见图 请翻墙" src="images/_FuC-_oxH_7JHzmtCa5xWMmND7KwRuhZ4RKi8oyEnX14LNowbnKCagI42CUMorobeDrqgOtPiS7xA0UeYj21jN9YT39c3gKSt5iU1mh39g5syIsG5-FTN36VMQa_pRwfxcW_s5Xr_oE"/></center><br/>
-<h3>◇（8月1日）川普发难——对3000亿美元商品加征关税 10%</h3><br/>
+<h3>◇（8月1日）川普发难——对3000亿美元商品加征关税 10%</h3>
+<br/>
 　　川普首先发难，通过推特宣布——<br/>
 贸易谈判仍在继续，在谈判的同时，美国将从9月1日开始，对剩下的3000亿美元中国进口到美国的商品加征 10% 的额外关税。这不包括已经被加征 25% 关税的2500亿美元中国进口商品。<br/>
 <br/>
-<h3>◇（8月23日）天朝反制——对750亿美元商品关税加码 5% ~ 10%</h3><br/>
+<h3>◇（8月23日）天朝反制——对750亿美元商品关税加码 5% ~ 10%</h3>
+<br/>
 　　隔了大约3星期，天朝官方在23日晚宣布，对原产于美国的5078个税目、约750亿美元商品，加征 10%、5% 不等关税。关税将分两批从今年9月1日和12月15日起实施。<br/>
 　　国务院的关税委指出——<br/>
 美方加征关税，导致中美经贸摩擦持续升级，极大损害中国、美国以及其他各国利益，也严重威胁多边贸易体制和自由贸易原则。<br/>
 中方采取加征关税措施，是应对美方单边主义、贸易保护主义的被迫之举。<br/>
 <br/>
-<h3>◇（8月23日）川普的“推特风暴”——美方宣布再加码——5500亿美元商品追加 5%</h3><br/>
+<h3>◇（8月23日）川普的“推特风暴”——美方宣布再加码——5500亿美元商品追加 5%</h3>
+<br/>
 　　中国宣布加税计划后，特朗普在24小时之内接连发十多条推文。俺贴几张截图，懂洋文的同学自己看吧。<br/>
 　　川普加码的情况如下：<br/>
 美国从10月1日起，将2500亿美元中国商品的关税从 25% 提高至 30%<br/>
@@ -41,7 +46,8 @@
 <center><img alt="不见图 请翻墙" src="images/7FHhNc9dQvHLxXjoJJUwaONzOX2DsRy-pbn_fr0NVG-yY7Az3uiUXQbm0crGmfsDSw8hpfAHJkB_W8N4cA2jpTMI0Q8MoWP4nSpzH1Hz7ifgNm_lSOL6rD4eGGfebawVIleKbf3tpeE"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/HlyTYvY8Bry2IwcAQcge6fBsjbNQVHB8S9CsYm6so49AlZrai26fIW8qZSHE6U4ugqAqiu7GhRJS_Bv2RjRmBE9MCX0Xb1hJB6MqiMNP_3LvnoCLzrEszStocfIE5kusVR8oaVnNXVw"/></center><br/>
 <center><img alt="不见图 请翻墙" src="images/gVX092pRFf1Ys6BUdVdBAyaJM5SXoKM3T6zC7vLyVyuPCD1I1a2OzOG1L-ZICAZV17pxEvv_S64fX9E4y3Z19NuXZrAtiu_oT6lW95iF1IwrnnrxmgzKAk1fC1ymQkm1f3vj5VOUKS0"/></center><br/>
-<h3>◇（8月24日）美方再加码后，《新闻联播》8连发</h3><br/>
+<h3>◇（8月24日）美方再加码后，《新闻联播》8连发</h3>
+<br/>
 　　8月24日晚，新闻联播以13分钟的时长播报了8条中美相关新闻：<br/>
 <blockquote style="background-color:#DDD;">中方对此坚决反对。这种单边、霸凌的贸易保护主义和极限施压行径，违背中美两国元首共识，违背相互尊重、平等互利的原则，严重破坏多边贸易体制和正常国际贸易秩序，必将自食其果。<br/>
 <br/>
@@ -51,7 +57,8 @@
 <br/>
 ......</blockquote>　　在《新闻联播》几十年的历史上，这种超高密度的播报风格，应该是非常罕见滴！从这个细节也可以看出：朝廷高层的心情有多么激动 :)<br/>
 <br/>
-<h3>◇俺的点评</h3><br/>
+<h3>◇俺的点评</h3>
+<br/>
 　　<b>关于加码的【时间差】</b><br/>
 　　请大伙儿注意上述事态发展的【时间差】。天朝在8月23日的“反制”，距离美方追加筹码，已经过了3星期。相比之下，“特没谱”最近两次的回应（追加筹码），都在24小时之内。<br/>
 　　双方的这个差异，已经说明了很多问题。<br/>
@@ -64,8 +71,10 @@
 　　中国方面，之前已经唱了太多高调，牛皮都吹出去了。作出显著让步，你让朝廷的面子往哪儿搁？而且据（未经证实的）小道消息说，朝廷高层的某些人已经对现有的让步表示不满，认为这是【卖国】。<br/>
 　　美国方面，“反华”（反中）已经成为美国政界的【共识】（关于这点，下面会提到）。川普如果作出显著让步，势必引发【两党】国会议员群起而攻之，并直接影响其2020年连任的胜算。</blockquote><br/>
 <br/>
-<h2>★外媒报道</h2><br/>
-<h3>◇《<a href="https://www.dw.com/a-48687577" rel="nofollow" target="_blank">中美贸易战——北京已经无牌可打？ @ 德国之声</a>》</h3><br/>
+<h2>★外媒报道</h2>
+<br/>
+<h3>◇《<a href="https://www.dw.com/a-48687577" rel="nofollow" target="_blank">中美贸易战——北京已经无牌可打？ @ 德国之声</a>》</h3>
+<br/>
 （编程随想注：这篇发表于5月初）<br/>
 <blockquote style="background-color:#DDD;">美国已经在周五提高了2000亿美元中国商品的关税，北京扬言要出台的反制措施却依然是个迷。骤然升级的贸易战中，美中双方手里各自还有哪些牌？这场贸易争端，接下来又会呈现怎样的走势？<br/>
 <br/>
@@ -80,7 +89,8 @@
 但是，中国金融学者贺江兵认为，即便这些选项也不是非常可取，因为中国从美国进口的货物，许多都是大宗农产品或者高科技产品等替代余地很小的商品。<br/>
 <br/>
 他还认为，中国可以依靠拖时间、让面临大选的特朗普有所忌惮来迫使美方让步的说法也站不住脚。贺江兵指出，即便特朗普下台，“其他人上台可能还要更狠。至于民主党的拜登？他不可能赢的。北京要是寄托这样的希望，那就是在做梦。”</blockquote><br/>
-<h3>◇《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20190824-%E4%B8%AD%E5%9B%BD%E5%8D%87%E7%BA%A7%E8%B4%B8%E6%98%93%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E4%B8%8D%E5%8F%AF%E9%81%8F%EF%BC%8C%E7%A7%B0%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E6%95%8C%E4%BA%BA" rel="nofollow" target="_blank">中国升级贸易战特朗普怒不可遏，称“好朋友”习近平为“敌人” @ RFI/法广</a>》</h3><br/>
+<h3>◇《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20190824-%E4%B8%AD%E5%9B%BD%E5%8D%87%E7%BA%A7%E8%B4%B8%E6%98%93%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E4%B8%8D%E5%8F%AF%E9%81%8F%EF%BC%8C%E7%A7%B0%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E6%95%8C%E4%BA%BA" rel="nofollow" target="_blank">中国升级贸易战特朗普怒不可遏，称“好朋友”习近平为“敌人” @ RFI/法广</a>》</h3>
+<br/>
 <blockquote style="background-color:#DDD;">美国总统特朗普23日发布推文，首次把习近平公开称为“敌人”。<br/>
 <br/>
 特朗普在这篇愤怒的推文中，把习近平与美国联储局主席鲍威尔相提并论，他写道：“我唯一的问题是，谁是我们更大的敌人，鲍威尔还是习主席？”<br/>
@@ -98,7 +108,8 @@
 白宫官员拒绝媒体的要求作出详细说明，只表示总统及其顾问幕僚愈来愈相信，美中要达成贸易协议几乎没有希望。<br/>
 <br/>
 ......</blockquote><br/>
-<h3>◇《<a href="https://cn.nytimes.com/business/20190801/trump-trade-war-vietnam/" rel="nofollow" target="_blank">中国制造？你的下一部 iPhone 可能是越南制造 @ 纽约时报</a>》</h3><br/>
+<h3>◇《<a href="https://cn.nytimes.com/business/20190801/trump-trade-war-vietnam/" rel="nofollow" target="_blank">中国制造？你的下一部 iPhone 可能是越南制造 @ 纽约时报</a>》</h3>
+<br/>
 （编程随想注：这篇发布于8月初）<br/>
 <blockquote style="background-color:#DDD;">说到在特朗普总统与中国的贸易战中获利，全球没有哪个国家比得上越南。在美国关税使企业纷纷重新考虑是否要在中国生产之际，这个国家的工厂订单随之增长。如今，更多大型科技公司寻求增加在越南的制造业务，让一个正顺利成为智能手机及其他高端设备制造国的国家产生了更远大的抱负。<br/>
 <br/>
@@ -112,7 +123,8 @@
 “这肯定会让越南的承载能力吃紧，”贝克麦坚时律师事务所（Baker McKenzie）驻胡志明市常务董事弗雷德里克·R·伯克（Frederick R. Burke）说。他还说，尽管这个国家的劳动力在以每年100万人的速度增长，“人们已经在谈论劳动力短缺问题了。”<br/>
 <br/>
 ......</blockquote><br/>
-<h3>◇《<a href="https://www.bbc.com/zhongwen/simp/business-49160537" rel="nofollow" target="_blank">中美贸易战，谈判停滞的三个月都发生了什么？ @ BBC/英国广播公司</a>》</h3><br/>
+<h3>◇《<a href="https://www.bbc.com/zhongwen/simp/business-49160537" rel="nofollow" target="_blank">中美贸易战，谈判停滞的三个月都发生了什么？ @ BBC/英国广播公司</a>》</h3>
+<br/>
 （编程随想注：这篇发布于7月底）<br/>
 <blockquote style="background-color:#DDD;">随着美国大选临近，中国议题再次被特朗普用作武器，但分析人士称，贸易战既可以成为特朗普赢得大选的决胜筹码，也可能演化成他的弱点，关键取决于贸易协议达成的时机和力度。<br/>
 <br/>
@@ -123,7 +135,8 @@
 不过，中国仍然要求关税必须全部取消，而美国则认为维持关税威胁是保证协议落实的筹码。美方谈判人员曾要求中国修改法律以确保美企的技术得到保护，但中国严词拒绝了美方的这项要求。<br/>
 <br/>
 对此，路透社分析，这些谈判条款具有独特之处：传统贸易协议目的是降低签署国之间的贸易壁垒，协议是基于双方遵守协议条款的设想；而当前中美贸易谈判的目的是迫使中国改变在知识产权、补贴等方面的行为，协议的逻辑不同以往，更类似于美国对外国实体实施的金融制裁——只有其他国家做出了美方想要的改变时，这种制裁才会解除。</blockquote><br/>
-<h3>◇《<a href="https://cn.wsj.com/articles/美国财政部成贸易战受益者，一年征得630亿美元关税-11565228703" rel="nofollow" target="_blank">美财政部成贸易战受益者，一年征得630亿美元关税 @ WSJ/华尔街日报</a>》</h3><br/>
+<h3>◇《<a href="https://cn.wsj.com/articles/美国财政部成贸易战受益者，一年征得630亿美元关税-11565228703" rel="nofollow" target="_blank">美财政部成贸易战受益者，一年征得630亿美元关税 @ WSJ/华尔街日报</a>》</h3>
+<br/>
 （编程随想注：这篇发布于8月初）<br/>
 <blockquote style="background-color:#DDD;">美国总统特朗普（Donald Trump）批准的关税行动激怒了北京并导致美中贸易战升级，但此事至少有一个受益者：美国财政部。根据美国财政部的最新数据，截至6月30日，美国政府在过去12个月征收了630亿美元关税。更重要的是，关税收入正在上升。<br/>
 <br/>
@@ -133,7 +146,8 @@
 <br/>
 ......</blockquote><br/>
 <br/>
-<h2>★网友评论：贸易战对天朝的影响</h2><br/>
+<h2>★网友评论：贸易战对天朝的影响</h2>
+<br/>
 气死五毛：<br/>
 外贸生意买家一般有多个卖家可选，同样的产品，如果你的总成本高，买家就不买你的，这时卖家就要想办法来降低总成本。<br/>
 如果你的产品关税高，那么买家会转向其它国家下订单。<br/>
@@ -256,7 +270,8 @@ chen：<br/>
 <center><img alt="不见图 请翻墙" src="images/twFNFbD7sDx-GIsz3hkK9FZddKrq2GFFCD4DLxt4zriW0XmYWY7vXUY-k7taVbCkrcmbqoky20aRWAeWOQub3guAL6Hxtk8DcGEd_uQBUlXZxVAVTlMYW7zL-c5BAZHahpIdo2Ad4AY"/></center><br/>
 <br/>
 <br/>
-<h2>★网友评论：吐槽真理部的忽悠</h2><br/>
+<h2>★网友评论：吐槽真理部的忽悠</h2>
+<br/>
 国是直通车：<br/>
 【专家：贸易战已经到了中国最舒服的阶段】<br/>
 <center><img alt="不见图 请翻墙" src="images/EmeYempdaX0gWUw59eHxNjsTohxKOvBtB54bNOTTq-k7N8gJTmO3BNTkWP7krlSjJgMMxhFJrFUghK7rKlHfPXGCs4ZJdlrQFxVBAWr_gP1rKrSveQj_R83b4ALC0aZ4tDvcyT0mxws"/></center><br/>
@@ -341,7 +356,8 @@ Claire的小小小号：<br/>
 <center><img alt="不见图 请翻墙" src="images/R7swCOCTd-c4boHntN9YvxWWIvjWAhvPhlG6rfokTfDFgxlaP5t2MeUo8WMLeEZT2ugHn37ebtlY6x6C1E2l4xqjKm3js0OnBLkz8CqzL6mwiviygT8se0X5vKZtLJJhLLUt8fmqteY"/></center>【福建省莆田市荔城区启动农副产品平价商店销售政策：自9月6日起，每公斤猪肉补贴4元，凭身份证每人限购2公斤】<br/>
 <center><img alt="不见图 请翻墙" src="images/sCZ9d8yiD_ARHK9wtfWysnAKLqkF9iTubCUax--sdbV5rvFXFVvm04WUgGIbeSkQN5G3conzGoi9DdOdsys83AO5uQDdBqgNriq8g9Pow1C3EHMK3WGWlg9rlEez362tBTwylRpV2TY"/></center><br/>
 <br/>
-<h2>★网友评论：特没谱</h2><br/>
+<h2>★网友评论：特没谱</h2>
+<br/>
 Kevin在纽约：<br/>
 【川普强令美企离开中国合法吗？他手中有什么牌可以打？】<br/>
 冲突进一步升级后，川普「特此命令」美企撤出中国在美国引发讨论 ，他的原推文用的是「Hereby Ordered」，这词我只在法院判决书中看到法官可以这么用。<br/>
@@ -390,7 +406,8 @@ Steven 7：<br/>
 其餘的3000億商品，原來說9月1日加稅10％，加的太少了，現在漲到15％！<br/>
 <br/>
 <br/>
-<h2>★网友评论：习包子</h2><br/>
+<h2>★网友评论：习包子</h2>
+<br/>
 LIFETIME 視界：<br/>
 《金融时报》这篇文章很有意思，以独到视角观察美中贸易战。<br/>
 文章认为舆论过于娱乐性看待川普通过Twitter发动的贸易战，而忽略了川普周围都是一群非常智慧的人；<br/>
@@ -489,7 +506,8 @@ ninaxie👊👊👊：<br/>
 东施效颦四不像，山寨出个习特勒！<br/>
 <center><img alt="不见图 请翻墙" src="images/LkJXtFU4lRmFCpyxblSyTP_G3DWHBixD9JDFk5VRqDAqIBWF8XPhEpJ1FN18oZLgvzONXJmc5l9xd-ulflBJt9ef521cNZWQXLgaqKe81ZCLW_HqhJ89rqMDXztN2RUgolK9Z6tRhC0"/></center><br/>
 <br/>
-<h2>★网友评论：天朝现状</h2><br/>
+<h2>★网友评论：天朝现状</h2>
+<br/>
 抗两百斤麦子走十里路的维尼：<br/>
 【我们的贫富差距】<br/>
 前 5% 人均存款47.2万，后面 40% 的人均存款为0，中间 55% 的人均存款4.2万<br/>
@@ -519,6 +537,9 @@ ccp不倒，天理不容！<br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
+《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
+《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
+《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>
 《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》

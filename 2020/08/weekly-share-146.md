@@ -54,7 +54,7 @@
 中国外长王毅周三通过官媒新华社批评美国“不择手段围堵打压中国民营企业，演绎了教科书式的霸凌”。王毅说，目前被美国单边制裁的中国企业都是无辜的，希望美国改变“狭隘自私的心态，重回开放合作的正道”。</blockquote>
 <br/>
 <br/>
-<h2>★《<a href="http://www.ftchinese.com/story/001088889?full=y" rel="nofollow" target="_blank">数字系统脱钩——TikTok 和微信禁令的真实意义 @ 金融时报</a>》</h2>
+<h2>★《<a href="http://www.ftchinese.com/story/001088889?full=y" rel="nofollow" target="_blank">数字系统脱钩——TikTok 和微信禁令的真实意义 @ FT/金融时报</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的摘录，其中的粗体是俺标注滴）<br/>
 <blockquote style="background-color:#DDD;">
@@ -191,9 +191,11 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
+《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
 《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>
+《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>
 《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br/>
 《<a href="../../2015/08/Technology-and-Freedom.md">“对抗专制、捍卫自由”的 N 种技术力量</a>》
 </div>

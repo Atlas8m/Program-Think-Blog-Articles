@@ -8,7 +8,8 @@
 　　一年前（2018年7月）俺发了那篇《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》，当时俺反复强调——<b>2018年是【历史性分水岭】</b>。很多读者可能没有引起重视，如今应该相信了吧？<br/>
 <a name="more"></a><br/>
 <br/>
-<h2>★《<a href="https://cn.nytimes.com/business/20190521/huawei-google-china-trump-trade/" rel="nofollow" target="_blank">华为禁令拉下中美科技冷战的数字铁幕 @ 纽约时报</a>》</h2><br/>
+<h2>★《<a href="https://cn.nytimes.com/business/20190521/huawei-google-china-trump-trade/" rel="nofollow" target="_blank">华为禁令拉下中美科技冷战的数字铁幕 @ 纽约时报</a>》</h2>
+<br/>
 （以下是此文的部分摘录，粗体是俺标注滴）<br/>
 <blockquote><b>中国花了近20年的时间，在自己与世界其他地区之间筑起一道数字墙，这是一道单向壁垒，旨在屏蔽 Facebook 和谷歌这类外国企业，同时让它们在中国的对手走出国门，扩张到全世界。</b><br/>
 现在特朗普总统正在从另一边封堵这道墙。<br/>
@@ -23,8 +24,10 @@
 <br/>
 中国的审查制度和对公民数字生活的严格控制已经有效隔离了世界五分之一的网民，导致出现了不知“谷歌一下”或订阅 YouTube 频道是何含义的一代人。美国咄咄逼人的新姿态只会加快这一过程，开启这样一个可能——即有一天，中国人只能使用本土生产的芯片和软件驱动的手机和设备。所有这一切正在以令许多中国人震惊的速度发生。<br/>
 <br/>
-“<b>特朗普政府的举动比很多中国人所预料的要全面得多，</b>”科技研究公司 Canalys 分析师彭路平（Nicole Peng）说。“也来得早很多。<b>很多人直到现在才认识到这是来真的。</b>”</blockquote><br/>
-<h2>★《<a href="https://cn.reuters.com/article/us-huawei-trade-blacklist-0517-idCNKCS1SN0M7" rel="nofollow" target="_blank">美国出手打压 华为处境堪忧 @ 路透社</a>》</h2><br/>
+“<b>特朗普政府的举动比很多中国人所预料的要全面得多，</b>”科技研究公司 Canalys 分析师彭路平（Nicole Peng）说。“也来得早很多。<b>很多人直到现在才认识到这是来真的。</b>”</blockquote>
+<br/>
+<h2>★《<a href="https://cn.reuters.com/article/us-huawei-trade-blacklist-0517-idCNKCS1SN0M7" rel="nofollow" target="_blank">美国出手打压，华为处境堪忧 @ 路透社</a>》</h2>
+<br/>
 （以下是此文的部分摘录，粗体是俺标注滴）<br/>
 <blockquote>美国商务部周四正式将华为技术有限公司及其在20多个国家的68家附属公司列入所谓的“实体名单”。此举将禁止华为在未经美国政府批准的情况下从美国公司购买零部件，给中美贸易战又添了一把火。<br/>
 <br/>
@@ -44,8 +47,10 @@
 <br/>
 周三紧张形势升级，美国总统特朗普签署行政令，禁止美国企业使用被认为对国家安全构成风险的企业所生产的电信设备。虽然这份总统令没有特别点到哪个国家或哪家公司，但美国官员此前已经给华为贴上了“威胁”标签。<br/>
 <br/>
-<b>“美国似乎已经决定钉死华为，”一家美国科技公司在中国的知情人士说。</b></blockquote><br/>
-<h2>★《<a href="https://www.1688.com.au/world/china/2019/05/24/583462/" rel="nofollow" target="_blank">关于备胎芯片，一位华为资深员工说了实话…… @ 澳洲新闻网</a>》</h2><br/>
+<b>“美国似乎已经决定钉死华为，”一家美国科技公司在中国的知情人士说。</b></blockquote>
+<br/>
+<h2>★《<a href="https://www.1688.com.au/world/china/2019/05/24/583462/" rel="nofollow" target="_blank">关于备胎芯片，一位华为资深员工说了实话…… @ 澳洲新闻网</a>》</h2>
+<br/>
 （以下是【全文】转贴，粗体是俺标注滴）<br/>
 <blockquote>我在华为的时候，有一段时间在中软研究院工作。其中有几个部门，是专们做备胎的，比如尽管华为在用谷歌的安卓，但自己同时也在开发手机操作系统。感觉很不解，现代科技都是分工协作，所有的企业都是攻自己的专项，依靠其他公司提供上下流产品。大而全是一件效率很低的事情。分在备胎技术部门的兄弟，工作看不到前景，没有效益，分红也比主流部门的少，工作自然不安心，产品可想而知如何了。<br/>
 <br/>
@@ -79,8 +84,10 @@
 <br/>
 <b>一个产品只要被断供 5% 的芯片，找不到其他厂商的替代品，肯定玩完。</b>至于大部分智能手机制造商之所以使用安卓操作系统，是因为其广泛的使用人数和完整的应用生态系统。过去包括三星电子在内的几乎所有智能手机制造企业都曾投入巨资开发代替安卓的操作系统，但无一例外，全部失败了。任老板要所有芯片、软件、操作系统全部自主研发，那真是要创造人类科技史上的奇迹了。<br/>
 <br/>
-祝愿华为取得成功！</blockquote><br/>
-<h2>★《<a href="https://finance.sina.com.cn/chanjing/gsnews/2019-05-23/doc-ihvhiqay0694266.shtml" rel="nofollow" target="_blank">ARM 暂停芯片架构合作 危及华为“备胎计划” @ 新浪财经</a>》</h2><br/>
+祝愿华为取得成功！</blockquote>
+<br/>
+<h2>★《<a href="https://finance.sina.com.cn/chanjing/gsnews/2019-05-23/doc-ihvhiqay0694266.shtml" rel="nofollow" target="_blank">ARM 暂停芯片架构合作，危及华为“备胎计划” @ 新浪财经</a>》</h2>
+<br/>
 （以下是此文的部分摘录，粗体是俺标注滴）<br/>
 <blockquote>突发！华为遭最严峻挑战，孙正义旗下 ARM 暂停芯片架构合作，危及备胎计划<br/>
 <br/>
@@ -100,11 +107,15 @@ ARM 的设计，是当前全球大多数移动设备芯片的基础。华为旗�
 <br/>
 华为目前从旗下的海思半导体公司采购部分芯片。但是，海思的芯片是使用ARM的底层技术。虽然海思半导体和华为可以继续使用和制造现有芯片，但最新的禁令意味着将来不能再从ARM获得开发硬件的支持。<br/>
 <br/>
-据 ARM 公布最新资料显示，2017年ARM手机处理器的市场份额在 90% 以上，中国设计的SoC中 95% 都是基于 ARM 技术。不仅是手机 CPU 麒麟处理器用到了 ARM 架构，GPU、基带芯片和外围芯片都有 ARM 的授权。其他智能设备，如智能手表、路由器也都在使用 ARM 架构的处理器。</blockquote><br/>
-<h2>★《<a href="https://www.rfa.org/mandarin/yataibaodao/jingmao/ql1-05162019064334.html" rel="nofollow" target="_blank">华为产品三成零件靠美国进口 制裁将造成长远重大影响 @ RFA/自由亚洲电台</a>》</h2><br/>
+据 ARM 公布最新资料显示，2017年ARM手机处理器的市场份额在 90% 以上，中国设计的SoC中 95% 都是基于 ARM 技术。不仅是手机 CPU 麒麟处理器用到了 ARM 架构，GPU、基带芯片和外围芯片都有 ARM 的授权。其他智能设备，如智能手表、路由器也都在使用 ARM 架构的处理器。</blockquote>
+<br/>
+<h2>★《<a href="https://www.rfa.org/mandarin/yataibaodao/jingmao/ql1-05162019064334.html" rel="nofollow" target="_blank">华为产品三成零件靠美国进口，制裁将造成长远重大影响 @ RFA/自由亚洲电台</a>》</h2>
+<br/>
 （以下是此文的部分摘录）<br/>
-<blockquote>据中国财新网报道，相比中兴，华为有更深的芯片研发积累和更高的国产化率，但华为有近三分之一部件来自美国，一旦美国严格执行出口管制，对华为及其产业链公司都将产生长远且重大的影响。华为产品中大约 30% 到 32% 的部件来自美国。华为的供应链主要在中央处理器、可编程芯片、图形处理器、微软的操作系统、高通的通信技术以及甲骨文的数据库等。美国芯片厂美光、德州仪器和科沃等，都是华为的供应商。</blockquote><br/>
-<h2>★《<a href="https://www.voachinese.com/a/huawei-google-ban-sales-asia-europe-20190523/4929701.html" rel="nofollow" target="_blank">美国对华为发出禁令后 华为手机在亚洲与欧洲乏人问津 @ VOA/美国之音</a>》</h2><br/>
+<blockquote>据中国财新网报道，相比中兴，华为有更深的芯片研发积累和更高的国产化率，但华为有近三分之一部件来自美国，一旦美国严格执行出口管制，对华为及其产业链公司都将产生长远且重大的影响。华为产品中大约 30% 到 32% 的部件来自美国。华为的供应链主要在中央处理器、可编程芯片、图形处理器、微软的操作系统、高通的通信技术以及甲骨文的数据库等。美国芯片厂美光、德州仪器和科沃等，都是华为的供应商。</blockquote>
+<br/>
+<h2>★《<a href="https://www.voachinese.com/a/huawei-google-ban-sales-asia-europe-20190523/4929701.html" rel="nofollow" target="_blank">美国对华为发出禁令后 华为手机在亚洲与欧洲乏人问津 @ VOA/美国之音</a>》</h2>
+<br/>
 （以下是此文的部分摘录，粗体是俺标注滴）<br/>
 <blockquote>出于担心谷歌暂停与华为的商业往来会干扰到手机功能，路透社5月23日星期四的一篇报道说，许多消费者想要把华为手机转让出去，一些亚洲国家的手机运营商和零售商现在对销售华产品持保留态度，很多商家不接受顾客拿华为手机换购新手机。华为手机在亚洲和欧洲的销售出现艰难局面。<b>谷歌切断对华为商业往来的决定目前正在全球引起连锁反应。</b><br/>
 <br/>
@@ -118,13 +129,17 @@ ARM 的设计，是当前全球大多数移动设备芯片的基础。华为旗�
 <br/>
 华为手机在欧洲的销售情况也不乐观。华为原本是英国是最受欢迎的手机品牌之一，但现在英国两大移动网络运营商 EE 和 Vodafone 相继宣布，因为谷歌的决定，他们将暂停向 5G 用户提供华为手机。<br/>
 <br/>
-另据报道，在星期天爆出美国政府把华为列入黑名单，谷歌停止与华为商业往来的当天，华为手机在西班牙当地商店的销售量大幅下跌了 50% 到 70%。过去几天来，西班牙消费者把1万5千只华为产品退回给网上购物网亚马逊。</blockquote><br/>
-<h2>★《<a href="https://www.solidot.org/story?sid=60709" rel="nofollow" target="_blank">微软从其商店下架华为笔记本电脑 @ Solidot</a>》</h2><br/>
+另据报道，在星期天爆出美国政府把华为列入黑名单，谷歌停止与华为商业往来的当天，华为手机在西班牙当地商店的销售量大幅下跌了 50% 到 70%。过去几天来，西班牙消费者把1万5千只华为产品退回给网上购物网亚马逊。</blockquote>
+<br/>
+<h2>★《<a href="https://www.solidot.org/story?sid=60709" rel="nofollow" target="_blank">微软从其商店下架华为笔记本电脑 @ Solidot</a>》</h2>
+<br/>
 （以下是【全文】转贴，粗体是俺标注滴）<br/>
 <blockquote>微软看起来成为最新一家遵守美国政府出口禁令的科技巨头，该公司从其商店下架了华为笔记本电脑，但对于是否停止向华为提供 Windows 授权软件巨人仍然保持沉默，对记者的询问拒绝置评。<br/>
 根据 Google 缓存，华为的 MateBook X Pro 笔记本电脑 5 月 18 日还留在微软的在线商店里，如今搜索华为产品已经没有了结果。<br/>
-华为的笔记本电脑运行的是 Windows 操作系统，需要有微软的授权，就像华为在海外发售的智能手机搭载 Google 服务需要获得 Google 的授权。<b>如果微软像 Google 那样停止授权 Windows，那么华为无疑将会遭遇另一次严重打击。</b></blockquote><br/>
-<h2>★《<a href="https://tech.sina.com.cn/t/2019-05-27/doc-ihvhiqay1579417.shtml" rel="nofollow" target="_blank">五大标准组织暂停华为成员资格 @ 新浪科技</a>》</h2><br/>
+华为的笔记本电脑运行的是 Windows 操作系统，需要有微软的授权，就像华为在海外发售的智能手机搭载 Google 服务需要获得 Google 的授权。<b>如果微软像 Google 那样停止授权 Windows，那么华为无疑将会遭遇另一次严重打击。</b></blockquote>
+<br/>
+<h2>★《<a href="https://tech.sina.com.cn/t/2019-05-27/doc-ihvhiqay1579417.shtml" rel="nofollow" target="_blank">五大标准组织暂停华为成员资格 @ 新浪科技</a>》</h2>
+<br/>
 注：这篇报道的时间是27日。在俺的博文发布之后，经热心读者建议，俺补充到博文中。<br/>
 讽刺的是，才过了两三天，新浪的这篇报道已经被和谐掉了。所以俺又补充了“互联网档案馆”的【镜像链接】，在“<a href="https://web.archive.org/web/20190527010052/http://tech.sina.com.cn/t/2019-05-27/doc-ihvhiqay1579417.shtml" rel="nofollow" target="_blank">这里</a>”。<br/>
 （以下是此文的部分摘录）<br/>
@@ -137,6 +152,7 @@ ARM 的设计，是当前全球大多数移动设备芯片的基础。华为旗�
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
+《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
