@@ -3,13 +3,13 @@
 -----
 
 <div class="post-body entry-content">
-　　中美对抗正在【加剧】，大伙儿应该都感受到了。<a href="../../2020/08/weekly-share-146.md">上次的博文</a>，俺转载了几篇文章，都是关于“科技脱钩”这个话题。今天再单独转载一篇比较长的文章，谈【美国对华战略】。<br/>
+　　“中美对抗”正在【加剧】，大伙儿应该都感受到了。<a href="../../2020/08/weekly-share-146.md">上次的博文</a>，俺转载了几篇文章，都是关于“科技脱钩”这个话题。今天再单独转载一篇比较长的文章，谈【美国对华战略】。<br/>
 <a name="more"></a><br/>
 <br/>
 <h2>★作者简介</h2>
 <br/>
-　　此文的作者【约瑟夫·奈】（<a href="https://en.wikipedia.org/wiki/Joseph_Nye" rel="nofollow" target="_blank">Joseph Nye</a>）是知名的美国学者（当过哈佛大学肯尼迪政府学院的院长），因提出“软实力”（soft power）的理论而闻名遐迩。上世纪末本世纪初，此人先后担任过美国助理国防部长、国家情报委员会主席、副国务卿等高层职务。从其履历可以看出——在美国外交界具有相当的影响力。顺便说一下：<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享过他写的《<a href="https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/" target="_blank">理解国际冲突——理论与历史</a>》一书。<br/>
-　　在政治派系上，他应该算【民主党】那边。（从此文可以看出）在对华战略方面，有些地方他与川普是一致滴，有些则完全不同。俺在博客评论区与读者交流时提到过：美国两党在【反中】这个大方向上早已达成一致，差别在于具体如何落实（战略上一致，战术上有分歧）。<br/>
+　　此文的作者【约瑟夫·奈】（<a href="https://en.wikipedia.org/wiki/Joseph_Nye" rel="nofollow" target="_blank">Joseph Nye</a>）是知名的美国学者（当过哈佛大学肯尼迪政府学院的院长），因提出“软实力”（soft power）理论闻名遐迩。上世纪末本世纪初，此人先后担任过美国助理国防部长、国家情报委员会主席、副国务卿等高层职务。从其履历可以看出——在美国外交界具有相当的影响力。顺便说一下：<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享过他写的《<a href="https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/" target="_blank">理解国际冲突——理论与历史</a>》一书。<br/>
+　　在政治派系上，他应该算【民主党】那边。（从此文可以看出）在对华战略方面，有些地方他与川普是一致滴，有些则完全不同。俺在博客评论区与读者交流时提到过：美国两党在【反中】这个大方向上早已达成一致，差别在于具体如何落实（战略上达成一致，战术上存在分歧）。<br/>
 　　由于临近美国大选，很多读者都在关心：“假如拜登赢得2020大选，美国对华战略会出现哪些变化？”通过这篇文章可以获得某种参考（仅仅是参考，未来总是会有变数）。<br/>
 <br/>
 <br/>
@@ -17,8 +17,8 @@
 <br/>
 　　这篇文章发表在美国国防大学（NDU）主办的《棱镜》季刊（2020年第8卷第4期），原文标题是《Perspectives for a China Strategy》，发表时间：2020年6月。官网原始出处在“<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2217686/perspectives-for-a-china-strategy/" rel="nofollow" target="_blank">这里</a>”。<br/>
 　　中文翻译发表在“<a href="http://comment.cfisnet.com/2020/0722/1320246.html" rel="nofollow" target="_blank">国际网</a>”（此网站隶属于官方的“中国国际问题研究基金会”）。考虑到该网站的官方背景，再放一个互联网档案馆的网页存档（链接在“<a href="https://web.archive.org/web/20200822144016/http://comment.cfisnet.com/2020/0722/1320246.html" rel="nofollow" target="_blank">这里</a>”）。<br/>
-　　本来俺没打算搞“中英双语对照”（那个中文翻译【没】注明英文原始出处）。主要是考虑到：上述网站具有【朝廷】背景，就多了个心眼——找到了英文原文，并稍微对照了一下。结果在第1段就发现有大量的删节。既然如此，俺索性就把【中英文对照】逐段贴出来，并且逐一对比了删节的情况。那些比较短的删节，俺稍微补充了中文翻译；至于【大段的】删节，俺比较懒，就请大伙儿自己去看原文吧（作为本博客的读者，基本的英文阅读能力，应该是有的吧？）<br/>
-　　为了方便大伙对照，那些翻译过程中被删节的英文原文都标注了<u>下划线</u>，俺个人在中译文里面插入的注释，也采用小括号和下划线，以示区分。另外，中译文里面的<b>粗体</b>也是俺加注滴。<br/>
+　　本来俺没打算搞“中英双语对照”（那个中文翻译【没】注明英文原始出处）。鉴于上述网站具有【朝廷】背景，俺就多留了个心眼——找到英文原文，并稍微对照了一下。结果在第1段就发现大量的删节。既然如此，俺索性就把【中英文对照】逐段贴出来，并且逐一对比了删节的情况。那些比较短的删节，俺稍微补充了中文翻译；至于【大段的】删节，俺比较懒，就请大伙儿自己去看原文吧（作为本博客的读者，基本的英文阅读能力，应该是有的吧？）<br/>
+　　为了方便大伙对照，那些翻译过程中被删节的英文原文都标注了<u>下划线</u>，俺个人在中译文里面插入的注释及修订，也采用（<u>小括号加下划线</u>）的样式，以示区分。另外，中译文里面的 <b>粗体</b> 也是俺加注滴。<br/>
 <br/>
 <br/>
 <h2>★中英文对照</h2>
@@ -40,7 +40,7 @@ When the Munich Security Conference met in February 2020, China was the most fre
 Beyond the COVID-19 crisis, we face the larger question of how to frame a strategy toward the inexorably rising China. The perennial theme of Western decline is not new, though the role of China is. Oswald Spengler opined about the decline of the West over a century ago. During the Cold War, American pundits and politicians went through several cycles of belief in declinism that featured fear of the Soviet Union. In the end, however, when it turned out to be the Soviet Union that declined many proclaimed the West triumphant. In his 1992 book The End of History and the Last Man, Francis Fukuyama wrote that humanity had reached "the end-point of mankind's ideological evolution and the universalization of Western liberal democracy as the final form of human government." A few years later, Samuel Huntington issued a gloomier prognosis in The Clash of Civilizations and the Remaking of World Order that "the rise of China and the increasing assertiveness of this 'biggest player in the history of man' will place tremendous stress on international stability in the early twenty-first century."(1) Today the prevailing fear is indeed the rise of China. Accordingly the 2017 version of the National Security Strategy of the United States <u>focuses on great power competition with China, and to a lesser extent with Russia.</u>
 </td>
 <td>
-除了新冠疫情引发的危机外，美国还面临着一个更大的挑战，即如何制定一项恰当的对华战略来遏制中国崛起。“西方衰落论”是老生常谈。早在一个多世纪前，奥斯瓦尔德·斯宾格勒就曾对西方衰落发表过见解。冷战期间，为数众多的美国学者和政治家出于对苏联的恐惧，始终秉持衰落主义的观点。但最终却是苏联率先解体，对此，许多人宣称这是西方的胜利。弗朗西斯·福山在其1992年出版的《<a href="https://docs.google.com/document/d/1aVTuQ5_85pkeLzwRXu_V2lJbDcg8UrWOmDbLIjOr-1Y/" target="_blank">历史的终结与最后的人</a>》中写道，人类已经达到了“意识形态进化的顶点，而西方的自由民主政体将作为政府的最终形式得以普遍存续”。几年后，塞缪尔·亨廷顿在《<a href="https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/" target="_blank">文明的冲突与世界秩序的重建</a>》中发表了（更为）悲观的预言：“中国的崛起及其日益自信，将给21世纪初的国际稳定带来巨大的压力。”如今，中国崛起已经成为人们的普遍忧虑。鉴于此，2017版的《美国国家安全战略》聚焦与中国和俄罗斯的大国竞争。<br/>
+除了新冠疫情引发的危机外，美国还面临着一个更大的挑战，即如何制定一项恰当的对华战略来遏制中国崛起。“西方衰落论”是老生常谈。早在一个多世纪前，奥斯瓦尔德·斯宾格勒就曾对西方衰落发表过见解。冷战期间，为数众多的美国学者和政治家出于对苏联的恐惧，始终秉持衰落主义的观点。但最终却是苏联率先解体，对此，许多人宣称这是西方的胜利。弗朗西斯·福山在其1992年出版的《<a href="https://docs.google.com/document/d/1aVTuQ5_85pkeLzwRXu_V2lJbDcg8UrWOmDbLIjOr-1Y/" target="_blank">历史的终结与最后的人</a>》中写道，人类已经达到了“意识形态进化的顶点，而西方的自由民主政体将作为政府的最终形式得以普遍存续”。几年后，塞缪尔·亨廷顿在《<a href="https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/" target="_blank">文明的冲突与世界秩序的重建</a>》中发表了（<u>更为</u>）悲观的预言：“中国的崛起及其日益自信，将给21世纪初的国际稳定带来巨大的压力。”如今，中国崛起已经成为人们的普遍忧虑。鉴于此，2017版的《美国国家安全战略》聚焦与中国和俄罗斯的大国竞争。<br/>
 <br/>
 （<u>编程随想注：最后一句略微篡改了愿意——原文强调：“美中之争”超过了“美俄之争”</u>）
 </td>
@@ -50,7 +50,9 @@ Beyond the COVID-19 crisis, we face the larger question of how to frame a strate
 In a longer historical perspective, this century is witnessing not the rise, but the recovery of Asia. Western civilization did not fully flower until 1500, and before 1800 Asia (including India and Japan as well as China) was home to more than half the world's population and world economy. By 1900, however, while Asia still represented more than half the world's population its share of the global economy had fallen to only 20 percent. Meanwhile the industrial revolution in Europe and North America and their domination of the seas made Europe the center of the global balance of power—until it tore itself apart in World War I. As I wrote a decade ago, the 21st century will see the return of Asia, but Asia is much more than just China.(2) Asia has its own internal balance of power, and many Asian states welcome a Western presence to make sure they are not dominated by China.(3)
 </td>
 <td>
-从（更长远的）历史角度来说，本世纪我们并不是在见证亚洲的崛起，而是在见证亚洲的复兴。西方文明直到16世纪才孕育成熟，而在19世纪以前，亚洲（印度、日本和中国）拥有世界一半以上的人口和财富。直到20世纪，亚洲人口仍占世界总人口的半数以上，但其在全球经济中所占份额已降至 20%。与此同时，欧洲的工业革命及其对海洋的控制使其迅速成为世界中心，其霸主地位一直延续至一战结束。我在10年前就已经说过，21世纪将见证亚洲的回归，但亚洲不是只有一个中国。亚洲内部有着自己的力量平衡，许多亚洲国家欢迎西方的存在，从而确保自身不被中国支配。
+从（<u>更长远的</u>）历史角度来说，本世纪我们并不是在见证亚洲的崛起，而是在见证亚洲的复兴。西方文明直到16世纪才孕育成熟，而在19世纪以前，亚洲（印度、日本和中国）拥有世界一半以上的人口和财富。直到20世纪，亚洲人口仍占世界总人口的半数以上，但其在全球经济中所占份额已降至 20%。与此同时，欧洲的工业革命及其对海洋的控制使其迅速成为世界中心，其霸主地位一直延续至一战结束。我在10年前就已经说过，21世纪将见证亚洲的回归，但亚洲不是只有一个中国。亚洲内部有着自己的力量平衡，许多亚洲国家欢迎西方的存在，从而确保自身不被中国支配。<br/>
+<br/>
+（<u>编程随想注：作者在这段提及了：<q style="background-color:#DDD;">亚洲内部有着自己的力量平衡</q>。很长时间以来，美国全球战略的核心原则就是——<b>确保世界岛（欧亚大陆）的均势</b>。关于这方面的详细阐述，可以参考布热津斯基的代表作《<a href="https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/" target="_blank">大棋局——美国的首要地位及其地缘战略</a>》一书。<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了此书的电子版</u>）
 </td>
 </tr>
 <tr>
@@ -66,11 +68,10 @@ The United States became the world's largest economy at the end of the 19th cent
 Some contemporary realists believe the rise of China portends a conflict that will tear the world apart similar to the sundering of Europe in 1914. Graham Allison has warned of a "Thucydides Trap" invoking the history of the Peloponnesian War which was caused by the rise in power of Athens and the fear it created in Sparta. While Allison's historical cases and numbers have been questioned, his metaphor serves a useful warning.(4) Strategists must pay attention both to the rise of China <u>and the fear it creates in the United States.</u>
 </td>
 <td>
-<b>部分当代现实主义者认为，中国崛起预示着一场撕裂世界的冲突，就像1914年欧洲的分裂。</b>格雷厄姆·艾利森曾警告说，“修昔底德陷阱”将使类似伯罗奔尼撒战争的历史得以重现。伯罗奔尼撒战争爆发的原因，正是雅典的崛起及其给斯巴达带来的恐惧。<br/>
-尽管艾利森援引的案例和数据遭受质疑，但他的观点不失为一个有用的预警。战略家必须关注中国崛起。<br/>
+<b>部分当代现实主义者认为，中国崛起预示着一场撕裂世界的冲突，就像1914年欧洲的分裂。</b>格雷厄姆·艾利森曾警告说，“修昔底德陷阱”将使类似伯罗奔尼撒战争的历史得以重现。伯罗奔尼撒战争爆发的原因，正是雅典的崛起及其给斯巴达带来的恐惧。尽管艾利森援引的案例和数据遭受质疑，但他的观点不失为一个有用的预警。战略家必须关注中国崛起。<br/>
 <br/>
 （<u>编程随想注：中译文的最后一句有删节。原文应为：<q style="background-color:#DDD;">战略家必须同时注意“中国的崛起”以及“中国崛起在美国造成的恐惧感”。</q><br/>
-文中提及的“修昔底德”是古希腊历史学家，其代表作《<a href="https://docs.google.com/document/d/1U0VOIk64b-mKriKcAUiNBZSOOo0Y4q_RMV187Prgt4Q/" target="_blank">伯罗奔尼撒战争史</a>》对“历史、政治、外交”等诸多领域有深刻影响。<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了此书的电子版</u>）
+文中提及的“修昔底德”是古希腊历史学家，其代表作《<a href="https://docs.google.com/document/d/1U0VOIk64b-mKriKcAUiNBZSOOo0Y4q_RMV187Prgt4Q/" target="_blank">伯罗奔尼撒战争史</a>》对“历史、政治、外交”等诸多领域有深刻影响。<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了此书的电子版。</u>）
 </td>
 </tr>
 <tr>
@@ -104,7 +105,7 @@ Many economists expect China to pass the United States someday as the world's la
 <td>
 许多经济学家预计，中国有朝一日将超越美国，成为世界最大经济体，但具体时间从2030年到本世纪中叶不定。这主要取决于人们对中美两国经济增速的预期，以及两国能否打破历史规律相向而行。<br/>
 <br/>
-（<u>编程随想注：最后一句翻译不当，且有删节。原文大意是：<q style="background-color:#DDD;">这主要取决于人们对中美两国经济增速的假设，以及两国是否都沿着预期的增长曲线发展。过去的发展轨迹并【不是】好的预测依据。</q></u>）
+（<u>编程随想注：最后一句翻译不当，且有删节。原文大意是：<q style="background-color:#DDD;">这主要取决于人们对中美两国经济增速的假设，以及两国是否都沿着预期的增长曲线发展。过去的发展轨迹并【不是】可靠的预测依据。</q></u>）
 </td>
 </tr>
 <tr>
@@ -205,7 +206,7 @@ The United States enjoys financial power derived from its large transnational fi
 <td>
 （<u>编程随想注：本段开头部分被删节。原文是——<q style="background-color:#DDD;">在相互依赖的双方，权力来自于【不对称】的脆弱性。在这点上，美中的相互依赖关系中存在着太多对称的脆弱性。<b>假如进行更彻底的脱钩，这种状况可能会改变。</b></q></u>）<br/>
 <br/>
-（虽然）美元不可能永远占据主导地位，且美国过度利用金融制裁会刺激其他国家转而寻求替代金融工具，但人民币在短期内也不太可能取代美元的地位。
+（<u>虽然</u>）美元不可能永远占据主导地位，且美国过度利用金融制裁会刺激其他国家转而寻求替代金融工具，但人民币在短期内也不太可能取代美元的地位。
 </td>
 </tr>
 <tr>
@@ -330,10 +331,10 @@ A successful national security strategy for the United States must begin with th
 </tr>
 <tr>
 <td>
-On transnational issues like COVID-19, climate change, and global economic stability power becomes a positive-sum game. It is not sufficient to think in terms of American power over others. We must also think of power in terms of the ability to accomplish joint goals which involves power with others. On many transnational issues, empowering others can help us to accomplish our own goals. The United States benefits if China improves its energy efficiency and emits less carbon dioxide, or improves its public health systems. In the world of the 21st century, institutional networks and connectedness are an important source of national power. In a world of growing complexity, the most connected states are the most powerful. Washington has some sixty treaty allies while China has few, but we are squandering that strategic resource.
+On transnational issues like COVID-19, climate change, and global economic stability power becomes a positive-sum <u>game</u>. It is not sufficient to think in terms of American power over others. We must also think of power in terms of the ability to accomplish joint goals which involves power with others. On many transnational issues, empowering others can help us to accomplish our own goals. The United States benefits if China improves its energy efficiency and emits less carbon dioxide, or improves its public health systems. In the world of the 21st century, institutional networks and connectedness are an important source of national power. In a world of growing complexity, the most connected states are the most powerful. Washington has some sixty treaty allies while China has few, but we are squandering that strategic resource.
 </td>
 <td>
-在新冠疫情、气候变化和全球经济稳定等跨国问题上，各国正在进行一场正和游戏。单纯考虑美国拥有的实力是不够的，还必须从实现共同目标的角度出发，将其他国家的实力纳入考虑范畴。在大多数跨国问题上，赋予他国权力可以帮助美国实现自己的目标。假设中国能够提高能源效率，减少二氧化碳排放，或改善公共卫生系统，美国也将从中受益。在21世纪，关系网也是国家实力的重要组成部分。华盛顿有大约60个盟友，而中国却寥寥无几，但美国正在浪费这些战略资源。
+在新冠疫情、气候变化和全球经济稳定等跨国问题上，各国正在进行一场正和游戏（<u>编程随想注：原文中的“game”译为“博弈”更贴切</u>）。单纯考虑美国拥有的实力是不够的，还必须从实现共同目标的角度出发，将其他国家的实力纳入考虑范畴。在大多数跨国问题上，赋予他国权力可以帮助美国实现自己的目标。假设中国能够提高能源效率，减少二氧化碳排放，或改善公共卫生系统，美国也将从中受益。在21世纪，关系网也是国家实力的重要组成部分。华盛顿有大约60个盟友，而中国却寥寥无几，但美国正在浪费这些战略资源。
 </td>
 </tr>
 <tr>
@@ -503,7 +504,7 @@ The more difficult question for an effective national security strategy will be 
 <h3>◇天朝的问题</h3>
 <br/>
 　　天朝的问题有很多，有大有小，有难有易。俺个人认为：真正的难题是那些【严重依赖时间】的问题。啥意思捏？比如说“民主化转型、建立人才储备、改善人口结构、保障粮食安全”（或诸如此类的问题），这些都要花好几代人的时间才能慢慢搞定。<br/>
-　　如果没有发生“中美新冷战”，天朝本来可以花时间逐步解决这些问题（俺称之为“腾挪的余地”）。但由于习呆呆太傻逼，在自身实力远远不如美国佬的情况下，就主动进行各种挑衅（比如：一带一路、南海造岛、香港送中条例......）。在习呆呆的不懈努力下，美国各界终于对【反中】达成高度共识。等到美国佬开始竭尽全力地围堵/遏制天朝，那么，“腾挪的余地”就被挤压掉了。<br/>
+　　如果没有发生“中美新冷战”，天朝本来可以花时间逐步解决这些问题（俺称之为“腾挪的余地”）。但由于习呆呆太傻逼，在自身实力远远不如美国佬的情况下，就主动进行各种挑衅（比如：一带一路、南海造岛、香港送中条例......）。经过习呆呆的不懈努力，美国各界终于对【反中】达成高度共识。等到美国佬开始竭尽全力地围堵/遏制天朝，那么，“腾挪的余地”就被挤压掉了。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>

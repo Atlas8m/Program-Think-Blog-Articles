@@ -333,15 +333,17 @@
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
-《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>
-《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br/>
+《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
+《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
+《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br>
+《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
 《<a href="../../2017/12/Nuclear-Weapons-on-Korean-Peninsula-USA-Strategies.md">聊聊朝鲜半岛核问题——美国博弈策略分析</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/07/Robbing-the-Poor-Funding-the-Rich.md">相当奇葩的天朝，【劫贫济富】的国度</a>》<br/>
 《<a href="../../2018/02/Constitutional-Amendment.md">关于2018年修宪的随想</a>》<br/>
 《<a href="../../2016/07/Misunderstandings-About-South-China-Sea.md">澄清关于南海纠纷的常见误解</a>》
-</div>
+</br></br></div>
 
 
 ------------------------------------------------

@@ -73,25 +73,33 @@ def extract_image_name_from_link(link):
     return os.path.basename(link)
 
 
-def download_single_image(link, image_save_path):
+def download_single_image(blog_url, link, image_save_path):
     r = requests.get(link, stream=True)
 
     retry = 0
+
     while r.status_code != 200:
-        retry += 1
-        print('Error in download image, retry (%d) %s' % (retry, link))
-        r = requests.get(link, stream=True)
+        https_link = link.replace('http://', 'https://')
+
+        if https_link != link:
+            r = requests.get(https_link, stream=True)
+
+        if r.status_code != 200:
+            retry += 1
+            args = (r.status_code, retry, link, blog_url)
+            print('Error in download image (error code: %d) , retry (%d) %s, blog url is %s\n' % args)
+            r = requests.get(link, stream=True)
 
     with open(image_save_path + extract_image_name_from_link(link), 'wb') as f:
         r.raw.decode_content = True
         shutil.copyfileobj(r.raw, f)
 
 
-def download_all_image(image_save_path, links_list):
+def download_all_image(blog_url, image_save_path, links_list):
     make_directory(image_save_path)
 
     for link in links_list:
-        download_single_image(link, image_save_path)
+        download_single_image(blog_url, link, image_save_path)
 
 
 def replace_image_link_in_markdown_text(md_text, image_save_path, links_list):
@@ -132,7 +140,7 @@ def url_to_markdown(url, save_path):
     md_text = convert_html_to_md(get_core_content(html))
     non_image_links = find_all_non_image_link(md_text)
     image_links = find_all_image_link(md_text)
-    download_all_image(image_save_path, image_links)
+    download_all_image(url, image_save_path, image_links)
     md_text = replace_blog_non_image_link_in_markdown_text(md_text, non_image_links)
     md_text = replace_image_link_in_markdown_text(md_text, 'images/', image_links)
     title_name = html2markdown.convert(get_article_title(html)).replace('/', '-')
@@ -141,10 +149,11 @@ def url_to_markdown(url, save_path):
 
 
 def test_url_to_markdown():
-    url = 'https://program-think.blogspot.com/2011/06/june-fourth-incident-0.html'
+    # url = 'https://program-think.blogspot.com/2011/06/june-fourth-incident-0.html'
     # url = 'https://program-think.blogspot.com/2018/08/USA-Containment-Strategies-in-Cold-War.html'
     # url = 'https://program-think.blogspot.com/2015/03/weekly-share-82.html'
     # url = 'https://program-think.blogspot.com/2016/01/Taiwan-Political-Movements.html'
+    url = 'https://program-think.blogspot.com/2015/01/weekly-share-79.html'
     url_to_markdown(url, './')
 
 
