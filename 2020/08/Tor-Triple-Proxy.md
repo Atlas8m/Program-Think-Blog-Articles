@@ -194,7 +194,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 <br/>
 <center><img alt="不见图 请翻墙" src="images/S9xUPrUTk8FUw0s9l18JQvxftEYlHAYFzP_YAo3CZz3k8GcG63NEmZ7k8HNDIOuH9PRt258MT1A03qdWWvdYmw-SmkfVcaPVq4TZ3n4Ih2pbqFyM2RNxGUadysN7Pn8k-Ic_8t55NJU"/></center>
 <br/>
-　　请注意菜单中的这两项：<q style="background-color:#DDD;">New Identity</q> ＆ <q style="background-color:#DDD;">New Tor Circuit for this Site</q>。这2项有啥差别捏？请看 Tor 官网的帮助页面（链接在“<a href="https://support.torproject.org/tbb/tbb-29/" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　请注意菜单中的这两项：<q style="background-color:#DDD;">New Identity</q> ＆ <q style="background-color:#DDD;">New Tor Circuit for this Site</q>。这2项都可以用来切换 Tor 线路，两者有啥差别捏？请看 Tor 官网的帮助页面（链接在“<a href="https://support.torproject.org/tbb/tbb-29/" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 <h3>◇优点</h3>
 <br/>
@@ -232,7 +232,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 　　很遗憾，这个问题【没有】标准答案——<br/>
 其一，不同的网站，Tor 流量的“国别分布”，可能不同。<br/>
 其二，同一个网站，随着时间推移，其 Tor 流量的“国别分布”也可能发生变化。<br/>
-　　所以，如果你要用这招，只能靠自己慢慢摸索。<br/>
+　　所以，如果你要用这招，只能靠自己慢慢摸索。你可以每次限定一个国家，然后用上几天。逐步观察之后，自然就能感觉出——用哪个国家的“出口节点”访问你常去的网站，碰到“人机验证”的概率比较小。<br/>
 <br/>
 <h3>◇优点</h3>
 <br/>
@@ -371,13 +371,13 @@ Our systems have detected unusual traffic from your computer network. This page 
 　　为了确保“上网流量经过 Tor”，用如下两个方式进行诊断：<br/>
 <br/>
 　　<b>方法1</b><br/>
-　　当你上网时，观察 Tor 的流量变化。对于使用“裸 Tor”的同学，可以通过观察 Arm/Nyx 这两款“Tor 管理界面”。<br/>
+　　当你上网时，观察 Tor 的流量变化。不论是用“裸 Tor”的同学，还是用“Tor Browser”的同学，都可以通过观察 Arm/Nyx 这两款工具，来判断 Tor 流量的变化。<br/>
 　　关于这两款工具，本文前面章节已经说过，此处不再重复。<br/>
 <br/>
 　　<b>方法2</b><br/>
 　　当你配置完“三重代理”之后，并且已经能通过它正常上网。然后你在上网过程中，突然【关掉 Tor 客户端】。如果上网立即中断，就说明你的“三重代理”配置确实是经过了 Tor 客户端；反之，则说明你的配置有误。<br/>
 <br/>
-<h3>◇【后置代理】软件的选择，及注意事项</h3>
+<h3>◇【后置代理】的选择——避免客户端耍流氓</h3>
 <br/>
 　　从前面章节给出的两张示意图可以看出——在“三重代理”的模式下，“后置代理的客户端”可以看到你的【真实上网流量】。<br/>
 　　显然，你要选一款【比较靠谱】的软件作为 Tor 的后置代理，以免该软件在你的系统中耍流氓。这里所说的“耍流氓”包含两层含义——<br/>
@@ -388,6 +388,11 @@ Our systems have detected unusual traffic from your computer network. This page 
 　　如果你使用的“后置代理”存在上述行为，就会导致【Tor 被绕过】——也就是，你的“匿名性防范”出现了漏洞。<br/>
 <br/>
 　　为了彻底杜绝“后置代理”可能存在的“耍流氓行为”，你还需要再搭配“操作系统虚拟机”，以确保——<b>“后置代理”的【所有】流量都经过 Tor 客户端</b>。具体如何做，请看下一个章节——关于【部署方式】的讨论。<br/>
+<br/>
+<h3>◇【后置代理】的选择——避免暴露身份</h3>
+<br/>
+　　说到“避免暴露身份”，俺有必要提醒诸位——<b>【千万不要】用自己购买的 VPS 搭建 Tor 的后置代理</b>。<br/>
+　　道理很简单——如果有人（比如网警）要追溯你的真实身份，通常先从【目标网站】这端开始查起。目标网站会记录【访问者 IP】，对于“三重代理”而言，这个 IP 也就是【后置代理的 IP】。如果你用自己购买的 VPS 搭建“后置代理”，不但会让 Tor 形同虚设，也会加速【身份暴露】。<br/>
 <br/>
 <br/>
 <h2>★“三重代理”的多种【部署方式】——兼谈优缺点对比</h2>
