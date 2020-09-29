@@ -18,7 +18,7 @@
 　　这篇文章发表在美国国防大学（NDU）主办的《棱镜》季刊（2020年第8卷第4期），原文标题是《Perspectives for a China Strategy》，发表时间：2020年6月。官网原始出处在“<a href="https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2217686/perspectives-for-a-china-strategy/" rel="nofollow" target="_blank">这里</a>”。<br/>
 　　中文翻译发表在“<a href="http://comment.cfisnet.com/2020/0722/1320246.html" rel="nofollow" target="_blank">国际网</a>”（此网站隶属于官方的“中国国际问题研究基金会”）。考虑到该网站的官方背景，再放一个互联网档案馆的网页存档（链接在“<a href="https://web.archive.org/web/20200822144016/http://comment.cfisnet.com/2020/0722/1320246.html" rel="nofollow" target="_blank">这里</a>”）。<br/>
 　　本来俺没打算搞“中英双语对照”（那个中文翻译【没】注明英文原始出处）。鉴于上述网站具有【朝廷】背景，俺就多留了个心眼——找到英文原文，并稍微对照了一下。结果在第1段就发现大量的删节。既然如此，俺索性就把【中英文对照】逐段贴出来，并且逐一对比了删节的情况。那些比较短的删节，俺稍微补充了中文翻译；至于【大段的】删节，俺比较懒，就请大伙儿自己去看原文吧（作为本博客的读者，基本的英文阅读能力，应该是有的吧？）<br/>
-　　为了方便大伙对照，那些翻译过程中被删节的英文原文都标注了<u>下划线</u>，俺个人在中译文里面插入的注释及修订，也采用（<u>小括号加下划线</u>）的样式，以示区分。另外，中译文里面的 <b>粗体</b> 也是俺加注滴。<br/>
+　　为了方便大伙对照，那些翻译过程中被删节的英文原文都标注了 <u>下划线</u>，俺个人在中译文里面插入的注释及修订，也采用（<u>小括号加下划线</u>）的样式，以示区分。另外，中译文里面的 <b>粗体</b> 也是俺加注滴。<br/>
 <br/>
 <br/>
 <h2>★中英文对照</h2>
@@ -513,6 +513,7 @@ The more difficult question for an effective national security strategy will be 
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2020/09/weekly-share-148.md">每周转载：半导体行业现状——华为全面断供、中芯前景堪忧、弘芯轰然倒塌（网文14篇）</a>》<br/>
 《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>
 《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>

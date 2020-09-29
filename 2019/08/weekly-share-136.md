@@ -3,7 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-<center><img alt="不见图 请翻墙" src="images/GCHbztAPdyRrzkc5Jtj-y39yP7-qY81hOZ2zNcFZx9Bz6WQ5-tVz6NqokgMNi8a3Xm5Zi-3F8piCE1B_UboUSI4Ia05mdMztGgSq6v0b98ocMIkI6GKvY2W0FCig4ULKDatnuAoVugE"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/GCHbztAPdyRrzkc5Jtj-y39yP7-qY81hOZ2zNcFZx9Bz6WQ5-tVz6NqokgMNi8a3Xm5Zi-3F8piCE1B_UboUSI4Ia05mdMztGgSq6v0b98ocMIkI6GKvY2W0FCig4ULKDatnuAoVugE"/></center>
+<br/>
 　　贸易战大幅度升级，大伙儿应该都知道了吧。<br/>
 　　上次发那篇<a href="../../2019/08/weekly-share-135.md">关于香港反送中的《每周转载》</a>，有读者抱怨说：俺汇总的信息都是片面的。<br/>
 　　俺再次唠叨一下：<br/>
@@ -19,7 +20,8 @@
 　　但令人惊讶的是——只谈了【一天】就结束了（7月30日开始谈，美国谈判代表在31日坐飞机回国）<br/>
 　　坊间议论：<br/>
 美方代表早早就买好回国的机票；7月底的这轮谈判，美国佬只是来走一下过场，表示他们还在谈；但已经做好了贸易战升级的打算。<br/>
-<center><img alt="不见图 请翻墙" src="images/_FuC-_oxH_7JHzmtCa5xWMmND7KwRuhZ4RKi8oyEnX14LNowbnKCagI42CUMorobeDrqgOtPiS7xA0UeYj21jN9YT39c3gKSt5iU1mh39g5syIsG5-FTN36VMQa_pRwfxcW_s5Xr_oE"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/_FuC-_oxH_7JHzmtCa5xWMmND7KwRuhZ4RKi8oyEnX14LNowbnKCagI42CUMorobeDrqgOtPiS7xA0UeYj21jN9YT39c3gKSt5iU1mh39g5syIsG5-FTN36VMQa_pRwfxcW_s5Xr_oE"/></center>
+<br/>
 <h3>◇（8月1日）川普发难——对3000亿美元商品加征关税 10%</h3>
 <br/>
 　　川普首先发难，通过推特宣布——<br/>
@@ -41,21 +43,28 @@
 　　简而言之就是——<br/>
 中国对美出口的【所有商品】全都【追加】5% 的关税。<br/>
 <br/>
-<center><img alt="不见图 请翻墙" src="images/E_YNk52hd7vpzry-NnoxCAWfoCXGmOJengjTM-BEJoDq6zC53b4XG4AzpQO1t-UScqLbYNQ6egZNKd_22sdBbWnTzerDe2k6y-Y9viIhTDGWW6mY9lzHPKMXIosmoG_p_1Qgrc4RLxo"/></center><br/>
-<center><img alt="不见图 请翻墙" src="images/gE95lSeqN4DvdCeamHgzLz2mJTvV2IZt4eVfNthSaLCspoFN61C5rV4NfV4qwLTobPibRjts_4VWjXiYqZoKWTFY_saAuQPAaCeSEYPuBOJL__HhgvWUk_HnFZ9kQL493YL666tDOAw"/></center><br/>
-<center><img alt="不见图 请翻墙" src="images/7FHhNc9dQvHLxXjoJJUwaONzOX2DsRy-pbn_fr0NVG-yY7Az3uiUXQbm0crGmfsDSw8hpfAHJkB_W8N4cA2jpTMI0Q8MoWP4nSpzH1Hz7ifgNm_lSOL6rD4eGGfebawVIleKbf3tpeE"/></center><br/>
-<center><img alt="不见图 请翻墙" src="images/HlyTYvY8Bry2IwcAQcge6fBsjbNQVHB8S9CsYm6so49AlZrai26fIW8qZSHE6U4ugqAqiu7GhRJS_Bv2RjRmBE9MCX0Xb1hJB6MqiMNP_3LvnoCLzrEszStocfIE5kusVR8oaVnNXVw"/></center><br/>
-<center><img alt="不见图 请翻墙" src="images/gVX092pRFf1Ys6BUdVdBAyaJM5SXoKM3T6zC7vLyVyuPCD1I1a2OzOG1L-ZICAZV17pxEvv_S64fX9E4y3Z19NuXZrAtiu_oT6lW95iF1IwrnnrxmgzKAk1fC1ymQkm1f3vj5VOUKS0"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/E_YNk52hd7vpzry-NnoxCAWfoCXGmOJengjTM-BEJoDq6zC53b4XG4AzpQO1t-UScqLbYNQ6egZNKd_22sdBbWnTzerDe2k6y-Y9viIhTDGWW6mY9lzHPKMXIosmoG_p_1Qgrc4RLxo"/></center>
+<br/>
+<center><img alt="不见图 请翻墙" src="images/gE95lSeqN4DvdCeamHgzLz2mJTvV2IZt4eVfNthSaLCspoFN61C5rV4NfV4qwLTobPibRjts_4VWjXiYqZoKWTFY_saAuQPAaCeSEYPuBOJL__HhgvWUk_HnFZ9kQL493YL666tDOAw"/></center>
+<br/>
+<center><img alt="不见图 请翻墙" src="images/7FHhNc9dQvHLxXjoJJUwaONzOX2DsRy-pbn_fr0NVG-yY7Az3uiUXQbm0crGmfsDSw8hpfAHJkB_W8N4cA2jpTMI0Q8MoWP4nSpzH1Hz7ifgNm_lSOL6rD4eGGfebawVIleKbf3tpeE"/></center>
+<br/>
+<center><img alt="不见图 请翻墙" src="images/HlyTYvY8Bry2IwcAQcge6fBsjbNQVHB8S9CsYm6so49AlZrai26fIW8qZSHE6U4ugqAqiu7GhRJS_Bv2RjRmBE9MCX0Xb1hJB6MqiMNP_3LvnoCLzrEszStocfIE5kusVR8oaVnNXVw"/></center>
+<br/>
+<center><img alt="不见图 请翻墙" src="images/gVX092pRFf1Ys6BUdVdBAyaJM5SXoKM3T6zC7vLyVyuPCD1I1a2OzOG1L-ZICAZV17pxEvv_S64fX9E4y3Z19NuXZrAtiu_oT6lW95iF1IwrnnrxmgzKAk1fC1ymQkm1f3vj5VOUKS0"/></center>
+<br/>
 <h3>◇（8月24日）美方再加码后，《新闻联播》8连发</h3>
 <br/>
 　　8月24日晚，新闻联播以13分钟的时长播报了8条中美相关新闻：<br/>
-<blockquote style="background-color:#DDD;">中方对此坚决反对。这种单边、霸凌的贸易保护主义和极限施压行径，违背中美两国元首共识，违背相互尊重、平等互利的原则，严重破坏多边贸易体制和正常国际贸易秩序，必将自食其果。<br/>
+<blockquote>
+　　中方对此坚决反对。这种单边、霸凌的贸易保护主义和极限施压行径，违背中美两国元首共识，违背相互尊重、平等互利的原则，严重破坏多边贸易体制和正常国际贸易秩序，必将自食其果。<br/>
 <br/>
 ......<br/>
 <br/>
-美方一些人动辄挥舞关税大棒，任性实施贸易霸凌，却不许贸易伙伴合理合法地维护自身利益，活生生地我可以施压你，但你不能反制我，这样的逻辑实在荒唐、极其霸道！中方在重大原则问题上绝不让步，对关税施压坚决奉陪到底，美方对此不要再有任何误判！<br/>
+　　美方一些人动辄挥舞关税大棒，任性实施贸易霸凌，却不许贸易伙伴合理合法地维护自身利益，活生生地我可以施压你，但你不能反制我，这样的逻辑实在荒唐、极其霸道！中方在重大原则问题上绝不让步，对关税施压坚决奉陪到底，美方对此不要再有任何误判！<br/>
 <br/>
-......</blockquote>　　在《新闻联播》几十年的历史上，这种超高密度的播报风格，应该是非常罕见滴！从这个细节也可以看出：朝廷高层的心情有多么激动 :)<br/>
+......</blockquote>
+　　在《新闻联播》几十年的历史上，这种超高密度的播报风格，应该是非常罕见滴！从这个细节也可以看出：朝廷高层的心情有多么激动 :)<br/>
 <br/>
 <h3>◇俺的点评</h3>
 <br/>
@@ -66,85 +75,97 @@
 　　<b>关于【中美对抗加剧】</b><br/>
 　　在一年多以前（2018年7月），俺发了一篇《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》，当时俺反复指出：【<b>2018年是历史性分水岭</b>】，很多读者可能不以为然。如今应该相信了吧？<br/>
 　　然后在上个月的博文《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》，俺第 N 次唠叨了——中美贸易战只会加剧，不会缓和。当时那篇博文的原话如下：<br/>
-<blockquote style="background-color:#DDD;">　　实际上【没】这么乐观。<br/>
+<blockquote>
+　　实际上【没】这么乐观。<br/>
 　　为啥不乐观捏？根源在于——中美双方的高层都【不】愿意作出显著让步。<br/>
 　　中国方面，之前已经唱了太多高调，牛皮都吹出去了。作出显著让步，你让朝廷的面子往哪儿搁？而且据（未经证实的）小道消息说，朝廷高层的某些人已经对现有的让步表示不满，认为这是【卖国】。<br/>
-　　美国方面，“反华”（反中）已经成为美国政界的【共识】（关于这点，下面会提到）。川普如果作出显著让步，势必引发【两党】国会议员群起而攻之，并直接影响其2020年连任的胜算。</blockquote><br/>
+　　美国方面，“反华”（反中）已经成为美国政界的【共识】（关于这点，下面会提到）。川普如果作出显著让步，势必引发【两党】国会议员群起而攻之，并直接影响其2020年连任的胜算。</blockquote>
+<br/>
 <br/>
 <h2>★外媒报道</h2>
 <br/>
 <h3>◇《<a href="https://www.dw.com/a-48687577" rel="nofollow" target="_blank">中美贸易战——北京已经无牌可打？ @ 德国之声</a>》</h3>
 <br/>
 （编程随想注：这篇发表于5月初）<br/>
-<blockquote style="background-color:#DDD;">美国已经在周五提高了2000亿美元中国商品的关税，北京扬言要出台的反制措施却依然是个迷。骤然升级的贸易战中，美中双方手里各自还有哪些牌？这场贸易争端，接下来又会呈现怎样的走势？<br/>
+<blockquote>
+　　美国已经在周五提高了2000亿美元中国商品的关税，北京扬言要出台的反制措施却依然是个迷。骤然升级的贸易战中，美中双方手里各自还有哪些牌？这场贸易争端，接下来又会呈现怎样的走势？<br/>
 <br/>
-在中国金融学者贺江兵眼中，北京手里其实已经无牌可打，而美国手中却依然有不少牌。他对德国之声解释说，这主要是因为中国从美国的年进口额只有1300亿美元，出口额却有5000亿美元。“出口额相当于3万多亿人民币，占中国经济总量相当大的比重了。所以贸易战对中国经济的影响非常大。”<br/>
+　　在中国金融学者贺江兵眼中，北京手里其实已经无牌可打，而美国手中却依然有不少牌。他对德国之声解释说，这主要是因为中国从美国的年进口额只有1300亿美元，出口额却有5000亿美元。“出口额相当于3万多亿人民币，占中国经济总量相当大的比重了。所以贸易战对中国经济的影响非常大。”<br/>
 <br/>
-根据中国国家统计局的数据，2018年中国的GDP为90万亿人民币。这意味着，中国对美国的出口贸易，占到了中国经济总量的 3% 左右。<br/>
+　　根据中国国家统计局的数据，2018年中国的GDP为90万亿人民币。这意味着，中国对美国的出口贸易，占到了中国经济总量的 3% 左右。<br/>
 <br/>
-特朗普在本周还表示，美国已经对2000多亿美元中国商品加征了关税；目前还剩价值3250亿元的中国商品尚未被加征关税。美国总统强调，对于这部分在贸易战中尚未受波及的中国商品，他将即刻开始文书作业，着手准备加征 25% 关税。<br/>
+　　特朗普在本周还表示，美国已经对2000多亿美元中国商品加征了关税；目前还剩价值3250亿元的中国商品尚未被加征关税。美国总统强调，对于这部分在贸易战中尚未受波及的中国商品，他将即刻开始文书作业，着手准备加征 25% 关税。<br/>
 <br/>
-而中国方面的报复空间已然不多。根据中国商务部的数据，2018年，中国从美国进口了1551亿美元的商品。贸易战开打至今，中国在历次反制措施中已经对大约1100亿美国商品课征关税。北京如果想对美方此次调高关税再进行报复，选项无外乎对剩余400亿美国商品加征关税、或者调高已有的惩罚关税。<br/>
+　　而中国方面的报复空间已然不多。根据中国商务部的数据，2018年，中国从美国进口了1551亿美元的商品。贸易战开打至今，中国在历次反制措施中已经对大约1100亿美国商品课征关税。北京如果想对美方此次调高关税再进行报复，选项无外乎对剩余400亿美国商品加征关税、或者调高已有的惩罚关税。<br/>
 <br/>
-但是，中国金融学者贺江兵认为，即便这些选项也不是非常可取，因为中国从美国进口的货物，许多都是大宗农产品或者高科技产品等替代余地很小的商品。<br/>
+　　但是，中国金融学者贺江兵认为，即便这些选项也不是非常可取，因为中国从美国进口的货物，许多都是大宗农产品或者高科技产品等替代余地很小的商品。<br/>
 <br/>
-他还认为，中国可以依靠拖时间、让面临大选的特朗普有所忌惮来迫使美方让步的说法也站不住脚。贺江兵指出，即便特朗普下台，“其他人上台可能还要更狠。至于民主党的拜登？他不可能赢的。北京要是寄托这样的希望，那就是在做梦。”</blockquote><br/>
+　　他还认为，中国可以依靠拖时间、让面临大选的特朗普有所忌惮来迫使美方让步的说法也站不住脚。贺江兵指出，即便特朗普下台，“其他人上台可能还要更狠。至于民主党的拜登？他不可能赢的。北京要是寄托这样的希望，那就是在做梦。”</blockquote>
+<br/>
 <h3>◇《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20190824-%E4%B8%AD%E5%9B%BD%E5%8D%87%E7%BA%A7%E8%B4%B8%E6%98%93%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E4%B8%8D%E5%8F%AF%E9%81%8F%EF%BC%8C%E7%A7%B0%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E6%95%8C%E4%BA%BA" rel="nofollow" target="_blank">中国升级贸易战特朗普怒不可遏，称“好朋友”习近平为“敌人” @ RFI/法广</a>》</h3>
 <br/>
-<blockquote style="background-color:#DDD;">美国总统特朗普23日发布推文，首次把习近平公开称为“敌人”。<br/>
+<blockquote>
+　　美国总统特朗普23日发布推文，首次把习近平公开称为“敌人”。<br/>
 <br/>
-特朗普在这篇愤怒的推文中，把习近平与美国联储局主席鲍威尔相提并论，他写道：“我唯一的问题是，谁是我们更大的敌人，鲍威尔还是习主席？”<br/>
+　　特朗普在这篇愤怒的推文中，把习近平与美国联储局主席鲍威尔相提并论，他写道：“我唯一的问题是，谁是我们更大的敌人，鲍威尔还是习主席？”<br/>
 <br/>
-去年12月特朗普曾发推文说：“习主席跟我有非常强大的私人关系。他和我是能在贸易和其他方面，为我们两个伟大国家促成巨大和非常积极改变的仅有的两个人。”<br/>
+　　去年12月特朗普曾发推文说：“习主席跟我有非常强大的私人关系。他和我是能在贸易和其他方面，为我们两个伟大国家促成巨大和非常积极改变的仅有的两个人。”<br/>
 <br/>
-特朗普本月还宣称“习主席是个好人，他是我的朋友”。特朗普还经常刻意声明他不怪习近平造成中美不公平的贸易关系。他上个月说：“我不怪习主席。我怪我们以前的领导人任由这种情况出现。”<br/>
+　　特朗普本月还宣称“习主席是个好人，他是我的朋友”。特朗普还经常刻意声明他不怪习近平造成中美不公平的贸易关系。他上个月说：“我不怪习主席。我怪我们以前的领导人任由这种情况出现。”<br/>
 <br/>
-不过，特朗普上个月开始淡化他与习近平的交情。他说：“我们现在可能不那么亲近。不过为了国家我必须跟他打交道。”<br/>
+　　不过，特朗普上个月开始淡化他与习近平的交情。他说：“我们现在可能不那么亲近。不过为了国家我必须跟他打交道。”<br/>
 <br/>
-在过去，不管美中贸易战怎样激烈，特朗普在口中仍然称中国国家主席习近平为“好朋友”，赞扬他的领导，甚至没有太大批评习近平如何处理香港的示威活动。然而23日猛烈抨击习近平是“敌人”，有分析认为，这可能是他对中国宣布加征750亿美国商品关税，主动将两国贸易战升级表达愤怒。<br/>
+　　在过去，不管美中贸易战怎样激烈，特朗普在口中仍然称中国国家主席习近平为“好朋友”，赞扬他的领导，甚至没有太大批评习近平如何处理香港的示威活动。然而23日猛烈抨击习近平是“敌人”，有分析认为，这可能是他对中国宣布加征750亿美国商品关税，主动将两国贸易战升级表达愤怒。<br/>
 <br/>
-特朗23日在连串推文中还指示美国公司放弃中国，声称美国在不与世界第二大经济体打交道下会好得多。<br/>
+　　特朗23日在连串推文中还指示美国公司放弃中国，声称美国在不与世界第二大经济体打交道下会好得多。<br/>
 <br/>
-白宫官员拒绝媒体的要求作出详细说明，只表示总统及其顾问幕僚愈来愈相信，美中要达成贸易协议几乎没有希望。<br/>
+　　白宫官员拒绝媒体的要求作出详细说明，只表示总统及其顾问幕僚愈来愈相信，美中要达成贸易协议几乎没有希望。<br/>
 <br/>
-......</blockquote><br/>
+......</blockquote>
+<br/>
 <h3>◇《<a href="https://cn.nytimes.com/business/20190801/trump-trade-war-vietnam/" rel="nofollow" target="_blank">中国制造？你的下一部 iPhone 可能是越南制造 @ 纽约时报</a>》</h3>
 <br/>
 （编程随想注：这篇发布于8月初）<br/>
-<blockquote style="background-color:#DDD;">说到在特朗普总统与中国的贸易战中获利，全球没有哪个国家比得上越南。在美国关税使企业纷纷重新考虑是否要在中国生产之际，这个国家的工厂订单随之增长。如今，更多大型科技公司寻求增加在越南的制造业务，让一个正顺利成为智能手机及其他高端设备制造国的国家产生了更远大的抱负。<br/>
+<blockquote>
+　　说到在特朗普总统与中国的贸易战中获利，全球没有哪个国家比得上越南。在美国关税使企业纷纷重新考虑是否要在中国生产之际，这个国家的工厂订单随之增长。如今，更多大型科技公司寻求增加在越南的制造业务，让一个正顺利成为智能手机及其他高端设备制造国的国家产生了更远大的抱负。<br/>
 <br/>
-不过首先，越南得在制造装无线耳塞的小塑料盒方面做得更好。武友胜（Vu Huu Thang，音）的公司北越技术（Bac Viet Technology）位于北部城市北宁，为佳能打印机、科音（Korg）乐器、三星手机和耳塞手机配件生产小塑料零件。他说，只要他还是每个月必须购买70至100吨主要在中国生产的进口塑料，他的公司就很难同中国供应商竞争。“越南没法和中国比，”武友胜说。“我们买来材料，已经比中国贵了 5% 到 10%。”他说，越南市场也太小，不足以吸引塑料制造商在这里办厂。<br/>
+　　不过首先，越南得在制造装无线耳塞的小塑料盒方面做得更好。武友胜（Vu Huu Thang，音）的公司北越技术（Bac Viet Technology）位于北部城市北宁，为佳能打印机、科音（Korg）乐器、三星手机和耳塞手机配件生产小塑料零件。他说，只要他还是每个月必须购买70至100吨主要在中国生产的进口塑料，他的公司就很难同中国供应商竞争。“越南没法和中国比，”武友胜说。“我们买来材料，已经比中国贵了 5% 到 10%。”他说，越南市场也太小，不足以吸引塑料制造商在这里办厂。<br/>
 <br/>
 ......<br/>
 <br/>
-苹果在加紧寻找实现供应链多元化的途径，已把努力的目标设在越南和印度。供应链研究公司磐聚网（Panjiva）表示，任天堂（Nintendo）加快了将 Switch 游戏机的生产从中国转移至越南的步伐。iPhone 的主要组装公司、台湾电子设备巨头富士康1月份表示，已在越南收购土地使用权，并向一家印度子公司投资2亿美元。苹果公司的其他台湾和中国合作伙伴也已表示，在考虑扩大越南的业务规模。<br/>
+　　苹果在加紧寻找实现供应链多元化的途径，已把努力的目标设在越南和印度。供应链研究公司磐聚网（Panjiva）表示，任天堂（Nintendo）加快了将 Switch 游戏机的生产从中国转移至越南的步伐。iPhone 的主要组装公司、台湾电子设备巨头富士康1月份表示，已在越南收购土地使用权，并向一家印度子公司投资2亿美元。苹果公司的其他台湾和中国合作伙伴也已表示，在考虑扩大越南的业务规模。<br/>
 <br/>
-即便如此，这个拥有1亿人口的国家并不会在一夜之间取代中国的制造业中心地位。这里的土地可能会很贵，也缺少现成的工厂和仓库。能否招到足够多训练有素的工人和管理人员是另一项潜在的挑战。<br/>
-“这肯定会让越南的承载能力吃紧，”贝克麦坚时律师事务所（Baker McKenzie）驻胡志明市常务董事弗雷德里克·R·伯克（Frederick R. Burke）说。他还说，尽管这个国家的劳动力在以每年100万人的速度增长，“人们已经在谈论劳动力短缺问题了。”<br/>
+　　即便如此，这个拥有1亿人口的国家并不会在一夜之间取代中国的制造业中心地位。这里的土地可能会很贵，也缺少现成的工厂和仓库。能否招到足够多训练有素的工人和管理人员是另一项潜在的挑战。<br/>
+　　“这肯定会让越南的承载能力吃紧，”贝克麦坚时律师事务所（Baker McKenzie）驻胡志明市常务董事弗雷德里克·R·伯克（Frederick R. Burke）说。他还说，尽管这个国家的劳动力在以每年100万人的速度增长，“人们已经在谈论劳动力短缺问题了。”<br/>
 <br/>
-......</blockquote><br/>
+......</blockquote>
+<br/>
 <h3>◇《<a href="https://www.bbc.com/zhongwen/simp/business-49160537" rel="nofollow" target="_blank">中美贸易战，谈判停滞的三个月都发生了什么？ @ BBC/英国广播公司</a>》</h3>
 <br/>
 （编程随想注：这篇发布于7月底）<br/>
-<blockquote style="background-color:#DDD;">随着美国大选临近，中国议题再次被特朗普用作武器，但分析人士称，贸易战既可以成为特朗普赢得大选的决胜筹码，也可能演化成他的弱点，关键取决于贸易协议达成的时机和力度。<br/>
+<blockquote>
+　　随着美国大选临近，中国议题再次被特朗普用作武器，但分析人士称，贸易战既可以成为特朗普赢得大选的决胜筹码，也可能演化成他的弱点，关键取决于贸易协议达成的时机和力度。<br/>
 <br/>
-三位要求匿名的消息人士对路透社称，上周一个美国企业高管代表团前往北京，向中国官员强调达成贸易协议的紧迫性。他们在会谈时提醒中方官员，如果未来几个月不能达成协议，中国的政治日程和即将到来的美国总统选举将导致达成协议的难度极大。<br/>
+　　三位要求匿名的消息人士对路透社称，上周一个美国企业高管代表团前往北京，向中国官员强调达成贸易协议的紧迫性。他们在会谈时提醒中方官员，如果未来几个月不能达成协议，中国的政治日程和即将到来的美国总统选举将导致达成协议的难度极大。<br/>
 <br/>
-“达成协议。这会成为一句口号，但过了12月31号，就无法再达成协议了，”一位美国高管对路透称，指的是美国2020年选战。其他人则认为时间表会更短。<br/>
+　　“达成协议。这会成为一句口号，但过了12月31号，就无法再达成协议了，”一位美国高管对路透称，指的是美国2020年选战。其他人则认为时间表会更短。<br/>
 <br/>
-不过，中国仍然要求关税必须全部取消，而美国则认为维持关税威胁是保证协议落实的筹码。美方谈判人员曾要求中国修改法律以确保美企的技术得到保护，但中国严词拒绝了美方的这项要求。<br/>
+　　不过，中国仍然要求关税必须全部取消，而美国则认为维持关税威胁是保证协议落实的筹码。美方谈判人员曾要求中国修改法律以确保美企的技术得到保护，但中国严词拒绝了美方的这项要求。<br/>
 <br/>
-对此，路透社分析，这些谈判条款具有独特之处：传统贸易协议目的是降低签署国之间的贸易壁垒，协议是基于双方遵守协议条款的设想；而当前中美贸易谈判的目的是迫使中国改变在知识产权、补贴等方面的行为，协议的逻辑不同以往，更类似于美国对外国实体实施的金融制裁——只有其他国家做出了美方想要的改变时，这种制裁才会解除。</blockquote><br/>
+　　对此，路透社分析，这些谈判条款具有独特之处：传统贸易协议目的是降低签署国之间的贸易壁垒，协议是基于双方遵守协议条款的设想；而当前中美贸易谈判的目的是迫使中国改变在知识产权、补贴等方面的行为，协议的逻辑不同以往，更类似于美国对外国实体实施的金融制裁——只有其他国家做出了美方想要的改变时，这种制裁才会解除。</blockquote>
+<br/>
 <h3>◇《<a href="https://cn.wsj.com/articles/美国财政部成贸易战受益者，一年征得630亿美元关税-11565228703" rel="nofollow" target="_blank">美财政部成贸易战受益者，一年征得630亿美元关税 @ WSJ/华尔街日报</a>》</h3>
 <br/>
 （编程随想注：这篇发布于8月初）<br/>
-<blockquote style="background-color:#DDD;">美国总统特朗普（Donald Trump）批准的关税行动激怒了北京并导致美中贸易战升级，但此事至少有一个受益者：美国财政部。根据美国财政部的最新数据，截至6月30日，美国政府在过去12个月征收了630亿美元关税。更重要的是，关税收入正在上升。<br/>
+<blockquote>
+　　美国总统特朗普（Donald Trump）批准的关税行动激怒了北京并导致美中贸易战升级，但此事至少有一个受益者：美国财政部。根据美国财政部的最新数据，截至6月30日，美国政府在过去12个月征收了630亿美元关税。更重要的是，关税收入正在上升。<br/>
 <br/>
-在特朗普决定将2,000亿美元中国商品的关税从 10% 提高到 25% 之后，美国6月份征收了60亿美元关税，高于5月份的53亿美元和4月份的48亿美元。该关税措施于5月开始逐渐生效，取决于商品在中国离港的时间。<br/>
+　　在特朗普决定将2,000亿美元中国商品的关税从 10% 提高到 25% 之后，美国6月份征收了60亿美元关税，高于5月份的53亿美元和4月份的48亿美元。该关税措施于5月开始逐渐生效，取决于商品在中国离港的时间。<br/>
 <br/>
-美国目前有望每年征收720亿美元关税，如果对3,000亿美元免税进口商品征收 10% 新关税的计划自9月1日生效，则美国征收的关税很可能会达到特朗普宣称的1,000亿美元目标。<br/>
+　　美国目前有望每年征收720亿美元关税，如果对3,000亿美元免税进口商品征收 10% 新关税的计划自9月1日生效，则美国征收的关税很可能会达到特朗普宣称的1,000亿美元目标。<br/>
 <br/>
-......</blockquote><br/>
+......</blockquote>
+<br/>
 <br/>
 <h2>★网友评论：贸易战对天朝的影响</h2>
 <br/>
@@ -194,7 +215,9 @@ EdwinChrist：<br/>
 抗两百斤麦子走十里路的维尼：<br/>
 （Replying to LIFETIME 視界）<br/>
 这还打你妈逼啊 直接跪地求饶得了<br/>
-<center><img alt="不见图 请翻墙" src="images/tyi1QG-rSUyBu7Z2oPH3KY_4ig3Ohm4L8a38gEnOwK4ZTdjhOl5c4jLa9GfBU0FwvQpY98vXBLbSG9paRIYrd5JpT_XC11hNceO8hyVNlHVaRqLjo5o-cQlky5rtX4Aot06nrT0O4wg"/></center><center><img alt="不见图 请翻墙" src="images/AwlkIS5E1Wxy2uJrYDj-bmzGzp0tOhmvPr-VoYWfeLdZZxDGdBgDCLTmZdqqQGLncKVnCw_jJ8GPdY1qNPld5ex68r5fW13ve1WDkCfqGdxnijCMT7HQjYt_EwEcrIGM-U3FqHjeAec"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/tyi1QG-rSUyBu7Z2oPH3KY_4ig3Ohm4L8a38gEnOwK4ZTdjhOl5c4jLa9GfBU0FwvQpY98vXBLbSG9paRIYrd5JpT_XC11hNceO8hyVNlHVaRqLjo5o-cQlky5rtX4Aot06nrT0O4wg"/></center>
+<center><img alt="不见图 请翻墙" src="images/AwlkIS5E1Wxy2uJrYDj-bmzGzp0tOhmvPr-VoYWfeLdZZxDGdBgDCLTmZdqqQGLncKVnCw_jJ8GPdY1qNPld5ex68r5fW13ve1WDkCfqGdxnijCMT7HQjYt_EwEcrIGM-U3FqHjeAec"/></center>
+<br/>
 <br/>
 秦鹏：<br/>
 【美国关税到底谁来承担？】<br/>
@@ -202,7 +225,8 @@ EdwinChrist：<br/>
 注意：<br/>
 1、是通知，不是协商；<br/>
 2、这个比例和欧盟去年年底的研究报告称：25% 关税将由美国承担 5%，中国承担 20% 相符。<br/>
-<center><img alt="不见图 请翻墙" src="images/q550T3E96JNbfWPLHZwgFjInpmTxQ6wr2V9Ia6vCD79DSwK5c7jFg744bXLLhVN1yUkB2gZpr5A2yirW38gbS0S0AF0vjva2wuOBXpCmf67mIMPvSyDia0D2BHITLfwA7q1ra9gzUdA"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/q550T3E96JNbfWPLHZwgFjInpmTxQ6wr2V9Ia6vCD79DSwK5c7jFg744bXLLhVN1yUkB2gZpr5A2yirW38gbS0S0AF0vjva2wuOBXpCmf67mIMPvSyDia0D2BHITLfwA7q1ra9gzUdA"/></center>
+<br/>
 <br/>
 跃千愁：<br/>
 （Replying to 秦鹏）<br/>
@@ -242,7 +266,8 @@ greenpeace：<br/>
 <br/>
 曹山石：<br/>
 裁员、外迁…贸易战下东莞部分典型企业真实信息概况。<br/>
-<center><img alt="不见图 请翻墙" src="images/UkvEGXasQtscWkVhiLcmXaRuKcPvNLWgL-UHy-os2MsxtCGZomyoteGKCEHUJNvTXRPqhbwSz3tA07ZbnD1HLE8AWC-Is88Y3brRsq51l0hxzYDZjgQk7tKHbJl3t_tnlHdnvU_eAGU"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/UkvEGXasQtscWkVhiLcmXaRuKcPvNLWgL-UHy-os2MsxtCGZomyoteGKCEHUJNvTXRPqhbwSz3tA07ZbnD1HLE8AWC-Is88Y3brRsq51l0hxzYDZjgQk7tKHbJl3t_tnlHdnvU_eAGU"/></center>
+<br/>
 <br/>
 Byron：<br/>
 （Replying to 曹山石）<br/>
@@ -267,14 +292,15 @@ chen：<br/>
 如图可见，增加关税后，有3到5个月的缓冲期，然后断崖式下跌。<br/>
 预计3000亿的断崖式下跌，也是年末。<br/>
 断崖不管是中美，都集中在12月到1月，说明新一年合同不再续约。<br/>
-<center><img alt="不见图 请翻墙" src="images/twFNFbD7sDx-GIsz3hkK9FZddKrq2GFFCD4DLxt4zriW0XmYWY7vXUY-k7taVbCkrcmbqoky20aRWAeWOQub3guAL6Hxtk8DcGEd_uQBUlXZxVAVTlMYW7zL-c5BAZHahpIdo2Ad4AY"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/twFNFbD7sDx-GIsz3hkK9FZddKrq2GFFCD4DLxt4zriW0XmYWY7vXUY-k7taVbCkrcmbqoky20aRWAeWOQub3guAL6Hxtk8DcGEd_uQBUlXZxVAVTlMYW7zL-c5BAZHahpIdo2Ad4AY"/></center>
 <br/>
 <br/>
 <h2>★网友评论：吐槽真理部的忽悠</h2>
 <br/>
 国是直通车：<br/>
 【专家：贸易战已经到了中国最舒服的阶段】<br/>
-<center><img alt="不见图 请翻墙" src="images/EmeYempdaX0gWUw59eHxNjsTohxKOvBtB54bNOTTq-k7N8gJTmO3BNTkWP7krlSjJgMMxhFJrFUghK7rKlHfPXGCs4ZJdlrQFxVBAWr_gP1rKrSveQj_R83b4ALC0aZ4tDvcyT0mxws"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/EmeYempdaX0gWUw59eHxNjsTohxKOvBtB54bNOTTq-k7N8gJTmO3BNTkWP7krlSjJgMMxhFJrFUghK7rKlHfPXGCs4ZJdlrQFxVBAWr_gP1rKrSveQj_R83b4ALC0aZ4tDvcyT0mxws"/></center>
+<br/>
 <br/>
 （编程随想注：商务部的这个研究所所长，要么是传说中的【高级黑】，要么是传说中的【猪队友】。<br/>
 俗话说【不怕神一样的对手，就怕猪一样的队友】）<br/>
@@ -292,7 +318,8 @@ David Ng：<br/>
 不可能不确定：<br/>
 （Replying to 月光博客）<br/>
 果然。<br/>
-<center><img alt="不见图 请翻墙" src="images/vXjd1CR9gxyWpjKwy9Hv2qKouhY4nsmNdYwMFDeuJ952UlNmPWnn2PRPSNz3jpkQI7Sbk-siB9d91UFfNSD7hAfVyk6-32dIoQJ77HDxoLu4mmIzr3tb1S0exrmjAr_NabjekAyFSJg"/></center>（编程随想注：上述截图中硕果仅存的“中时”，是位于【台湾】的“中国时报”，所以躲过了真理部的【全网删除】）<br/>
+<center><img alt="不见图 请翻墙" src="images/vXjd1CR9gxyWpjKwy9Hv2qKouhY4nsmNdYwMFDeuJ952UlNmPWnn2PRPSNz3jpkQI7Sbk-siB9d91UFfNSD7hAfVyk6-32dIoQJ77HDxoLu4mmIzr3tb1S0exrmjAr_NabjekAyFSJg"/></center>
+（编程随想注：上述截图中硕果仅存的“中时”，是位于【台湾】的“中国时报”，所以躲过了真理部的【全网删除】）<br/>
 <br/>
 谭缘：<br/>
 （Replying to 月光博客）<br/>
@@ -331,7 +358,8 @@ Gray Woo：<br/>
 （Replying to 月光博客）<br/>
 今天开盘，舒服的很<br/>
 股民在说“我信你个鬼”<br/>
-<center><img alt="不见图 请翻墙" src="images/GXr_N7tA7ocHHnttcNdXK6ahcjle3ybtSVMeSOitwTCz8oFCO-ZwJSgB03oVxCzT50RUkNJPehwIENjhMzfcCb65HvsPEaC5lz-UtY8WJPsaNqpYykEe78jUqWCsmDMUmcAd8zQGBTs"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/GXr_N7tA7ocHHnttcNdXK6ahcjle3ybtSVMeSOitwTCz8oFCO-ZwJSgB03oVxCzT50RUkNJPehwIENjhMzfcCb65HvsPEaC5lz-UtY8WJPsaNqpYykEe78jUqWCsmDMUmcAd8zQGBTs"/></center>
+<br/>
 <br/>
 Parrot™：<br/>
 （Replying to 月光博客）<br/>
@@ -347,14 +375,17 @@ Aaron Cai：<br/>
 <br/>
 <br/>
 胡锡进：<br/>
-<center><img alt="不见图 请翻墙" src="images/CzmxZ8ZxsXmUu7wbKG_pMGuAI4Q8EZZuj_nfYuCVhhXCVbSFTiESCDCrhCyDq_lIHshtVr9YIkyuUIc3Lg2mtDEY7sdGOc7QpGiAWs4ta08y2zmqgj-Ebw94FlsWp_WTOr0RcXsw5dM"/></center>（编程随想注：上述这位就是臭名昭著的《环球时报》主编，人称“胡编”。网友经常戏称：“胡编又在胡编了”）<br/>
+<center><img alt="不见图 请翻墙" src="images/CzmxZ8ZxsXmUu7wbKG_pMGuAI4Q8EZZuj_nfYuCVhhXCVbSFTiESCDCrhCyDq_lIHshtVr9YIkyuUIc3Lg2mtDEY7sdGOc7QpGiAWs4ta08y2zmqgj-Ebw94FlsWp_WTOr0RcXsw5dM"/></center>
+（编程随想注：上述这位就是臭名昭著的《环球时报》主编，人称“胡编”。网友经常戏称：“胡编又在胡编了”）<br/>
 <br/>
 Claire的小小小号：<br/>
 （Replying to 胡锡进）<br/>
 胡是高级黑吗？完全说反了啊！还是说他觉得不需要讲道理，谎言重复一千遍就成了真理了吗？<br/>
 【上海猪肉价格参考】<br/>
-<center><img alt="不见图 请翻墙" src="images/R7swCOCTd-c4boHntN9YvxWWIvjWAhvPhlG6rfokTfDFgxlaP5t2MeUo8WMLeEZT2ugHn37ebtlY6x6C1E2l4xqjKm3js0OnBLkz8CqzL6mwiviygT8se0X5vKZtLJJhLLUt8fmqteY"/></center>【福建省莆田市荔城区启动农副产品平价商店销售政策：自9月6日起，每公斤猪肉补贴4元，凭身份证每人限购2公斤】<br/>
-<center><img alt="不见图 请翻墙" src="images/sCZ9d8yiD_ARHK9wtfWysnAKLqkF9iTubCUax--sdbV5rvFXFVvm04WUgGIbeSkQN5G3conzGoi9DdOdsys83AO5uQDdBqgNriq8g9Pow1C3EHMK3WGWlg9rlEez362tBTwylRpV2TY"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/R7swCOCTd-c4boHntN9YvxWWIvjWAhvPhlG6rfokTfDFgxlaP5t2MeUo8WMLeEZT2ugHn37ebtlY6x6C1E2l4xqjKm3js0OnBLkz8CqzL6mwiviygT8se0X5vKZtLJJhLLUt8fmqteY"/></center>
+【福建省莆田市荔城区启动农副产品平价商店销售政策：自9月6日起，每公斤猪肉补贴4元，凭身份证每人限购2公斤】<br/>
+<center><img alt="不见图 请翻墙" src="images/sCZ9d8yiD_ARHK9wtfWysnAKLqkF9iTubCUax--sdbV5rvFXFVvm04WUgGIbeSkQN5G3conzGoi9DdOdsys83AO5uQDdBqgNriq8g9Pow1C3EHMK3WGWlg9rlEez362tBTwylRpV2TY"/></center>
+<br/>
 <br/>
 <h2>★网友评论：特没谱</h2>
 <br/>
@@ -376,7 +407,9 @@ Kevin在纽约：<br/>
 川普新增加关税推特发布的时间点太微妙了，选在全球外汇市场收盘五分钟后（大部分外汇交易商已经停止报价）。<br/>
 也就是说，新的增加关税消息并未被国际金融市场计价，周一离岸人民币汇率将会再度大幅跳空贬值；<br/>
 川普推特发布后半小时内人民币计价的比特币冲高1000元，从这里可以看出新增关税的重大冲击！<br/>
-<center><img alt="不见图 请翻墙" src="images/mZmU3xRXEgRQjg5-b0KZj2_teQVKXTzTYyw7wKv2IZjzIRmCkZpoYjHjA-YHN2as47SpPpKoyEjc0W7h6Z-LsKZrZminmwguxx86QkOxs1N2Y6uG49fvYyAxur56ADrWiR6HQrXxWwc"/></center><center><img alt="不见图 请翻墙" src="images/fC4eNAFkCBv0n7pZv6uUElaVwCXFDuhqIpMrEwdoNeJiGutE00lVpiGDqZ7NwrN5KyhdwCsAzkvEjSqM3b3x_HwS9Exnv5QIWkx_dmnQLVgPilAlg-fqCALPSJSRDwPg9HMe1X2om30"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/mZmU3xRXEgRQjg5-b0KZj2_teQVKXTzTYyw7wKv2IZjzIRmCkZpoYjHjA-YHN2as47SpPpKoyEjc0W7h6Z-LsKZrZminmwguxx86QkOxs1N2Y6uG49fvYyAxur56ADrWiR6HQrXxWwc"/></center>
+<center><img alt="不见图 请翻墙" src="images/fC4eNAFkCBv0n7pZv6uUElaVwCXFDuhqIpMrEwdoNeJiGutE00lVpiGDqZ7NwrN5KyhdwCsAzkvEjSqM3b3x_HwS9Exnv5QIWkx_dmnQLVgPilAlg-fqCALPSJSRDwPg9HMe1X2om30"/></center>
+<br/>
 <br/>
 一米阳光：<br/>
 川普今早发推已经把话讲白了--<br/>
@@ -431,7 +464,8 @@ xi是领导一切的！<br/>
 摄影与诗歌：<br/>
 （Replying to LIFETIME 視界）<br/>
 习身边估计都是像这种酒囊饭袋<br/>
-<center><img alt="不见图 请翻墙" src="images/Lk2cQE9r5xQ83a0ws0DZmIudyExUtE0Q_TM0SlH4TUhgobrdGbAaRqREGNOuOnYt3loAbutz2NjzkxWI_LitxquSa9u8_qSErqiiP00QtFrdobw_PNTB_WZr-f3hr2T8c_pT6_1FRe0"/></center>（编程随想注：上述截图的这个“戴旭”是天朝的又一个奇葩。<br/>
+<center><img alt="不见图 请翻墙" src="images/Lk2cQE9r5xQ83a0ws0DZmIudyExUtE0Q_TM0SlH4TUhgobrdGbAaRqREGNOuOnYt3loAbutz2NjzkxWI_LitxquSa9u8_qSErqiiP00QtFrdobw_PNTB_WZr-f3hr2T8c_pT6_1FRe0"/></center>
+（编程随想注：上述截图的这个“戴旭”是天朝的又一个奇葩。<br/>
 这种水平的傻逼，竟然能坐到【国防大学战略研究所副所长】的位子；天朝党卫军的战斗力，可想而知）<br/>
 <br/>
 羽扇：<br/>
@@ -504,14 +538,16 @@ Rock Li：<br/>
 ninaxie👊👊👊：<br/>
 宽衣撸袖往死咗，煞费苦心学毛薄，<br/>
 东施效颦四不像，山寨出个习特勒！<br/>
-<center><img alt="不见图 请翻墙" src="images/LkJXtFU4lRmFCpyxblSyTP_G3DWHBixD9JDFk5VRqDAqIBWF8XPhEpJ1FN18oZLgvzONXJmc5l9xd-ulflBJt9ef521cNZWQXLgaqKe81ZCLW_HqhJ89rqMDXztN2RUgolK9Z6tRhC0"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/LkJXtFU4lRmFCpyxblSyTP_G3DWHBixD9JDFk5VRqDAqIBWF8XPhEpJ1FN18oZLgvzONXJmc5l9xd-ulflBJt9ef521cNZWQXLgaqKe81ZCLW_HqhJ89rqMDXztN2RUgolK9Z6tRhC0"/></center>
+<br/>
 <br/>
 <h2>★网友评论：天朝现状</h2>
 <br/>
 抗两百斤麦子走十里路的维尼：<br/>
 【我们的贫富差距】<br/>
 前 5% 人均存款47.2万，后面 40% 的人均存款为0，中间 55% 的人均存款4.2万<br/>
-<center><img alt="不见图 请翻墙" src="images/-rI4RoJ1DAI4C7udmO8PjUfkUxA_k1zOjHcoIDumEjZ8Y2BNqB32ml1383NwFQbRwGsQfAZ3Nuf3t1JfZ9wKOaoqFWGwnkAXp8Ox6xxrszHceJtcuFQawOIRcvU_hEn4CJm1yR0IKjA"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/-rI4RoJ1DAI4C7udmO8PjUfkUxA_k1zOjHcoIDumEjZ8Y2BNqB32ml1383NwFQbRwGsQfAZ3Nuf3t1JfZ9wKOaoqFWGwnkAXp8Ox6xxrszHceJtcuFQawOIRcvU_hEn4CJm1yR0IKjA"/></center>
+<br/>
 <br/>
 抗两百斤麦子走十里路的维尼：<br/>
 【中国特色式脱贫】<br/>
@@ -519,7 +555,8 @@ ninaxie👊👊👊：<br/>
 2019年中国官方神奇的宣布基本基本消灭了贫困。<br/>
 是怎么做到的呢？<br/>
 因为中国的贫困人口采用的不是联合国的标准，而采用十年前的”日收入“6元即算脱贫，而联合国的标准是”日消费”低于1.9美元以下。<br/>
-<center><img alt="不见图 请翻墙" src="images/GZGev8VpQ7TukBCPWdg-mhScK7yUqwt3tq2xe-w89T_-gND_PowuvoJA3SHGBxguhXzvfTVoW1t5xeRekDRt2Bm8C7vKS9YcI-6-v1OTVFX5J_sPcBEagb-HbZg44GP4xPJvZIxa9W0"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/GZGev8VpQ7TukBCPWdg-mhScK7yUqwt3tq2xe-w89T_-gND_PowuvoJA3SHGBxguhXzvfTVoW1t5xeRekDRt2Bm8C7vKS9YcI-6-v1OTVFX5J_sPcBEagb-HbZg44GP4xPJvZIxa9W0"/></center>
+<br/>
 <br/>
 Syymuhuo：<br/>
 现在自来水，油价，电价都含有教育基金和三峡水利建设基金。<br/>
@@ -527,7 +564,8 @@ Syymuhuo：<br/>
 我日你八辈祖宗，马列主义……ccp，<br/>
 计划生育政策杀死近三亿多人！历史的灾难，人类的灾难，世界的灾难……<br/>
 ccp不倒，天理不容！<br/>
-<center><img alt="不见图 请翻墙" src="images/uRrS-oxJV9ZXZL3rG_N_mYDs4cGOUT5hHLl76FsFCAAXDBD3A3_NkW1m8wgG1JUqnRaCxnGieyrU_DupvTHiYB59f906eqR0bN4cRsGgVEwU3DWY9PCyVraFuCfRJRo3BI7GzihB1O4"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/uRrS-oxJV9ZXZL3rG_N_mYDs4cGOUT5hHLl76FsFCAAXDBD3A3_NkW1m8wgG1JUqnRaCxnGieyrU_DupvTHiYB59f906eqR0bN4cRsGgVEwU3DWY9PCyVraFuCfRJRo3BI7GzihB1O4"/></center>
+<br/>
 <br/>
 李 庆：<br/>
 如果一个被称为勤劳的“优秀民族”一年到头辛勤工作，还是看不起病、养不起老、上不起学、买不起房 ......<br/>
@@ -538,6 +576,7 @@ ccp不倒，天理不容！<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
+《<a href="../../2020/09/weekly-share-148.md">每周转载：半导体行业现状——华为全面断供、中芯前景堪忧、弘芯轰然倒塌（网文14篇）</a>》<br/>
 《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>
 《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》<br/>
