@@ -7,34 +7,40 @@
 <a name="more"></a><br/>
 <br/>
 先贴出张校长的尊容：<br/>
-<center><img alt="不见图 请翻墙" src="images/_Vf9SmJRJplp03eWtr9GpL2_A8lNxpweXl72HH0J8ACJpkC1a2nQUTVDcRX4XQW9ZgSb46NHHFQoOssNKfzYG5LXNPEgNLbXPKXD8EIAlOpa3B0K5EjwAp-o_XqoATBO3HvHEQ"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/_Vf9SmJRJplp03eWtr9GpL2_A8lNxpweXl72HH0J8ACJpkC1a2nQUTVDcRX4XQW9ZgSb46NHHFQoOssNKfzYG5LXNPEgNLbXPKXD8EIAlOpa3B0K5EjwAp-o_XqoATBO3HvHEQ"/></center>
+<br/>
 下面是他担任校长的中南大学对其吹捧的微博——号称是【习BB背后的男人】<br/>
 （看到这个称号，淫荡的同学别想歪了）<br/>
-<center><img alt="不见图 请翻墙" src="images/4KnspXgjyWQw0rLjDf6khe5HPb1j4bScQsPiPL7NGXKLmubgzDnrlK-ny8ojHYEnIkIFPyu6OKIWx0aakgEn_ZGmYaPayCdkM49qIK3fsfgMyeVGIHlYLDtH7fheGCWD70uVVQ"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/4KnspXgjyWQw0rLjDf6khe5HPb1j4bScQsPiPL7NGXKLmubgzDnrlK-ny8ojHYEnIkIFPyu6OKIWx0aakgEn_ZGmYaPayCdkM49qIK3fsfgMyeVGIHlYLDtH7fheGCWD70uVVQ"/></center>
 <br/>
-<h2>★“透明计算”到底是啥玩意儿？</h2><br/>
-<a href="http://www.solidot.org/story?sid=42630" rel="nofollow" target="_blank">透明计算是什么 @ Solidot</a><br/>
-<blockquote>（编程随想注：以下是该报道的部分摘录）<br/>
+<br/>
+<h2>★“透明计算”到底是啥玩意儿？</h2>
+<br/>
+《<a href="http://www.solidot.org/story?sid=42630" rel="nofollow" target="_blank">透明计算是什么 @ Solidot</a>》（<a href="https://web.archive.org/web/20150115062425/http://www.solidot.org/story?sid=42630" rel="nofollow" target="_blank">网页存档</a>）<br/>
+<blockquote>
+（编程随想注：以下是该报道的部分摘录）<br/>
 透明计算是什么？根据中南大学新闻稿的<a href="http://news.its.csu.edu.cn/readnewsarticle?atcid=20150109231256414" rel="nofollow" target="_blank">描述</a>，这不就是云计算吗？<br/>
-新闻稿称：“张尧学团队设计出了全新概念的超级操作系统（或叫TransOS）——允许Unix、Linux以及Windows等操作系统共存在一个终端。”<br/>
-今天的亚马逊微软Google的云计算服务平台不都提供了类似的功能？<br/>
+新闻稿称：“张尧学团队设计出了全新概念的超级操作系统（或叫 TransOS）——允许 Unix、Linux 以及 Windows 等操作系统共存在一个终端。”<br/>
+今天的亚马逊、微软 Google 的云计算服务平台不都提供了类似的功能？<br/>
 新闻稿称，张尧学从1990年代开始构思透明计算。<br/>
 查一下维基百科，早在1950年代云计算的概念就已经在大型机上诞生了。<br/>
-“透明计算”这一并不新颖的概念获得国家自然科学奖一等奖已经引起了许多争议。</blockquote><br/>
-<a href="http://www.xys.org/xys/ebooks/others/science/dajia16/zhangyaoxue9.txt" rel="nofollow" target="_blank">透明计算的前世今生——缘起 @ 新语丝</a><br/>
+“透明计算”这一并不新颖的概念获得国家自然科学奖一等奖，已经引起了许多争议。</blockquote>
+<br/>
+《<a href="http://www.xys.org/xys/ebooks/others/science/dajia16/zhangyaoxue9.txt" rel="nofollow" target="_blank">透明计算的前世今生——缘起 @ 新语丝</a>》（<a href="https://web.archive.org/web/20150129020644/http://www.xys.org/xys/ebooks/others/science/dajia16/zhangyaoxue9.txt" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：这篇挖得挺深，懂 IT 技术的同学可以看看，基本上就明白这货是啥）<br/>
 <br/>
 <br/>
-如何评价张尧学以及他的透明计算 @ 知乎<br/>
+《如何评价张尧学以及他的透明计算 @ 知乎》<br/>
 （编程随想注：知乎上揭发张尧学的内容都被河蟹了，这篇的镜像在“<a href="http://www.xys.org/xys/ebooks/others/science/dajia16/zhangyaoxue5.txt" rel="nofollow" target="_blank">这里</a>”。以下摘录的是——原透明计算实验室成员的爆料）<br/>
-<blockquote><b>作为前透明计算实验室的一员</b>，来谈谈自己的想法好了。<br/>
-首先，张尧学的透明计算在我学校是分为几个项目来做的，每个项目有一个小团队。包括PC、Android手机，平板的透明计算OS，还有基于这个“理念”的移动医疗等应用项目。这里面PC端的OS就是我所在的小团队弄出来的。<br/>
+<blockquote>
+<b>作为前透明计算实验室的一员</b>，来谈谈自己的想法好了。<br/>
+首先，张尧学的透明计算在我学校是分为几个项目来做的，每个项目有一个小团队。包括 PC、Android 手机，平板的透明计算 OS，还有基于这个“理念”的移动医疗等应用项目。这里面 PC 端的 OS 就是我所在的小团队弄出来的。<br/>
 对于大家黑的这些，我的总体看法是：黑的十分正确和漂亮。<br/>
 <br/>
-其它项目团队怎么弄的我不清楚，PC端基本都是我设计的，实现方案改过几次：<br/>
-1.最初和Intel一起改PXE（这玩意是啥东西自行谷歌，网吧无盘就用它），想多台机器共用一个镜像，但更改的数据分别保存，搞了半天发现PXE跨不了局域网，也用不了无线，不能达到张尧学提出的要求，被PASS掉了。<br/>
-2.然后找了个开源的iPXE，号称支持广域网和无线，自定义脚本等诸多功能，整了半天把原型整出来了，又发现丫对无线的支持烂成渣，只支持一两个802.11g的芯片组，尝试自行写无线驱动，还是不可行，因为要支持的无线网卡太多，只要有机器的网卡驱动没有，那这台机器就无法使用无线来加载透明计算系统，所以又被PASS掉。<br/>
-3.现在的方案（截止至我离开前），整了个开源的虚拟机（Virtualbox），虚拟机上运行透明计算系统，存储的操作系统放在服务器，用iSCSI传输，运行的真正操作系统（Windows那些）上装了些自己写的程序做管理和监控。基本结构如下：<br/>
+其它项目团队怎么弄的我不清楚，PC 端基本都是我设计的，实现方案改过几次：<br/>
+1. 最初和 Intel 一起改 PXE（这玩意是啥东西自行谷歌，网吧无盘就用它），想多台机器共用一个镜像，但更改的数据分别保存，搞了半天发现PXE跨不了局域网，也用不了无线，不能达到张尧学提出的要求，被 PASS 掉了。<br/>
+2. 然后找了个开源的 iPXE，号称支持广域网和无线，自定义脚本等诸多功能，整了半天把原型整出来了，又发现丫对无线的支持烂成渣，只支持一两个 802.11g 的芯片组，尝试自行写无线驱动，还是不可行，因为要支持的无线网卡太多，只要有机器的网卡驱动没有，那这台机器就无法使用无线来加载透明计算系统，所以又被 PASS 掉。<br/>
+3. 现在的方案（截止至我离开前），整了个开源的虚拟机（Virtualbox），虚拟机上运行透明计算系统，存储的操作系统放在服务器，用 iSCSI 传输，运行的真正操作系统（Windows 那些）上装了些自己写的程序做管理和监控。基本结构如下：<br/>
 <br/>
 真实操作系统（Windows、Linux）<br/>
 ————————————————<br/>
@@ -47,14 +53,17 @@ Linux<br/>
 机器硬件<br/>
 <br/>
 <br/>
-我走之前，所在团队的工作基本上就是在定制Linux和改虚拟机。。。还为这套东西增强些功能。。<br/>
+我走之前，所在团队的工作基本上就是在定制 Linux 和改虚拟机。。。还为这套东西增强些功能。。<br/>
 <br/>
-对于这整套东西，我的心里话其实是：没法用。真正使用的操作系统运行在一个虚拟机上，能快到哪去？更别说镜像还是放在服务器上用iSCSI协议来传输的。央视的新闻我看了，播到展示透明计算机器运行着XP系统的时候，我都笑傻了，为啥？Win7及更新的操作系统是可以用，但基本慢成狗！如果再在那上面看个视频，能有10帧就谢天谢地了！首次启动Win7至少需要5分钟以上，如果你还处于10M以下的小水管的话，呵呵呵呵。。。最好别等了。</blockquote><br/>
+对于这整套东西，我的心里话其实是：没法用。真正使用的操作系统运行在一个虚拟机上，能快到哪去？更别说镜像还是放在服务器上用 iSCSI 协议来传输的。央视的新闻我看了，播到展示透明计算机器运行着 XP 系统的时候，我都笑傻了，为啥？Win7 及更新的操作系统是可以用，但基本慢成狗！如果再在那上面看个视频，能有10帧就谢天谢地了！首次启动 Win7 至少需要5分钟以上，如果你还处于10M以下的小水管的话，呵呵呵呵。。。最好别等了。</blockquote>
 <br/>
-<h2>★“透明计算”到底有没有“获奖资格”？</h2><br/>
-<a href="http://news.sohu.com/20150130/n408226497.shtml" rel="nofollow" target="_blank">国家自然科学一等奖惹争议 透明计算仍不透明 @ 搜狐新闻</a><br/>
+<br/>
+<h2>★“透明计算”到底有没有“获奖资格”？</h2>
+<br/>
+《<a href="http://news.sohu.com/20150130/n408226497.shtml" rel="nofollow" target="_blank">国家自然科学一等奖惹争议 透明计算仍不透明 @ 搜狐新闻</a>》（<a href="https://web.archive.org/web/20150203230234/http://news.sohu.com/20150130/n408226497.shtml" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：以下是该报道的部分摘录）<br/>
-<blockquote>《光明日报》、《中国科学报》报道称，这一成果“从根本上突破了统治计算机领域六十余年的冯·诺依曼结构”，理论上“可防御所有病毒对计算机系统的攻击”，“在国际业界引起震动”。<br/>
+<blockquote>
+《光明日报》、《中国科学报》报道称，这一成果“从根本上突破了统治计算机领域六十余年的冯·诺依曼结构”，理论上“可防御所有病毒对计算机系统的攻击”，“在国际业界引起震动”。<br/>
 <br/>
 但在一些业内人士看来，“透明计算”和现在流行的云计算相比没有太多突破。授予其一等奖，简直是“<b>2000年以来中国学术界的最大笑话</b>”。<br/>
 <br/>
@@ -62,39 +71,50 @@ Linux<br/>
 <br/>
 一位学者认为，这个东西（透明计算）没有太强的学术贡献，也没有像袁隆平的杂交水稻那样，创造出特别高的实际价值。“如果稍微拔高一点儿，<b>给一个科技进步二、三等奖也就算了，自然科学一等奖就太过分了。这会严重扭曲我们的评价标准，也让国际同行笑话。</b>这次是真的玩儿大了。”<br/>
 <br/>
-另一位学者的观点是，计算机这一行本来就偏应用，要想拿自然科学的一等奖，必须是一个很完备、系统的理论体系。“一般来说，像张院士这样位高权重的人，评奖的时候注点儿水，稍微抬高一点儿也很常见。这次确实有点儿用力过猛，兜不住了。”</blockquote><br/>
-<a href="https://cn.wsj.com/articles/CN-DJL-20150131104358" rel="nofollow" target="_blank">张校长能承受自然科学大奖之重吗？ @ 华尔街日报</a><br/>
+另一位学者的观点是，计算机这一行本来就偏应用，要想拿自然科学的一等奖，必须是一个很完备、系统的理论体系。“一般来说，像张院士这样位高权重的人，评奖的时候注点儿水，稍微抬高一点儿也很常见。这次确实有点儿用力过猛，兜不住了。”</blockquote>
+<br/>
+《<a href="https://cn.wsj.com/articles/CN-DJL-20150131104358" rel="nofollow" target="_blank">张校长能承受自然科学大奖之重吗？ @ WSJ/华尔街日报</a>》（<a href="https://web.archive.org/web/20200420122440/https://cn.wsj.com/articles/CN-DJL-20150131104358" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：以下是该报道的部分摘录）<br/>
-<blockquote>就张校长在《科技日报》的回应里所提出的“透明计算”与“云计算”的四个不同点，我电话请教了一家知名计算机公司的首席技术官，他说，<b>“云计算”构架包括了多种形式的终端设计，在终端虚拟化方面业界已经做了几十年了，张校长的设计只是其中一种。</b>关于带宽和过程管理，业界各厂家也有很多不同做法。至于系统的安全性，每家云计算公司都必须提供自己的方案，各有所长。他认为，<b>张校长团队的成果仅是“云计算”构架下的一种实现方式而已，并没有改变“云计算”构架，更不要说拓展“冯•诺依曼计算结构”了。</b></blockquote><br/>
-<a href="http://tech.gmw.cn/2015-01/23/content_14617424.htm" rel="nofollow" target="_blank">CCF被指不认可透明计算理论 张尧学团队保持沉默 @ 光明网</a><br/>
+<blockquote>
+就张校长在《科技日报》的回应里所提出的“透明计算”与“云计算”的四个不同点，我电话请教了一家知名计算机公司的首席技术官，他说，<b>“云计算”构架包括了多种形式的终端设计，在终端虚拟化方面业界已经做了几十年了，张校长的设计只是其中一种。</b>关于带宽和过程管理，业界各厂家也有很多不同做法。至于系统的安全性，每家云计算公司都必须提供自己的方案，各有所长。他认为，<b>张校长团队的成果仅是“云计算”构架下的一种实现方式而已，并没有改变“云计算”构架，更不要说拓展“冯•诺依曼计算结构”了。</b></blockquote>
+<br/>
+《<a href="http://tech.gmw.cn/2015-01/23/content_14617424.htm" rel="nofollow" target="_blank">CCF 被指不认可透明计算理论 张尧学团队保持沉默 @ 光明网</a>》（<a href="https://web.archive.org/web/20150123134244/http://tech.gmw.cn/2015-01/23/content_14617424.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：“CCF”是“中国计算机学会”的缩写）<br/>
-<blockquote>“透明计算”是否具备创新性，以及是否具备产业化前景，在中国计算机学界引发争议，中南大学计算机所所长王国军对该课题的评价是，“从根本上突破了统治计算机领域60余年的冯·诺依曼结构，实现了流式计算”，然而，<b>一些IT业内人士认为，“透明计算”仅仅是个理论，远远谈不上颠覆冯·诺依曼结构。</b><br/>
+<blockquote>
+“透明计算”是否具备创新性，以及是否具备产业化前景，在中国计算机学界引发争议，中南大学计算机所所长王国军对该课题的评价是，“从根本上突破了统治计算机领域60余年的冯·诺依曼结构，实现了流式计算”，然而，<b>一些IT业内人士认为，“透明计算”仅仅是个理论，远远谈不上颠覆冯·诺依曼结构。</b><br/>
 <br/>
 国家自然科学一等奖素以宁缺毋滥著称，1999年到2013年的15年间，有十年空缺。去年，以赵忠贤、陈仙辉、王楠林、闻海虎、方忠为代表的中国科学院物理研究所/北京凝聚态国家实验室(筹)和中国科学技术大学研究团队因为在“40K以上铁基高温超导体的发现及若干基本物理性质研究”方面的突出贡献而获奖。<br/>
 <br/>
-1999年之前的国家自然科学一等奖的得奖项目，包括哥达巴赫猜想、人工合成牛胰岛素等至今仍影响广泛的课题。</blockquote><br/>
-<a href="http://tech.qq.com/a/20150119/009810.htm" rel="nofollow" target="_blank">暴风眼中的透明计算 @ 腾讯</a><br/>
+1999年之前的国家自然科学一等奖的得奖项目，包括哥达巴赫猜想、人工合成牛胰岛素等至今仍影响广泛的课题。</blockquote>
+<br/>
+《<a href="http://tech.qq.com/a/20150119/009810.htm" rel="nofollow" target="_blank">暴风眼中的透明计算 @ 腾讯</a>》（<a href="https://web.archive.org/web/20150121101937/http://tech.qq.com/a/20150119/009810.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：以下是该报道的部分摘录）<br/>
-<blockquote>在中央级媒体延续一贯的宣传手法，高歌“统治现代计算机60年的冯·诺依曼体系被打破，中国科研力量即将引领未来”的同一时间，几乎所有的社交平台上，张尧学团队的“网络计算的模式及基础理论研究”（即透明计算）都遭到了大量网民的质疑。<br/>
+<blockquote>
+在中央级媒体延续一贯的宣传手法，高歌“统治现代计算机60年的冯·诺依曼体系被打破，中国科研力量即将引领未来”的同一时间，几乎所有的社交平台上，张尧学团队的“网络计算的模式及基础理论研究”（即透明计算）都遭到了大量网民的质疑。<br/>
 <br/>
 率先引发网友关注的是中南大学的官方微博。中南官微在祝贺张尧学获奖的一条微博中，将张定义为“路由器之父”，随后这一说法遭到了大量普通网友挑战，继而演化为对透明计算本身价值的质疑。<br/>
 <br/>
-随后一批IT业内人士也参与到了对“透明计算”的批判中，随着学术打假人方舟子高调关注此事，<b>这一学术界风波彻底发酵成为一个社会事件。几乎所有的质疑声都在细究一点——透明计算并不具有独创性和创新性，即便不被考虑独创与创新性，这一技术也距离商业化甚远。</b></blockquote><br/>
+随后一批 IT 业内人士也参与到了对“透明计算”的批判中，随着学术打假人方舟子高调关注此事，<b>这一学术界风波彻底发酵成为一个社会事件。几乎所有的质疑声都在细究一点——透明计算并不具有独创性和创新性，即便不被考虑独创与创新性，这一技术也距离商业化甚远。</b></blockquote>
 <br/>
-<h2>★“透明计算”到底有没有“国际影响力”？</h2><br/>
-<a href="http://mp.weixin.qq.com/s?__biz=MzA3OTgzMzUzOA==&amp;mid=203569897&amp;idx=1&amp;sn=1a0790f5c6dee1badafb13eae2ac022a" rel="nofollow" target="_blank">听专家评说：国家科学一等奖为何遭全国性学会抗议？ @ 赛先生</a><br/>
-（编程随想注：以下是该报道的部分摘录）<br/>
-<blockquote>而在一些官方报道中，被中南大学称为“在国际上反响强烈”的张尧学团队论文《TransOS: A Transparent Computing-based Operating System for the Cloud》发表于2012年，经查该文总引用数仅为6次，其中4次是中南大学信息工程学院自己引用，其余2次皆为中国其他学者引用，看不到一丝“国际”的影子。<br/>
+<br/>
+<h2>★“透明计算”到底有没有“国际影响力”？</h2>
+<br/>
+《<a href="http://mp.weixin.qq.com/s?__biz=MzA3OTgzMzUzOA==&amp;mid=203569897&amp;idx=1&amp;sn=1a0790f5c6dee1badafb13eae2ac022a" rel="nofollow" target="_blank">听专家评说：国家科学一等奖为何遭全国性学会抗议？ @ 微信公号赛先生</a>》<br/>
+（编程随想注：此文已经被微信屏蔽，【未找到】被屏蔽之前的网页存档 :( 以下是该报道的部分摘录）<br/>
+<blockquote>
+而在一些官方报道中，被中南大学称为“在国际上反响强烈”的张尧学团队论文《TransOS: A Transparent Computing-based Operating System for the Cloud》发表于2012年，经查该文总引用数仅为6次，其中4次是中南大学信息工程学院自己引用，其余2次皆为中国其他学者引用，看不到一丝“国际”的影子。<br/>
 即便是在报奖材料中，张尧学团队自述其论文引用情况也仅是“20篇主要论文SCI他引120余次”，<b>说明其SCI论文篇平均被引仅6次</b>。<br/>
 <br/>
 相比之下， 2003年颁发的自然科学一等奖“澄江动物群与寒武纪大爆发”项目共发表论文90多篇，其中在国际顶级综合性科学期刊《科学》和《自然》上发表14篇，SCI收录37篇，70篇被SCI引用842次，出版专著9部。主要代表性文章的总被引和WOS被引数多数分别在100和50以上。<br/>
 <br/>
 2006年国家自然科学一等奖“介电体超晶格材料的设计、制备、性能和应用”的主要论文中，有3篇发表在《科学》上，1篇发表在《先进材料》上，6篇发表在《物理评论快报》上，55篇主要论文已被SCI他引639篇次，被13篇综述文章成段引用。<br/>
 <br/>
-而2013年的国家自然科学一等奖“40K以上铁基高温超导体的发现及若干基本物理性质研究”，其8篇代表性论文SCI他引3801次，最高单篇他引823次，20 篇主要论文SCI他引5145 次。</blockquote><br/>
-<a href="http://www.xys.org/xys/netters/Fang-Zhouzi/blog/zhangyaoxue.txt" rel="nofollow" target="_blank">方舟子：不透明的“透明计算”——张尧学是如何骗取国家自然科学一等奖的</a><br/>
+而2013年的国家自然科学一等奖“40K以上铁基高温超导体的发现及若干基本物理性质研究”，其8篇代表性论文SCI他引3801次，最高单篇他引823次，20 篇主要论文SCI他引5145 次。</blockquote>
+<br/>
+《<a href="http://www.xys.org/xys/netters/Fang-Zhouzi/blog/zhangyaoxue.txt" rel="nofollow" target="_blank">方舟子：不透明的“透明计算”——张尧学是如何骗取国家自然科学一等奖的 @ 新语丝</a>》（<a href="https://web.archive.org/web/20150123050952/http://www.xys.org/xys/netters/Fang-Zhouzi/blog/zhangyaoxue.txt" rel="nofollow" target="_blank">网页存档</a>）<br/>
 （编程随想注：以下是该文的部分摘录）<br/>
-<blockquote>再神的人才，再神的科研成果，也是要通过论文发表体现出来的。在<a href="http://www.cutech.edu.cn/cn/rootfiles/2014/01/15/1389722463398905-138
+<blockquote>
+再神的人才，再神的科研成果，也是要通过论文发表体现出来的。在<a href="http://www.cutech.edu.cn/cn/rootfiles/2014/01/15/1389722463398905-138
 9722463551177.pdf" rel="nofollow" target="_blank">报奖材料中</a>，张尧学列举了能体现其获奖成果的八篇代表性论文专著：<br/>
 <br/>
 第一篇论文发表在2006年9月在武汉召开的一次学术会议上（Third International Conference, UIC 2006 ），会议组织者是在新语丝挂号的金海。<br/>
@@ -107,26 +127,41 @@ Linux<br/>
 <br/>
 第四篇是1999年一篇人工智能方面的论文，也与获奖内容无关。该论文的引用次数是16次。发表该论文的期刊已在2001年停刊。<br/>
 <br/>
-后面的四篇作者中都没有张尧学，也都不属于透明计算的内容。最搞笑的是第五篇，它其实是清华大学出版社在2001年4月出版的一本教材的一个章节（第五章“非乘积解排队网络和近似算法”），张尧学为了把它伪装成期刊论文，创造性地把书的出版年份写成“2001年卷”。而且这个章节根本就没有教材作者的原创内容，都是引用国外学者的，这些国外学者是不是也能跟张尧学分享奖金？</blockquote><br/>
-<br/>
-<h2>★“透明计算”到底有没有“盗用开源项目”？</h2><br/>
-<a href="http://www.solidot.org/story?sid=42908" rel="nofollow" target="_blank">透明计算桌面系统被发现使用了开源代码 @ Solidot</a><br/>
-<br/>
-<a href="http://www.guokr.com/article/439921/" rel="nofollow" target="_blank">果壳网：Iordan Iordanov谈“透明桌面”</a><br/>
-（编程随想注：这位“Iordan Iordanov”同学，就是被剽窃的对象。他开发的 bVNC 开源软件直接被张校长的团队偷偷拿去用了）<br/>
+后面的四篇作者中都没有张尧学，也都不属于透明计算的内容。最搞笑的是第五篇，它其实是清华大学出版社在2001年4月出版的一本教材的一个章节（第五章“非乘积解排队网络和近似算法”），张尧学为了把它伪装成期刊论文，创造性地把书的出版年份写成“2001年卷”。而且这个章节根本就没有教材作者的原创内容，都是引用国外学者的，这些国外学者是不是也能跟张尧学分享奖金？</blockquote>
 <br/>
 <br/>
-<h2>★“透明计算”到底有没有“官方后台”？</h2><br/>
-　　最后，俺来点评一下。<br/>
+<h2>★“透明计算”到底有没有“盗用开源项目”？</h2>
+<br/>
+《<a href="http://www.solidot.org/story?sid=42908" rel="nofollow" target="_blank">透明计算桌面系统被发现使用了开源代码 @ Solidot</a>》（<a href="https://web.archive.org/web/20150202124114/http://www.solidot.org/story?sid=42908" rel="nofollow" target="_blank">网页存档</a>）<br/>
+（编程随想注：以下是全文）<br/>
+<blockquote>
+备受争议的透明计算被发现借用了开源远程桌面项目的代码。获得国家自然科学奖一等奖的透明计算项目公开了原型桌面系统和手机终端远程应用实例的演示视频，一位新语丝的用户仔细观看了视频，Google了视频中的一段英文代码，结果在 GitHub 上找到了这段源代码的出处——一个个人开源桌面客户端项目 bVNC。<br/>
+bVNC 项目作者在被中国用户告知后发表了“获奖感言”，指出他的项目采用的是 GPLv3 许可证，如果张尧学的团队要推广他们的项目，他们必须公开源代码。</blockquote>
+<br/>
+《<a href="http://www.guokr.com/article/439921/" rel="nofollow" target="_blank">Iordan Iordanov 谈“透明桌面” @ 果壳网</a>》（<a href="https://web.archive.org/web/20150206072856/http://www.guokr.com/article/439921/" rel="nofollow" target="_blank">网页存档</a>）<br/>
+（编程随想注：标题中这位“Iordan Iordanov”同学，就是被剽窃的对象。他开发的 bVNC 开源软件，被张校长的团队偷偷拿去用了）<br/>
+<br/>
+<br/>
+<h2>★俺的点评</h2>
+<br/>
+　　转载了这么多文章，俺也来点评一下。<br/>
+<br/>
+<h3>◇从“大范围删贴”看“透明计算”的后台</h3>
+<br/>
 　　从上面介绍可以看出，这个所谓的“透明计算”，毫无含金量可言。而“国家自然科学奖一等奖”向来以“含金量”著称。已经有很多年因为没有合适的对象而空缺。但是今年居然颁给这么一个奇葩。没有足够的后台，这种事儿能运作成功吗？<br/>
 　　遭到各方质疑后，真理部竟然还帮忙封杀质疑的声音。比如“财新网”1月17日发的一篇报道《“透明计算”获大奖 引发诸多争议》，很快就被删除。比如知乎网上批“透明计算”的内容，都被和谐掉了（后面还会引述网友的吐槽）。<br/>
 　　后来又发生了更有戏剧性的事情：1月21日晚，中国计算机学会（CCF）在其官网发了一篇《关于政府退出国家科技奖励评审的建议》（下称《建议》），被视作 CCF 对此次颁奖的委婉反对。《建议》称，由于评审过程暴露的问题，导致国家级科技奖滋生腐败行为，建议政府部门退出国家科技奖评审工作。结果不到两天，这份《建议》就从官网上撤下（还好有人截图如下），原定的媒体沟通会也被取消。<br/>
-<center><img alt="不见图 请翻墙" src="images/8uSMTrtwm-ZDXgznRyZw8qbMpb2WChcOq5awXHqs-7PWcwARa-tjayof5WhvVqwV9NyZxgiaN2ni1jHzKSvj6tzki6RqhmFXKSDDTeeKVUG_6FDreaLYM4RdQkSjTB-uqtinFw"/></center>　　你用膝盖想一下：后台不够硬，能做到上述这些效果吗？<br/>
+<center><img alt="不见图 请翻墙" src="images/8uSMTrtwm-ZDXgznRyZw8qbMpb2WChcOq5awXHqs-7PWcwARa-tjayof5WhvVqwV9NyZxgiaN2ni1jHzKSvj6tzki6RqhmFXKSDDTeeKVUG_6FDreaLYM4RdQkSjTB-uqtinFw"/></center>
+　　你用膝盖想一下：后台不够硬，能做到上述这些效果吗？<br/>
 <br/>
-　　一个月前，俺看到一篇新闻报道《<a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/12/141216_china_patent" rel="nofollow" target="_blank">中国去年专利申请占世界总数三分之一 @ BBC</a>》。这篇报道在国内也有多次转载，相信不少读者也看到了。俺正好借着这个“透明计算的丑闻”，给大伙儿提醒一下——所谓的“专利申请占世界总数三分之一”，这里面的水分可多啦。那些在高校做过研究生的同学，心里应该清楚——科研界的水分有多大。<br/>
+<h3>◇关于“专利”</h3>
+<br/>
+　　一个月前，俺看到一篇新闻报道《<a href="http://www.bbc.co.uk/zhongwen/simp/china/2014/12/141216_china_patent" rel="nofollow" target="_blank">中国去年专利申请占世界总数三分之一 @ BBC/英国广播公司</a>》。这篇报道在国内也有多次转载，相信不少读者也看到了。俺正好借着这个“透明计算的丑闻”，给大伙儿提醒一下——<b>所谓的“专利申请占世界总数三分之一”，这里面的水分可多啦！</b>那些在高校做过研究生的同学，心里应该清楚——科研界的水分有多大。<br/>
+　　写了此文之后又过了3年（2018），俺发了一篇《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》，其中也聊到了天朝的专利问题。<br/>
 <br/>
 <br/>
-<h2>★汇总网友的各种吐槽</h2><br/>
+<h2>★汇总网友的各种吐槽</h2>
+<br/>
 xierch：<br/>
 居然还有人给「透明计算」洗地洗得这么积极…<br/>
 刚看到演示视频里蹦出的大段英文提示感觉不太妙，就搜了一下，居然真把他们盗用的源码（疑似）找到了…<br/>
@@ -149,7 +184,8 @@ Eric Xu, PhD (徐宥)：<br/>
 <br/>
 mtjs：<br/>
 这种情况其实非常普遍，剧情可能如下：<br/>
-<blockquote>争取到项目后，院长自己当然没时间做，就安排给教授；<br/>
+<blockquote>
+争取到项目后，院长自己当然没时间做，就安排给教授；<br/>
 教授找了几篇国外最新发表的论文，提了个想法，要求研究生实现；<br/>
 研究生在与喜欢Hacker的同学闲聊时意外了解到这位同学有类似代码可用，于是用一顿饭换来了代码。<br/>
 别人的东西，看不大懂是正常的，再找Hacker同学请教得请吃饭吧，教授没给经费，自己搞腰包不值得。<br/>
@@ -165,7 +201,8 @@ mtjs：<br/>
 研究生不知道Hacker同学给的是开源代码，原以为是同学自己写的代码，还为此崇拜了他好久。<br/>
 教授太忙，没时间核实代码是不是原创，研究生的论文里又没写自己引用了别人的代码。<br/>
 院长真的不知情。这么低级的工作，他怎么管得过来？<br/>
-当然啦，国家给了这么多钱，成果当然！必须！理所当然！是拥有完全知识产权的！！！</blockquote><br/>
+当然啦，国家给了这么多钱，成果当然！必须！理所当然！是拥有完全知识产权的！！！</blockquote>
+<br/>
 陈少举：<br/>
 透明计算桌面系统被发现使用了开源代码 http://www.solidot.org/story?threshold=0&amp;mode=nested&amp;sid=42908<br/>
 //一开始我也以为这个透明计算就是瘦客户端（类似网吧无盘机），然后发现这玩意儿就是远程控制，QQ远程协助/VNC那种东西。。。<br/>
@@ -196,7 +233,8 @@ Eric Xu, PhD (徐宥)：<br/>
 Jerry Chou：<br/>
 问：【几天前在知乎上揭穿张尧学，透明计算，国家自然科学一等奖的题目，全被知乎删光了，知乎的人能出来说一下么，还要脸不要了？？】<br/>
 结果就是……如图：<br/>
-<center><img alt="不见图 请翻墙" src="images/obqHN4dCiR49kmIMGFNKGhRk0Bzg7D21t7caxapT4hfzt6g8EQZc8rMbOQ0qNCHlRsbQPR20Jo8zbSHCMUuYWOqrKoer8--swhXkXtLKJ0cbIMHTRu62qe7BAJCHTsK4WVL_Dw"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/obqHN4dCiR49kmIMGFNKGhRk0Bzg7D21t7caxapT4hfzt6g8EQZc8rMbOQ0qNCHlRsbQPR20Jo8zbSHCMUuYWOqrKoer8--swhXkXtLKJ0cbIMHTRu62qe7BAJCHTsK4WVL_Dw"/></center>
+<br/>
 光锥：<br/>
 参加一个大数据的讨论会，正在演讲的是中国信息协会大数据分会的副会长刘鹏。<br/>
 有人提问怎么看张尧学的透明计算？他笑一笑，说张是他的朋友，张是这个协会的会长，而且这事关系到国家层面，他不方便评价。<br/>
@@ -252,7 +290,13 @@ Neo：<br/>
 <br/>
 给GFW都比这个靠谱。我为方校长鸣冤<br/>
 <br/>
-骗子终于找到傻逼土豪了
+骗子终于找到傻逼土豪了<br/>
+<br/>
+<br/>
+<b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
+《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2020/09/Academic-Scandals-in-China.md">二十年目睹之怪现状——中国学术界、科技界的“奇葩排行榜”</a>》<br/>
+《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》
 </div>
 
 
