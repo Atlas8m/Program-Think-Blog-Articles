@@ -400,6 +400,25 @@
 　　总之，就这么个破玩意儿，还能被科技部“973计划”（国家重点基础研究计划）批准立项，也太扯蛋了吧？<br/>
 <br/>
 <br/>
+<h2>★（2008）朝廷高调宣布 IPv9——号称是“互联网技术重大创新”，其实源自“愚人节笑话”</h2>
+<br/>
+　　（一开始，这个奇葩被俺遗漏了。本文发布之后，经热心读者提醒，特地增补）<br/>
+　　2008年1月底，朝廷喉舌（新华网）接连发布多篇重磅新闻，高调宣布【IPv9】。新闻稿宣称：这是“互联网技术重大创新”，既可以摆脱美国佬对互联网的垄断，还可以有效保障用户的信息安全。（听上去是不是很牛逼？）<br/>
+　　相关新闻如下：<br/>
+　　《<a href="http://news.xinhuanet.com/internet/2008-01/23/content_7478921.htm" rel="nofollow" target="_blank">中国十进制网络安全地址投入使用 @ 新华网</a>》（<a href="https://web.archive.org/web/20080127211534/http://news.xinhuanet.com/internet/2008-01/23/content_7478921.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
+　　《<a href="http://news.xinhuanet.com/newscenter/2008-01/23/content_7482216.htm" rel="nofollow" target="_blank">IPV9 何以成为互联网技术重大创新 @ 新华网</a>》（<a href="https://web.archive.org/web/20080127182559/http://news.xinhuanet.com/newscenter/2008-01/23/content_7482216.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
+　　这个所谓的“IPv9”，说白了就是用【全数字】的方式（类似电话号码）来统一表示公网 IP 地址，同时把域名取消掉（这个全数字的地址也充当域名的作用）。<br/>
+　　咱们先不讨论这么干到底合不合理，先看看它吹牛逼的地方——光改变“IP 地址”的【形式】，就敢宣称“充分保障用户安全”。这种吹牛逼也太不靠谱了吧。安全圈内的人士听了，都得笑掉大牙。<br/>
+　　咱们再来看看这个想法是从来来滴。“IPv9”这个玩意儿最早源自“RFC 1606”和“RFC 1607”。对不太懂互联网协议的同学，俺稍微解释一下。RFC 是 IETF（工程任务组）发布的公开备忘录。一般来说，互联网使用的各种标准协议，在正式投入使用【之前】，会先以 RFC 的形式公开发布（类似于“公开征求意见稿”）。<br/>
+　　大伙儿都知道——西方有“愚人节笑话”的传统。从上世纪70年代末开始，几乎每年的愚人节，都有人发布【搞笑 RFC】。刚才提到的“RFC 1606”和“RFC 1607”，这俩都是在1994年4月1日发布滴。不信的话，请看维基百科的介绍（<a href="https://zh.wikipedia.org/wiki/%E6%83%A1%E6%90%9ERFC" rel="nofollow" target="_blank">中文</a>，<a href="https://en.wikipedia.org/wiki/April_Fools%27_Day_Request_for_Comments" rel="nofollow" target="_blank">洋文</a>）。也就是说，朝廷高调宣传的 IPv9，竟然是源自多年前的“愚人节笑话”。<br/>
+　　有些读者可能会纳闷——中国的砖家再傻，也不至于傻到这种程度吧？<br/>
+　　为了证明天朝的砖家真的傻到这种程度，俺再补充一个网页存档（参见“<a href="https://web.archive.org/web/20181221234813/http://tech.gmw.cn/2018-09/14/content_31163515.htm" rel="nofollow" target="_blank">这个链接</a>”）。<br/>
+　　首先请注意：上述引用的网址是《光明日报》的官网。这个报纸是【裆中央的机关报之一】，专门面向全国的知识分子群体哦。在上述报道中有如下这句：<br/>
+<blockquote style="background-color:#DDD;">
+<b>也有业内专家表示，IPv9 是基于 IETF 的【RFC1606 和 RFC1607】文件中的【精华】设计而成</b>，但这个标准的应用价值及与其他网络的兼容性方面还处于研究阶段，并未得到国际的广泛认可，未来前景未知。</blockquote>
+　　最后提醒大伙儿注意的是：上述这篇报道发布于【2018年】——也就是说，IPv9 的闹剧已经持续了【十年】之久，竟然还有砖家不知道这个奇葩是出自愚人节笑话。<br/>
+<br/>
+<br/>
 <h2>★（2014）中科院的“<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" rel="nofollow" target="_blank">中国操作系统</a>”（简称 COS）——被网友调侃为“Copy Other System”</h2>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/dfvEI1qyZ5Z5PK45cDfWBwOtP56p39K85Dc8muLnwVV043VnLz8VhlPR5EZfp7e3zRYC7cSyn2wir5OAGFilWzBF47HoxNmCyAiRiQ9VhlYHI9guXeqSv1OnhkkKhPlNKpyLo_YsEIQ"/><br/>
