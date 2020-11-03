@@ -3,7 +3,8 @@
 -----
 
 <div class="post-body entry-content">
-<center><img alt="不见图 请翻墙" src="images/A8Di6lT6ab-LHQeabimO-sHkwQyOuYM0ekhcYZeS73Kmnc6V8Ww-6jb6vH_OeD8JM2OHRzn7kNuomU-lajCwlZBxkSLhBYKBhs--XRyqEb0YPSpXfQXJO5sTXAIW7XEOe0nkfUsvV_Q"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/A8Di6lT6ab-LHQeabimO-sHkwQyOuYM0ekhcYZeS73Kmnc6V8Ww-6jb6vH_OeD8JM2OHRzn7kNuomU-lajCwlZBxkSLhBYKBhs--XRyqEb0YPSpXfQXJO5sTXAIW7XEOe0nkfUsvV_Q"/></center>
+<br/>
 <h2>★引子</h2>
 <br/>
 　　最近几天有3件热点事件，分别是：<br/>
@@ -52,10 +53,12 @@
 <br/>
 　　<b>伊斯兰教法（沙里亚）</b><br/>
 　　洋文称之为“<a href="https://en.wikipedia.org/wiki/Sharia" rel="nofollow" target="_blank">Sharia law</a>”。顾名思义，来自伊斯兰教。它包括如下这4部分：<br/>
-<blockquote>古兰经（Quran）<br/>
+<blockquote>
+古兰经（Quran）<br/>
 圣训＆圣行（Hadith）<br/>
 释法<br/>
-教令</blockquote>　　后两者是前两者的延伸/扩展，更详细的解释参见博文《<a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a>》。<br/>
+教令</blockquote>
+　　后两者是前两者的延伸/扩展，更详细的解释参见博文《<a href="../../2015/11/Why-Islam-Is-Different-from-Other-Religions.md">伊斯兰教为何如此奇葩？——关于“巴黎连环恐怖袭击”的随想</a>》。<br/>
 　　在“宗教法系”的几个分支中，“伊斯兰教法”的影响力最大。<br/>
 <br/>
 　　<b>教会法</b><br/>
@@ -77,7 +80,8 @@
 <tr><td>欧陆法系</td><td>法国、德国、俄国、咱们天朝 ......</td></tr>
 <tr><td>英美法系</td><td>澳大利亚、新西兰 ......</td></tr>
 <tr><td>宗教法系（伊斯兰法）</td><td>沙特阿拉伯 ...</td></tr>
-</tbody></table></center><br/>
+</tbody></table></center>
+<br/>
 <h3>◇混合制</h3>
 <br/>
 　　如果某个国家的法律体系，包含了上述几类的特色，称之为“混合制”。<br/>
@@ -89,7 +93,8 @@
 <tr><td>英美法系＋宗教法系（犹太法 ＆ 伊斯兰法）</td><td>以色列</td></tr>
 <tr><td>欧陆法系＋宗教法系（伊斯兰法）</td><td>伊朗、阿富汗 ...</td></tr>
 <tr><td>欧陆法系＋宗教法系（教会法）</td><td>梵蒂冈</td></tr>
-</tbody></table></center><br/>
+</tbody></table></center>
+<br/>
 <h3>◇更复杂的“【多种】法律体系并存”</h3>
 <br/>
 　　大多数国家只有【一个】法律系统，但有少数国家（尤其是联邦制的国家）会采用【两级】的法律系统。并且这两级法律系统可能属于不同的类型。（请注意：很多人把“混合制”与“多种法律体制并存”搞混淆了）<br/>
@@ -104,16 +109,19 @@
 　　由于本文主要谈【英美法系】，俺从维基百科剽窃了一张示意图（如下）。图中深蓝色的是“单一制英美法系”，浅色的是“包含英美法系的混合制”。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/gHQAUqtQfQAwGF8e0-9jIXPSFYd2KdYTCTtQcwYiBI_weshHs7yZ6nvObAUkMhaktrxQhoflMYIVbSV1F-YUoSu7pjErWz7uSCS1Z4l8h_PKxYVf3VsPLUnwfv76iGdofdoy-K9SUFs"/><br/>
-（“英美法系/海洋法系”的示意图）</center><br/>
+（“英美法系/海洋法系”的示意图）</center>
+<br/>
 <br/>
 <h2>★“英美法系”的【演变史】</h2>
 <br/>
 <h3>◇“英美法系”中的3坨</h3>
 <br/>
 　　“英美法系”中具有法律效力的东东大致有3坨，分别是：<br/>
-<blockquote>成文法（statutory law）<br/>
+<blockquote>
+成文法（statutory law）<br/>
 普通法（common law）<br/>
-衡平法（equity law）</blockquote>　　顺便说一下：<br/>
+衡平法（equity law）</blockquote>
+　　顺便说一下：<br/>
 洋文“common law”很容易引发歧义。在不同的上下文中——<br/>
 有时候“common law”用来指“英美法系”这个【整体】（上述3类的总称），此时它与“欧陆法系”相对。<br/>
 有时候“common law”用来指“英美法系”中的【第2类 ＆ 第3类】，此时它与第1类（成文法）相对。<br/>
@@ -169,7 +177,8 @@
 　　亨利二世在位期间进行的一系列司法改革，不但创立了“普通法”这种制度，而且确立了该制度在英格兰司法界的统治地位。因此，亨利二世有时候也被称作【欧洲法律之父】。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/WD9W6-Datgk7VmQYw9icuAwt690U-1caSfItOVV4-6n0PZqhfbMVccpcXog_dfg4qSbDZKuXv5yrcT2-ZROuYqsPRMb3B_9dT90Y9-TDwia4GjKcxkKI5TWsmr1oSX0EJX7LNJnr-e4"/><br/>
-（亨利二世画像）</center><br/>
+（亨利二世画像）</center>
+<br/>
 <h3>◇“巡回法庭制度 ＆ 陪审制度”的由来</h3>
 <br/>
 　　话说“诺曼征服”的那年（1066），距离“七国”统一为“英格兰王国”的时间还很短。英格兰各地的司法体系乱七八糟。当时英格兰还是【封建制】（领主分封制），每个领地都有各自的法庭（郡法院、庄园法院），听命于当地诸侯。另外，由于当时英格兰已经彻底完成“基督教化”，各地还有“教会法院”，听命于罗马教廷。<br/>
@@ -208,12 +217,13 @@
 　　大法官的判例逐渐积累，新来的大法官也可以参考前任的判例。于是就形成了后来的“衡平法”。<br/>
 　　“衡平法法院”相比“普通法法院”的最大差异在于——【没有】陪审制。<br/>
 <br/>
-　　<b>小知识</b><br/>
+　　<b>小知识：</b><br/>
 　　英国著名科学家<a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9" rel="nofollow" target="_blank">弗兰西斯·培根</a>（其名言“知识就是力量”），曾担任过“衡平法法院”的大法官，并且对“衡平法”的发展起到了关键性作用。<br/>
 　　这家伙是个通才兼跨界大牛，其头衔至少包括：科学家、哲学家、法学家、作家、政客......在科学上，他把归纳法系统性地引入自然科学研究（体现在他的代表作《新工具》中）；在哲学上，他对后世的“经验主义”流派有显著影响（本文后续章节将聊到该流派对法学的影响）。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/tBMXqXoHRoGJQLRfBA7idwTSgnIw8CJ4Cp92WHt0ltDHHJSIrsxsodb9-2mk4TLm78HtKAxIJSaA9CrPeuDi2yyH7-okKc4tcF2wZ8v8c25ZC7ba5Ph6c9KpCWeIz5PYuuf1jJTcKQk"/><br/>
-（弗兰西斯·培根画像）</center><br/>
+（弗兰西斯·培根画像）</center>
+<br/>
 <h3>◇普通法 VS 衡平法</h3>
 <br/>
 　　有了“衡平法”之后，就变成【双轨制】——有两套法律，两套法院系统。<br/>
@@ -249,7 +259,8 @@
 　　从那之后，每个英格兰国王都遵守《大宪章》，从此确立了【法律高于国王】的原则。这个原则非常重要——从根本上限制了王权。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/d6O_At4VahhghXqxZxuufsYd1e-cw8mDpyhlM27GaHFeEzAxYjqs7CSmClBmfxuj6QxAtlbDlIGdmJO7drJtxqOgTT545n5MeRhbVSy3uoxd2aaxfZpteEtX80CSAMhqJQLSGmBwwyk"/><br/>
-（大英博物馆保存的《大宪章》原稿）</center><br/>
+（大英博物馆保存的《大宪章》原稿）</center>
+<br/>
 <h3>◇为啥《大宪章》能持久？</h3>
 <br/>
 　　有些同学会问：既然英王约翰在签署完1215年的《大宪章》之后就反悔，为啥后来那么多英格兰国王都没有反悔，而是一直遵守这个宪章？<br/>
@@ -394,12 +405,14 @@
 <br/>
 　　<b>法官</b><br/>
 　　相比“陪审团”而言，“法庭方面”（包括法官）要干的事情就多了，比如说：<br/>
-<blockquote>收到诉状后，决定是否驳回起诉。<br/>
+<blockquote>
+收到诉状后，决定是否驳回起诉。<br/>
 监督陪审团的筛选过程；如果案件双方申请某名陪审员回避，得由法官拍板。<br/>
 基于各种“证据规则”（rules of evidence）来决定：哪些证据可以给陪审员看，哪些不能；（有些可信度不足的证据，是不能呈现滴）<br/>
 “陪审团”在进行“事实认定”的过程中可能会涉及到某个具体的法律细节，这时候法官提供指导。<br/>
 庭审过程中，双方律师可以提出一些【动议】（比如：追加证人），法官对这些【动议】进行裁决。<br/>
-......</blockquote><br/>
+......</blockquote>
+<br/>
 <h3>◇陪审制“集中审判”的特点</h3>
 <br/>
 　　关于这个特点，前面聊“演变史”的章节已经讲过，此处不再浪费口水。<br/>
@@ -408,13 +421,17 @@
 <br/>
 　　在18世纪（美国独立前），有个权威的法学家威廉·布莱克斯通（William Blackstone）写了一部法学巨著《英国法释义》（<a href="https://en.wikipedia.org/wiki/Commentaries_on_the_Laws_of_England" rel="nofollow" target="_blank">Commentaries on the Laws of England</a>），其中谈到“陪审制的优缺点”——<br/>
 　　<b>优点</b><br/>
-<blockquote>1. 法官等司法官往往是国王任命，如果司法完全被这些官员垄断，就可能偏袒自身贵族等级。<br/>
+<blockquote>
+1. 法官等司法官往往是国王任命，如果司法完全被这些官员垄断，就可能偏袒自身贵族等级。<br/>
 2. 陪审团员并不是固定的官职，而是直到临审判前才从本地普通群众里决定人选，独立性更强；即使有一定政治地位的人，也会有所顾忌。<br/>
 3. 在封建制度（领主分封制），如果没有陪审团，司法必然掌握在本地领主手里，从而令封建领主可以一手遮天。<br/>
 4. 与“欧陆法系”的调查模式相比，公开在法庭上进行质证，比法官在密室里进行取证调查，更有利于得出真相。<br/>
-5. 陪审团审判减轻了司法系统的负担，是更为廉价的审判方式。</blockquote>　　<b>缺点</b><br/>
-<blockquote>1. 由于强调当庭审判，因此调查手段有限，尤其是无法使用（间接提供的）“书面证据”。<br/>
-2. 虽然从“案件发生地”选取陪审团有其方便之处，但局限于本地的陪审团显然也会造成某种偏见。</blockquote><br/>
+5. 陪审团审判减轻了司法系统的负担，是更为廉价的审判方式。</blockquote>
+　　<b>缺点</b><br/>
+<blockquote>
+1. 由于强调当庭审判，因此调查手段有限，尤其是无法使用（间接提供的）“书面证据”。<br/>
+2. 虽然从“案件发生地”选取陪审团有其方便之处，但局限于本地的陪审团显然也会造成某种偏见。</blockquote>
+<br/>
 　　顺便说一下：<br/>
 　　这部《英国法释义》对美国立宪的影响很大。当年美国的开国元勋，很多人都看过此书。<br/>
 <br/>
@@ -425,7 +442,9 @@
 <br/>
 　　前面章节中聊到了《<a href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%86%B2%E7%AB%A0" rel="nofollow" target="_blank">大宪章</a>》，这玩意儿原本为了保护【诸侯】人身安全（以免受王室迫害）。得益于当时的法律体系，它在保护诸侯的同时，顺便也保护了【平民】。<br/>
 　　比如说，《大宪章》中有如下条款：<br/>
-<blockquote>除非经由法官进行法律审判，否则任何自由的人，不应被拘留、囚禁、被夺去财产、被放逐、被杀害。</blockquote>　　后来法律领域很有名的【<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E8%BA%AB%E4%BF%9D%E8%AD%B7%E4%BB%A4" rel="nofollow" target="_blank">人身保护令</a>】就是从该条款演变滴。<br/>
+<blockquote>
+除非经由法官进行法律审判，否则任何自由的人，不应被拘留、囚禁、被夺去财产、被放逐、被杀害。</blockquote>
+　　后来法律领域很有名的【<a href="https://zh.wikipedia.org/wiki/%E4%BA%BA%E8%BA%AB%E4%BF%9D%E8%AD%B7%E4%BB%A4" rel="nofollow" target="_blank">人身保护令</a>】就是从该条款演变滴。<br/>
 　　所以，《大宪章》不光帮助王室与诸侯达成政治妥协，还顺便强化了【基本人权】。<br/>
 <br/>
 <h3>◇古典自由主义</h3>
@@ -444,7 +463,8 @@
 <tr><td><a href="https://zh.wikipedia.org/wiki/%E6%9D%B0%E9%87%8C%E7%B1%B3%C2%B7%E8%BE%B9%E6%B2%81" rel="nofollow" target="_blank">杰里米·边沁</a></td><td>《论道德与立法的原则》</td><td>他同时也是“效益主义”的代表人物</td></tr>
 <tr><td><a href="https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%E8%92%99%C2%B7%E4%BC%AF%E5%85%8B" rel="nofollow" target="_blank">埃德蒙·伯克</a></td><td>《<a href="https://docs.google.com/document/d/11N8ENuwcfDTJuRNlHMGp91-fKZLG9QXJelQXnPbBLC4/" target="_blank">反思法国大革命</a>》</td><td>他同时也是“保守主义”的代表人物</td></tr>
 <tr><td><a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF" rel="nofollow" target="_blank">约翰·弥尔顿</a></td><td>《<a href="https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/" target="_blank">论出版自由</a>》</td><td>《失乐园》是他在文学方面的代表作</td></tr>
-</tbody></table></center>（注：上述这几本书，如果标注了链接，说明俺已经分享了电子版）<br/>
+</tbody></table></center>
+（注：上述这几本书，如果标注了链接，说明俺已经分享了电子版）<br/>
 <br/>
 <h3>◇个人主义 ＆ 多元化</h3>
 <br/>
@@ -485,7 +505,9 @@
 　　看到这儿，你应该能明白——确保基本人权，不光有利于“个人主义 ＆ 多元化”，还有利于商业的发展、繁荣。<br/>
 　　引申阅读：<br/>
 　　<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>上分享了一本《<a href="https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/" target="_blank">东方专制主义——对于极权力量的比较研究</a>》。此书作者是个德国学者，中国通。他在书中分析了：为啥天朝必定会是“中央集权帝制”（为啥会有很强的中央集权政府）。同时他也分析了：为啥这种社会难以自发地产生出资本主义。比如他提到说（大意）：<br/>
-<blockquote>在这种社会中，“个人财产权”根本不重要，重要的是“个人在权力体系中所处的位置”。</blockquote><br/>
+<blockquote>
+在这种社会中，“个人财产权”根本不重要，重要的是“个人在权力体系中所处的位置”。</blockquote>
+<br/>
 <h3>◇“法律环境”与“商业预期”</h3>
 <br/>
 　　啥是“商业预期”捏？比如说储蓄，如果你感觉某个银行会在不久之后倒闭，你还敢在那儿存钱吗？<br/>
@@ -520,11 +542,12 @@
 《<a href="../../2020/04/Government-and-System-Robustness.md">“政治体制”与“系统健壮性”——基于“复杂性科学”的思考</a>》<br/>
 《<a href="../../2016/06/USA-Separation-of-Powers-with-Balances.md">聊聊美国政体中的权力制衡——不仅仅是三权分立</a>》<br/>
 《<a href="../../2016/11/USA-Elections.md">美国选举制度为啥这样设计？——兼谈其历史演变</a>》<br/>
+《<a href="../../2020/10/History-of-American-Political-Parties-1.md">美国政党简史（上）——从“邦联时期”到“南北战争前”</a>》<br/>
 《<a href="../../2014/02/freedom-of-speech.md">政治常识扫盲：澄清【言论自由】的各种误区</a>》<br/>
 《<a href="../../2014/11/political-offences-in-china.md">被判“谋反罪”的都是哪些人——“危害国家安全罪”出笼20年随想</a>》<br/>
 《<a href="../../2015/04/Single-Point-of-Failure.md">聊聊【单点故障】——关于“德国空难”和“李光耀”的随想</a>》<br/>
 《<a href="../../2014/09/oversimplification.md">各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”</a>》<br/>
-《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》
+《<a href="../../2019/10/Systematic-Learning.md">如何【系统性学习】——从“媒介形态”聊到“DIKW 模型”</a>》<br/>
 <!--BANNED
 [1591317630862,1591319727652,1591321074325,1591372873954,1591372930146,1591377076661,1591378673365,1591405858570,1591498658980,1591498721999
 ,1591498773529,1591498815116,1591498937844,1591498986111,1591499229492,1591499276586,1591499331408,1591499385807,1591499439372,1591499487734
