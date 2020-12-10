@@ -7,7 +7,8 @@
 　　前几天（6月底）的 G20 峰会，中美双方宣布“贸易战暂时休战”。最近几个月，很多读者关注贸易战并经常在博客评论区询问相关问题，俺发现很多人存在各种误解。写篇博文作一些【澄清】。<br/>
 <a name="more"></a><br/>
 <center><img alt="不见图 请翻墙" src="images/tGI77nRwc5kZqATv3lW8DTLCkur_AaHA0DG613CXnF5VFdDMyMOyyrifn_IzAh-_pGxJ6IVcAjlR__gsn6v92pwaqihQGdvpKg4krOLLuP76cAwVi7BnHWg9snSu1AJExQ8Ie2-2Nhc"/><br/>
-（这是《经济学人》某期的封面插图，图中的龙头嵌入了美国国徽中的白头鹰，暗喻【中美对抗】）</center><br/>
+（这是《经济学人》某期的封面插图，图中的龙头嵌入了美国国徽中的白头鹰，暗喻【中美对抗】）</center>
+<br/>
 <h2>★误解1：把“贸易战”当成“中美对抗”的全部</h2>
 <br/>
 　　实际情况是，“中美对抗”有诸多深层次的因素。而“贸易战”只是“中美对抗”表现出来的其中一面。<br/>
@@ -27,7 +28,9 @@
 　　顺便说一下：<br/>
 　　很多人【误以为】美国已经解禁华为，并把这说成是“美方的重大让步”。实际上这又是一个被国内媒体忽悠的说法。<br/>
 　　至少到俺写本文（7月4日）为止，华为依然在“实体清单”（出口管制名单）上。下面是<a href="https://www.solidot.org/story?sid=61224" rel="nofollow" target="_blank">Solidot 网站在7月3日的报道</a>：<br/>
-<blockquote>美国总统特朗普上周末表示将放松对美国企业向华为出售产品的限制。但究竟在多大程度上放宽？外界并不清楚。美国工业与安全局官员称华为仍然在出口管制黑名单上。美国白宫贸易顾问纳瓦罗（Peter Navarro）则表示，解禁出口仅限于“不会影响安全保障的技术含量低的产品”，“短期来说每年向华为出售不到 10 亿美元的少量半导体”。华为每年从全球企业采购 670 亿美元零部件，放宽制裁的程度可能很有限。</blockquote><br/>
+<blockquote>
+美国总统特朗普上周末表示将放松对美国企业向华为出售产品的限制。但究竟在多大程度上放宽？外界并不清楚。美国工业与安全局官员称华为仍然在出口管制黑名单上。美国白宫贸易顾问纳瓦罗（Peter Navarro）则表示，解禁出口仅限于“不会影响安全保障的技术含量低的产品”，“短期来说每年向华为出售不到 10 亿美元的少量半导体”。华为每年从全球企业采购 670 亿美元零部件，放宽制裁的程度可能很有限。</blockquote>
+<br/>
 <br/>
 <h2>★误解3：过于【夸大】川普的作用</h2>
 <br/>
@@ -71,8 +74,11 @@
 <h3>◇政界</h3>
 <br/>
 　　去年底俺发了一篇博文《<a href="../../2018/12/weekly-share-127.md">每周转载：盘点一下贸易战爆发后的【中美对抗】（2018年4季度）</a>》，其中引用了美国前任财长保尔森在11月7日的公开演讲（如下）<br/>
-<blockquote>美国民主和共和两党在对中国问题上看法一致。两党虽然在其他所有问题上看法都不一致，但对中国的负面看法高度一致。</blockquote><center><img alt="不见图 请翻墙" src="images/O640HhDzxKPAc7V2xMcjU0qOBbBoaTHmoMeiXVL9CbGNfA-x4y7n6pU7BISH0y7kTDvbPhaditoBZ1oth_rSCWOWyHAEc0C40qvI9Cjf-Ug6Ia-pCQo3xwpxafonChIQjLrEHUo1w-U"/><br/>
-（美国前任财长保尔森）</center><br/>
+<blockquote>
+美国民主和共和两党在对中国问题上看法一致。两党虽然在其他所有问题上看法都不一致，但对中国的负面看法高度一致。</blockquote>
+<center><img alt="不见图 请翻墙" src="images/O640HhDzxKPAc7V2xMcjU0qOBbBoaTHmoMeiXVL9CbGNfA-x4y7n6pU7BISH0y7kTDvbPhaditoBZ1oth_rSCWOWyHAEc0C40qvI9Cjf-Ug6Ia-pCQo3xwpxafonChIQjLrEHUo1w-U"/><br/>
+（美国前任财长保尔森）</center>
+<br/>
 　　感兴趣的同学还可以再去看看最近几年美国国会通过的若干法案：<br/>
 2017年，《<a href="https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%97%85%E8%A1%8C%E6%B3%95" rel="nofollow" target="_blank">台湾旅行法</a>》（洋文叫做“Taiwan Travel Act”）<br/>
 2018年，《<a href="https://zh.wikipedia.org/wiki/2018%E5%B9%B4%E4%BA%9E%E6%B4%B2%E5%86%8D%E4%BF%9D%E8%AD%89%E5%80%A1%E8%AD%B0%E6%B3%95" rel="nofollow" target="_blank">亚洲再保证倡议法案</a>》（洋文叫做“Asia Reassurance Initiative Act”，涉及“日本、韩国、澳大利亚、台湾”）<br/>
@@ -87,18 +93,27 @@
 　　<b>2018年6月2日</b><br/>
 　　马蒂斯参加在新加坡举办的香格里拉对话会，并发表演讲。某个与会代表问他：<q>面对中国在南中国海的军事化，美国必须要接受吗？</q><br/>
 　　马蒂斯作了如下回答：<br/>
-<blockquote>如果你在两个月前问同样的问题，我会说，我们在尝试着保持同中国的合作立场，我们邀请他们参加世界最大的军事演习，环太平洋军演。<br/>
+<blockquote>
+如果你在两个月前问同样的问题，我会说，我们在尝试着保持同中国的合作立场，我们邀请他们参加世界最大的军事演习，环太平洋军演。<br/>
 但是在4个星期前，根据我们所看到的，是该对他们说‘要承担后果’的时候了。世界最大的海军演习，将不会有中国参加。<br/>
-但这相对来说只是个小的后果，<b>我相信，未来还会有更大的后果。</b></blockquote><center><img alt="不见图 请翻墙" src="images/QAYw9yTGcBsVcs07owZs6O71sLdhSquS_bS8NKgkFr3IGL-ff-ooxnb-05bXlhuRbbLCj1-3wdCK8RDbWbyW4M_7Hvg2A9QmjHraao21Haks3XraPFrqppKIC_xdeg7YkHZwVIKC2Mo"/><br/>
-（美国国防部长马蒂斯）</center><br/>
+但这相对来说只是个小的后果，<b>我相信，未来还会有更大的后果。</b></blockquote>
+<center><img alt="不见图 请翻墙" src="images/QAYw9yTGcBsVcs07owZs6O71sLdhSquS_bS8NKgkFr3IGL-ff-ooxnb-05bXlhuRbbLCj1-3wdCK8RDbWbyW4M_7Hvg2A9QmjHraao21Haks3XraPFrqppKIC_xdeg7YkHZwVIKC2Mo"/><br/>
+（美国国防部长马蒂斯）</center>
+<br/>
 　　<b>2018年10月24日</b><br/>
 　　曾任美国驻欧洲陆军司令的本·霍吉斯（Ben Hodges）在欧洲的华沙安全论坛中称：<br/>
-<blockquote>我想，在15年内——这并非不可避免，不过极有可能——我们会与中国发生战争。</blockquote><center><img alt="不见图 请翻墙" src="images/KH8edvM--FjE8UXPoQUrNjXW7Gr6t_sPFsaZxkmwn_1-PEdTEj4yYargKMjgS0ky2439KAjaRlR_-Dg2afKyhL61KSGGyRN7DdENY8jvOhoiDVpKRE14Yv9i5mut_5IXgMpKeE_pHl8"/><br/>
-（美国驻欧洲陆军司令的本·霍吉斯）</center><br/>
+<blockquote>
+我想，在15年内——这并非不可避免，不过极有可能——我们会与中国发生战争。</blockquote>
+<center><img alt="不见图 请翻墙" src="images/KH8edvM--FjE8UXPoQUrNjXW7Gr6t_sPFsaZxkmwn_1-PEdTEj4yYargKMjgS0ky2439KAjaRlR_-Dg2afKyhL61KSGGyRN7DdENY8jvOhoiDVpKRE14Yv9i5mut_5IXgMpKeE_pHl8"/><br/>
+（美国驻欧洲陆军司令的本·霍吉斯）</center>
+<br/>
 　　<b>2018年12月11日</b><br/>
 　　美国参谋长联席会议主席邓福德上将在接受采访时表示：<br/>
-<blockquote>中国不断提升军力，在印太地区对美国在海上、天空、陆地、太空和网络的行动能力构成全方位挑战。中国对美国在这些领域的挑战将会影响美国为维护本国以及盟国利益的行动能力。</blockquote><center><img alt="不见图 请翻墙" src="images/4lbTolBvMOwuwM9DEAN2-nHDz56phGZU_ejXpoBSxm6hOpJ1A6DzA5r3JYU9TTckr3R73V2Ans0XzztPVMbdGtwnXRxAY5P-91LqvMTGcBxYR-ONuztCpSOfdCOXWS-EucA8vMAEHDA"/><br/>
-（美国参谋长联席会议主席邓福德上将）</center><br/>
+<blockquote>
+中国不断提升军力，在印太地区对美国在海上、天空、陆地、太空和网络的行动能力构成全方位挑战。中国对美国在这些领域的挑战将会影响美国为维护本国以及盟国利益的行动能力。</blockquote>
+<center><img alt="不见图 请翻墙" src="images/4lbTolBvMOwuwM9DEAN2-nHDz56phGZU_ejXpoBSxm6hOpJ1A6DzA5r3JYU9TTckr3R73V2Ans0XzztPVMbdGtwnXRxAY5P-91LqvMTGcBxYR-ONuztCpSOfdCOXWS-EucA8vMAEHDA"/><br/>
+（美国参谋长联席会议主席邓福德上将）</center>
+<br/>
 <h3>◇经济界</h3>
 <br/>
 　　<b>美国的劳工</b><br/>
@@ -139,8 +154,10 @@
 <br/>
 　　关于这方面的讨论，俺推荐<a href="https://en.wikipedia.org/wiki/Zbigniew_Brzezinski" rel="nofollow" target="_blank">布热津斯基</a>的代表作《<a href="https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/" target="_blank">大棋局——美国的首要地位及其地缘战略</a>》（<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）。<br/>
 　　布热津斯基把欧亚大陆称作【世界岛】，以下是他的原话（摘自此书第2章）<br/>
-<blockquote>今天，地缘政治问题已不再是欧亚的哪个地理部分是控制整个大陆的出发点，或陆地力量是否比海洋力量更重要。随着控制整个欧亚大陆成为取得全球主导地位的主要基础，地缘政治已从地区问题扩大到全球范围。<br/>
-目前来自欧亚大陆之外的美国拥有世界的首要地位，美国的力量直接部署在欧亚大陆的三个周边地区，并从那里对处于欧亚大陆内陆地区的国家施加强有力的影响。但正是在欧亚大陆这个全球最重要的竞赛场上，美国的一个潜在对手可能在某一天崛起。因此，在为长期掌管美国在欧亚的地缘政治利益制定美国的地缘战略时，出发点必须是特别注意最重要的赛手并恰当地评估这一地区的情势。</blockquote><br/>
+<blockquote>
+今天，地缘政治问题已不再是欧亚的哪个地理部分是控制整个大陆的出发点，或陆地力量是否比海洋力量更重要。随着控制整个欧亚大陆成为取得全球主导地位的主要基础，地缘政治已从地区问题扩大到全球范围。<br/>
+目前来自欧亚大陆之外的美国拥有世界的首要地位，美国的力量直接部署在欧亚大陆的三个周边地区，并从那里对处于欧亚大陆内陆地区的国家施加强有力的影响。但正是在欧亚大陆这个全球最重要的竞赛场上，美国的一个潜在对手可能在某一天崛起。因此，在为长期掌管美国在欧亚的地缘政治利益制定美国的地缘战略时，出发点必须是特别注意最重要的赛手并恰当地评估这一地区的情势。</blockquote>
+<br/>
 　　布热津斯基列出欧亚大陆的5个【主要对手】，分别是：俄罗斯、中国、法国、德国、印度。他认为美国要确保欧亚大陆的【势力均衡】——只要始终确保这点，美国就可以保持世界老大的地位。<br/>
 　　而如今的美国决策层认为：中国正在打破现有的势力均衡。典型的迹象就是——奥巴马时代提出了【亚太再平衡】的战略。为啥要强调“再平衡”捏？因为美国佬认为平衡已经被打破。<br/>
 <br/>
@@ -155,10 +172,12 @@
 <br/>
 　　关于这方面的讨论，俺推荐<a href="https://en.wikipedia.org/wiki/Samuel_P._Huntington" rel="nofollow" target="_blank">亨廷顿</a>的代表作《<a href="https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/" target="_blank">文明的冲突与世界秩序的重建</a>》（<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>分享了电子版）。<br/>
 　　前面介绍《大棋局》时提到欧亚大陆的5个主要竞争者，如果把这5个国家按照与美国的文化差异进行排序，会是如下：<br/>
-<blockquote>法国、德国<br/>
+<blockquote>
+法国、德国<br/>
 俄罗斯<br/>
 印度<br/>
-中国</blockquote><br/>
+中国</blockquote>
+<br/>
 　　亨廷顿在书中把“基督教新教与天主教”称作“西方基督教”，把“东正教”称作“东方基督教”。所以很显然，美国与“法/德”的文化相似性高于“俄罗斯”。（注：很多中国民众大大低估了基督教对欧洲文明史的影响）<br/>
 　　“印度文明和中国文明”完全不同于欧洲文明。但是印度曾经被英国长期殖民（注：长期殖民的影响还是很显著滴）。<br/>
 　　通过这么一比较，欧亚大陆的5个大国，中国与美国的文化差异是【最大】滴。<br/>
@@ -226,7 +245,8 @@
 　　就在前不久（2019年5月），美国众议院外交委员会的官方推特发了一条推文，用来反驳天朝外交部。其链接在“<a href="https://twitter.com/houseforeign/status/1128040864817786883" rel="nofollow" target="_blank">这里</a>”，原文如下：<br/>
 <blockquote style="font-family:Courier,monospace;">Chinese MOFA says Chairman @RepEliotEngel &amp; Ranking Member @RepMcCaul’s #Taiwan bills violate the One-China Principle.<br/>
 Let’s be clear:<br/>
-U.S. One-China policy ≠ PRC One-China principle.</blockquote>　　请注意最后一行的那个【不等于号】。<br/>
+U.S. One-China policy ≠ PRC One-China principle.</blockquote>
+　　请注意最后一行的那个【不等于号】。<br/>
 　　这条推文说得很清楚了——美国方面理解的“一中政策”（policy）与中国方面理解的“一中原则”（principle）是【不同】滴。<br/>
 　　为啥会出现如此奇葩的事情捏？<a href="https://whogovernstw.org/2016/12/13/fangyuchen17/" rel="nofollow" target="_blank">这篇文章</a>详细解释了两者的差异，俺摘录如下：<br/>
 <blockquote style="font-family:Courier,monospace;">中共堅持的「一個中國原則」One-China Principle 是指：世界上只有一個中國，中華人民共和國政府是代表中國的合法政府，台灣是中國的一部份。<br/>
@@ -237,7 +257,8 @@ U.S. One-China policy ≠ PRC One-China principle.</blockquote>　　请注意�
 所以簡單來說，美國的「一個中國政策」One-China Policy，主要內容就是承認世界上只有一個中國、中華人民共和國代表中國，但是並沒有「承認」第三個元素，而只是認識到（acknowledge）海峽兩邊的中國人所認知的台灣是中國的一部份這個立場。<br/>
 <br/>
 日前，資深退休外交官譚慎格（John J. Tkacik, Jr.）<a href="http://nationalinterest.org/feature/donald-trump-has-disrupted-years-broken-taiwan-policy-18609" rel="nofollow" target="_blank">投書媒體</a>，再次強調，其實美國的外交政策上面從來沒有正式承認過「一中原則」，反而還多次正式否認。例如在中美建交的隔年（1979）二月，時任卡特政府的副國務卿就在國會上強調：美國認知到中國人認為「台灣是中國的一部份」這個立場，但是並沒有同意這個立場<br/>
-（而且還特別強調了「沒有」：”acknowledged the Chinese position that Taiwan is part of China, but the United States has <i>not</i> [italics in original] itself agreed to this position.”）</blockquote><br/>
+（而且還特別強調了「沒有」：”acknowledged the Chinese position that Taiwan is part of China, but the United States has <i>not</i> [italics in original] itself agreed to this position.”）</blockquote>
+<br/>
 　　如果你没看懂上述这段，俺再来通俗解说一下——<br/>
 中国方面的“一中原则”包括三个要素：<br/>
 1、世界上只有一个中国<br/>
@@ -274,7 +295,8 @@ U.S. One-China policy ≠ PRC One-China principle.</blockquote>　　请注意�
 　　建议读者重新回顾一下前面“误解5”这个小节中提到的三个涉台法案和几个美军高层将领的言论。然后再思考一下：美国佬为啥要做这些？<br/>
 <br/>
 　　前面俺提到了亨廷顿的代表作《<a href="https://docs.google.com/document/d/1PqGZW-NwWLd8zct24Z2xyn1pevVP8OX4TS-HsVEvQv0/" target="_blank">文明的冲突与世界秩序的重建</a>》，此书第9章有如下一段话：<br/>
-<blockquote>如果中国作为一个霸权国家开始在东亚出现，各国会作何反应？毫无疑问，反应将会是极不相同的。既然中国已将美国确定为主要敌人，美国的主要倾向将是作为一个主要平衡者来防止中国的霸权。扮演这样的角色可能与美国防止任何一个国家在欧洲或亚洲占主导地位的传统关切是一致的。这个目标在欧洲已不再适用，但是它可能仍适用于亚洲。一个在文化、政治和经济上与美国紧密联系在一起的松散的西欧联盟，不会对美国的安全构成威胁，但是一个统一的、强大的和自我伸张的中国可能构成这种威胁。<br/>
+<blockquote>
+如果中国作为一个霸权国家开始在东亚出现，各国会作何反应？毫无疑问，反应将会是极不相同的。既然中国已将美国确定为主要敌人，美国的主要倾向将是作为一个主要平衡者来防止中国的霸权。扮演这样的角色可能与美国防止任何一个国家在欧洲或亚洲占主导地位的传统关切是一致的。这个目标在欧洲已不再适用，但是它可能仍适用于亚洲。一个在文化、政治和经济上与美国紧密联系在一起的松散的西欧联盟，不会对美国的安全构成威胁，但是一个统一的、强大的和自我伸张的中国可能构成这种威胁。<br/>
 <br/>
 在必要时进行战争以阻止中国在东亚的霸权，是否符合美国的利益？如果中国的经济继续发展，这可能是21世纪初美国政策制定者面临的唯一最严峻的安全问题。如果美国确实想阻止中国在亚洲占主导地位，它就需要根据这一目标改变与日本的结盟方向，与其他亚洲国家发展紧密的军事联系，加强在亚洲的驻军及能够用于亚洲的军事力量。如果美国不想与中国的霸权抗衡，它就需要放弃自己的普世主义，学会与中国的霸权相处，心甘情愿地眼见自己决定太平洋遥远的另一端的事务的能力显著下降。<br/>
 <br/>
@@ -307,6 +329,7 @@ U.S. One-China policy ≠ PRC One-China principle.</blockquote>　　请注意�
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
+《<a href="../../2020/11/Game-Theory.md">博弈论入门教程——从基本概念到具体案例</a>》<br/>
 《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
 《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>
