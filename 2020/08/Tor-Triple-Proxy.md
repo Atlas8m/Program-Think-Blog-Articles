@@ -3,28 +3,35 @@
 -----
 
 <div class="post-body entry-content">
+<center><img alt="不见图 请翻墙" src="images/UEJSz_vaNCCnJZ0vFEbAM0P2etlEwSFOOC-dDI9_55uIKQElo0ewEUREdbLpGvULyr_ran6G0B8oVh2rJIy4NBaOnL9znEaDeNKh15geLSNe4CVCPlbxhSRY2oYz"/></center>
+<br/>
+<h2>★引子</h2>
+<br/>
 　　最近几个月，有不少读者反馈“使用 Tor 碰到的问题”。比如说：访问 Startpage 搜索引擎，经常要输入验证码（以前不需要）。还有一些读者抱怨说，用 Tor Browser 在博客留言，比以前更困难（“人机验证”要搞很久）<br/>
 　　有鉴于此，今天专门发一篇教程，比较【系统性】地介绍若干种解决方法。<br/>
 <a name="more"></a><br/>
-<center><img alt="不见图 请翻墙" src="images/UEJSz_vaNCCnJZ0vFEbAM0P2etlEwSFOOC-dDI9_55uIKQElo0ewEUREdbLpGvULyr_ran6G0B8oVh2rJIy4NBaOnL9znEaDeNKh15geLSNe4CVCPlbxhSRY2oYz"/></center>
 <br/>
 <h2>★本文的目标读者</h2>
 <br/>
 　　本文主要针对【Tor 的重度用户】，教你如何在“全程使用 Tor”这个前提下，依然能够访问那些“对 Tor【不】友好的网站”。<br/>
 　　既然目标读者是【Tor 的重度用户】，在阅读本文之前，俺假定你已经掌握了如下这些招数：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 代理的基本概念<br/>
 如何设置浏览器的 SOCKS 代理<br/>
 Tor 的基本使用方式（可以是“Tor Browser”，也可以是“裸 Tor”）<br/>
 Tor 的基本原理（三级跳、入口节点、出口节点 ......）<br/>
 如何给 Tor 添加【前置代理】<br/>
-虚拟机的基本使用方式</blockquote>
+虚拟机的基本使用技能</blockquote>
+<br/>
 　　如果你对上述的某几项还【不】太熟悉，先看本博客的相关教程（如下）：<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
 《<a href="../../2009/09/break-through-gfw-with-tor.md">戴“套”翻墻的方法</a>》<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
 《<a href="../../2015/03/Tor-Arm.md">扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）</a>》<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
+<br/>
+　　另外，如果你的网络技能不够扎实，建议【看完】如下这个长篇教程：<br/>
+《<a href="../../2021/03/Computer-Networks-Overview.md">计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”</a>》<br/>
 <br/>
 <br/>
 <h2>★名词解释</h2>
@@ -54,9 +61,9 @@ Tor 的基本原理（三级跳、入口节点、出口节点 ......）<br/>
 　　很多网民只知道：GFW 会屏蔽“墙内对墙外的访问”。其实 GFW 的系统设计是【双向过滤】。也就是说，GFW 既可以屏蔽“墙内访问墙外”，也可以屏蔽“墙外访问墙内”。<br/>
 　　由于 Tor 是 GFW 的眼中钉，GFW 当然也会把 Tor 网络中的【出口节点】列入其“IP 黑名单”。也就是说，你用 Tor 去访问【墙内】网站，【有可能】被 GFW 拦截。<br/>
 　　为啥俺要强调【有可能】三个字？因为这里面存在几个变数——<br/>
-1. 漏网的“出口节点”<br/>
+变数1：漏网的“出口节点”<br/>
 因为 Tor 全球网络的“出口节点”会【动态】变化，GFW 的“IP 黑名单”可能会有漏网。<br/>
-2. CDN 或镜像服务器<br/>
+变数2：CDN 或镜像服务器<br/>
 有些国内网站可能“启用了 CDN”或“在墙外有镜像服务器”，那么 Tor 依然可以正常访问这些墙内网站（实际上 Tor 访问的是这些网站的【墙外】镜像或缓存）。<br/>
 <br/>
 <h3>◇情况3：某个 Tor 出口节点对网站的访问流量过大，被网站【动态】拉黑</h3>
@@ -65,7 +72,7 @@ Tor 的基本原理（三级跳、入口节点、出口节点 ......）<br/>
 很多大型网站的服务器都有一些“安全防护措施”。比如说，网站服务器会统计每个公网 IP 的访问量。一旦发现某个公网 IP（对网站）的访问量太大，就认定是某种【恶意行为】（网站服务器会怀疑——这么大的访问量来自同一个 IP，更像是某种“机器行为”，而不像是“人的行为”）<br/>
 　　举例：<br/>
 　　当你通过 Tor 代理去使用 Google 搜索，多半会在界面上看到诸如此类的提示，并要求你进行【人机验证】：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.</blockquote>
 　　为啥这种事情会发生在 Tor 身上捏？<br/>
 　　其根本的原因在于——Tor 的全球网络虽然有成百上千的节点，但大部分节点都【不是】“出口节点”。或者说，“出口节点”只占 Tor 全球网络节点数的一个较小的比例。而 Tor 的全球用户数是逐年增长，“用户数的增长”明显快于“出口节点数的增长”。<br/>
@@ -124,7 +131,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 <br/>
 　　“互联网档案馆”上的网页快照，很多都是用户手动生成滴。如果你想要看的网址比较【冷门】，“互联网档案馆”还【没有】该网址的快照，你可以自己生成一个快照，步骤如下：<br/>
 1. 打开“<a href="https://web.archive.org/" rel="nofollow" target="_blank">这个页面</a>”；<br/>
-2. 找到 <q style="background-color:#DDD;">Save Page Now</q> 字样，下面有一个编辑框，输入你想要看的网址；<br/>
+2. 找到 <q>Save Page Now</q> 字样，下面有一个编辑框，输入你想要看的网址；<br/>
 3. 点击“SAVE PAGE”按钮<br/>
 4. 稍等片刻，“互联网档案馆”就会把这个网址抓到它服务器上永久保存，同时会把该网页的快照显示给你看。<br/>
 <br/>
@@ -185,7 +192,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 　　<b>裸 Tor</b><br/>
 　　对使用“裸 Tor”的同学，可以通过 Arm/Nyx 这两款“Tor 管理界面”来切换 Tor 的三级跳线路。<br/>
 　　关于 Arm 的教程，俺在多年前（2015）已经写过一篇《<a href="../../2015/03/Tor-Arm.md">扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）</a>》。至于 Nyx，是 Arm 的衍生品——Arm 依赖 Python 2.x（不支持 Python 3.x），而 Nyx 支持 Python 3.x 版本。Arm 与 Nyx 两者的使用基本类似（都可以看上述这篇教程）。<br/>
-　　以下这张截图摘自上述那篇 Arm 使用教程，截图中的下拉菜单中有 <q style="background-color:#DDD;">New Identity</q> 这项，可以让你手动切换“三级跳的线路”。<br/>
+　　以下这张截图摘自上述那篇 Arm 使用教程，截图中的下拉菜单中有 <q>New Identity</q> 这项，可以让你手动切换“三级跳的线路”。<br/>
 <br/>
 <center><img alt="不见图 请翻墙" src="images/_I4xchBopbUJ5-QVlkBxBcbOkY01FIy4g1W5IWRIIQSleFOW_VKchV1V9NfI7bnlyofy3e_c3V8m3gEkAxna6CtOQ5kH3mSJ-3dUW0D_8nMQwG-xciBeTs3ScdvJOGwCrtMg-U5RhQ"/></center>
 <br/>
@@ -194,7 +201,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 <br/>
 <center><img alt="不见图 请翻墙" src="images/S9xUPrUTk8FUw0s9l18JQvxftEYlHAYFzP_YAo3CZz3k8GcG63NEmZ7k8HNDIOuH9PRt258MT1A03qdWWvdYmw-SmkfVcaPVq4TZ3n4Ih2pbqFyM2RNxGUadysN7Pn8k-Ic_8t55NJU"/></center>
 <br/>
-　　请注意菜单中的这两项：<q style="background-color:#DDD;">New Identity</q> ＆ <q style="background-color:#DDD;">New Tor Circuit for this Site</q>。这2项都可以用来切换 Tor 线路，两者有啥差别捏？请看 Tor 官网的帮助页面（链接在“<a href="https://support.torproject.org/tbb/tbb-29/" rel="nofollow" target="_blank">这里</a>”）。<br/>
+　　请注意菜单中的这两项：<q>New Identity</q> ＆ <q>New Tor Circuit for this Site</q>。这2项都可以用来切换 Tor 线路，两者有啥差别捏？请看 Tor 官网的帮助页面（链接在“<a href="https://support.torproject.org/tbb/tbb-29/" rel="nofollow" target="_blank">这里</a>”）。<br/>
 <br/>
 <h3>◇优点</h3>
 <br/>
@@ -336,7 +343,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 　　<b>4.1——以【传统代理】作为“后置代理”</b><br/>
 　　浏览器界面上的代理设置该该怎么填，取决于你使用哪个软件作为后置代理。不同类型的后置代理，浏览器中的代理设置也不同。<br/>
 　　俺简单列几个常见的传统代理（非 VPN），供大伙儿参考：<br/>
-<center><table border="1" cellpadding="3" cellspacing="0"><tbody>
+<center><table border="1" cellpadding="5" cellspacing="0"><tbody>
 <tr style="background:lightgrey;"><th>软件类型</th><th>【自身的】代理类型</th><th>IP 地址</th><th>端口号</th></tr>
 <tr><td>赛风</td><td>HTTP 或 SOCKS</td><td>参见“注1”</td><td>参见“注2”</td></tr>
 <tr><td>自由门</td><td>HTTP</td><td>参见“注1”</td><td>8580</td></tr>
@@ -449,6 +456,7 @@ Our systems have detected unusual traffic from your computer network. This page 
 《<a href="../../2009/09/break-through-gfw-with-tor.md">戴“套”翻墻的方法</a>》<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
 《<a href="../../2015/03/Tor-Arm.md">扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）</a>》<br/>
+《<a href="../../2021/03/Computer-Networks-Overview.md">计算机网络通讯的【系统性】扫盲——从“基本概念”到“OSI 模型”</a>》<br/>
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 《<a href="../../2012/10/system-vm-0.md">扫盲操作系统虚拟机</a>》（系列）<br/>
 《<a href="../../2013/01/cross-host-use-gfw-tool.md">多台电脑如何【共享】翻墙通道——兼谈【端口转发】的几种方法</a>》<br/>
