@@ -239,7 +239,7 @@
 <br/>
 　　物理层的协议主要有如下：<br/>
 <a href="https://en.wikipedia.org/wiki/Universal_Serial_Bus" rel="nofollow" target="_blank">USB 协议</a><br/>
-<a href="https://en.wikipedia.org/wiki/Bluetooth" rel="nofollow" target="_blank">蓝牙协议</a><br/>
+<a href="https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols" rel="nofollow" target="_blank">蓝牙协议</a>的一部分<br/>
 <a href="https://en.wikipedia.org/wiki/IEEE_802.11" rel="nofollow" target="_blank">IEEE 802.11</a> 的一部分（Wi-Fi）<br/>
 <a href="https://en.wikipedia.org/wiki/IEEE_802.16" rel="nofollow" target="_blank">IEEE 802.16</a>（WiMAX）<br/>
 <a href="https://en.wikipedia.org/wiki/IEEE_1394" rel="nofollow" target="_blank">IEEE 1394</a>（火线接口）<br/>
