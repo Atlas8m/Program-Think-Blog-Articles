@@ -22,7 +22,7 @@
 <h2>★《<a href="https://www.bbc.com/zhongwen/simp/world-53682476" rel="nofollow" target="_blank">美国净网行动开辟五大战线，科技铁幕全面脱钩中国的影响 @ BBC/英国广播公司</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的全文）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 美国国务卿蓬佩奥周三（8月5日）宣布进一步加大“净网”行动（Clean Network），目的是“维护美国资产的安全”。在宣布这一计划的公告中，蓬佩奥表示，“净网”行动旨在保护美国公民的隐私和美国公司最敏感的信息免受诸如中国共产党（CCP）等恶意行为者攻击性的入侵。<br/>
 <br/>
 他表示，为了保护美国重要的电信和科技基础设施，从“五个新的战线”着手。这也是继美国在今年4月29日宣布开始“5G网络扫清道路行动”基础之上，对中国科技公司采取的进一步限制。<br/>
@@ -57,7 +57,7 @@
 <h2>★《<a href="http://www.ftchinese.com/story/001088889?full=y" rel="nofollow" target="_blank">数字系统脱钩——TikTok 和微信禁令的真实意义 @ FT/金融时报</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的摘录，其中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 美东时间8月6日晚上，特朗普签署了两项行政命令，45天后将禁止美国人士与中国应用程序 TikTok（抖音海外版）和 WeChat（微信海外版）进行交易，理由是国家安全隐患使美国人的个人信息暴露在外。中美关系已经正式进入“后抖音时代”。<br/>
 <br/>
 抖音在美国遭到封杀威胁是中国企业出海的分水岭，因为抖音是头一次中国企业在没有政府的补贴情况下，凭着自己实力占领攻占国际市场。而微信的封令可能会直接切断中美跨境沟通工具。从今以后，中国企业即使是软件供应商，也可能在国际市场遭到打压，最可怕的是美国可能鼓捣其他国家加入反制中国的阵营。<br/>
@@ -92,7 +92,7 @@
 　　编程随想注：<br/>
 这是2019年1季度的旧文，在《<a href="../../2019/04/Security-News.md">近期安全动态和点评（2019年1季度）</a>》一文中转载过。因为刚才那篇《数字系统脱钩——TikTok 和微信禁令的真实意义》又提及此事，所以俺重贴一遍。<br/>
 　　这篇外媒报道的摘录如下：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 中國政府監控民眾網路行為的政策幾乎舉世皆知，但一名資安研究人員 Victor Gevers 揭露了一個可公開存取、且存放著中國監控民眾的資料庫，進一步向外界展示了中國的監控規模。<br/>
 <br/>
 此一可公開存取的 MongoDB 資料庫位於中國，它蒐集了3.64億個連結真實身分的網路個人檔案，紀錄他們在六大社交平台上的聊天內容或檔案傳輸行為，而且透過各省份與縣市的警察局與座落在其它17個地區的 MongoDB 資料庫同步，這些資料庫都擁有同樣的監控網路名稱，也全都允許公開存取。<br/>
@@ -112,7 +112,7 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 <h2>★《<a href="https://www.voachinese.com/a/US-China-tech-future-20200807/5535076.html" rel="nofollow" target="_blank">TikTok 的前车之鉴——威权体制将阻碍中国科技公司未来开拓世界市场 @ VOA/美国之音</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020年8月8日<br/>
 ......<br/>
 <br/>
@@ -138,7 +138,7 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 <h2>★《<a href="https://www.zaobao.com.sg/zopinions/editorial/story20200803-1074065" rel="nofollow" target="_blank">社论：美国封杀抖音预示科技战走向 @ 联合早报</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇社论的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 ......<br/>
 <br/>
 美国的这一轮行动，主要建立在两大理据之上。<br/>
@@ -161,7 +161,7 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 <h2>★《<a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20200529-%E7%BE%8E%E5%9B%BD%E7%9D%80%E6%89%8B%E9%A9%B1%E9%80%903000%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E8%83%8C%E6%99%AF%E7%95%99%E5%AD%A6%E7%94%9F" rel="nofollow" target="_blank">美国着手驱逐3000中国军方背景留学生 @ RFI/法广</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的全文）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 29/05/2020<br/>
 美国正计划取消数千名被特朗普政府认为与中国军方有联系的中国研究生的签证，此举的主要目的是打击一些中国公民涉嫌在美国大专院校从事间谍和知识产权盗窃活动。消息称，受影响的在美中国留学生的签证将被取消，并将被驱逐出境，而那些已经身在美国以外的学生将不被允许返回。每年约有36万名中国公民在美国上学，创造可价值约140亿美元的经济活动，其中大部分来自学费和其他费用。<br/>
 <br/>
@@ -181,7 +181,7 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 <h2>★《<a href="https://www.solidot.org/story?sid=65179" rel="nofollow" target="_blank">华为高管称：其自主设计的 ARM 芯片在9月15日之后无法由台积电代工 @ Solidot</a>》</h2>
 <br/>
 　　（编程随想注：以下是这篇报道的全文，其中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 华为消费者业务 CEO 余承东在中国信息化百人会上<a href="https://tech.163.com/20/0807/16/FJELNH0Q00097U7S.html" rel="nofollow" target="_blank">表示</a>，<b>目前国内半导体工艺上没有赶上，Mate 40 使用的麒麟9000芯片，很可能成为麒麟高端芯片的最后一代。</b><br/>
 “由于美国的制裁，华为领先全球的麒麟系列芯片在9月15日之后无法制造，将成为绝唱。这真的是非常大的损失，非常可惜！”虽然他没有明说，但显然指的是台积电。华为芯片主要由台积电代工，采用7纳米工艺制造，而国内芯片代工厂的工艺技术落后于台积电两代左右。<br/>
 由于美国的禁令，台积电上个月<a href="https://www.solidot.org/story?sid=64969" rel="nofollow" target="_blank">表示</a>，从5月15日起已停止接受华为的新订单，预计在9月14日停止对华为出货。</blockquote>
@@ -194,6 +194,7 @@ IS 語音服務、QQ Group、QQ Message、wangwang message（阿里旺旺）、�
 《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2021/03/weekly-share-151.md">每周转载：新疆棉花——从“人权争议”到“外交对抗”（外媒报道30多篇）</a>》<br/>
 《<a href="../../2020/09/weekly-share-148.md">每周转载：半导体行业现状——华为全面断供、中芯前景堪忧、弘芯轰然倒塌（网文14篇）</a>》<br/>
 《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>
 《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>

@@ -513,6 +513,7 @@ The more difficult question for an effective national security strategy will be 
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
+《<a href="../../2021/03/weekly-share-151.md">每周转载：新疆棉花——从“人权争议”到“外交对抗”（外媒报道30多篇）</a>》<br/>
 《<a href="../../2020/09/weekly-share-148.md">每周转载：半导体行业现状——华为全面断供、中芯前景堪忧、弘芯轰然倒塌（网文14篇）</a>》<br/>
 《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2019/05/weekly-share-130.md">每周转载：关于美国封杀华为（网文8篇）</a>》<br/>

@@ -6,16 +6,21 @@
 　　最近好几篇博文都在谈“时政话题”，今天这篇换个口味。正好2季度已经结束，汇总一下上季度的信息安全动态。<br/>
 <a name="more"></a><br/>
 <br/>
-<h2>★隐私保护</h2><br/>
-<h3>◇将近【6亿】的中国求职者简历被泄露</h3><br/>
+<h2>★隐私保护</h2>
+<br/>
+<h3>◇将近【6亿】的中国求职者简历被泄露</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60159" rel="nofollow" target="_blank">中国公司泄漏数亿简历 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">因为未加密或配置错误的 MongoDB 数据库和 ElasticSearch 服务器，中国公司泄漏了 5.9 亿简历。安全研究员 Sanyam Jain 仅在上个月就报告了 7 次数据外泄。他发现了一台 ElasticSearch 服务器包含了 3300 万用户简历。在报告给中国国家计算机应急响应小组四天后服务器才加了安全保护。另一台 ElasticSearch 服务器包含了 8480 万简历，同样是在举报给计算机应急响应小组之后下线的。<br/>
-他总共发现暴露的简历数量高达 5.90497 亿，许多简历包含了敏感的个人数据如电话号码、家庭住址，家庭和婚姻状况，某些还有身份证。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+因为未加密或配置错误的 MongoDB 数据库和 ElasticSearch 服务器，中国公司泄漏了5.9亿简历。安全研究员 Sanyam Jain 仅在上个月就报告了7次数据外泄。他发现了一台 ElasticSearch 服务器包含了3300万用户简历。在报告给中国国家计算机应急响应小组四天后服务器才加了安全保护。另一台 ElasticSearch 服务器包含了8480万简历，同样是在举报给计算机应急响应小组之后下线的。<br/>
+他总共发现暴露的简历数量高达5.90497亿，许多简历包含了敏感的个人数据如电话号码、家庭住址，家庭和婚姻状况，某些还有身份证。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　文中提到的这个安全研究员，在3~4月份发现了这么多【裸奔】的数据库，不是因为他多么牛逼，而是因为——<br/>
 越来越多的企业在搞“大数据”，相关的程序猿/程序媛虽然懂得如何操作 MongoDB 和 ES，但其中的大部分人在信息安全方面完全是【菜鸟】，连基本的安全防范意识都非常缺乏。<br/>
 　　再来说“测试人员”，绝大部分也【不】懂得如何进行【安全测试】。就算极少数测试人员，最终学会了这个，肯定转行去干“信息安全相关的工作”，怎么可能还在干“软件测试”？<br/>
 <br/>
-<h3>◇天朝警方在大城市盘查手机</h3><br/>
+<h3>◇天朝警方在大城市盘查手机</h3>
+<br/>
 《<a href="https://chinadigitaltimes.net/chinese/2019/06/%e3%80%90%e5%9b%be%e8%af%b4%e5%a4%a9%e6%9c%9d%e3%80%91%e5%8c%97%e4%ba%ac%e4%b8%8a%e6%b5%b7%e5%9c%b0%e9%93%81%e6%a3%80%e6%9f%a5%e4%b9%98%e5%ae%a2%e6%89%8b%e6%9c%ba%ef%bc%9a1984%e7%a4%be%e4%bc%9a/" rel="nofollow" target="_blank">北京上海地铁检查乘客手机——1984社会全面实现 @ 中国数字时代</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -53,9 +58,11 @@
 《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 <br/>
-<h3>◇“人脸识别”的隐私风险</h3><br/>
+<h3>◇“人脸识别”的隐私风险</h3>
+<br/>
 《<a href="http://newspaper.jcrb.com/2019/20190417/20190417_005/20190417_005_1.htm" rel="nofollow" target="_blank">“刷脸”的风险，你知道多少？ @ 检查日报</a>》<br/>
-<blockquote style="background-color:#DDD;">“人脸识别的便捷性与安全性不可兼得。”在电子科技大学信息与通信工程学院副教授曾辽原看来，不管什么技术总有其特有的使用场景，人脸识别技术应该作为核实身份的辅助手段，而不是唯一的、关键的手段，特別是在安全性要求高的领域，更不能作为单一的识别手段。<br/>
+<blockquote>
+“人脸识别的便捷性与安全性不可兼得。”在电子科技大学信息与通信工程学院副教授曾辽原看来，不管什么技术总有其特有的使用场景，人脸识别技术应该作为核实身份的辅助手段，而不是唯一的、关键的手段，特別是在安全性要求高的领域，更不能作为单一的识别手段。<br/>
 <br/>
 “个人生物信息直接采集于人体、且是个人生理特性的直接体现并唯一对应……”今年两会期间，全国人大代表、北京科学学研究中心副主任伊彤提交了一份《关于开展公民个人生物信息保护立法的建议》，伊彤认为，个人生物信息与我们平时设定的密码不同，如果密码泄露，我们可以随即换一个密码；而个人生物信息一旦泄露，就是终身泄露，会将用户个人信息安全置于更大的不确定性中，进而引发一系列风险。<br/>
 <br/>
@@ -65,24 +72,32 @@
 <br/>
 在今年2月份，中国就发生了一起广受争议的隐私安全事件——一家专注安防领域的人工智能企业被曝发生大规模数据泄露事件，超过250万人的数据可被获取，有680万条数据疑似泄露，包括身份证信息、人脸识别图像及图像拍摄地点等。据悉，该企业主要研发“人脸识别技术”，与不少部门机构都有人工智能的安防合作。<br/>
 <br/>
-“目前，个人生物信息的安全问题是不可控的。”曾辽原表示，人脸和其他生物特征数据间的一个巨大区别是，它们可以远距离起作用，这意味着我们在网上自拍或在街上走路时，都有可能不自觉交出了自己的个人生物信息。可以说，随着摄像头越来越普及，我们将真正进入“弱隐私”时代。如今，人脸、声纹、虹膜、指纹，甚至是步态都已经成为重要的个人身份信息，随着生物特征识别技术在生活中的广泛使用，极有可能成为个人隐私的泄露方式。</blockquote><br/>
+“目前，个人生物信息的安全问题是不可控的。”曾辽原表示，人脸和其他生物特征数据间的一个巨大区别是，它们可以远距离起作用，这意味着我们在网上自拍或在街上走路时，都有可能不自觉交出了自己的个人生物信息。可以说，随着摄像头越来越普及，我们将真正进入“弱隐私”时代。如今，人脸、声纹、虹膜、指纹，甚至是步态都已经成为重要的个人身份信息，随着生物特征识别技术在生活中的广泛使用，极有可能成为个人隐私的泄露方式。</blockquote>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60808" rel="nofollow" target="_blank">程序员人脸识别成人视频中的女性，引发争议 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">一位身在德国的中国程序员在新浪微博上发帖称，程序员被说成是从事色情行业的女性的接盘侠，他与其朋友因此决定把成人视频中的女性和社交网络中的女性照片进行匹配，识别其身份，帮助程序员们过滤一下避免成为接盘侠。他们花了半年时间利用 1024、91、sex8、PronHub、xvideos 等网站采集的数据对比 Facebook、instagram、TikTok、抖音、微博等社交媒体，在全球范围内成功识别了 10 多万名从事色情行业的女性（为了避免微博审查而将色情行业改为不可描述行业）。<br/>
-此举引发了热议和争议，他随后辩解称他的意图是允许女性检查她们的照片或视频是否在成人网站上，她们可以向网站发送 DMCA 删除通知要求删除照片或视频。这位叫“将记忆深埋”（或 mitboy）的用户表示将在 5 月 31 日在 gitlab 公开数据库结构。</blockquote><br/>
+<blockquote>
+一位身在德国的中国程序员在新浪微博上发帖称，程序员被说成是从事色情行业的女性的接盘侠，他与其朋友因此决定把成人视频中的女性和社交网络中的女性照片进行匹配，识别其身份，帮助程序员们过滤一下避免成为接盘侠。他们花了半年时间利用 1024、91、sex8、PronHub、xvideos 等网站采集的数据对比 Facebook、instagram、TikTok、抖音、微博等社交媒体，在全球范围内成功识别了10多万名从事色情行业的女性（为了避免微博审查而将色情行业改为不可描述行业）。<br/>
+此举引发了热议和争议，他随后辩解称他的意图是允许女性检查她们的照片或视频是否在成人网站上，她们可以向网站发送 DMCA 删除通知要求删除照片或视频。这位叫“将记忆深埋”（或 mitboy）的用户表示将在5月31日在 GitLab 公开数据库结构。</blockquote>
+<br/>
 《<a href="http://www.sohu.com/a/314145694_260616" rel="nofollow" target="_blank">旧金山成美国首个禁止面部识别技术城市 @ 搜狐</a>》<br/>
 <br/>
-<h3>◇Firefox 发布【Track THIS】——伪装你的浏览历史</h3><br/>
+<h3>◇Firefox 发布【Track THIS】——伪装你的浏览历史</h3>
+<br/>
 《<a href="https://www.cnbeta.com/articles/tech/861759.htm" rel="nofollow" target="_blank">Firefox 发布 Track THIS，故意向广告商提供虚假浏览历史 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">广告商在互联网上跟踪你的一举一动，然后它会根据你的浏览习惯向你展示针对性的广告。如何应对这种无处不在的监视资本主义？Mozilla 和 mschf 工作室提供了一种方法：把你的浏览历史打乱，创造出虚假版本提供给广告商。<br/>
+<blockquote>
+广告商在互联网上跟踪你的一举一动，然后它会根据你的浏览习惯向你展示针对性的广告。如何应对这种无处不在的监视资本主义？Mozilla 和 mschf 工作室提供了一种方法：把你的浏览历史打乱，创造出虚假版本提供给广告商。<br/>
 <br/>
 他们合作发布了 <a href="https://trackthis.link/" rel="nofollow" target="_blank">Track THIS</a>，根据你选定的角色——潮人、有钱人、世界末日预备者以及意见领袖。<br/>
-打开 100 个特定标签，你的浏览历史将会被去个性化，将让广告商不知道如何定位你。注意，加载一百个标签可能需要几分钟的时间。</blockquote><br/>
-<h3>◇Firefox 67 引入“letterboxing”功能——阻止网站的 JS 获取精确的屏幕分辨率</h3><br/>
+打开100个特定标签，你的浏览历史将会被去个性化，将让广告商不知道如何定位你。注意，加载一百个标签可能需要几分钟的时间。</blockquote>
+<br/>
+<h3>◇Firefox 67 引入“letterboxing”功能——阻止网站的 JS 获取精确的屏幕分辨率</h3>
+<br/>
 　　<b>编程随想注：</b><br/>
 　　这个功能刚引入，目前还没有提供配置界面。为了启用该功能，需要开启 Firefox 中名为 <code>privacy.resistFingerprinting.letterboxing</code> 的配置选项。<br/>
 　　如果你不懂得定制 Firefox 配置选项，请参见博文：《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》<br/>
 <br/>
-<h3>◇又有几款浏览器步 Chrome 的后尘——不让用户关闭“点击追踪”</h3><br/>
+<h3>◇又有几款浏览器步 Chrome 的后尘——不让用户关闭“点击追踪”</h3>
+<br/>
 《<a href="https://www.bleepingcomputer.com/news/software/major-browsers-to-prevent-disabling-of-click-tracking-privacy-risk/" rel="nofollow" target="_blank">Major Browsers to Prevent Disabling of Click Tracking Privacy Risk @ Bleeping Computer</a>》<br/>
 　　<b>编程随想注：</b><br/>
 　　在上一季度（2019年1季度）的《<a href="../../2019/04/Security-News.md">近期安全动态和点评</a>》中已经提到了——Chrome 移除了“点击追踪”的配置选项，使得用户【无法禁用】该特性。而这个特性是有隐私风险滴！<br/>
@@ -93,29 +108,36 @@
 　　引申阅读：<br/>
 《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
 <br/>
-<h3>◇“今日头条”【无耻】地宣称：通讯录不属于个人隐私</h3><br/>
+<h3>◇“今日头条”【无耻】地宣称：通讯录不属于个人隐私</h3>
+<br/>
 《<a href="https://www.ittime.com.cn/news/news_28223.shtml" rel="nofollow" target="_blank">今日头条称通讯录不属个人隐私遭“打脸”，98% 网民表示反对 @ IT 时代网</a>》<br/>
 　　<b>编程随想注：</b><br/>
 　　国内的流氓公司，总是一次又一次地刷新“道德下限”。<br/>
 　　该说法出自“今日头条”背后的“北京字节跳动科技有限公司”所聘请的律师。由于“今日头条 APP”擅自收集用户通讯录，遭到用户起诉。该公司聘请的律师为了打赢官司，企图证明——通讯录不属于个人隐私，并在法庭上说了一通歪理。<br/>
 　　此说法引发舆论震惊。事后，“今日头条”赶紧在官网上进行澄清，以平息众怒。<br/>
 <br/>
-<h3>◇Google 人机验证（reCaptcha）的隐私问题</h3><br/>
+<h3>◇Google 人机验证（reCaptcha）的隐私问题</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=61159" rel="nofollow" target="_blank">通过 reCaptcha v3，Google 收集大量用户隐私 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">Google 去年更新了它的 reCAPTCHA 机器人程序检测技术。reCAPTCHA 是使用最广泛的反机器人技术，reCAPTCHA v1 让用户看模糊扭曲的字符，reCAPTCHA v2 让用户从模糊的图像中间挑选出街道或商店。而最新的 reCAPTCHA v3 则使用 Google 的私有技术去学习网站的正常流量和用户行为，访问者将会根据访问来源或行为分配一个风险分数。但基于风险分数的系统是需要付出一个巨大代价的：用户的隐私。<br/>
-两位研究 reCaptcha 的安全研究人员称，Google 判断你是否是恶意用户的一种方法是你的浏览器是否已经安装了 Google cookie。同样的 cookie 允许你无需重新登录就能进入 Google 的服务。多伦多大学计算机科学博士生 Mohamed Akrout 的测试显示，相对于没有 Google 帐户的浏览器，reCaptcha v3 给了已连接 Google 帐户的浏览器更低的风险分数。如果通过 Tor 或 VPN 访问包含 reCaptcha v3 的网站，风险分数总是更高。为了让风险分数正确的工作，网站需要在每一个网页嵌入 reCaptcha v3 代码，而不仅仅是登录页面。这意味着 Google 会从你访问的每一个网页收集数据，而且没有任何视觉指示显示你正在被监视着。Google 声称它的 reCaptcha  API 会向它发送软件和硬件信息，表示这些信息只是用于对抗垃圾流量和滥用。根据统计网站 Built With 的数据，目前有超过 65 万个网站已经使用了 reCaptcha v3。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+Google 去年更新了它的 reCAPTCHA 机器人程序检测技术。reCAPTCHA 是使用最广泛的反机器人技术，reCAPTCHA v1 让用户看模糊扭曲的字符，reCAPTCHA v2 让用户从模糊的图像中间挑选出街道或商店。而最新的 reCAPTCHA v3 则使用 Google 的私有技术去学习网站的正常流量和用户行为，访问者将会根据访问来源或行为分配一个风险分数。但基于风险分数的系统是需要付出一个巨大代价的：用户的隐私。<br/>
+两位研究 reCaptcha 的安全研究人员称，Google 判断你是否是恶意用户的一种方法是你的浏览器是否已经安装了 Google cookie。同样的 cookie 允许你无需重新登录就能进入 Google 的服务。多伦多大学计算机科学博士生 Mohamed Akrout 的测试显示，相对于没有 Google 帐户的浏览器，reCaptcha v3 给了已连接 Google 帐户的浏览器更低的风险分数。如果通过 Tor 或 VPN 访问包含 reCaptcha v3 的网站，风险分数总是更高。为了让风险分数正确的工作，网站需要在每一个网页嵌入 reCaptcha v3 代码，而不仅仅是登录页面。这意味着 Google 会从你访问的每一个网页收集数据，而且没有任何视觉指示显示你正在被监视着。Google 声称它的 reCaptcha  API 会向它发送软件和硬件信息，表示这些信息只是用于对抗垃圾流量和滥用。根据统计网站 Built With 的数据，目前有超过65万个网站已经使用了 reCaptcha v3。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　经常有读者（尤其那些用 TorBrowser 的读者）抱怨说：在俺博客发表【匿名留言】很麻烦，老是一遍遍地进行“人机验证”。<br/>
 　　如果你理解了上面这篇报道，自然也就理解了——为啥 Google 的“人机验证”对 TorBrowser 用户【很不友好】。因为 TorBrowser 能有效地【消除】用户的身份信息。碰到这类 Web 客户端，reCaptcha v3 会给出更高的“风险评分”，从而让 Google 的服务器更加怀疑你是恶意用户。<br/>
 　　（注：具有【恶意行为】的用户，也会采用类似的技术手段，以消除身份信息。所以当 reCaptcha 无法从你的浏览器收集到足够的身份信息，就容易怀疑你是“恶意用户”）<br/>
 　　你可以【换一个角度】来看待这个问题——当 Google 的 reCAPTCHA 要求你一遍遍地进行人机验证，别太沮丧。这说明你的“隐私保护”还算凑合 :)<br/>
 <br/>
-<h3>◇香港警方逮捕 Telegram 群主</h3><br/>
+<h3>◇香港警方逮捕 Telegram 群主</h3>
+<br/>
 《<a href="https://www.rfa.org/mandarin/Xinwen/d-06122019114307.html" rel="nofollow" target="_blank">香港社媒群主被拘捕，仅因发送“反送中”资讯 @ RFA/自由亚洲电台</a>》<br/>
-<blockquote style="background-color:#DDD;">香港《立场新闻》6月11号报道，香港警方在当晚以“串谋公众防扰罪”为由拘捕一名 “反送中”游行 Telegram 消息群的管理员。<br/>
+<blockquote>
+香港《立场新闻》6月11号报道，香港警方在当晚以“串谋公众防扰罪”为由拘捕一名 “反送中”游行 Telegram 消息群的管理员。<br/>
 <br/>
 管理员 Ivan Ip 称，自己只是参与 Telegram 消息群“公海总谷”的管理，仅仅只是发布网上整合的中学罢课名单和参与者被捕的消息，并未到现场参加“反送中”游行，却在6月11号当天晚上遭到警方上门搜查。警察要求他交出手机，然后将他手机上的 Telegram 资料导出，拿到了群组成员的名单和消息内容，并追问他关于群组创办人和管理员的身份信息，以及“其他激进分子的行动计划”。随后警方将其拘捕，带到警署进一步审问直到第二天凌晨4时，他才获保释离开。<br/>
 <br/>
-事发前，Telegram 消息群“公海总谷”已有2、3万名群成员，在这名管理员被捕后，其他管理员已将群组解散。</blockquote>　　<b>编程随想注：</b><br/>
+事发前，Telegram 消息群“公海总谷”已有2、3万名群成员，在这名管理员被捕后，其他管理员已将群组解散。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　俺以【匿名身份】开博已经十多年。期间有很多热心读者建议俺开通 Telegram 或 WhatsApp，以便更好地与读者交流。每次都被俺婉言谢绝了。<br/>
 　　如今香港的这个案例，再次凸显出 Telegram 在【隐匿性】方面的风险——因为 Telegram 需要【绑定手机】。说得更直白一些：任何需要绑定到手机的网络工具（不管是 IM 还是邮箱），都会大大降低你的【隐匿性】。<br/>
 　　正是由于这方面的风险，当俺以“编程随想”这个身份进行网络活动时，【绝不】使用任何需要绑定手机的网络服务。<br/>
@@ -124,29 +146,37 @@
 《<a href="../../2010/04/howto-cover-your-tracks-0.md">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br/>
 <br/>
 <br/>
-<h2>★高危漏洞</h2><br/>
-<h3>◇Windows 高危漏洞（Bluekeep）——影响范围从 WinXP 到 Win2008 </h3><br/>
+<h2>★高危漏洞</h2>
+<br/>
+<h3>◇Windows 高危漏洞（Bluekeep）——影响范围从 WinXP 到 Win2008 </h3>
+<br/>
 《<a href="https://www.nsa.gov/News-Features/News-Stories/Article-View/Article/1865726/nsa-cybersecurity-advisory-patch-remote-desktop-services-on-legacy-versions-of/" rel="nofollow" target="_blank">NSA Cybersecurity Advisory: Patch Remote Desktop Services on Legacy Versions of Windows @ NSA/美国国安局</a>》<br/>
 《<a href="https://www.ithome.com/0/426/255.htm" rel="nofollow" target="_blank">微软警告：近百万 Windows PC 存在 Bluekeep 高危漏洞，需紧急修复 @ IT 之家</a>》<br/>
-<blockquote style="background-color:#DDD;">近期报告称，安全研究人员估计，有近百万台 PC 容易受到 Bluekeep 高危漏洞影响，这是一种存在于 Windows XP、Windows 7 以及 Windows Server 2003 和 Windows Server 2008 的远程桌面攻击。<br/>
+<blockquote>
+近期报告称，安全研究人员估计，有近百万台 PC 容易受到 Bluekeep 高危漏洞影响，这是一种存在于 Windows XP、Windows 7 以及 Windows Server 2003 和 Windows Server 2008 的远程桌面攻击。<br/>
 <br/>
 现在微软加入了呼吁行动的行列，要求 IT 管理员紧急修补他们的设备。<br/>
 微软警告说，“如果我们回顾 WannaCry 攻击开始前的事件，它们可以告知：未及时修复此漏洞将会面临怎样的风险。”<br/>
 <br/>
-......</blockquote>　　<b>编程随想注：</b><br/>
+......</blockquote>
+　　<b>编程随想注：</b><br/>
 　　该漏洞编号 <code>CVE-2019-0708</code>，由于此漏洞太过危险，微软【破例】向早已停止支持的 WinXP 和 Win2003 推送安全补丁。<br/>
 <br/>
-<h3>◇IE 高危漏洞</h3><br/>
+<h3>◇IE 高危漏洞</h3>
+<br/>
 《<a href="https://www.zdnet.com/article/internet-explorer-zero-day-lets-hackers-steal-files-from-windows-pcs/" rel="nofollow" target="_blank">Internet Explorer zero-day lets hackers steal files from Windows PCs @ ZDNet</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
 　　俺曾经写过一篇博文：《<a href="../../2017/04/Security-Vulnerabilities-in-Windows.md">吐槽一下 Windows 的安全漏洞——严重性超乎想象</a>》，文中专门针对 IE 写了三个章节（如下）。看完这三个章节，你或许能明白——为啥俺一直在警告“IE 的高危漏洞”。<br/>
-<blockquote style="background-color:#DDD;">★为啥 IE 浏览器的漏洞特别危险？<br/>
+<blockquote>
+★为啥 IE 浏览器的漏洞特别危险？<br/>
 ★（在 Windows 上）改用其它浏览器上网，并【不能】消除 IE 的危险性<br/>
-★更要命的是——IE 浏览器的安全漏洞还特别多</blockquote>　　这次曝光的 IE 高危漏洞与 <b>mht</b> 这种格式的处理有关。在绝大部分 Windows 中，IE 都是打开 mht 格式的默认软件（通常也是唯一的软件）。因此，就算你平常【不用】IE 上网，但只要你不小心打开了某个【恶意的】mht 文件，你的 Windows 就会中招。<br/>
+★更要命的是——IE 浏览器的安全漏洞还特别多</blockquote>
+　　这次曝光的 IE 高危漏洞与 <b>mht</b> 这种格式的处理有关。在绝大部分 Windows 中，IE 都是打开 mht 格式的默认软件（通常也是唯一的软件）。因此，就算你平常【不用】IE 上网，但只要你不小心打开了某个【恶意的】mht 文件，你的 Windows 就会中招。<br/>
 　　对于攻击者而言，他们可以有很多种方式来诱骗你打开某个恶意的 mht 文件。<br/>
 <br/>
-<h3>◇Firefox 高危漏洞</h3><br/>
+<h3>◇Firefox 高危漏洞</h3>
+<br/>
 《<a href="https://www.mozilla.org/en-US/security/advisories/mfsa2019-18/" rel="nofollow" target="_blank">Security vulnerabilities fixed in Firefox 67.0.3 and Firefox ESR 60.7.1 @ Mozilla</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -156,7 +186,8 @@
 　　以【数字货币】为目标的攻击，正在成为入侵的新趋势——攻击这类目标可以获得高额经济利益。<br/>
 　　比如：近期微软的邮件服务遭遇入侵（<a href="https://www.solidot.org/story?sid=60449" rel="nofollow" target="_blank">相关报道</a>），攻击者的目标也是为了盗取【数字货币】。<br/>
 <br/>
-<h3>◇WhatsApp 高危漏洞，可用于植入手机木马</h3><br/>
+<h3>◇WhatsApp 高危漏洞，可用于植入手机木马</h3>
+<br/>
 《<a href="https://www.ft.com/content/4da1117e-756c-11e9-be7d-6d846537acab" rel="nofollow" target="_blank">WhatsApp voice calls used to inject Israeli spyware on phones @ FT/金融时报</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -164,11 +195,14 @@
 　　攻击者向目标手机（受害者手机）发起某个特定的 WhatsApp 呼叫，即使对方没有接听也会中招。中招之后，“呼叫记录”【不会】显示在历史记录中。<br/>
 　　俺已经唠叨了无数次——如果你很在意安全性，就【不要】在手机上进行“重要的操作”或者“敏感的操作”。<br/>
 <br/>
-<h3>◇Vim（及其衍生品）曝出高危漏洞</h3><br/>
+<h3>◇Vim（及其衍生品）曝出高危漏洞</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60976" rel="nofollow" target="_blank">Vim 和 NeoVim 曝出高危漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">Vim 和 NeoVim 曝出了一个允许任意代码执行的高危漏洞。漏洞编号 CVE-2019-12735，Vim 8.1.1365 和 Neovim 0.3.6 之前的版本都受到影响。<br/>
+<blockquote>
+Vim 和 NeoVim 曝出了一个允许任意代码执行的高危漏洞。漏洞编号 CVE-2019-12735，Vim 8.1.1365 和 Neovim 0.3.6 之前的版本都受到影响。<br/>
 漏洞位于编辑器的 modelines 功能中，该功能允许用户指定窗口大小和其它定制选项，modelines 限制了沙盒内可用的指令，但安全研究员 Armin Razmjou <a href="https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md" rel="nofollow" target="_blank">发现</a> source! 指令会绕过这一保护。因此如果用户打开一个恶意文本文件，攻击者可以控制计算机。<br/>
-漏洞利用需要编辑器启用 modelines，部分 Linux 发行版默认启用了该功能，而苹果的 macOS 没有默认启用。</blockquote>　　<b>编程随想注：</b><br/>
+漏洞利用需要编辑器启用 modelines，部分 Linux 发行版默认启用了该功能，而苹果的 macOS 没有默认启用。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　漏洞发现者制作了一个 GIF 动画（链接在“<a href="https://camo.githubusercontent.com/12bccf0112d4c05f2a26ac528f92ae4fe50575fd/68747470733a2f2f692e696d6775722e636f6d2f387734747465582e676966" rel="nofollow" target="_blank">这里</a>”），示范了攻击者利用该漏洞的效果。<br/>
 　　对于该漏洞，攻击者可以制作某个特殊的 txt 文本文件。这个文件用 cat 命令查看，内容挺正常；但用（有漏洞的）vim 打开这个文本文件，就会中招。<br/>
 　　顺便吐槽一下：<br/>
@@ -176,8 +210,10 @@
 　　为了实现所谓的“文件级的个性化定制”，把【Vim 专有的】控制指令写到文本文件中。这种做法本身就很怪异（让文本文件的内容去依赖某种特定编辑器），而且还增加了【攻击面】。<br/>
 <br/>
 <br/>
-<h2>★网络与 Web</h2><br/>
-<h3>◇大名鼎鼎的 NoScript 扩展已经移植到 Chrome/Chromium</h3><br/>
+<h2>★网络与 Web</h2>
+<br/>
+<h3>◇大名鼎鼎的 NoScript 扩展已经移植到 Chrome/Chromium</h3>
+<br/>
 《<a href="https://www.zdnet.com/article/noscript-extension-officially-released-for-google-chrome/" rel="nofollow" target="_blank">NoScript extension officially released for Google Chrome @ ZDNet</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -186,10 +222,12 @@
 　　NoScript 的“Chrome 版”在功能方面大致类似于“Firefox 版”。但【少了】“XSS filter”的功能——因为这个功能用到了某个 Firefox 的 API，而这个 API 在 Chrome 上没有 :( 以下是 NoScript 作者的原话：<br/>
 <blockquote style="background-color:#DDD;font-family:Courier,monospace;">Talking about differences across supported browsers, the code base is now is exactly the same. But on Chromium, I had to disable, at least for the time being, NoScript's XSS filter.<br/>
 Chromium users will have to rely on the browser's built-in 'XSS Auditor,' which over time proved not to be as effective as NoScript's 'Injection Checker'.<br/>
-But the latter could not be ported in a sane way yet, because it requires asynchronous processing of web requests: a feature provided by Firefox only.</blockquote>　　另外，<br/>
-　　NoScript 的 10.6.x 版本已经可以兼容 Chrome/Chromium，但还只能达到 beta 品质。作者认为：等到 11.0 版本时，在兼容 Chrome/Chromium 方面就 OK 了。（截止俺写本文时，NoScript 最新版本已经升到 11.0）<br/>
+But the latter could not be ported in a sane way yet, because it requires asynchronous processing of web requests: a feature provided by Firefox only.</blockquote>
+　　另外，<br/>
+　　NoScript 的 10.6.x 版本已经可以兼容 Chrome/Chromium，但还只能达到 beta 品质。作者认为：等到11.0版本时，在兼容 Chrome/Chromium 方面就 OK 了。（注：截止俺写本文时，NoScript 最新版本已经升到11.0）<br/>
 <br/>
-<h3>◇Wi-Fi 协议的 WPA3 标准发现漏洞</h3><br/>
+<h3>◇Wi-Fi 协议的 WPA3 标准发现漏洞</h3>
+<br/>
 《<a href="https://mobile.slashdot.org/story/19/04/11/1431219/" rel="nofollow" target="_blank">Dragonblood Vulnerabilities Disclosed in Wi-Fi WPA3 Standard @ Slashdot</a>》<br/>
 《<a href="https://zhuanlan.zhihu.com/p/62188862" rel="nofollow" target="_blank">受新 Dragonblood 漏洞影响的 WPA3 Wi-Fi标准 @ 知乎专栏</a>》<br/>
 <br/>
@@ -197,10 +235,11 @@ But the latter could not be ported in a sane way yet, because it requires asynch
 　　WPA 是洋文“Wi-Fi Protected Access”的缩写。WPA3 发布于去年（2018），以替代有设计缺陷的 WPA2。但是 WPA3 才发布一年，其协议设计就被找到严重的漏洞。为啥捏？因为无线网络的协议，设计很复杂（相比【有线】网络的协议而言）。<br/>
 　　俺又要重新唠叨一下【无线网络】的风险（更大的攻击面）。<br/>
 　　无线网络的“攻击面”来自很多维度，协议的“复杂性”只是其中之一；另一个维度是【物理空间】。无线网络的本质决定了——在无线信号覆盖范围内的任何人都可以对收集到的无线信号进行分析。如果网络协议本身不严密（有漏洞），那么攻击者就能【更容易地】加以利用。<br/>
-　　在下面这篇博文中，俺还提到了：<q style="background-color:#DDD;">那些安全防范等级较高的公司或机构，其【核心网络】肯定是物理布线，而不会走 wifi 之类的无线网络。</q><br/>
+　　在下面这篇博文中，俺还提到了：<q>那些安全防范等级较高的公司或机构，其【核心网络】肯定是物理布线，而不会走 wifi 之类的无线网络。</q><br/>
 《<a href="../../2019/01/Security-Guide-for-Political-Activists.md">为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</a>》<br/>
 <br/>
-<h3>◇SACK Panic——针对 TCP 协议的拒绝服务攻击</h3><br/>
+<h3>◇SACK Panic——针对 TCP 协议的拒绝服务攻击</h3>
+<br/>
 《<a href="https://linux.slashdot.org/story/19/06/17/2018227/" rel="nofollow" target="_blank">Linux PCs, Servers, Gadgets Can Be Crashed by 'Ping of Death' Network Packets @ Slashdot</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -216,16 +255,21 @@ But the latter could not be ported in a sane way yet, because it requires asynch
 　　更多的相关介绍请参考：《<a href="https://linux-audit.com/linux-hardening-with-sysctl/" rel="nofollow" target="_blank">Linux hardening with sysctl settings @ Linux Audit</a>》<br/>
 <br/>
 <br/>
-<h2>★移动设备</h2><br/>
-<h3>◇Tor Browser for Android【正式】发布</h3><br/>
+<h2>★移动设备</h2>
+<br/>
+<h3>◇Tor Browser for Android【正式】发布</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60704" rel="nofollow" target="_blank">Tor Browser for Android 发布首个稳定版本 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">Tor 项目在 Google Play 应用商店<a href="https://blog.torproject.org/new-release-tor-browser-85" rel="nofollow" target="_blank">发布了</a> Tor Browser for Android 的首个稳定版本。<br/>
-去年 9 月发布的 alpha 版本需要先安装代理应用 Orbot 将 Tor Browser for Android 与 Tor 网络连接起来，稳定版本不再需要 Orbot。<br/>
-Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹果的限制它无法发布 Tor Browser to iOS。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+Tor 项目在 Google Play 应用商店<a href="https://blog.torproject.org/new-release-tor-browser-85" rel="nofollow" target="_blank">发布了</a> Tor Browser for Android 的首个稳定版本。<br/>
+去年9月发布的 alpha 版本需要先安装代理应用 Orbot 将 Tor Browser for Android 与 Tor 网络连接起来，稳定版本不再需要 Orbot。<br/>
+Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹果的限制它无法发布 Tor Browser to iOS。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　引申阅读：<br/>
 《<a href="../../2018/04/gfw-tor-browser-7.5-meek.md">“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理</a>》<br/>
 <br/>
-<h3>◇可破解任意型号 iPhone 的取证软件</h3><br/>
+<h3>◇可破解任意型号 iPhone 的取证软件</h3>
+<br/>
 《<a href="https://www.wired.com/story/cellebrite-ufed-ios-12-iphone-hack-android/" rel="nofollow" target="_blank">Cellebrite Now Says It Can Unlock Any iPhone for Cops @ Wired</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -236,7 +280,8 @@ Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹�
 　　【移动设备】的风险，以及警方【取证软件】对移动设备的威胁。<br/>
 　　（具体的讨论，本文前面的章节刚刚聊过，就不重复了）<br/>
 <br/>
-<h3>◇手机 App 可以监控你的【步态】</h3><br/>
+<h3>◇手机 App 可以监控你的【步态】</h3>
+<br/>
 《<a href="https://mobile.slashdot.org/story/19/05/22/2125252/" rel="nofollow" target="_blank">Phones Can Now Tell Who Is Carrying Them From Their Users' Gaits @ Slashdot</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -247,15 +292,20 @@ Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹�
 　　设想一下：如果你有两个手机，都装了某个 App，并且这个 App 具备上述风险。哪怕你【从不】在这两个手机的 App 上进行【用户登录】，哪怕你【从不】同时携带这两个手机（每次只携带其中一个）。但这两个手机上的 App 如果收集了足够多的【步态信息】并汇总到 App 的服务器，服务器上的软件根据这些数据就可以判断出——这两个物理设备属于【同一个自然人】。<br/>
 　　手机的问题在于——它包含了很丰富的【探测手段】（比如：摄像头、麦克风、陀螺仪、GPS......）。这玩意儿简直就是现代版的“电幕”（看过《<a href="https://docs.google.com/document/d/144NKDAcg-ip8rwhRtE9fdPan8ZSxqNaEh1A-sYYa7nk/" target="_blank">1984</a>》这部小说的同学应该知道俺在说啥）<br/>
 <br/>
-<h3>◇针对“Android 供应链”的攻击</h3><br/>
+<h3>◇针对“Android 供应链”的攻击</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=61139" rel="nofollow" target="_blank">Android 供应链攻击 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">Google 本月初<a href="https://security.googleblog.com/2019/06/pha-family-highlights-triada.html" rel="nofollow" target="_blank">披露</a>了一起 Android 供应链攻击，称一家供应商在数百万台设备上预装了 Triada 恶意程序去展示广告。那么 Triada 是谁开发的呢？Google 称供应商使用了野火（Yehuo 或 Blazefire）这个名字。KrebsonSecurity 对这个名字以及相关域名，域名注册邮箱进行了一番跟踪，<a href="https://krebsonsecurity.com/2019/06/tracing-the-supply-chain-attack-on-android-2/" rel="nofollow" target="_blank">认为</a> Triada 与上海野火网络科技有限公司有关，该公司的 CEO 叫楚达。公司域名 blazefire.com 的注册邮箱是 tosaka1027@gmail.com，同一邮箱被用于注册了至少 24 个域名，至少 7 个域名被用于传播 Android 恶意程序，其中两个域名被用于传播 Triada，<b>另外五个被用于传播 Hummer 木马</b>。Brian Krebs 称 Google 拒绝置评，而野火网络则没有回应。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+Google 本月初<a href="https://security.googleblog.com/2019/06/pha-family-highlights-triada.html" rel="nofollow" target="_blank">披露</a>了一起 Android 供应链攻击，称一家供应商在数百万台设备上预装了 Triada 恶意程序去展示广告。那么 Triada 是谁开发的呢？Google 称供应商使用了野火（Yehuo 或 Blazefire）这个名字。KrebsonSecurity 对这个名字以及相关域名，域名注册邮箱进行了一番跟踪，<a href="https://krebsonsecurity.com/2019/06/tracing-the-supply-chain-attack-on-android-2/" rel="nofollow" target="_blank">认为</a> Triada 与上海野火网络科技有限公司有关，该公司的 CEO 叫楚达。公司域名 blazefire.com 的注册邮箱是 tosaka1027@gmail.com，同一邮箱被用于注册了至少24个域名，至少7个域名被用于传播 Android 恶意程序，其中两个域名被用于传播 Triada，<b>另外五个被用于传播 Hummer 木马</b>。Brian Krebs 称 Google 拒绝置评，而野火网络则没有回应。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　请注意俺标注了粗体的那句。上海的这家公司，不仅利用“供应链攻击”植入广告，还传播【木马】。<br/>
 　　最近一年，“中美对抗”急剧升温。其中一个焦点就是【信息安全】。如今出了这么一个案例，典型的“授人以柄”。<br/>
 <br/>
 <br/>
-<h2>★安全工具</h2><br/>
-<h3>◇Matrix 协议发布 1.0 版本</h3><br/>
+<h2>★安全工具</h2>
+<br/>
+<h3>◇Matrix 协议发布1.0版本</h3>
+<br/>
 《<a href="https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation" rel="nofollow" target="_blank">Introducing Matrix 1.0 and the Matrix.org Foundation @ Matrix 官网</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
@@ -271,27 +321,34 @@ Tor Browser for Android 是基于 Firefox 60.7.0esr，开发者表示由于苹�
 　　法国政府基于【Matrix 协议】开发了一个 IM 工具（Tchap），用来替代“Telegram 和 WhatsApp”。并且这个 Tchap 最终会被用于法国所有政府部门。<br/>
 <br/>
 <br/>
-<h2>★硬件与物理安全</h2><br/>
-<h3>◇针对高通芯片的攻击（可盗取密钥）</h3><br/>
+<h2>★硬件与物理安全</h2>
+<br/>
+<h3>◇针对高通芯片的攻击（可盗取密钥）</h3>
+<br/>
 《<a href="https://www.zdnet.com/article/security-flaw-lets-attackers-recover-private-keys-from-qualcomm-chips/" rel="nofollow" target="_blank">Security flaw lets attackers recover private keys from Qualcomm chips @ ZDNet</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
-　　漏洞编号 <code>CVE-2018-11976</code>。这个漏洞是去年就发现的（注意看编号），据说高通到今年4月才修复此问题。<br/>
+　　此漏洞编号 <code>CVE-2018-11976</code>，去年就已经发现（注意看编号的前4位），据说高通到今年4月才修复此问题。<br/>
 　　高通芯片内有个硬件级的“安全执行环境”（洋文叫“Qualcomm Secure Execution Environment”，简称“QSEE”），专门用于进行敏感的密码学运算。<br/>
 　　NCC Group 的安全研究人员通过“旁路攻击”（也称“边信道攻击”）的手法，可以从 QSEE 中逐步地恢复出 ECDSA（Elliptic Curve Digital Signature Algorithm）的密钥。漏洞发现者（NCC Group）在今年4月发了一篇 whitepaper（链接在“<a href="https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2019/hardwarebackedhesit.pdf" rel="nofollow" target="_blank">这里</a>”）<br/>
 　　考虑到高通芯片在移动设备中【极高的使用率】。这个漏洞的打击面非常大。<br/>
 <br/>
-<h3>◇RAMBleed——新的 Row Hammer 攻击手法</h3><br/>
+<h3>◇RAMBleed——新的 Row Hammer 攻击手法</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60955" rel="nofollow" target="_blank">RAMBleed Rowhammer 攻击能窃取数据 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">一个国际研究团队发表<a href="https://rambleed.com/docs/20190603-rambleed-web.pdf" rel="nofollow" target="_blank">论文</a>，描述了 Rowhammer 比特翻转攻击的新变种，称能用于窃取内存中的数据。<br/>
-Rowhammer 攻击利用了 DRAM 临近内存单元之间电子的互相影响，当重复访问特定内存位置数百万次后，攻击者可以让该位置的值从 0 变成 1，或从 1 变成 0。新的攻击被称为 RAMBleed，通过观察 Rowhammer 诱导的比特翻转，攻击者能推断出附近 DRAM 行中的值。<br/>
-在论文中，研究人员演示了对 OpenSSH 7.9 的攻击，他们利用 RAMBleed 攻击获取了 2048 比特的 RSA 密钥。研究人员称 RAMBleed 潜在能读取储存在内存中的任何数据，表示 ECC（Error Correcting Code）内存并不能防止 RAMBleed 攻击。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+一个国际研究团队发表<a href="https://rambleed.com/docs/20190603-rambleed-web.pdf" rel="nofollow" target="_blank">论文</a>，描述了 Rowhammer 比特翻转攻击的新变种，称能用于窃取内存中的数据。<br/>
+Rowhammer 攻击利用了 DRAM 临近内存单元之间电子的互相影响，当重复访问特定内存位置数百万次后，攻击者可以让该位置的值从0变成1，或从1变成0。新的攻击被称为 RAMBleed，通过观察 Rowhammer 诱导的比特翻转，攻击者能推断出附近 DRAM 行中的值。<br/>
+在论文中，研究人员演示了对 OpenSSH 7.9 的攻击，他们利用 RAMBleed 攻击获取了2048比特的 RSA 密钥。研究人员称 RAMBleed 潜在能读取储存在内存中的任何数据，表示 ECC（Error Correcting Code）内存并不能防止 RAMBleed 攻击。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　在上一季度（2019年1季度）的《<a href="../../2019/04/Security-News.md">近期安全动态和点评</a>》中已经简单扫盲了【Row Hammer 攻击】。当时提到了“针对 Intel 处理器的新型 Spoiler 攻击”，并提到：这种“新型 Spoiler 攻击”能大大加快“Row Hammer 攻击”的效率。<br/>
 　　俺估计：未来应该会有更多“Row Hammer 攻击手法”被研究出来。<br/>
 <br/>
-<h3>◇新的攻击手法绕过 UEFI 验证，可安装底层后门</h3><br/>
+<h3>◇新的攻击手法绕过 UEFI 验证，可安装底层后门</h3>
+<br/>
 《<a href="https://www.secrss.com/articles/10631" rel="nofollow" target="_blank">绕过验证安装底层后门——英特尔固件启动验证绕过新方法 @ 安全内参</a>》<br/>
-<blockquote style="background-color:#DDD;">本周在荷兰阿姆斯特丹举行的 Hack in the Box 大会上，研究员 Peter Bosch 和 Trammell Hudson 演示了针对英特尔统一可扩展固件接口（UEFI）Boot Guard 功能的“检查时间与使用时间”（TOCTOU）漏洞攻击。<br/>
+<blockquote>
+本周在荷兰阿姆斯特丹举行的 Hack in the Box 大会上，研究员 Peter Bosch 和 Trammell Hudson 演示了针对英特尔统一可扩展固件接口（UEFI）Boot Guard 功能的“检查时间与使用时间”（TOCTOU）漏洞攻击。<br/>
 注：<br/>
 TOCTOU：“time of check and the time of use”，代码先检查某个前置条件（例如认证），然后基于这个前置条件进行某项操作，但是在检查和操作的时间间隔内条件却可能被改变，如果代码的操作与安全相关，就很可能产生漏洞。<br/>
 Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技术，旨在提供底层固件（UEFI）防护保障，使其免于被恶意篡改。<br/>
@@ -304,7 +361,8 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 <br/>
 此类物理侵害发生形式多样，比如邪恶女佣类场景——公司 CEO 之类高价值目标海外旅游去了，笔记本电脑就这么毫不设防地留在了酒店房间里，攻击者买通或自己假扮成服务生就能进去换掉 SPI 芯片。<br/>
 <br/>
-......</blockquote>　　<b>编程随想注：</b><br/>
+......</blockquote>
+　　<b>编程随想注：</b><br/>
 　　“邪恶女佣攻击”，洋文叫做“evil maid attack”，相关介绍参见维基百科的<a href="https://en.wikipedia.org/wiki/Evil_maid_attack" rel="nofollow" target="_blank">这个页面</a>。<br/>
 　　借这个案例再次提醒大伙儿（尤其是“高价值目标”），【物理安全】也很重要哦！<br/>
 　　依靠硬件漏洞实现的【bootkit】比 rootkit 更牛逼——因为其层次比操作系统【更低】。比如说，当你输入“全盘加密的解锁密码”之时，操作系统【并未】真正启动。所以操作系统内部的恶意软件【无法】截获你的“全盘加密密码”，但 bootkit 可以。<br/>
@@ -312,14 +370,18 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 　　在上述文章中也提到了【供应链攻击】。如果笔记本电脑的在另一个国家组装，可以在组装过程中【偷掉 SPI 芯片】。“中美对抗”在近期逐渐升温，美方的安全人员一直在警告【供应链攻击】。<br/>
 <br/>
 <br/>
-<h2>★密码学相关</h2><br/>
-<h3>◇是时候抛弃 SHA1 散列算法了</h3><br/>
+<h2>★密码学</h2>
+<br/>
+<h3>◇是时候抛弃 SHA1 散列算法了</h3>
+<br/>
 《<a href="https://www.solidot.org/story?sid=60610" rel="nofollow" target="_blank">SHA-1 碰撞攻击正变得切实可行 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">Google 在 2017 年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值。在 Google 的研究中，攻击所需的计算量十分惊人，用 Google 说法，它用了 6,500 年的 CPU 计算时间去完成了碰撞的第一阶段，然后用了 110 年的 GPU 计算时间完成第二阶段。<br/>
-现在，SHA-1 碰撞攻击<a href="https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/" rel="nofollow" target="_blank">正变得切实可行</a>。上周一组来自新加坡和法国的研究人员演示了首个构造前缀碰撞攻击（<a href="https://eprint.iacr.org/2019/459.pdf" rel="nofollow" target="_blank">PDF</a>），即攻击者可以自由选择两个碰撞信息的前缀。构造前缀碰撞攻击所需的计算费用不到 10 万美元，意味着伪造 SHA-1 签名文件将变得可能，这些文档可能是商业文件也可能是 TLS 证书。现在是时候完全停止使用 SHA-1 了。</blockquote>　　<b>编程随想注：</b><br/>
+<blockquote>
+Google 在2017年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值。在 Google 的研究中，攻击所需的计算量十分惊人，用 Google 说法，它用了6,500年的 CPU 计算时间去完成了碰撞的第一阶段，然后用了110年的 GPU 计算时间完成第二阶段。<br/>
+现在，SHA-1 碰撞攻击<a href="https://www.zdnet.com/article/sha-1-collision-attacks-are-now-actually-practical-and-a-looming-danger/" rel="nofollow" target="_blank">正变得切实可行</a>。上周一组来自新加坡和法国的研究人员演示了首个构造前缀碰撞攻击（<a href="https://eprint.iacr.org/2019/459.pdf" rel="nofollow" target="_blank">PDF</a>），即攻击者可以自由选择两个碰撞信息的前缀。构造前缀碰撞攻击所需的计算费用不到10万美元，意味着伪造 SHA-1 签名文件将变得可能，这些文档可能是商业文件也可能是 TLS 证书。现在是时候完全停止使用 SHA-1 了。</blockquote>
+　　<b>编程随想注：</b><br/>
 　　不懂“散列算法”的同学可以看下面这篇扫盲教程。<br/>
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
-　　在 SHA1 报废之后，可用来替代它的是 SHA256。俺估计 SHA256 在 5~10 年的跨度内应该没问题。至于更久远的未来，SHA256 也会被攻破（找到快速碰撞的算法）。<br/>
+　　在 SHA1 报废之后，可用来替代它的是 SHA256。俺估计 SHA256 在5~10年的跨度内应该没问题。至于更久远的未来，SHA256 也会被攻破（找到快速碰撞的算法）。<br/>
 <br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
@@ -333,7 +395,7 @@ Boot Guard 是英特尔第4代 Core 微架构（Haswell）中引入的一种技�
 《<a href="../../2019/02/Use-Disk-Encryption-Anti-Computer-Forensics.md">如何用“磁盘加密”对抗警方的【取证软件】和【刑讯逼供】，兼谈数据删除技巧</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md#index">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
-《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
 《<a href="../../2011/05/file-encryption-overview.md">文件加密的扫盲介绍</a>》<br/>
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>

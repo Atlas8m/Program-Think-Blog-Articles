@@ -12,7 +12,7 @@
 <h3>◇人脸识别</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66163" rel="nofollow" target="_blank">房地产公司利用人脸识别，判断客户身份 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="http://m.mp.oeeee.com/a/BAAFRD000020201122382884.html" rel="nofollow" target="_blank">南方都市报报道</a>，多家房地产公司的售楼处利用人脸识别识别客户身份，并据此给出不同的报价。<br/>
 一位中介称，每当新楼盘上市时，房企一方面会花大量费用做营销宣传，吸引潜在购房者，另一方面也会找各种卖房平台作为“分销渠道”，让渠道帮忙招徕客户。如果购房者是看了房企宣传前来买房，叫做“自然到访客户”，说明房企的营销费没白花；如果购房者被渠道中介带上门，就属于“渠道客户”，房企要给予中介一定的“好处费”，即提成佣金。过去，房企销售与渠道中介抢客户的“混战”经常发生。而人脸识别，就是为了帮助房企判断某个购房者是什么类型、是谁的客户，佣金应该发给谁。<br/>
 报道称，<b>没有被系统记录下来的首次到访客户其下单的房屋售价最低可以便宜【数十万元】</b>。</blockquote>
@@ -23,12 +23,12 @@
 <h3>◇苹果 OCSP 事故——曝光重大的隐私丑闻</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66084" rel="nofollow" target="_blank">苹果服务器宕机，导致无数应用停止响应 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 大批苹果用户在社交媒体上<a href="https://news.ycombinator.com/item?id=25074959" rel="nofollow" target="_blank">报告</a>，他们的应用程序失去响应或需要数分钟时间才能启动运行。受影响的服务还包括 Apple Pay、Messages 和 Apple TV 设备。<br/>
-导致这一大规模故障的罪魁祸首是苹果验证应用可信的公证服务器 ocsp.apple.com。OCSP 代表 Online Certificate Status Protocol stapling，从 MacOS Catalina 起，苹果用户每次打开或执行一个程序，系统都会将其哈希值发送到该服务器（苹果知道你运行的任何程序），在获得回应前应用程序会保持冻结状态。如果苹果设备没有联网，那么系统将会认为你离线，允许程序执行。今天发生的问题是 ocsp.apple.com 能 ping 通但无回应，于是系统一直尝试验证然后超时。对这一问题苹果尚未发表声明。</blockquote>
+导致这一大规模故障的罪魁祸首是苹果验证应用可信的公证服务器 ocsp.apple.com。OCSP 代表 Online Certificate Status Protocol stapling，从 MacOS Catalina 起，苹果用户每次打开或执行一个程序，系统都会将其哈希值发送到该服务器（苹果知道你运行的任何程序），在获得回应前应用程序会保持冻结状态。如果苹果设备没有联网，那么系统将会认为你离线，允许程序执行。今天发生的问题是 ocsp.apple.com 能 ping 通但无回应，于是系统一直尝试验证然后超时。对这一问题，苹果尚未发表声明。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66351" rel="nofollow" target="_blank">苹果 OCSP 事故暴露出它的不道德 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 11月中旬，苹果用户报告应用程序失去响应或需要数分钟时间才能启动运行。问题是苹果 OCSP（Online Certificate Status Protocol）服务器宕机导致的，此事暴露出苹果会收集用户在苹果系统启动的每一个应用程序的信息。苹果随后承诺停止记录用户 IP 地址，将确保所有任何收集的 IP 地址从日志里移除，明年将提供关闭的选项。<br/>
 自由软件基金会对这起事故<a href="https://www.fsf.org/news/the-problems-with-apple-arent-just-outages-they-are-injustices" rel="nofollow" target="_blank">发表文章</a>称，苹果的做法在道德上是不可接受的，认为无法确保苹果是否值得信任，是否能真正改进隐私保护，因为 OCSP 系统的基础是关于征服而不是安全。FSF 建议苹果用户转移到 GNU/Linux，因为选择自由而不是选择企业独裁主义是重新获得数字自主权控制自己的计算机的最重要一步。</blockquote>
 <br/>
@@ -38,7 +38,7 @@
 　　他的博客同时还配发了上述文章在不同语言的翻译。考虑到大部分读者不熟悉洋文，俺转贴了中译文（如下）<br/>
 <br/>
 《<a href="https://sneak.berlin/i18n/2020-11-12-your-computer-isnt-yours.zh/" rel="nofollow" target="_blank">你的电脑不属于你</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <b>你的电脑不属于你</b><br/>
 事实就是这样，你注意到了吗？<br/>
 <br/>
@@ -69,19 +69,18 @@
 　　<b>编程随想注：</b><br/>
 　　苹果公司一直宣称“很注重用户隐私”。这样的鬼话，很多人竟然信了。希望这次的“OCSP 事故”能够引起某些人的反思。<br/>
 　　此次“OCSP 事故”，有一个很多人吐槽的点——为啥 OCSP 的传输是【明文】？？？以苹果公司的研发实力，怎么会犯如此低级的错误？很多人不得不怀疑，这是有意的设计缺陷。如此一来，政府、ISP、CDN 都可以很容易监控苹果用户（知道他们在什么时间、什么地点、运行了哪种软件）。<br/>
-　　此次事故之后，Apple 的官网宣布说：<q style="background-color:#DDD;">为了进一步保护隐私，我们已停止记录与开发者 ID 证书检查相关联的 IP 地址，并将确保从日志中移除所有收集到的 IP 地址。</q><br/>
+　　此次事故之后，Apple 的官网宣布说：<q>为了进一步保护隐私，我们已停止记录与开发者 ID 证书检查相关联的 IP 地址，并将确保从日志中移除所有收集到的 IP 地址。</q><br/>
 　　这样的官方声明是【缺乏说服力】的。因为 Apple 的用户难以验证该公司所说的“不再记录 IP 地址”到底有没有落实。俺个人猜测：这只不过是敷衍用户的说辞，并让苹果用户获得某种虚假的安全感。<br/>
 <br/>
 <h3>◇Chrome 浏览器的“网站中立性”再次被质疑</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65836" rel="nofollow" target="_blank">Chrome 的网站数据设置豁免了 Google 旗下网站 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 一位扩展开发者注意到，在 Chrome 的“Cookie 和网站数据”设置中，用户可以启用“关闭 Chrome 时删除 Cookie 与网站数据”。但在启用该选项之后，Google 旗下网站如搜索和 YouTube 的数据在关闭之后并没有删除。他对其进行了一番测试，在没有登陆 Chrome 或任何 Google 服务的情况下 YouTube 等 Google 服务的数据在浏览器关闭之后仍然保留了，也就是说 Google 旗下网站默认豁免于用户设置。Google 的做法再次引发了争议。</blockquote>
 　　<b>编程随想注：</b><br/>
-　　Chrome 的【网站中立性】早就被质疑了，上一次是2018年（Chrome 69 版本发布时）。当时曝光了一个隐私丑闻，为此俺还专门写了一篇博文：<br/>
-《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
+　　Chrome 的【网站中立性】早就被质疑了，上一次是2018年（Chrome 69 版本发布时）。当时曝光了一个隐私丑闻，为此俺还专门写了一篇博文：《<a href="../../2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.md">弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想</a>》<br/>
 　　考虑到某些读者比较健忘，把当年的那篇博文中的某段话摘录如下：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 　　这个丑闻是这样滴：<br/>
 　　当你在 Chrome 69 版本上使用【清空所有 cookie】这个功能的时候，其它网站下的 cookie 确实被清空了；但是，Google 域名下的 cookie 被悄悄地保留了下来。<br/>
 　　俺要强调一下：<b>这绝对不是一个意外引入的 bug；恰恰相反，这是一个【有意实现】的功能。</b><br/>
@@ -91,21 +90,20 @@
 　　但由于 Chrome 本身是 Google 开发的，而 Google 本身又提供了大量的网络服务。在这种情况下，Chrome 就很难再做到【网站中立性】了。</blockquote>
 　　对比2018年的丑闻，两次的性质非常相似——都是 Chrome 区别对待 Google 自家的网站（尽可能保留自家网站的 cookie 和本地数据）。<br/>
 　　俺要再次提醒大伙儿：Google 绝大部分收入（90% 以上）来自于【在线广告】。为啥 Chrome 要想尽办法保留自家网站的 cookie 和本地数据捏？因为这样做更有利于 Google 收集你的行为。Google 对你的上网行为了解越多，就能更加精准地向你投放广告。Google 投放的广告越精准，它从广告客户那里收取的广告费就越多。<br/>
-　　两次丑闻曝光之后，Google 官方都辩解说：这是软件开发过程中不小心引入的 bug（程序错误）。<br/>
+　　两次丑闻曝光之后，Google 官方都辩解说：这是软件开发过程中不小心引入的 bug（编程失误）。<br/>
 　　看完俺上述的分析之后，你还会相信：这仅仅是一个 bug 吗？<br/>
 <br/>
 <h3>◇【中国】政府的审查及网络监控</h3>
 <br/>
 《<a href="https://www.bbc.com/zhongwen/simp/world-55383312" rel="nofollow" target="_blank">Zoom 一中国员工多次阻断纪念六四视频会议，遭到指控 @ BBC/英国广播公司</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 美国司法部对一名前 Zoom 公司的员工提出起诉，罪名是协助中国政府破坏一系列和“纪念六四”有关的视频会议。<br/>
 美国司法部指控 Xinjiang Jin （又名 Julien Jin，指控未提及中文名）在今年5月至6月期间至少四次阻断身在美国的人参加的会议。Jin 曾是 Zoom 在中国的一名员工。<br/>
 美国司法部已经发出逮捕令。Zoom 表示将配合政府行动。中国方面尚未对此事作出评论。<br/>
 ......</blockquote>
 <br/>
 《<a href="https://www.msnbc.com/opinion/how-zoom-violated-its-own-terms-service-access-china-s-n1252092" rel="nofollow" target="_blank">How Zoom violated its own terms of service for access to China's market @ MSNBC</a>》<br/>
-　　<b>编程随想注：以下是这篇报道其中一部分中文翻译</b><br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 ......<br/>
 北京长期利用市场准入来迫使外国科技公司满足其审查要求，无论这种审查针对的是中国还是国外。<br/>
 苹果已经从中国区的 App Store 中删除了数百个虚拟专用网（VPN）应用。在2019年，它还从 App Store 中删除了香港亲民主抗议者广泛使用的地图应用程序。LinkedIn 则审查了中国用户批评政府的内容。从（本文前面的）起诉中可以看出，Zoom 担心如果不终止（纪念六四的）会议或暂停相关帐户，那么它在中国的业务随时可能被关闭，而这个业务在其高层决策中占了很大比重。<br/>
@@ -113,34 +111,31 @@
 ......</blockquote>
 <br/>
 《<a href="https://foreignpolicy.com/2020/12/23/china-tech-giants-process-stolen-data-spy-agencies/" rel="nofollow" target="_blank">How China's Tech Giants Like Alibaba, Tencent, and Baidu Aid Spy Agencies @ ForeignPolicy/外交政策</a>》<br/>
-　　<b>编程随想注：以下是这篇报道的部分英文摘录</b><br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 ......<br/>
-<br/>
 Beijing's access to, and ability to sift through, troves of pilfered and otherwise obtained data “gives [China] vast opportunities to target people in foreign governments, private industries, and other sectors around the world—in order to collect additional information they want, such as research, technology, trade secrets, or classified information,” said William Evanina, the United States' top counterintelligence official. “Chinese technology companies play a key role in processing this bulk data and making it useful for China's intelligence services,” he said.<br/>
 <br/>
 In what amounts to intelligence tasking, China's spy services order private Chinese companies with big-data analytics capabilities to “condition”—that is, work up or process—massive sets of information, including from hacks like the massive breach of the U.S. Office of Personnel Management (OPM), that have intelligence value, according to current and former officials. This data then promptly flows back to Chinese state entities, they say.<br/>
 <br/>
 “Just imagine on any given day, if NSA and CIA are collecting information, say, on the [Chinese military], and we could bring back seven, eight, 10, 15 petabytes of data, give it to Google or Amazon or Microsoft, and say, ‘Hey, condition this on the weekend. We want all these analytics; get it back to us next week.’ That's what they do. They have Alibaba and they have Baidu. We don't have that,” a current senior intelligence official said.<br/>
-<br/>
 ......</blockquote>
 　　<b>编程随想注：</b><br/>
 　　从上述几篇报道可以看出——咱们朝廷之所以能胁迫很多大公司（包括欧美大公司），其谈判筹码在于——天朝庞大的市场。<br/>
-　　多年来俺一直唠叨：“商业公司”与“非盈利组织”有本质性差异。其中一个差异就在于此——商业公司最终还是为了赚钱，更容易屈服于政治压力。<br/>
+　　多年来俺一直唠叨：“商业公司”与“非盈利组织”有本质性差异。其中一个差异就在于此——商业公司最终还是为了赚钱，更有可能屈服于【政治压力】。<br/>
 <br/>
 <h3>◇【美国】政府的网络监控</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65975" rel="nofollow" target="_blank">丹麦军方使用 XKEYSCORE 与 NSA 合作，监听国际通信电缆 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 丹麦军方情报机构<a href="https://www.electrospaces.net/2020/10/danish-military-intelligence-uses.html" rel="nofollow" target="_blank">被控</a>使用 XKEYSCORE 与 NSA 合作监听国际通信电缆以收集外国情报。1990年代，NSA 发现经过哥本哈根的通信电缆包含了来自中国和俄罗斯等国的电话呼叫、电子邮件和短信，但没有丹麦的帮助监听通信电缆是几乎不可能的。因此 NSA 请求丹麦情报机构提供帮助，但这一请求遭到了拒绝。美国没有放弃，当时的总统克林顿直接致函丹麦首相 Poul Nyrup Rasmussen，致力于与美国建立亲密关系的首相同意了。为了确保监听尽可能的合法，丹麦政府还寻求运营通信的私营公司请求批准监听，而该公司同意了。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66080" rel="nofollow" target="_blank">美德情报机构危及了瑞士中立的名声 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 《华盛顿邮报》和德国 ZDF 今年初披露，制造加密设备的瑞士公司 Crypto AG 数十年来已被 CIA 和西德的情报机构秘密控制。Crypto AG 的加密设备被世界多个国家广泛用于保护通信安全，通过秘密控制 Crypto AG 纂改加密设备美德情报机构能更容易的破解加密信息。瑞士议会公布的报告称，通过利用瑞士公司作为一个全球间谍行动的平台，美德情报机构危及了瑞士中立的名声。<br/>
 瑞士自1815年以来一直保持中立，即使二次世界大战也是如此。对 Crypto AG 的秘密控制被 CIA 形容是情报界的世界政变。瑞士议会的报告承认，政府实际上早就知道此事。瑞士情报机构在1993年指出 Crypto AG 已经隶属于外国情报机构，出口存在漏洞的设备。瑞士情报机构被认为与 CIA 达成了正式协议分享情报。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66224" rel="nofollow" target="_blank">又一家瑞士加密设备公司被指与情报机构合作 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 在 Crypto AG 之后又一家瑞士加密设备公司<a href="https://www.swissinfo.ch/eng/second-swiss-firm-allegedly-sold-encrypted-spying-devices/46186432" rel="nofollow" target="_blank">被指与美国情报机构合作</a>。<br/>
 瑞士公司 Omnisec 是 Crypto AG 的主要竞争对手，成立于1987年，生产语音、传真和数据加密设备。加密专家 Ueli Maurer 教授曾是 Omnisec 的顾问，他透露美国情报机构 NSA 在1989年通过他接触了 Omnisec。该公司的 OC-500 系列设备出售给了多家瑞士联邦机构，而瑞士当局直到2000年代中期才知道这些设备是不安全的。多家瑞士公司购买了这些纂改过的设备，其中包括瑞士最大的银行瑞银集团。瑞银拒绝置评但表示没有迹象显示当时有敏感数据暴露。多名政客呼吁对此展开进一步的调查。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -153,7 +148,7 @@ In what amounts to intelligence tasking, China's spy services order private Chin
 <h3>◇基于 Solid 平台的用户数据存储</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66052" rel="nofollow" target="_blank">Tim Berners Lee 的创业公司发布面向企业的隐私平台 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Tim Berners-Lee 爵士创建的、旨在推广一种新网络数据架构的 Inrupt 公司推出了其<a href="http://www.ftchinese.com/story/001090154" rel="nofollow" target="_blank">首款适用于企业的 Solid 服务器</a>，供英国国家医疗服务体系（NHS）、英国广播公司（BBC）和国民西敏寺银行（NatWest Bank）等十多家合作伙伴使用。<br/>
 Inrupt 的 Solid（社交链接数据）技术是 Tim 爵士和一支 MIT 计算机科学家团队开发的，该技术使用户能够创建自己的 Pod（个人在线数据库）。这使他们能够控制自己的数据，并按照自己的意愿授予第三方应用程序访问权限。例如英国国家医疗服务体系正在运行一个试点项目，允许用户在他们自己的 Pod 上存储个人医疗数据，上传来源于其他生活类应用的数据，并与医生和护理人员共享这些信息。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -241,16 +236,16 @@ Inrupt 的 Solid（社交链接数据）技术是 Tim 爵士和一支 MIT 计算
 <h3>◇天朝御用骇客的动向</h3>
 <br/>
 《<a href="https://it.slashdot.org/story/20/11/19/0124204/" rel="nofollow" target="_blank">Massive, China-State-Funded Hack Hits Companies Around the World, Report Says @ Slashdot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Researchers have <a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage">uncovered</a> a massive hacking campaign that's <a href="https://arstechnica.com/information-technology/2020/11/massive-china-state-funded-hack-hits-companies-around-the-word-report-says/">using sophisticated tools and techniques to compromise the networks of companies around the world</a>. The hackers, most likely from a well-known group that's funded by the Chinese government, are outfitted with both off-the-shelf and custom-made tools. One such tool exploits <a href="https://it.slashdot.org/story/20/09/15/2033243/zerologon-attack-lets-hackers-take-over-enterprise-networks-within-3-seconds">Zerologon</a>, the name given to a Windows server vulnerability, patched in August, that can give attackers instant administrator privileges on vulnerable systems. Symantec uses the code name Cicada for the group, which is widely believed to be funded by the Chinese government and also carries the monikers of APT10, Stone Panda, and Cloud Hopper from other research organizations. The group has been active in espionage-style hacking since at least 2009 and almost exclusively targets companies linked to Japan. While the companies targeted in the recent campaign are located in the United States and other countries, all of them have links to Japan or Japanese companies.<br/>
 <br/>
 The attacks make extensive use of DLL side-loading, a technique that occurs when attackers replace a legitimate Windows dynamic-link library file with a malicious one. Attackers use DLL side-loading to inject malware into legitimate processes so they can keep the hack from being detected by security software. The campaign also makes use of a tool that's capable of exploiting Zerologon. Exploits work by sending a string of zeros in a series of messages that use the Netlogon protocol, which Windows servers use to let users log into networks. People with no authentication can use Zerologon to access an organization's crown jewels -- the Active Directory domain controllers that act as an all-powerful gatekeeper for all machines connected to a network. Microsoft patched the critical privilege-escalation vulnerability in August, but since then attackers have been using it to compromise organizations that have yet to install the update. Both the FBI and Department of Homeland Security have <a href="https://yro.slashdot.org/story/20/09/22/0242219/feds-issue-emergency-order-for-agencies-to-patch-critical-windows-flaw">urged that systems be patched immediately</a>. Among the machines compromised during attacks discovered by Symantec were domain controllers and file servers. Company researchers also uncovered evidence of files being exfiltrated from some of the compromised machines.</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66135" rel="nofollow" target="_blank">中国黑客组织以日本公司为攻击目标 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 赛门铁克发表<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage" rel="nofollow" target="_blank">报告</a>，披露了一个中国黑客组织使用现成和定制工具在全球范围内发动攻击，但主要目标是日本公司。赛门铁克安全研究人员使用代码的名字将该组织命名为 Cicada，其它安全公司曾将该组织命名为 APT10、Stone Panda 和 Cloud Hopper。黑客大量使用 DLL side-loading 技术，用恶意版本替代 Windows DLL 文件，向合法进程注入恶意程序躲避安全软件的监测。黑客还使用了微软最近修复的一个安全漏洞 Zerologon。赛门铁克是根据恶意程序和攻击代码中发现的数字指纹将针对不同公司和机构的攻击关联到 Cicada。黑客使用的第三阶段 DLL 有一个输出命名为 FuckYouAnti，它还使用了一个开源后门工具叫 QuasarRAT。</blockquote>
 　　<b>编程随想注：</b><br/>
-　　上述2篇都提及了【Zerologon】这个漏洞（编号 CVE-2020-1472）。最近几个月，该漏洞成为攻击者手中重要的数字化军火。<br/>
+　　上述2篇都提及了【Zerologon】这个漏洞（编号 <code>CVE-2020-1472</code>）。最近几个月，该漏洞成为攻击者手中重要的数字化军火。<br/>
 　　俺在上一季度的《<a href="../../2020/10/Security-News.md">近期安全动态和点评（2020年3季度）</a>》中提到了该漏洞——当攻击者渗透到内网之后，可以利用该漏洞搞定整个 Active Directory 的【域控制服务器】（洋文叫“Domain Controller”，简称 DC）。一旦入侵者控制了 DC，就可以玩很多花样啦。<br/>
 <br/>
 《<a href="https://www.securityweek.com/nsa-lists-25-vulnerabilities-currently-targeted-chinese-state-sponsored-hackers" rel="nofollow" target="_blank">NSA Lists 25 Vulnerabilities Currently Targeted by Chinese State-Sponsored Hackers @ Security Week</a>》<br/>
@@ -266,11 +261,11 @@ The attacks make extensive use of DLL side-loading, a technique that occurs when
 　　<b>编程随想注：</b><br/>
 　　在 Google 披露【之前】，史上最强的 DDoS 攻击发生在2016年，来自“<a href="https://en.wikipedia.org/wiki/Mirai_(malware)" rel="nofollow" target="_blank">Mirai 僵尸网络</a>”，由“匿名者”黑客组织发动。<br/>
 　　而 Google 近期（2020年10月）公布的2017年 DDoS 攻击，其规模是“Mirai DDoS”的4倍，关于这次攻击的峰值流量，Google 官方博客说：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Our infrastructure absorbed a <b>2.5 Tbps DDoS</b> in September 2017（注：“2.5 Tbps”也就是“2.5 terabits per second”）<br/>
 ......<br/>
 The attacker used several networks to spoof 167 Mpps (millions of packets per second) to 180,000 exposed CLDAP, DNS, and SMTP servers, which would then send large responses to us.（注：攻击者使用了某种“放大流量”的技巧，这是大规模 DDoS 常见的招数）</blockquote>
-　　对于攻击来源，在 Google 官方博客的另一篇文章（<a href="https://blog.google/threat-analysis-group/how-were-tackling-evolving-online-threats" rel="nofollow" target="_blank">链接</a>）提到说：<q style="background-color:#DDD;">For example in 2017, our Security Reliability Engineering team measured a record-breaking UDP amplification attack sourced out of <b>several Chinese ISPs</b> (ASNs 4134, 4837, 58453, and 9394), which remains the <a href="https://cloud.google.com/blog/products/identity-security/identifying-and-protecting-against-the-largest-ddos-attacks">largest bandwidth attack</a> of which we are aware.</q><br/>
+　　对于攻击来源，在 Google 官方博客的另一篇文章（<a href="https://blog.google/threat-analysis-group/how-were-tackling-evolving-online-threats" rel="nofollow" target="_blank">链接</a>）提到说：<q>For example in 2017, our Security Reliability Engineering team measured a record-breaking UDP amplification attack sourced out of <b>several Chinese ISPs</b> (ASNs 4134, 4837, 58453, and 9394), which remains the <a href="https://cloud.google.com/blog/products/identity-security/identifying-and-protecting-against-the-largest-ddos-attacks">largest bandwidth attack</a> of which we are aware.</q><br/>
 　　当然啦，Google 也借机炫耀说：2017年那次创纪录的 DDoS 攻击，对其网络基础设施毫无影响。<br/>
 　　在多年前的一篇博文中，俺曾经解释过：为啥长期使用 Google 的博客平台（blogspot）？其中一个很重要的原因是：Google 的服务器集群确实牛逼，能抵御【国家级】的 DDoS 攻击。<br/>
 　　很多反共网站都曾经被中共的御用骇客用 DDoS 的方式干趴下，但那些搭建在 blogspot 博客平台的反共网站一直【未受】影响。原因就在于此。<br/>
@@ -286,14 +281,14 @@ The attacker used several networks to spoof 167 Mpps (millions of packets per se
 <br/>
 　　另外，有热心读者在评论区反馈：【国行版】iPhone 内置的“恶意网站列表”由【腾讯】提供。也就是说，如果你用【国行版】iPhone 内置的 Safari 浏览器访问俺的博客，有可能也会看到“欺诈网站的警告”——<b>这是因为腾讯在搞鬼</b>。<br/>
 　　以下是苹果公司官方的声明（引用出处在“<a href="https://tech.sina.com.cn/it/2019-10-15/doc-iicezuev2229287.shtml" rel="nofollow" target="_blank">这里</a>”）。请注意俺标注粗体的部分。<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 　　苹果通过“Safari欺诈性网站警告”保护用户隐私和数据，这是一种可标记已知恶意网站的安全功能。启用此功能后，Safari会对照已知网站列表检查网站的URL，并在用户访问的URL被怀疑存在网络钓鱼等欺诈行为时显示警告。<br/>
 　　为了完成这项任务，Safari会收到来自谷歌的已知恶意网站列表，<b>对于区域代码设置为中国大陆的设备，则会收到来自腾讯的列表</b>。您访问的网站的实际URL永远不会与安全浏览提供商共享，您也可以关闭该功能。</blockquote>
 <br/>
 <h3>◇微软开始终结 IE</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65915" rel="nofollow" target="_blank">微软将强行用 Edge 而不是 IE 打开部分网站 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 从下个月（注：2020年11月）开始，微软将强行用 Edge 而不是 IE 打开部分网站。此举是微软逐步淘汰 IE 计划的一部分。微软计划在下个月释出的 Edge 87 将对所有 IE 用户启用 IE-to-Edge，其核心是一个 IE 插件 ie_to_edge_bho.dll，通过监视用户试图访问的域名，强行用 Edge 而不是 IE 打开目标网站，这些网站包括 YouTube、Instagram、Twitter、Yahoo Mail、StackOverflow、StackExchange、VK、ESPN、Chase、Hotstar、Moneygram、eharmony 和 GoDaddy 等等。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　总体而言，是个好消息。IE 实在太烂，早就该滚蛋了。但俺要提醒大伙儿：虽然微软开始终结 IE，但 IE 不会很快消失，IE 的安全风险也不会很快消失。<br/>
@@ -304,19 +299,19 @@ The attacker used several networks to spoof 167 Mpps (millions of packets per se
 <h3>◇Flash Player 寿终正寝</h3>
 <br/>
 《<a href="https://technology.solidot.org/story?sid=66526" rel="nofollow" target="_blank">Flash Player 将在 Windows 上停止工作 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
-Flash Player <a href="https://www.windowslatest.com/2020/12/27/adobe-flash-player-is-about-to-stop-working-on-windows-10/" rel="nofollow" target="_blank">即将在 Windows 10 上停止工作</a>。微软已经证实它正在开发一个自动更新从 Windows 10 中移除 Adobe Flash Player。它释出了一个可选更新，名字就叫“Update for the removal of Adobe Flash Player”。Adobe 早些时候宣布将在 2020年12月31日终止支持 Flash，2021年1月12日开始屏蔽 Player 内容运行。它从2020年10月起开始提示用户卸载 Flash Player 插件以帮助保护用户的系统安全。</blockquote>
+<blockquote>
+Flash Player <a href="https://www.windowslatest.com/2020/12/27/adobe-flash-player-is-about-to-stop-working-on-windows-10/" rel="nofollow" target="_blank">即将在 Windows 10 上停止工作</a>。微软已经证实它正在开发一个自动更新从 Windows 10 中移除 Adobe Flash Player。它释出了一个可选更新，名字就叫“Update for the removal of Adobe Flash Player”。Adobe 早些时候宣布将在2020年12月31日终止支持 Flash，2021年1月12日开始屏蔽 Player 内容运行。它从2020年10月起开始提示用户卸载 Flash Player 插件以帮助保护用户的系统安全。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65952" rel="nofollow" target="_blank">Windows 10 更新永久移除 Adobe Flash @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
-Adobe Flash 将于2020年12月31日终止支持，微软释出了更新 KB4577586 永久性移除 Adobe Flash，在移除之后用户将无法再重新安装。该更新尚未通过 Windows Server Update Service (WSUS) 推送给用户，而是需要通过 Microsoft Update Catalog 下载和安装。该补丁将在 2021 年初通过 WSUS 提供给用户。微软在 Adobe Flash 终止支持前提供卸载补丁的一个目的是让企业级用户测试在 Windows 系统移除 Flash 对企业应用的影响。</blockquote>
+<blockquote>
+Adobe Flash 将于2020年12月31日终止支持，微软释出了更新 KB4577586 永久性移除 Adobe Flash，在移除之后用户将无法再重新安装。该更新尚未通过 Windows Server Update Service (WSUS) 推送给用户，而是需要通过 Microsoft Update Catalog 下载和安装。该补丁将在2021年初通过 WSUS 提供给用户。微软在 Adobe Flash 终止支持前提供卸载补丁的一个目的是让企业级用户测试在 Windows 系统移除 Flash 对企业应用的影响。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　这也是个好消息。因为 Flash Player 如同 IE，也是一个【高危漏洞专业户】。<br/>
 　　Adobe 早就宣布了 Flash 的死期（2020年12月31日），如今终于过了。<br/>
 　　由于 Flash 流行了将近20年，网上出现了很多基于 Flash 的动画作品和游戏作品。如今 Flash Player 已死，如果你还想看这些 Flash 作品，可以参考如下这篇报道：<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66144" rel="nofollow" target="_blank">互联网档案馆存档 Flash 动画和游戏 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 互联网档案馆宣布它开发了 Flash 模拟器 Ruffle，无需 Flash 插件就能在浏览器中运行 Flash 动画和游戏作品。互联网档案馆表示它的软件库中开始加入 Flash 作品，目前收藏品已经超过1000个，用户都可以在浏览器中直接运行。Adobe Flash 将在今年年底结束支持，主流浏览器已逐渐移除了对 Flash 的支持。但 Flash 作为一种创作工具留下了很多出色的作品。</blockquote>
 <br/>
 <h3>◇Oblivious DoH 草案发布——相当于 DoH 的升级版</h3>
@@ -340,7 +335,7 @@ Adobe Flash 将于2020年12月31日终止支持，微软释出了更新 KB457758
 <h3>◇Firefox 的变化</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66119" rel="nofollow" target="_blank">Firefox 83 引入 HTTPS-Only 模式 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Mozilla 宣布即将发布的 Firefox 83 将引入新的安全功能—— HTTPS-Only 模式。启用该模式之后，Firefox 将会尝试只通过加密连接访问每一个网站，如果一个网站不支持加密连接，Firefox 将会请求用户许可。<br/>
 通过 HTTP 传输的内容是明文的，而 HTTPS（HTTP over TLS）通过建立加密连接去解决这一安全问题。今天的大部分网站都已经支持 HTTPS。Mozilla 认为是时候让用户始终使用 HTTPS。<br/>
 HTTPS-Only 模式可在“选项”——“隐私与安全”，滚动到最下面选择启用。</blockquote>
@@ -349,14 +344,14 @@ HTTPS-Only 模式可在“选项”——“隐私与安全”，滚动到最下
 　　可以看 ghacks 网站的“<a href="https://www.ghacks.net/2020/07/11/firefox-80-https-only-mode-in-settings/" rel="nofollow" target="_blank">这篇文章</a>”。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65892" rel="nofollow" target="_blank">Firefox 开始测试网站隔离功能 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Firefox <a href="https://www.zdnet.com/article/firefox-site-isolation-feature-enters-user-testing-expected-next-year/" rel="nofollow" target="_blank">完成了网站隔离功能的开发</a>，开始在 Firefox Nightly 的内部版本中启用测试。该功能预计将在明年发布的版本中提供。<br/>
 网站隔离是为了避免共享部分资源的网站纂改或窃取另一个网站的内容，因为共享资源也会共享进程。网站隔离消除了共享进程，确保不同网站运行在不同的进程上。Google 和 Mozilla 都各自开发了网站隔离功能，2017年12月发布的 Chrome 63 已经引入了网站隔离功能，而 Mozilla 的开发始于2018年4月的 Project Fission。网站隔离的一个代价就是内存开销增加，测量显示它增加了 10% 左右的内存使用。Mozilla 希望能将每个进程的内存占用减少到 10MB 左右。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　在“网站隔离”方面，Firefox 的开发进度远远慢于 Chrome/Chromium。虽然俺推荐 Firefox，但也必须承认它在功能方面有一些不足之处。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66121" rel="nofollow" target="_blank">Servo 成为 Linux 基金会托管项目 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020年8月，Mozilla 宣布裁掉四分之一员工，其中包括大幅裁减了 Web 开发文档服务 Mozilla Developer Network 团队和 Servo 引擎团队。Servo 是用 Rust 语言开发的实验性浏览器引擎项目，最近发布的 Firefox 浏览器已经整合了多个 Servo 组件。<br/>
 Mozilla 砍掉 Servo 项目让很多人吃了一惊。Servo 项目将何去何从？本周二，Servo 项目宣布该项目将由 Linux 基金会接管，它将成立一个董事会和技术指导委员会去指导项目的未来。项目的主要目标没有改变：为其它项目提供一个嵌入的高性能的、安全的渲染引擎。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -378,11 +373,11 @@ Mozilla 砍掉 Servo 项目让很多人吃了一惊。Servo 项目将何去何�
 <h3>◇哈萨克斯坦政府对【全国的】HTTPS 流量进行【中间人攻击】</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66294" rel="nofollow" target="_blank">哈萨克斯坦再次尝试拦截 HTTPS 流量 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 哈萨克斯坦以网络安全演习为由要求访问外网的首都居民安装其数字证书，一旦安装，哈萨克斯坦政府将可以发动中间人攻击拦截用户的所有 HTTPS 流量。从12月6日开始，哈萨克斯坦 ISP 如 Beeline、Tele2 和 Kcell 重定向首都用户到一个介绍如何安装政府数字证书的网站。当地居民还收到了短信通知。哈萨克斯坦用户称，如果不安装数字证书，他们将无法访问流行的外国网站如 Google、Twitter、YouTube、Facebook、Instagram 和 Netflix。这不是哈萨克斯坦第一次尝试拦截 HTTPS 流量，它在2015年12月和2019年7月先后两次尝试安装数字证书拦截 HTTPS 流量，在浏览器开发商将哈萨克斯坦数字证书列入黑名单后两次尝试都失败了。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　这已经是哈萨克斯坦政府【第二次】干这种破事儿了。第一次是在2019年7月，当时俺在《<a href="../../2019/09/Security-News.md">近期安全动态和点评（2019年3季度）</a>》点评过了。把当时写的内容再转贴如下：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 　　大伙儿上网的时候，如果网站采用的是加密的 HTTPS（技术上称作“SSL/TLS”协议），其传输流量本身是【强加密】滴，即使是政府也难以破解。<br/>
 　　通过强制安装某个 CA 证书，“哈萨克斯坦政府”就可以对国内所有网民的 HTTPS 流量进行【中间人攻击】，从而实现【解密】的目的。只要能解密，就可以监控网民的上网行为。<br/>
 　　关于这方面的技术，俺写过几篇扫盲教程，链接如下：<br/>
@@ -402,39 +397,39 @@ Mozilla 砍掉 Servo 项目让很多人吃了一惊。Servo 项目将何去何�
 《<a href="https://www.zdnet.com/article/google-releases-chrome-security-update-to-patch-actively-exploited-zero-day/" rel="nofollow" target="_blank">Google releases Chrome security update to patch actively exploited zero-day @ ZDNet</a>》<br/>
 <br/>
 　　<b>编程随想注：</b><br/>
-　　上述这篇提到的 Chrome 高危漏洞位于“FreeType 字体渲染库”（编号 CVE-2020-15999），可用于远程执行代码。<br/>
+　　上述这篇提到的 Chrome 高危漏洞位于“FreeType 字体渲染库”（编号 <code>CVE-2020-15999</code>），可用于远程执行代码。<br/>
 　　Firefox 也使用了 FreeType 这个库，也有此漏洞。但根据 Mozilla 官方的说法，只有 Linux 平台（含 Android）的 Firefox 受影响，而且在默认配置下【不会】触发该漏洞。因此该漏洞在 Firefox 修复列表中标注为中等级别。<br/>
 　　从技术上讲，攻击者可以构造某个恶意的网页，该网页引用了某个精心构造的字体文件，当 Chrome 浏览器加载该网页并用 FreeType 库渲染该字体的时候，触发攻击代码。<br/>
 　　假如你很注重安全性，为了更彻底地消除【字体】导致的攻击面，你可以定制浏览器，禁止在 Web 页面中加载外来的字体。<br/>
 　　对 Firefox 的深度定制，可以参考教程《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》；对其它浏览器的深度定制，俺暂时还没写过教程。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65987" rel="nofollow" target="_blank">Google 修复了两周内的第二个 Chrome 0day 漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 释出了 Chrome 的安全更新，修复了10个安全 bug，其中包括一个正被利用的 0day 漏洞。编号为 CVE-2020-16009 的漏洞是 Google 安全团队 Threat Analysis Group（TAG）发现的。漏洞位于 Chrome 的 JS 引擎 V8 中，Google 没有披露更多细节。它建议用户尽快升级到 v86.0.4240.183 版本。这是 Google 两周内修复的第二个 0day 漏洞，上次是在10月20日修复了 FreeType 字体渲染库的漏洞 CVE-2020-15999。</blockquote>
 <br/>
 《<a href="https://www.cnbeta.com/articles/soft/1043569.htm" rel="nofollow" target="_blank">安全人员发现七款手机浏览器易遭地址栏欺骗攻击 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 在网络安全公司 Rapid7 今天发布的一份报告中，该公司表示，它与巴基斯坦安全研究人员 Rafay Baloch 合作，披露了七个移动浏览器应用中的十个新的地址栏欺骗漏洞。<br/>
 受影响的浏览器包括：苹果 Safari、Opera Touch 和 Opera Mini 等大牌浏览器，也包括 Bolt、RITS、UC 浏览器和 Yandex 浏览器等小众应用。</blockquote>
 <br/>
 <h3>◇Windows 的漏洞</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65962" rel="nofollow" target="_blank">Google Project Zero 披露正被利用的 Windows 0day 漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 安全团队 Project Zero <a href="https://bugs.chromium.org/p/project-zero/issues/detail?id=2104" rel="nofollow" target="_blank">披露了</a>一个正被利用的 Windows 0day 漏洞。因为该漏洞正被利用，Google 安全研究人员给了微软7天时间去修复，而微软可能需要等到11月例行安全更新时才可能修复漏洞。编号为 CVE-2020-117087 的漏洞位于 Windows Kernel Cryptography Driver（cng.sys），是一个整数溢出漏洞，可用于提权，攻击者正组合该漏洞和另一个已修复的 Chrome FreeType 字体渲染库漏洞入侵存在漏洞的系统。微软发言人表示没有证据显示该漏洞正被广泛利用，该漏洞并不能影响加密功能。</blockquote>
 　　<b>编程随想注：</b><br/>
-　　（再次唠叨）前一个小节提到的 CVE-2020-15999 漏洞，对 Chrome/Chromium 威胁很大（尤其是 Windows 用户）。<br/>
-　　攻击者正在组合运用 CVE-2020-15999 ＆ CVE-2020-117087 这两个漏洞。先搞个恶意页面，用前一个漏洞爆破 Chrome/Chromium，获得【远程执行代码】的机会；然后在攻击代码中利用后一个漏洞进行提权（获取 Windows 管理员权限）。<br/>
+　　（再次唠叨）前一个小节提到的 <code>CVE-2020-15999</code> 漏洞，对 Chrome/Chromium 威胁很大（尤其是 Windows 用户）。<br/>
+　　攻击者正在组合运用 <code>CVE-2020-15999</code> ＆ <code>CVE-2020-117087</code> 这两个漏洞。先搞个恶意页面，用前一个漏洞爆破 Chrome/Chromium，获得【远程执行代码】的机会；然后在攻击代码中利用后一个漏洞进行提权（获取 Windows 管理员权限）。<br/>
 <br/>
-《<a href="https://www.solidot.org/story?sid=66069" rel="nofollow" target="_blank">微软释出补丁修复 112 个安全漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+《<a href="https://www.solidot.org/story?sid=66069" rel="nofollow" target="_blank">微软释出补丁修复112个安全漏洞 @ Solidot</a>》<br/>
+<blockquote>
 微软在周二释出了11月例行安全更新，修复了112个安全漏洞，其中17个为高危级。15个微软产品受到影响，其中包括 Microsoft Windows、Office、Internet Explorer、Edge（EdgeHTML 和 Chromium 版）、ChakraCore、Exchange Server、Dynamics、Windows Codecs Library、Azure Sphere、Windows Defender、Teams、Azure SDK、Azure DevOps 和 Visual Studio。修复的一个漏洞是 Google 安全团队 Project Zero 在上月底披露的 Windows Kernel Cryptography Driver 漏洞（CVE-2020-117087），该提权漏洞据信正被利用，因此 Google 提前进行披露。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　俺老是说 Windows 的安全性靠不住，总有些微软的粉丝不肯承认。<br/>
 　　请微软粉丝看看上述这篇报道。单单去年（2020）11月的例行更新——<b>112个安全漏洞，其中17个为高危级</b>。够吓人吧？而且其中有些漏洞在补丁还没出现之前，就已经被广泛利用了。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65846" rel="nofollow" target="_blank">黑客正尝试利用 Zerologon 向尚未打补丁的服务器植入后门 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 微软在8月的例行更新中修复了被命名为 Zerologon 的高危漏洞 CVE-2020-1472，它允许已在目标网络立足的任意攻击者完全控制 Active Directory。该漏洞可被用于发动勒索软件攻击或植入间谍软件。安全研究人员在9月中旬<a href="https://www.solidot.org/story?sid=65546" rel="nofollow" target="_blank">公开了</a>漏洞利用的 poc 代码，之后就传出黑客正在利用该漏洞的消息。<br/>
 安全研究员 Kevin Beaumont 上周披露，他设立的蜜罐探测到黑客正尝试利用 Zerologon 向尚未打补丁的服务器植入后门。攻击是利用脚本发动的，所有命令都在数秒内完成，攻击者使用用户名 sdb 和密码 jinglebell110@ 创建了账号并启用了远程桌面，即使服务器后来打上了补丁攻击者仍然能持续远程访问。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -445,8 +440,8 @@ Google 安全团队 Project Zero <a href="https://bugs.chromium.org/p/project-ze
 《<a href="https://it.slashdot.org/story/20/10/15/0043232/" rel="nofollow" target="_blank">Google and Intel Warn of High-Severity Bluetooth Security Bug In Linux @ Slashdot</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65812" rel="nofollow" target="_blank">Google 和英特尔警告 Linux 高危蓝牙漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
-Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://arstechnica.com/information-technology/2020/10/google-and-intel-warn-of-high-severity-bluetooth-security-bug-in-linux/" rel="nofollow" target="_blank">发出警告</a>。被称为 BleedingTooth 的漏洞允许攻击者在蓝牙接收范围内使用内核权限执行任意代码。漏洞位于内核蓝牙子系统 BlueZ 中，影响 Linux 2.4.6 及之后的版本。发现该漏洞的 Google 工程师 Andy Nguyen 表示会在不久之后公布细节。英特尔发布了安全公告，它推荐用户升级到 5.10，但如果内核升级不可能，可以直接安装内核补丁去解决该问题。</blockquote>
+<blockquote>
+Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://arstechnica.com/information-technology/2020/10/google-and-intel-warn-of-high-severity-bluetooth-security-bug-in-linux/" rel="nofollow" target="_blank">发出警告</a>。被称为 BleedingTooth 的漏洞允许攻击者在蓝牙接收范围内使用内核权限执行任意代码。漏洞位于内核蓝牙子系统 BlueZ 中，影响 Linux 2.4.6 及之后的版本。发现该漏洞的 Google 工程师 Andy Nguyen 表示会在不久之后公布细节。英特尔发布了安全公告，它推荐用户升级到5.10，但如果内核升级不可能，可以直接安装内核补丁去解决该问题。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　多年来俺就一直唠叨，对重要的（敏感的）设备，尽量【不】启用无线网络协议（当然也包括蓝牙）。<br/>
 　　很多天真的读者会【误以为】：蓝牙协议的物理覆盖范围很小，攻击者不可能在这么近的距离发起蓝牙攻击。<br/>
@@ -457,7 +452,7 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 《<a href="https://yro.slashdot.org/story/20/12/22/2111201/" rel="nofollow" target="_blank">DHS Is Looking Into Backdoors In Smart TVs By China's TCL @ Slashdot</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66094" rel="nofollow" target="_blank">TCL 的 Android 智能电视曝出允许远程控制的漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 两位安全研究人员<a href="https://sick.codes/extraordinary-vulnerabilities-discovered-in-tcl-android-tvs-now-worlds-3rd-largest-tv-manufacturer/" rel="nofollow" target="_blank">披露了</a> TCL 制造的 Android 智能电视的两个漏洞，TCL 已通过遥测方法在11月初修复了这些漏洞。<br/>
 其中一个漏洞编号 CVE-2020-27403 允许邻近网络的攻击者通过运行在7989端口的 web server 访问和下载敏感文件，包括大部分系统文件、照片、个人数据和连接应用的安全令牌。另一个漏洞编号 CVE-2020-28055 位于 TCL 软件中，允许本地非特权用户读写文件系统内的重要供应商资源目录，其中包括升级文件夹。受影响的 TCL 智能电视多达数百万。</blockquote>
 <br/>
@@ -487,7 +482,7 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 <h3>◇美国联手各个盟友，继续排斥华为</h3>
 <br/>
 《<a href="https://cn.reuters.com/article/brazil-us-clean-networks-1111-idCNKBS27R0BX" rel="nofollow" target="_blank">巴西政府支持美国“清洁网络”计划，但业界不愿意剔除华为 @ 路透社</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 巴西政府周二表示支持美国的“清洁网络”提议。该提议旨在建立一个全球数字联盟，将华盛顿认为的、受中国政府操纵的技术排除在外。上述表态是巴西在美国国务院经济发展与能源环境次卿柯拉克到访期间做出的。<br/>
 柯拉克建议巴西不要从中国华为技术有限公司购买 5G 电信网络设备，他称华为是“中国实施全球监视的骨干”。华为一再否认自家设备构成安全风险，并称其遵守巴西的法律，可以进行当局认为必要的测试和澄清。<br/>
 <br/>
@@ -516,15 +511,15 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 《<a href="https://yro.slashdot.org/story/20/11/24/1428238/" rel="nofollow" target="_blank">Baidu's Android Apps Caught Collecting Sensitive User Details @ Slashdot</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66192" rel="nofollow" target="_blank">百度应用收集用户敏感数据被 Google 短暂下架 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 在安全公司 Palo Alto Networks 报告百度的 Android 应用百度地图和百度搜索框收集用户敏感数据之后，Google 在其应用商店 Google Play Store 下架了这两款应用。Palo Alto Networks 称，数据收集代码包括在百度应用内的通知系统 Baidu Push SDK 中，收集的信息包括了手机型号、MAC 地址、运营商信息以及 IMSI 号码。<br/>
 百度发言人否认数据收集行为是两款应用下架的原因，称百度应用获得了用户许可去收集这些数据。Google 团队在应用中发现的其它问题导致了其下架，百度正在解决这些问题。目前百度搜索框已经恢复上架，而百度地图也将在问题解决之后很快上架。Palo Alto Networks 称，他们还在中国广告科技公司 MobTech 开发的 ShareSDK 中发现了类似的数据收集代码。</blockquote>
 <br/>
 <h3>◇三星手机自动查询域名</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65835" rel="nofollow" target="_blank">三星手机让香港澳门用户使用中国大陆的 DNS 服务 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
-香港和澳门的三星手机用户报告，三星最近释出的固件将中国大陆的公共 DNS 服务 114.114.114.114 加入到了 DNS 设置中，三星手机还被发现连接到 WIFI 时大约每分钟向包括 114 在内的所有 DNS 服务器查询一次 qq.com 的域名，即使用户没有安装任何腾讯的软件。这一消息引发了隐私方面的担忧。三星在10月中旬释出的最新固件修复了 DNS 问题，但对 qq.com 的查询没有发生改变。</blockquote>
+<blockquote>
+香港和澳门的三星手机用户报告，三星最近释出的固件将中国大陆的公共 DNS 服务114.114.114.114加入到了 DNS 设置中，三星手机还被发现连接到 WIFI 时大约每分钟向包括114在内的所有 DNS 服务器查询一次 qq.com 的域名，即使用户没有安装任何腾讯的软件。这一消息引发了隐私方面的担忧。三星在10月中旬释出的最新固件修复了 DNS 问题，但对 qq.com 的查询没有发生改变。</blockquote>
 <br/>
 <h3>◇警方破解手机，比想象中容易</h3>
 <br/>
@@ -541,7 +536,7 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 <h3>◇macOS 让50个应用默认绕过系统防火墙</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66142" rel="nofollow" target="_blank">苹果让50个应用豁免防火墙 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 从去年发布的 macOS Catalina 起，苹果将50个应用加入到了防火墙的豁免名单中，即它们的网络流量不会路由经过防火墙。这一豁免直到防火墙在 Big Sur 中重写实现该变动才生效。<br/>
 安全研究人员对此提出了<a href="https://arstechnica.com/gadgets/2020/11/apple-lets-some-big-sur-network-traffic-bypass-firewalls/" rel="nofollow" target="_blank">安全方面的担忧</a>。安全研究人员 Patrick Wardle 演示了恶意程序如何利用这一机制绕过防火墙的流量屏蔽：防火墙屏蔽所有外出流量，但恶意程序可以设法与列入豁免中的应用进行交互去实现与外界继续通信。苹果还没有给出豁免这些应用的理由，它目前也尚未对此事发表声明。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -550,8 +545,8 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 <h3>◇庞大的 AMD GPU 驱动（Linux 内核代码占比超过十分之一）</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65769" rel="nofollow" target="_blank">AMD Radeon 图形驱动占到了内核的 10.5% @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
-根据最新的 Linux 5.9 Git 树记录，内核包含有2049万行代码，以及358万行代码注释和372万空行，总共2781万行。其中 AMDGPU 图形驱动占据的比例最高。六年前，AMD 采取行动统一了 Linux 开源和闭源驱动，AMDGPU 内核驱动作为一个核心组件被开源驱动和闭源驱动共同使用。在 Linux 5.9 中，AMDGPU 驱动共有216万行代码，以及24.7万行代码注释和10.9万空行，共251万行，占到了内核的约 10.5%。相比之下，NVIDIA Nouveau 驱动只有14.9万行代码，2.56万行注释和 1.99 万空行。</blockquote>
+<blockquote>
+根据最新的 Linux 5.9 Git 树记录，内核包含有2049万行代码，以及358万行代码注释和372万空行，总共2781万行。其中 AMDGPU 图形驱动占据的比例最高。六年前，AMD 采取行动统一了 Linux 开源和闭源驱动，AMDGPU 内核驱动作为一个核心组件被开源驱动和闭源驱动共同使用。在 Linux 5.9 中，AMDGPU 驱动共有216万行代码，以及24.7万行代码注释和10.9万空行，共251万行，占到了内核的约 10.5%。相比之下，NVIDIA Nouveau 驱动只有14.9万行代码，2.56万行注释和1.99万空行。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　Linux 内核属于【宏内核】架构。再加上它的功能越来越多，其攻击面相当可观。俺的建议是：<br/>
 　　建议1<br/>
@@ -568,12 +563,12 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 <h3>◇勒索软件的新动向</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65821" rel="nofollow" target="_blank">勒索软件黑帮声称获得了育碧和 Crytek 的内部数据 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 勒索软件黑帮 Egregor 宣称获得了知名游戏公司育碧和 Crytek 的内部数据。 Egregor 在其网站上声称获得了育碧即将在本月晚些时候发布的游戏《Watch Dogs: Legion》的源代码，但暂时无法验证其声明是否属实。<br/>
 为了成功勒索受害者，流行的勒索软件在加密数据的同时会窃取数据，以防万一受害者利用备份恢复数据拒绝勒索时以泄露数据为由进行二次勒索。目前 Egregor 公开了 20MB 的育碧数据和 300MB Crytek 数据。育碧和 Crytek 拒绝置评。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66235" rel="nofollow" target="_blank">曼联遭勒索软件攻击两周后仍未完全恢复 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 英超曼联队的计算机系统在遭到勒索软件攻击两周后仍未完全恢复。Daily Mail 报道称黑客索要数百万英镑以恢复计算机系统。曼联则表示黑客已经不再控制它的计算机系统，它拒绝证实是否遭到勒索软件攻击。目前它的电邮服务器仍未上线。<br/>
 安全专家认为曼联遭到是的“双重勒索攻击”，此类攻击在一年前才开始出现，攻击者除了加密计算机系统还会窃取数据，如果第一次勒索未成功则会通过威胁公开内部数据进行二次勒索。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -584,7 +579,7 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 　　受害人第1次支付赎金是为了获得“解密硬盘数据的密钥”；而受害人第2次支付赎金相当于“封口费”。如果受害人不肯支付第2笔赎金，勒索黑帮会威胁把受害人的某些敏感且私密的数据曝光到互联网上。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66032" rel="nofollow" target="_blank">Windows 勒索软件被发现移植到 Linux 平台 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全公司卡巴斯基发现了 Windows 勒索软件 RansomEXX 的 Linux 版本。这是首次一种规模比较大的 Windows 勒索软件被发现移植到 Linux 平台。RansomEXX 是一种较新的勒索软件，是在今年6月最早发现的，主要针对能支付大额赎金的目标。它的受害者包括了得州交通部、柯尼卡美能达、政府承包商 Tyler Technologies，蒙特利尔公交系统和巴西法院系统。RansomEXX 背后的运营者创建 Linux 版本是因为今天的许多企业其内部系统运行在 Linux 而不是 Windows 上。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　这篇报道反映了另一个新趋势——勒索软件的作者开始关注 Linux 平台。<br/>
@@ -593,7 +588,7 @@ Google 和英特尔对 Linux 内核的一个高危蓝牙漏洞<a href="https://a
 <h3>◇“广告屏蔽扩展”变身“恶意扩展”</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65868" rel="nofollow" target="_blank">广告屏蔽扩展被出售之后变成恶意程序 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Hugo Xu 在流行广告扩展 uBlock Origin 基础上开发了广告屏蔽扩展 Nano Adblocker 和 Nano Defender，安装量大约有30万。18天前他表示自己没有时间维护扩展，其开发落后于上游版本几个月，因此他决定出售发布在 Google 扩展商店 Chrome Web Store 中的版本所有权，声明对新开发者的任何行动不再负责任。几天前，uBlock Origin 的开发者 Raymond Hill 透露，新开发者释出了更新加入了恶意功能。新版本会悄悄上传用户浏览数据，并操作用户的社交媒体账号给 Instagram 上的照片点赞。Google 在收到报告之后已经将扩展移除。Xu 表示发表在 Firefox 和 Microsoft Edge 扩展商店的版本不受影响。这不是第一次扩展转手之后变成了恶意程序。</blockquote>
 <br/>
 <h3>◇恶意软件使用【隐写术】规避检测</h3>
@@ -626,7 +621,7 @@ Hugo Xu 在流行广告扩展 uBlock Origin 基础上开发了广告屏蔽扩展
 　　如今调查报告出来了——典型的【社会工程学】攻击手法。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=65858" rel="nofollow" target="_blank">Twitter 黑客攻击调查报告 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 纽约州金融服务部公布了发生在7月15日的 Twitter <a href="https://www.dfs.ny.gov/Twitter_Report" rel="nofollow" target="_blank">黑客攻击调查报告</a>。<br/>
 报告称，攻击始于7月14日下午，一名或多名黑客打电话给多名 Twitter 员工，自称是 IT 部门的技术支持，声称他们收到了 VPN 问题相关的报告。在切换到远程工作之后，VPN 出问题在 Twitter 十分常见。黑客尝试将 Twitter 员工引导到一个模仿 VPN 入口的钓鱼网站，当员工在钓鱼网站输入他们的登陆凭证，黑客同时在真实的 Twitter 网站输入账号。错误输入产生了一个 Multi-Factor Authentication 通知，要求员工验证身份，部分员工这么做了。没有证据表明 Twitter 员工知道他们在帮助黑客。<br/>
 黑客利用收集到的 Twitter 员工个人信息来说服员工相信他们是真的技术支持。黑客获得的 Twitter 员工登陆凭证并不能让他们访问内部工具，但通过该账号黑客掌握了更多内部系统的信息。7月15日，黑客针对了能访问内部工具的 Twitter 员工。之后他们使用内部工具接管和出售 OG（original gangste） 账号，劫持名人的账号骗取比特币，窃取到价值超过11.8万美元的比特币。</blockquote>
@@ -635,33 +630,33 @@ Hugo Xu 在流行广告扩展 uBlock Origin 基础上开发了广告屏蔽扩展
 <h2>★硬件与物理安全</h2>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66126" rel="nofollow" target="_blank">Intel 发布 CSME 安全白皮书 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 近日 Intel 官方公开了 <a href="https://www.intel.com/content/dam/www/public/us/en/security-advisory/documents/intel-csme-security-white-paper.pdf" rel="nofollow" target="_blank">CSME 安全白皮书</a>，这本手册中对于 CSME 的硬件 SoC，软件，PCH 内部 fabric 结构，密钥管理，代码模块，CSMEv14/v15中的安全特性以及相关 Intel 官方使用的标准化术语有更多的描述，这是自这个曾经被称为“RING -3世界的恶魔”问世14年以来 Intel 官方第一次正式公开 CSME 相关的文档，以前要获取类似文档需要签署冗长的 NDA 条款。<br/>
 虽然目前公开的材料已经无法阻止自由固件黑客和安全人员的研究，但本手册一定程度上增加了 CSME 的透明度。Intel ME 历史悠久，AMT 作为第一个 Intel ME 代码模块于2006年的 Core 2 系列引入，自从2008年开始的所有 x86 机型的 PCH 都运行着至少一种 Intel ME 实现并且无法关闭，多年来自由固件社区的黑客们没有停止过对 Intel ME 的研究。由于缺乏透明度，IME 的研究工作只能通过黑盒测试和逆向工程进行，虽然这对研究工作的进展产生了极大的障碍，但持续长达数年之久的“<a href="https://hardenedlinux.github.io/system-security/2018/07/04/story_hunting_the_shadow.html" rel="nofollow" target="_blank">猎杀暗影行动</a>”还是发挥了超乎 Intel 预期的影响。<br/>
 在包含 ME 代码模块最小化，HAP 以及 INTEL-SA-00086 等漏洞的曝光后，Intel 正式给 ME 命名为 Converged Security and Management Engine（CSME）。此后 Intel 以色列团队在 BlackHat 2019 上分享了 CSME v12 的部分信息，这也是 Intel 团队唯一一次关于 CSME 的公开演讲。<br/>
 Intel ME 自从问世以来就威胁到了用户的固件自由和隐私，其本身的设计和实现缺陷也被证实，从安全性的角度，虽然 CSME v14/v15 对于自身防护有加强（注：CET 的启用程度需要逆向工程后才能确认），但其闭源且不可审计依然威胁用户的固件自由。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66181" rel="nofollow" target="_blank">AMD、英特尔和高通支持微软的 Pluton Security 处理器 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 三大 CPU 供应商 AMD、英特尔和高通将在其未来发布的处理器中整合微软的 Pluton 安全处理器。Pluton 安全处理器已被用于 Xbox 主机和微软的 Azure Sphere 物联网生态系统，在功能上类似 Trusted Platform Module（TPM）。TPM 用于储存安全密钥和其它验证系统完整性的元数据。微软称，随着时间的推移，TPM 越来越多的成为现代安全设计的薄弱环节，因为物理访问系统将让 TPM 变得毫无用处。而 Pluton 是直接整合在芯片上的，将能大幅减少物理攻击面。</blockquote>
 <br/>
 <br/>
 <h2>★安全编程</h2>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66221" rel="nofollow" target="_blank">AWS 雇佣 Rust 编译器团队负责人 Felix Klock @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 亚马逊云服务 AWS 雇佣了 Rust 编译器团队负责人之一的 Felix Klock。AWS 开源团队还表达了对 Rust 语言的强烈兴趣。<br/>
 亚马逊开发者称他们越来越多的用 Rust 构建关键基础设施如 Firecracker VMM，因为它的开箱即用功能减少了满足公司高安全标准所需要的时间和精力，同时又能提供类似 C 和 C++ 的运行时性能。AWS 对 Rust 语言是如此喜欢以至于它还赞助了该项目，甚至还开始雇佣了 Rust 和 Tokio 开发者确保他们拥有进一步改进 Rust 所需的时间和资源。亚马逊雇佣的知名 Rust 开发者除了 Felix Klock 还有 Sean McArthur、Lucio Franco 和 Jon Gjengset。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　最近2年的《近期安全动态和点评》，但凡说到“安全编程”这个话题，大部分都与 Rust 有关。<br/>
-　　上述这篇表达了亚马逊对 Rust 语言的热情。另外，在《<a href="../../2020/07/Security-News.md">近期安全动态和点评（2020年2季度）</a>》的某篇报道中引用了微软云计算负责人的话：<q style="background-color:#DDD;">微软正逐渐转移到 Rust 去构建基础设施软件</q>。<br/>
+　　上述这篇表达了亚马逊对 Rust 语言的热情。另外，在《<a href="../../2020/07/Security-News.md">近期安全动态和点评（2020年2季度）</a>》的某篇报道中引用了微软云计算负责人的话：<q>微软正逐渐转移到 Rust 去构建基础设施软件</q>。<br/>
 　　也就是说，云计算三大巨头中，已经有两个热情拥抱 Rust 编程语言。至于另外一个巨头 Google，对 Rust 的热情一直不高。俺个人猜测：Google 更器重它的亲儿子 Go 语言。Go 与 Rust 的定位存在一定程度的重叠，从某种意义上，两者有竞争关系。<br/>
 <br/>
 <br/>
 <h2>★暗网</h2>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66047" rel="nofollow" target="_blank">暗网市场的群体动力学 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 暗网市场是使用比特币等数字货币交易违禁商品的网站。因为暗网市场是不受监管的，也就不提供任何用户保护。因而执法机构的关闭和运营者携款逃跑会对市场的参与者造成巨大的损失。<br/>
 但发表在《Scientific Reports》的<a href="https://www.nature.com/articles/s41598-020-74416-y" rel="nofollow" target="_blank">一项研究</a>发现，尽管有许多缺陷，暗网市场是非常有弹性的。2013年 FBI 关闭了丝绸之路，同年 Sheep Marketplace 的管理员带着用户的1亿美元销声匿迹，在这些事件之后，暗网市场采用新的技术去减轻关闭对消费者造成的损失。围绕暗网市场的不确定性并没有阻止用户和市场收入的稳定增长。对3800万暗网用户的1.33亿次比特币交易的分析发现，暗网市场关闭主要影响低活跃用户，高活跃用户会迅速从一个网站迁移到另一个网站。当一个受欢迎市场关闭，他们会跟随彼此迁移到另一个受欢迎市场。</blockquote>
 　　<b>编程随想注：</b><br/>

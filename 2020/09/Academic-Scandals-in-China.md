@@ -168,6 +168,7 @@
 　　这款操作系统诞生于2001年，从2004年发布的2.0版本开始，号称是【自主知识产权】。<br/>
 　　根据其官网的介绍，该操作系统出身显赫——由国防科技大学牵头，再加上一堆大牌的高校/机构（中科大、中软公司、联想公司、浪潮集团、等等）联手研制，并入选“国家863计划重大攻关科研项目”。<br/>
 　　为了证明朝廷对该操作系统的重视程度，特引用朝廷官网（中国政府网）的报道如下：<br/>
+<br/>
 《<a href="http://www.gov.cn/fwxx/kp/2006-12/05/content_461334.htm" rel="nofollow" target="_blank">我国研制成功具有自主知识产权的服务器操作系统 @ 中国政府网</a>》（<a href="https://web.archive.org/web/20190424002635/http://www.gov.cn/fwxx/kp/2006-12/05/content_461334.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
 <blockquote style="background-color:#DDD;">
 ......<br/>
@@ -175,8 +176,9 @@
 <br/>
 这项国家863计划软件重大专项课题“服务器操作系统内核”，历时4年，由国防科技大学牵头完成。<b>“银河麒麟”操作系统由自主研发的基本内核层</b>和基于 FreeBSD（一种 Unix 操作系统）改造的系统服务层组成，是一个拥有层次式内核、安全等级达到结构化保护级、能支持多种微处理器和多种计算机体系结构，并与 Linux 目标代码兼容的国产服务器操作系统。<br/>
 ......</blockquote>
-　　请注意俺加粗体的那句话。这个“银河麒麟”能入选“国家863重大攻关项目”的关键在于——它号称自己的【内核】是自主研发滴。<br/>
+　　请注意俺加粗体的那句话。这个“银河麒麟”能入选“国家863重大攻关项目”的关键在于——它号称【系统内核】是自主研发滴。<br/>
 　　但其实捏？看如下这篇新浪的报道就知道——所谓的“自主研发内核”纯粹就是【骗局】，用来忽悠国家的科研经费。<br/>
+<br/>
 《<a href="http://tech.sina.com.cn/it/2006-05-17/1037941352.shtml" rel="nofollow" target="_blank">麒麟操作系统涉嫌抄袭，“自主研发”说法遭质疑 @ 新浪</a>》（<a href="https://web.archive.org/web/20150327150348/http://tech.sina.com.cn/it/2006-05-17/1037941352.shtml" rel="nofollow" target="_blank">网页存档</a>）<br/>
 <blockquote style="background-color:#DDD;">
 　　在我们所能查到的众多介绍中，关于麒麟操作系统的介绍有下面几项要点：是863计划的研究成果，由国防科大负责研发，02年启动，04年通过验收，是自主研发和具有完整知识产权的国产操作系统。<br/>
@@ -407,6 +409,7 @@
 　　相关新闻如下：<br/>
 　　《<a href="http://news.xinhuanet.com/internet/2008-01/23/content_7478921.htm" rel="nofollow" target="_blank">中国十进制网络安全地址投入使用 @ 新华网</a>》（<a href="https://web.archive.org/web/20080127211534/http://news.xinhuanet.com/internet/2008-01/23/content_7478921.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
 　　《<a href="http://news.xinhuanet.com/newscenter/2008-01/23/content_7482216.htm" rel="nofollow" target="_blank">IPV9 何以成为互联网技术重大创新 @ 新华网</a>》（<a href="https://web.archive.org/web/20080127182559/http://news.xinhuanet.com/newscenter/2008-01/23/content_7482216.htm" rel="nofollow" target="_blank">网页存档</a>）<br/>
+<br/>
 　　这个所谓的“IPv9”，说白了就是用【全数字】的方式（类似电话号码）来统一表示公网 IP 地址，同时把域名取消掉（这个全数字的地址也充当域名的作用）。<br/>
 　　咱们先不讨论这么干到底合不合理，先看看它吹牛逼的地方——光改变“IP 地址”的【形式】，就敢宣称“充分保障用户安全”。这种吹牛逼也太不靠谱了吧。安全圈内的人士听了，都得笑掉大牙。<br/>
 　　咱们再来看看这个想法是从来来滴。“IPv9”这个玩意儿最早源自“RFC 1606”和“RFC 1607”。对不太懂互联网协议的同学，俺稍微解释一下。RFC 是 IETF（工程任务组）发布的公开备忘录。一般来说，互联网使用的各种标准协议，在正式投入使用【之前】，会先以 RFC 的形式公开发布（类似于“公开征求意见稿”）。<br/>
@@ -426,7 +429,8 @@
 <br/>
 　　首先要表扬一下：这个【中国操作系统】的名称起得非常好——小粉红一听到这个名称，直接就高潮了。<br/>
 　　这玩意儿由“上海联彤”与“中科院软件所”在2014年联合发布，当时曾得到央视（CCAV）的高度赞扬——称其填补了中国操作系统的空白（这样的说辞，是不是觉得很耳熟？）<br/>
-　　其实捏，它的忽悠招数基本类似于前面介绍的“银河麒麟”操作系统。差别只在于——“银河麒麟”是在 FreeBSD 上稍作修改，而 COS 是在 Android 上稍作修改。贴一篇腾讯网的报道（如下）<br/>
+　　其实捏，它的忽悠招数基本类似于前面介绍的“银河麒麟”操作系统。差别只在于——“银河麒麟”是在 FreeBSD 上稍作修改，而 COS 是在 Android 上稍作修改。贴一篇腾讯网的报道（如下）：<br/>
+<br/>
 　　《<a href="https://view.news.qq.com/original/intouchtoday/n2677.html" rel="nofollow" target="_blank">COS 国产操作系统为何遭人怀疑 @ 腾讯</a>》（<a href="https://web.archive.org/web/20190919051029/https://view.news.qq.com/original/intouchtoday/n2677.html" rel="nofollow" target="_blank">网页存档</a>）<br/>
 <blockquote style="background-color:#DDD;">
 ......<br/>
@@ -461,7 +465,8 @@
 　　关于这事儿，当年俺已经发了一篇《每周转载》（如下）。<br/>
 《<a href="../../2015/02/weekly-share-80.md">每周转载：天朝科研的奇葩——透明计算（相关报道和网友评论）</a>》<br/>
 　　上述那篇《每周转载》发于2015年2月（张尧学获得大奖的次月），当时俺转贴了国内多家知名媒体/网站的【负面】报道。等到俺写今天这篇的时候，再去翻看当年引用的那几篇【国内】文章，发现几乎都被和谐掉了。幸好有【互联网档案馆】的网页存档，使得大伙儿依然能看到真相。<br/>
-　　除了当年的《每周转载》，今天再补充一篇《南方周末》的报道（此文也已经被和谐）。<br/>
+　　除了当年的《每周转载》，今天再补充一篇《南方周末》的报道。（注：此文也已经被和谐）<br/>
+<br/>
 　　《<a href="http://www.infzm.com/content/107509" rel="nofollow" target="_blank">国家自然科学一等奖惹争议，“透明计算”仍不透明 @ 南方周末</a>》（<a href="https://web.archive.org/web/20150202031738/http://www.infzm.com/content/107509" rel="nofollow" target="_blank">网页存档</a>）<br/>
 <blockquote style="background-color:#DDD;">
 　　2015年1月9日，“2014年度国家自然科学奖”揭晓，一等奖颁给了清华大学教授、中南大学校长、中国工程院院士张尧学带领的团队所做的“网络计算的模式及基础理论研究”（俗称“透明计算”）。<br/>

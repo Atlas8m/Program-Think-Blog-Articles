@@ -13,7 +13,7 @@
 <h3>◇《<a href="https://finance.sina.com.cn/chanjing/gsnews/2020-08-18/doc-iivhuipn9355096.shtml" rel="nofollow" target="_blank">瓦解华为？美国祭出终极禁令，华为芯片供应或被全面切断 @ 新浪</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020年08月18日<br/>
 <br/>
 ......<br/>
@@ -43,7 +43,7 @@
 <h3>◇《<a href="https://cn.reuters.com/article/us-huawei-chip-restrictions-0818-idCNKCS25E1BD" rel="nofollow" target="_blank">美国扩大对华为芯片供货限制，手机事业恐朝不保夕 @ 路透社</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 路透上海/首尔8月18日<br/>
 <br/>
 ......<br/>
@@ -63,7 +63,7 @@
 <h3>◇《<a href="https://dy.163.com/article/FKERSOFL0519D8O6.html" rel="nofollow" target="_blank">特朗普“终极禁令”彻底堵死华为！华为手机业务可能面临消失！产业链暴跌，万亿巨头跌停！ @ 网易</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020-08-20<br/>
 <br/>
 ......<br/>
@@ -94,7 +94,7 @@
 <h3>◇《<a href="https://www.sohu.com/a/416826924_115565" rel="nofollow" target="_blank">华为 Mate40 手机砍单 30％，供应链或重新洗牌 @ 搜狐</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020-09-07<br/>
 <br/>
 　　9月7日消息，台媒 DigiTimes 报道称，华为供应链传砍单讯息。业界传出，华为近期已经通知将下调 Mate40 出货，砍单幅度达 30％。<br/>
@@ -108,7 +108,7 @@
 <h3>◇《<a href="https://www.zhihu.com/question/382338973" rel="nofollow" target="_blank">如果台积电不给华为麒麟处理器代工，那么麒麟处理器会怎么样？ @ 知乎</a>》</h3>
 <br/>
 （编程随想注：以下这条知乎留言获得多处转载。原文很长，俺摘录其中一部分，加注了粗体。考虑到知乎经常有河蟹出没，另附上“<a href="https://web.archive.org/web/20200914140333/https://www.zhihu.com/question/382338973" rel="nofollow" target="_blank">网页快照</a>”）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 这个话题下抖机灵以及答非所问的太多了。<br/>
 先说结论：<br/>
 1. 如果现在台积电停供华为手机 SoC 芯片，华为旗舰手机会迅速休克，一到两年内掉出全球手机榜单前三。<br/>
@@ -147,7 +147,7 @@
 <h3>◇《<a href="https://money.udn.com/money/story/5612/4848286" rel="nofollow" target="_blank">三大 DRAM 廠全面斷供華為 @ 台灣經濟日報</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020-09-10<br/>
 <br/>
 繼美光之後，全球前兩大 DRAM 廠南韓三星與 SK 海力士傳跟進不再與華為有業務往來，估計華為明年智慧手機銷量將銳減 74％。<br/>
@@ -165,7 +165,7 @@
 <h3>◇《<a href="https://ec.ltn.com.tw/article/paper/1391715" rel="nofollow" target="_blank">中芯暗示：9月中後無法供貨華為 @ 台灣自由時報</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020/08/08<br/>
 ......<br/>
 <br/>
@@ -181,7 +181,7 @@
 <h3>◇《<a href="https://tech.sina.com.cn/it/2020-07-17/doc-iivhvpwx6002617.shtml" rel="nofollow" target="_blank">台积电断供华为，中芯国际能顶得上吗？ @ 新浪</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020年07月17<br/>
 ......<br/>
 <br/>
@@ -198,7 +198,7 @@
 <h3>◇《<a href="https://cn.reuters.com/article/china-smic-supply-chain-us-0909-idCNKBS260032" rel="nofollow" target="_blank">美拟将中芯国际列入出口黑名单，恐全面打击中国芯片供应链 @ 路透社</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的全文，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 路透上海9月8日<br/>
 <br/>
 　　美国拟对中芯国际（0981.HK）实施出口限制，可能导致中国刚刚起步但正不断发展壮大的本土半导体供应链脱轨，并打击把这家中国芯片制造商视为重要客户的美国和日本公司。<br/>
@@ -230,7 +230,7 @@
 <h3>◇《<a href="https://ctee.com.tw/news/china/333922.html" rel="nofollow" target="_blank">「芯」碎！華為禁令逼近，美報告曝中芯死期 @ 台灣工商時報</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020.09.11<br/>
 <br/>
 　　外媒日前報導，川普政府打算將大陸晶圓代工龍頭中芯國際列入實體清單（Entity List），這將導致美國半導體生產設備商無法繼續與該家陸企進行業務往來，美國研調機構 Washington Analysis 近期發布報告顯示，該措施應該會在9月底實施，對營運顯著影響會落在今年第4季。<br/>
@@ -249,7 +249,7 @@
 <h3>◇《<a href="https://money.163.com/20/0907/07/FLTH6I5400259DLP.html" rel="nofollow" target="_blank">1000亿芯片项目爆雷！中国芯片史上最大的骗局 @ 网易</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录，引文中的某些粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020-09-07<br/>
 <br/>
 　　这几年以来，芯片，一直都是美国的核心杀招，让全国人民意识到，中国芯片产业的薄弱。在美国全面封锁的情况下，奋发追赶，或许是中国芯片产业唯一可以且必须走的道路。<br/>
@@ -295,7 +295,7 @@
 <h3>◇《<a href="https://www.reuters.com/article/china-chip-industry-investment-0626-idCNKBS23X043" rel="nofollow" target="_blank">中美科技竞赛激发中国芯片业大规模投资，泡沫疑虑浮现 @ 路透社</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 路透上海6月25日<br/>
 <br/>
 　　在中国和美国加强争夺科技业主导权之际，美国对中国科技公司重重设限正助推中国半导体业出现一波投资热潮，从而推动上市公司和风险资本支持公司的价格皆进入泡沫区域。投资人将中国45家上市芯片业者的“市盈率”（本益比）推升至超过100倍，使得半导体业成为中国股市最昂贵的板块。<br/>
@@ -313,7 +313,7 @@
 <h3>◇《<a href="https://new.qq.com/omn/20200501/20200501A0J5DY00.html" rel="nofollow" target="_blank">中国为什么造不出一台最好的光刻机？ @ 腾讯</a>》</h3>
 <br/>
 （编程随想注：以下是这篇报道的摘录，引文中的粗体是俺标注滴）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020-05-01<br/>
 ......<br/>
 <br/>
@@ -339,7 +339,7 @@
 <br/>
 <h3>◇《<a href="https://www.voachinese.com/a/china-in-for-a-tough-time-as-us-targets-tech/5580880.html" rel="nofollow" target="_blank">美促科技脱钩，中国科技产业或入寒冬 @ VOA/美国之音</a>》</h3>
 <br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 2020年9月12日<br/>
 <br/>
 　　特朗普总统有关美中经济脱钩的说法在不少人听起来更像是竞选语言，但近来特朗普政府已开始将脱钩从口头落实到具体的行动。华盛顿已在运用美国在半导体技术上的绝对优势，迫使北京应对接二连三的科技脱钩动作。在其科技产业计划面临一场寒冬期，中共领导层是否会借强于预期的疫后复苏彰显其体制“优势”？<br/>
@@ -370,8 +370,9 @@
 《<a href="../../2018/07/Forty-Years-of-China-USA-Relations.md">从量变到质变——中美关系40年</a>》<br/>
 《<a href="../../2019/07/Misunderstand-China-USA-Relations.md">澄清“中美对抗”常见的一些【误解】</a>》<br/>
 《<a href="../../2020/05/Nuclear-Strategy-and-New-Cold-War.md">聊聊“核战略的博弈模型”与“中美新冷战”</a>》<br/>
-《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2020/08/weekly-share-147.md">每周转载：约瑟夫·奈谈“美国对华战略”（中英文对照及俺的点评）</a>》<br/>
+《<a href="../../2021/03/weekly-share-151.md">每周转载：新疆棉花——从“人权争议”到“外交对抗”（外媒报道30多篇）</a>》<br/>
+《<a href="../../2020/08/weekly-share-146.md">每周转载：“中美对抗”进入【科技脱钩】阶段（网文7篇）</a>》<br/>
 《<a href="../../2018/05/Can-China-Become-Global-Leader.md">厉害国真的很厉害吗？——给小粉红们泼点冷水</a>》<br/>
 《<a href="../../2018/08/USA-Containment-Strategies-in-Cold-War.md">苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</a>》<br/>
 《<a href="../../2019/08/weekly-share-136.md">每周转载：中美贸易战升级，双方关税加码（外媒报道和网友评论）</a>》<br/>

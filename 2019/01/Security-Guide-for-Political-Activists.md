@@ -236,7 +236,7 @@
 　　一言以蔽之——Linux 由于发行版之间【巨大的差异】，会导致攻击面【非常不确定】。因此，在不了解你系统配置的情况下，入侵者的“攻击难度 ＆ 攻击成本”会急剧增大。<br/>
 　　再来看苹果的桌面系统。因为 Mac OS【没有】“发行版”这个概念。或者换种说法，Mac OS 只有一个发行版（就是苹果官方维护的那个）。所以跟 Linux 一对比，Mac OS 的系统环境（攻击面）就显得非常【确定】了。<br/>
 　　另外，还有很多其它因素导致了——Linux 比 Mac OS 更有利于安全加固。具体请看下面这篇：<br/>
-《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows &amp; macOS 而言）</a>》<br/>
+《<a href="../../2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.md">为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言）</a>》<br/>
 <br/>
 　　<b>4. 如何选 Linux 发行版？</b><br/>
 　　Linux 的发行版，大概有上百种之多。经常会让新手困惑。<br/>
@@ -340,7 +340,7 @@
 　　（注：因为 <code>/boot</code> 分区通常很小（再大也就一百多兆），而且【不】存放个人数据，该分区的保密性要求并不高）<br/>
 　　然后你可以在已经用 LUKS 加密的分区上，用 LVM（Logical Volume Manager）创建一系列逻辑分区（也叫“逻辑卷”）。请注意：规划逻辑分区时，要特意留一个空闲的（未用的）。<br/>
 　　关于 LUKS（也叫“dm-crypt”）的使用，请阅读如下教程：<br/>
-《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
 　　关于 LVM 的使用，请阅读如下教程：<br/>
 《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 <br/>
@@ -689,7 +689,7 @@ Android 系统包括两部分：AOSP（Android Open Source Project）和 GMS（G
 《<a href="../../2020/06/Linux-Logical-Volume-Manager.md">扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘加密工具的整合”</a>》<br/>
 《<a href="../../2011/05/recommend-truecrypt.md">TrueCrypt 使用经验</a>》（系列）<br/>
 《<a href="../../2015/10/VeraCrypt.md">扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</a>》<br/>
-《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt &amp; VeraCrypt）</a>》<br/>
+《<a href="../../2015/10/dm-crypt-cryptsetup.md">扫盲 dm-crypt——多功能 Linux 磁盘加密工具（兼容 TrueCrypt 和 VeraCrypt）</a>》<br/>
 《<a href="../../2013/02/file-integrity-check.md">扫盲文件完整性校验——关于散列值和数字签名</a>》<br/>
 《<a href="../../2013/07/online-backup-virtual-encrypted-disk.md">文件备份技巧：组合“虚拟加密盘”与“网盘”</a>》<br/>
 《<a href="../../2013/11/tor-faq.md">“如何翻墙”系列：关于 Tor 的常见问题解答</a>》<br/>
