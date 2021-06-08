@@ -7,21 +7,26 @@
 　　近期比较忙，再加上本文内容较多，费了些时日，到今天才发出。让大伙儿久等了，抱歉 :(<a name="more"></a><br/>
 　　（本文发出后，俺已经清理了博客管理界面的垃圾留言，把这几天被 Google 误判的留言都恢复出来）<br/>
 <br/>
-<center><img alt="不见图 请翻墙" src="images/TrrQPTe4daihdQAkIoubxaVbX2-bwHlx7EBiGuOLDmdqrEupJTJG16xVMEsBxvo6oeZoLuJjBdRoA5VAz-5m_CIS0rHQt4V0cIJMpYYQuRdJgKdH1aFT-XYcmalttQaCr-PxcfYDPes"/></center><br/>
-<h2>★关于“魏则西事件”</h2><br/>
+<center><img alt="不见图 请翻墙" src="images/TrrQPTe4daihdQAkIoubxaVbX2-bwHlx7EBiGuOLDmdqrEupJTJG16xVMEsBxvo6oeZoLuJjBdRoA5VAz-5m_CIS0rHQt4V0cIJMpYYQuRdJgKdH1aFT-XYcmalttQaCr-PxcfYDPes"/></center>
+<br/>
+<h2>★关于“魏则西事件”</h2>
+<br/>
 （编程随想注：下面是魏则西在知乎上的发帖）<br/>
-<center><img alt="不见图 请翻墙" src="images/AiBHBbziLHFWxElhXa1kGB4u4GPSooSdOs-VotJl4l8Zx8Ql_AQj7SivHGNiH6263eBGmsb4QCYpzcoPMRdSALh3QlQFZC8LKq2Yha7wI6FRbbT1PU2Tqx9Oge0GMsofaxzM3jAw6tA"/></center><br/>
-<a href="https://cn.nytimes.com/china/20160504/c04chinabaidu" rel="nofollow" target="_blank">“魏则西事件”发酵，中国调查百度及涉事医院 @ 纽约时报</a><br/>
+<center><img alt="不见图 请翻墙" src="images/AiBHBbziLHFWxElhXa1kGB4u4GPSooSdOs-VotJl4l8Zx8Ql_AQj7SivHGNiH6263eBGmsb4QCYpzcoPMRdSALh3QlQFZC8LKq2Yha7wI6FRbbT1PU2Tqx9Oge0GMsofaxzM3jAw6tA"/></center>
 <br/>
-<a href="https://tech.qq.com/a/20160501/012212.htm" rel="nofollow" target="_blank">有槽：一个死在百度和部队医院之手的年轻人 @ 腾讯网</a><br/>
-<blockquote>魏则西去的这家医院，是北京武警二院肿瘤生物中心，所接受的是DC-CIK细胞免疫治疗，这是种已经被国外淘汰、但在中国非常红火的肿瘤免疫治疗。<br/>
+《<a href="https://cn.nytimes.com/china/20160504/c04chinabaidu" rel="nofollow" target="_blank">“魏则西事件”发酵，中国调查百度及涉事医院 @ 纽约时报</a>》<br/>
+<br/>
+《<a href="https://tech.qq.com/a/20160501/012212.htm" rel="nofollow" target="_blank">有槽：一个死在百度和部队医院之手的年轻人 @ 腾讯网</a>》<br/>
+<blockquote>
+魏则西去的这家医院，是北京武警二院肿瘤生物中心，所接受的是DC-CIK细胞免疫治疗，这是种已经被国外淘汰、但在中国非常红火的肿瘤免疫治疗。<br/>
 ......<br/>
-虽然这种治疗从美国开始，但由于临床试验屡遭失败，在美国国立癌症研究院(NCI)的网站上检索，可以看到目前仅有两家机构在进行CIK细胞治疗研究。第一项研究在斯坦福进行。有槽(Dr-Venting)在4月29日下午电话采访了斯坦福医学院媒体关系部的Becky Bach女士，她表示，斯坦福医学院确实有一项CIK方面的研究，不过是将它作为治疗骨髓增殖性疾病或骨髓发育不良的辅助治疗手段。在肿瘤免疫治疗方面，斯坦福希望探索更新、更有效的疗法。此外，Bach女士也澄清说，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术，并承诺将与律师一起进一步调查。</blockquote><br/>
-<a href="http://news.sina.com.cn/c/zg/2016-05-02/doc-ifxrtzte9866630.shtml" rel="nofollow" target="_blank">魏则西之死 捅破“邪恶故事”的窗户纸 @ 新浪</a><br/>
+虽然这种治疗从美国开始，但由于临床试验屡遭失败，在美国国立癌症研究院(NCI)的网站上检索，可以看到目前仅有两家机构在进行CIK细胞治疗研究。第一项研究在斯坦福进行。有槽(Dr-Venting)在4月29日下午电话采访了斯坦福医学院媒体关系部的Becky Bach女士，她表示，斯坦福医学院确实有一项CIK方面的研究，不过是将它作为治疗骨髓增殖性疾病或骨髓发育不良的辅助治疗手段。在肿瘤免疫治疗方面，斯坦福希望探索更新、更有效的疗法。此外，Bach女士也澄清说，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术，并承诺将与律师一起进一步调查。</blockquote>
 <br/>
-<a href="https://www.dw.com/a-19233740" rel="nofollow" target="_blank">“魏则西事件”背后坑多大？ @ 德国之声</a><br/>
+《<a href="http://news.sina.com.cn/c/zg/2016-05-02/doc-ifxrtzte9866630.shtml" rel="nofollow" target="_blank">魏则西之死 捅破“邪恶故事”的窗户纸 @ 新浪</a>》<br/>
 <br/>
-<a href="http://www.chinaelections.com/article/762/242006.html" rel="nofollow" target="_blank">必须旗帜鲜明地支持百度，反对魏则西 @ 中国选举与治理</a><br/>
+《<a href="https://www.dw.com/a-19233740" rel="nofollow" target="_blank">“魏则西事件”背后坑多大？ @ 德国之声</a>》<br/>
+<br/>
+《<a href="http://www.chinaelections.com/article/762/242006.html" rel="nofollow" target="_blank">必须旗帜鲜明地支持百度，反对魏则西 @ 中国选举与治理</a>》<br/>
 （编程随想注：这篇是典型的反讽，标题借用了当年六四事件中的人民日报社论《必须旗帜鲜明地反对动乱》）<br/>
 <br/>
 ========（以下是网友评论）========<br/>
@@ -46,7 +51,7 @@ lily cheung：<br/>
 当代三大慢性自杀行为——百度看病，微信养生，专家荐股<br/>
 <br/>
 匿名：<br/>
-新段子：<br/>
+【搜索引擎的新段子】<br/>
 「你自己百度一下会死啊？」<br/>
 「会的。」<br/>
 「你 Google 一下不行吗？」<br/>
@@ -61,19 +66,22 @@ https://plus.google.com/+BonaChen/posts/d4nwuwbZckD<br/>
 （同樣的內容廣泛出現在牆內各政治正確的網站，但不知什麼原因，在渣浪微博卻會被秒刪。）<br/>
 <br/>
 <br/>
-<h2>★百度的“推广链接”到底是不是“广告”？</h2><br/>
-<a href="http://www.chinaelections.org/article/762/241976.html" rel="nofollow" target="_blank">熊定中律师：血，染的谁家馒头 @ 中国选举与治理</a><br/>
-<blockquote>我要抽的主要是法院的脸。<br/>
+<h2>★百度的“推广链接”到底是不是“广告”？</h2>
+<br/>
+《<a href="http://www.chinaelections.org/article/762/241976.html" rel="nofollow" target="_blank">熊定中律师：血，染的谁家馒头 @ 中国选举与治理</a>》<br/>
+<blockquote>
+我要抽的主要是法院的脸。<br/>
 在任何一家专业的法律案例库中，你用“百度竞价排名+广告”作为关键词来搜，你会发现一个很诡异的事情：但凡涉及到“合同款”相关的案件纠纷，法院查明都会有“因为xxx在百度上投放了竞价排名广告，所以应当支付对应款项”之类的表述，也就是说，在直接就“百度竞价排名”这个服务类别产生的付费问题上，法院是认可这就是“广告”的。<br/>
 而与之相反的时，所有被竞价排名的虚假信息所害的人起诉X度时，各地各级法院又异口同声，注意，是异口同声地说，百度竞价排名模式是一种搜索引擎服务，不是广告。<br/>
-这个口径跟百度的官方口径一模一样。</blockquote><br/>
-<a href="http://www.law-tv.cn/htm/shehuiyufa/2016/0503/6692.html" rel="nofollow" target="_blank">“消失”的判决书——百度推广到底是不是广告服务? @ 法制节目网</a><br/>
+这个口径跟百度的官方口径一模一样。</blockquote>
 <br/>
-<a href="http://chuansong.me/n/317306442648" rel="nofollow" target="_blank">“消失”的判决书终于找到了!!! @ 传送门</a><br/>
+《<a href="http://www.law-tv.cn/htm/shehuiyufa/2016/0503/6692.html" rel="nofollow" target="_blank">“消失”的判决书——百度推广到底是不是广告服务? @ 法制节目网</a>》<br/>
 <br/>
-<a href="http://epaper.bjnews.com.cn/html/2016-05/06/content_633975.htm?div=-1" rel="nofollow" target="_blank">虚假医药广告的魔咒，美国怎么破？ @ 新京报</a><br/>
+《<a href="http://chuansong.me/n/317306442648" rel="nofollow" target="_blank">“消失”的判决书终于找到了!!! @ 传送门</a>》<br/>
 <br/>
-<a href="https://kenengba.com/post/3446.html" rel="nofollow" target="_blank">为什么 Google 没有虚假医药广告？ @ 可能吧</a><br/>
+《<a href="http://epaper.bjnews.com.cn/html/2016-05/06/content_633975.htm?div=-1" rel="nofollow" target="_blank">虚假医药广告的魔咒，美国怎么破？ @ 新京报</a>》<br/>
+<br/>
+《<a href="https://kenengba.com/post/3446.html" rel="nofollow" target="_blank">为什么 Google 没有虚假医药广告？ @ 可能吧</a>》<br/>
 <br/>
 ========（以下是网友评论）========<br/>
 <br/>
@@ -102,35 +110,43 @@ maylogcom：<br/>
 “有钱赚你还管人干嘛呀！”<br/>
 <br/>
 <br/>
-<h2>★关于百度的人品</h2><br/>
-<a href="http://www.chinadaily.com.cn/hqcj/zgjj/2016-03-14/content_14604544.html" rel="nofollow" target="_blank">为什么谷歌越来越牛逼，而百度却... @ 中国日报</a><br/>
-<blockquote>这幅漫画道出了两种教育观<br/>
-<center><img alt="不见图 请翻墙" src="images/HiemxK2ssfQ0TocPVw-1bLwTCiVh23C0mcSFSN4n5wL5OtYYaaND6fS_EfWPc03unAVOVqO3erhEePs7R0ikJs0C-bnjUxgEM620EpIsMYm5DKHlxN3TWiyI1uYn1HSOeoeF4rSi3K0"/></center>......<br/>
+<h2>★关于百度的人品</h2>
+<br/>
+《<a href="http://www.chinadaily.com.cn/hqcj/zgjj/2016-03-14/content_14604544.html" rel="nofollow" target="_blank">为什么谷歌越来越牛逼，而百度却... @ 中国日报</a>》<br/>
+<blockquote>
+这幅漫画道出了两种教育观<br/>
+<center><img alt="不见图 请翻墙" src="images/HiemxK2ssfQ0TocPVw-1bLwTCiVh23C0mcSFSN4n5wL5OtYYaaND6fS_EfWPc03unAVOVqO3erhEePs7R0ikJs0C-bnjUxgEM620EpIsMYm5DKHlxN3TWiyI1uYn1HSOeoeF4rSi3K0"/></center>
+......<br/>
 为什么15年前几乎同时起步、10年前先后上市的两家相似企业，差距会越走越大？<br/>
 亚马逊的创始人杰夫·贝佐斯（Jeff Bezos）曾受邀在母校普林斯顿大学的毕业典礼上发表演讲，他说：“<b>善良比聪明重要。聪明是一种天赋，而善良是一种选择（Cleverness is a gift, kindness is a choice）。天赋得来容易，因为它们与生俱来，但选择往往很困难。</b>”<br/>
 然后，贝佐斯问了学生们一个问题：<b>有朝一日，你，将以什么为自豪——是你的才智？还是你的选择？</b><br/>
 ......<br/>
 2004年，Google 的招股书（Google 创始人的一封信，后来被称为“不作恶宣言”）曾说：“不要作恶。我们坚信，作为一个为世界做好事的公司，从长远来看，我们会得到更好的回馈——即使我们要放弃一些短期收益。”<br/>
 （Don’t be evil. We believe strongly that in the long term, we will be better served — as shareholders and in all other ways — by a company that does good things for the world even if we forgo some short term gains.）<br/>
-据说，一开始，人们普遍认为“不作恶”这个口号毫无意义，毕竟哪个公司的目标也不是作恶，而是赚钱好吗？但随着公司的发展，当短期利益和作恶捆绑着出现时，Google 价值观的优势便显现无遗。</blockquote><br/>
-<a href="https://commondatastorage.googleapis.com/letscorp_archive/archives/100344" rel="nofollow" target="_blank">百度，为作恶而生 @ 墙外楼</a><br/>
-<blockquote>网络虚假医疗广告到底有多缺德？知乎有一位医生吐槽自己的苦衷，大概意思是，自己给患者治病，总有患者理直气壮地说，百度说我这种病不用手术！百度说这种药我不用吃！有些患者医院觉得没有任何手术机会了，基本宣布无法治疗。他们就会去百度，结果被各种“权威医院”、“老中医”欺骗，搜刮完身上一滴油水，人才两空，黯然离世。这位医疗工作者认为，百度最可怕的地方在于，在互联网时代，它成为了很多普通老百姓心目中的权威，就像以前的电视、广播一样。<br/>
+据说，一开始，人们普遍认为“不作恶”这个口号毫无意义，毕竟哪个公司的目标也不是作恶，而是赚钱好吗？但随着公司的发展，当短期利益和作恶捆绑着出现时，Google 价值观的优势便显现无遗。</blockquote>
+<br/>
+《<a href="https://commondatastorage.googleapis.com/letscorp_archive/archives/100344" rel="nofollow" target="_blank">百度，为作恶而生 @ 墙外楼</a>》<br/>
+<blockquote>
+网络虚假医疗广告到底有多缺德？知乎有一位医生吐槽自己的苦衷，大概意思是，自己给患者治病，总有患者理直气壮地说，百度说我这种病不用手术！百度说这种药我不用吃！有些患者医院觉得没有任何手术机会了，基本宣布无法治疗。他们就会去百度，结果被各种“权威医院”、“老中医”欺骗，搜刮完身上一滴油水，人才两空，黯然离世。这位医疗工作者认为，百度最可怕的地方在于，在互联网时代，它成为了很多普通老百姓心目中的权威，就像以前的电视、广播一样。<br/>
 有一位曾经的抑郁症患者说，自己特别能理解那种绝望却无能为力的感受，看着那些帖子真的忍不住一直眼睛掉水，然而上百度搜索一下，坑过自己的医院依然排在前几位。<br/>
 ......<br/>
 这世界有个词叫“职业道德”，明知是虚假广告，给再多的钱也不接，这是任何人摸摸良心都能明白的常识，但对百度和它背后黑心医院来说，貌似赚黑心钱才是第一位，都说中国医患关系紧张，想想这是整个行业的共谋，黑心医院有问题，黑心广告商也难逃其咎，他们是联起手来，坑害中国的普通人，一口一口吃人血馒头。<br/>
 在互联网时代，有人说“技术无罪”，这话说得太鸡贼，也太轻巧了，有必要补足一句“技术无罪，人有罪”。否则，同为搜索引擎公司，被大陆封杀的谷歌公司，为什么口号是“不作恶 Do not be evil”呢？没有对人性的深刻反思，大公司和大政府一样，也会变成流无辜人血的利维坦。<br/>
-考虑到百度作恶多端，我送给这家公司一个口号：百度，为作恶而生。</blockquote><br/>
-<a href="http://toutiao.com/i6279896259226501633/" rel="nofollow" target="_blank">“魏则西”事件，李彦宏怒了！一大波“洗白”文章凶猛袭来 @ 今日头条</a><br/>
+考虑到百度作恶多端，我送给这家公司一个口号：百度，为作恶而生。</blockquote>
 <br/>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E7%BB%99%E7%99%BE%E5%BA%A6%E6%B4%97%E5%9C%B0%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F-%E4%B8%80%E7%A7%8D%E6%AF%94%E4%B8%80%E7%A7%8D%E9%AB%98/" rel="nofollow" target="_blank">假装在纽约：给百度洗地的方式 一种比一种高明 一种比一种下作 @ 中国数字时代</a><br/>
+《<a href="http://toutiao.com/i6279896259226501633/" rel="nofollow" target="_blank">“魏则西”事件，李彦宏怒了！一大波“洗白”文章凶猛袭来 @ 今日头条</a>》<br/>
+<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E7%BB%99%E7%99%BE%E5%BA%A6%E6%B4%97%E5%9C%B0%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F-%E4%B8%80%E7%A7%8D%E6%AF%94%E4%B8%80%E7%A7%8D%E9%AB%98/" rel="nofollow" target="_blank">假装在纽约：给百度洗地的方式 一种比一种高明 一种比一种下作 @ 中国数字时代</a>》<br/>
 <br/>
 （编程随想注：看上面两篇时，可以结合俺之前写的《<a href="../../2011/03/logical-fallacies.md">扫盲逻辑谬误——以五毛言论为反面教材</a>》。自己思考一下：这些洗地文都用到了哪些逻辑谬误）<br/>
 <br/>
-<a href="http://help.3g.163.com/16/0501/22/BM10PRJR00963VRO.html" rel="nofollow" target="_blank">只要李彦宏还在，百度开除了谁都没有用 @ 网易</a><br/>
+《<a href="http://help.3g.163.com/16/0501/22/BM10PRJR00963VRO.html" rel="nofollow" target="_blank">只要李彦宏还在，百度开除了谁都没有用 @ 网易</a>》<br/>
 <br/>
-<a href="https://commondatastorage.googleapis.com/letscorp_archive/archives/100318" rel="nofollow" target="_blank">霍炬：我是如何坚持10多年站在反百度第一线的 @ 墙外楼</a><br/>
-<blockquote>历史上这些事情太多了，列举不完。这些问题都是被用户和媒体发现了，闹大了，百度才会改正。我有时候都在疑惑，百度的产品、运营和管理工作，到底是他们自己的员工承担的，还是普通用户承担的。百度目前有5万员工，但是这些问题员工全都发现不了，这符合概率和逻辑吗？这简直中国互联网上最大的奇迹，5万多人，面对一堆令人轻则破财，重则致命的问题，不约而同的视而不见，更何况被坑的人里面还包括他们自己的父母和亲人，太疯狂了。<br/>
-这些疯狂的事我已经看了10多年了，早就不相信这家公司有变好的可能性了。这就像是一个坏人，被骂了10多年，反而变本加厉的发明出越来越坏的事，你还会相信他有一天变好吗？</blockquote><br/>
+《<a href="https://commondatastorage.googleapis.com/letscorp_archive/archives/100318" rel="nofollow" target="_blank">霍炬：我是如何坚持10多年站在反百度第一线的 @ 墙外楼</a>》<br/>
+<blockquote>
+历史上这些事情太多了，列举不完。这些问题都是被用户和媒体发现了，闹大了，百度才会改正。我有时候都在疑惑，百度的产品、运营和管理工作，到底是他们自己的员工承担的，还是普通用户承担的。百度目前有5万员工，但是这些问题员工全都发现不了，这符合概率和逻辑吗？这简直中国互联网上最大的奇迹，5万多人，面对一堆令人轻则破财，重则致命的问题，不约而同的视而不见，更何况被坑的人里面还包括他们自己的父母和亲人，太疯狂了。<br/>
+这些疯狂的事我已经看了10多年了，早就不相信这家公司有变好的可能性了。这就像是一个坏人，被骂了10多年，反而变本加厉的发明出越来越坏的事，你还会相信他有一天变好吗？</blockquote>
+<br/>
 ========（以下是网友评论）========<br/>
 <br/>
 陈少举：<br/>
@@ -185,10 +201,12 @@ MyDF：<br/>
 新浪上有个《关于“青年魏则西死亡事件”中的百度责任问题，你怎么看？》的投票。<br/>
 看了一眼，９１.２％的网友认为百度有直接责任。<br/>
 http://survey.tech.sina.com.cn/result/113755.html<br/>
-<center><img alt="不见图 请翻墙" src="images/-VFi07vhrXQsshGIzY3go9sZbe_P-X9P7k8IgNS8DAyaFI1VvbqGH_f1PCr7zyXbw88DfjuOCx-46FixNAPYJpA1pCxHPQdSKD0N58e9Nu0bdh8QP-OhPtwi5IbYmERUy-7QDBTpvPs"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/-VFi07vhrXQsshGIzY3go9sZbe_P-X9P7k8IgNS8DAyaFI1VvbqGH_f1PCr7zyXbw88DfjuOCx-46FixNAPYJpA1pCxHPQdSKD0N58e9Nu0bdh8QP-OhPtwi5IbYmERUy-7QDBTpvPs"/></center>
+<br/>
 apple007007：<br/>
 【亲身经历告诉你百度有多黑】<br/>
-<center><img alt="不见图 请翻墙" src="images/x5qV1yNLMXfeQwEL1SrJS82mZTGdsjj5RfzngBya7RqARCV4CNoInuo3p52beHs9dn5283QI-ljxsSAwWlTy9uh9l_sLx0gEbXa01vxYrT-YNU-cykBlWe06WL9sGr_r8yiDQT5tpc4"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/x5qV1yNLMXfeQwEL1SrJS82mZTGdsjj5RfzngBya7RqARCV4CNoInuo3p52beHs9dn5283QI-ljxsSAwWlTy9uh9l_sLx0gEbXa01vxYrT-YNU-cykBlWe06WL9sGr_r8yiDQT5tpc4"/></center>
+<br/>
 南通室内装饰画：<br/>
 要是在日本，李彦宏要剖腹十余次才能挽回他的家族声誉！！！<br/>
 但在中国却不需要！！！<br/>
@@ -200,23 +218,27 @@ kldguitar：<br/>
 今天指责百度的人们，你们当年为谷歌的离去呐喊过吗？<br/>
 <br/>
 <br/>
-<h2>★臭名昭著的“莆田系”</h2><br/>
-<a href="http://www.ctdsb.net/html/2016/Cnwld_0502/33768.html" rel="nofollow" target="_blank">百度与莆田系壮大史，就是一部患者血泪史 @ 楚天都市网</a><br/>
+<h2>★臭名昭著的“莆田系”</h2>
 <br/>
-<a href="http://news.sohu.com/20160502/n447234217.shtml" rel="nofollow" target="_blank">起底调查——引发公愤的医院科室背后是莆田系身影 @ 搜狐</a><br/>
+《<a href="http://www.ctdsb.net/html/2016/Cnwld_0502/33768.html" rel="nofollow" target="_blank">百度与莆田系壮大史，就是一部患者血泪史 @ 楚天都市网</a>》<br/>
 <br/>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" rel="nofollow" target="_blank">莆田系股东曝与80所部队医院合作 给某院送礼百万 @ 中国数字时代</a><br/>
+《<a href="http://news.sohu.com/20160502/n447234217.shtml" rel="nofollow" target="_blank">起底调查——引发公愤的医院科室，背后是莆田系身影 @ 搜狐</a>》<br/>
+<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" rel="nofollow" target="_blank">莆田系股东曝与80所部队医院合作，给某院送礼百万 @ 中国数字时代</a>》<br/>
 （编程随想注：此篇报道原发于搜狐，如今已经被谐掉了）<br/>
 <br/>
-<a href="https://www.bbc.com/zhongwen/simp/comments_on_china/2016/05/160504_coc_china_private_hospital_putian" rel="nofollow" target="_blank">莆田系告诉我们——民营医院并非救世主 @ BBC</a><br/>
+《<a href="https://www.bbc.com/zhongwen/simp/comments_on_china/2016/05/160504_coc_china_private_hospital_putian" rel="nofollow" target="_blank">莆田系告诉我们——民营医院并非救世主 @ BBC/英国广播公司</a>》<br/>
 <br/>
-<a href="http://news.wenweipo.com/2016/05/04/IN1605040031.htm" rel="nofollow" target="_blank">莆田系背後金主涉劉永好家族和紅杉資本 @ 文汇报</a><br/>
-<blockquote><center><img alt="不见图 请翻墙" src="images/0xSIxBGIPdu_JoEaBtmEBNAiEAvTqj7wC01Y67rnuDXdekYQT-yWRPVDSb_HkBLQPW_C0CuqCJ_mfc-loIQohEm1MIs9w3DP4EnR89KwhVFOJVvsrwyr6QyFHJDrZkfKSqrZZQVPxqE"/></center></blockquote><br/>
-<a href="http://industry.caijing.com.cn/20160504/4114296.shtml" rel="nofollow" target="_blank">莆田系吸金术曝光——借资本市场套现退出 @ 财经网</a><br/>
+《<a href="http://news.wenweipo.com/2016/05/04/IN1605040031.htm" rel="nofollow" target="_blank">莆田系背後金主涉劉永好家族和紅杉資本 @ 文汇报</a>》<br/>
+<blockquote>
+<center><img alt="不见图 请翻墙" src="images/0xSIxBGIPdu_JoEaBtmEBNAiEAvTqj7wC01Y67rnuDXdekYQT-yWRPVDSb_HkBLQPW_C0CuqCJ_mfc-loIQohEm1MIs9w3DP4EnR89KwhVFOJVvsrwyr6QyFHJDrZkfKSqrZZQVPxqE"/></center>
+</blockquote>
 <br/>
-<a href="http://comments.caijing.com.cn/20160504/4114215.shtml" rel="nofollow" target="_blank">是什么让莆田系在问题中做大 @ 财经网</a><br/>
+《<a href="http://industry.caijing.com.cn/20160504/4114296.shtml" rel="nofollow" target="_blank">莆田系吸金术曝光——借资本市场套现退出 @ 财经网</a>》<br/>
 <br/>
-<a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%99%BA%E8%B0%B7%E8%B6%8B%E5%8A%BF%EF%BD%9C%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E6%AD%A3%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%90%91%E4%B8%AD%E4%BA%A7/" rel="nofollow" target="_blank">“莆田系医院”正把手伸向中产 @ 中国数字时代</a><br/>
+《<a href="http://comments.caijing.com.cn/20160504/4114215.shtml" rel="nofollow" target="_blank">是什么让莆田系在问题中做大 @ 财经网</a>》<br/>
+<br/>
+《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%99%BA%E8%B0%B7%E8%B6%8B%E5%8A%BF%EF%BD%9C%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2%E6%AD%A3%E6%8A%8A%E6%89%8B%E4%BC%B8%E5%90%91%E4%B8%AD%E4%BA%A7/" rel="nofollow" target="_blank">“莆田系医院”正把手伸向中产 @ 中国数字时代</a>》<br/>
 <br/>
 ========（以下是网友评论）========<br/>
 <br/>
@@ -226,12 +248,14 @@ kldguitar：<br/>
 挂5天抗生素收费8000元；为了赚人流的钱，给小学生免费提供做了漏洞的避孕套，然后打广告说300元做人流；怀孕后；谎称从法国进口的美容药，成本100元，按20000元收费；承包医院读片和检验，一个医生一年轻松赚100万元。<br/>
 <br/>
 maylog：<br/>
-<center><img alt="不见图 请翻墙" src="images/UasSw3fprcBsRvVIr_UtBZRnqd75DkrT-7nM6H96ibtM0k9geUqtk207Od90MXm_rHtnIezYjxJ2S9mrazYthpueCZTsNpesQK1Qd93timl21bG70FGjPdt4wwpklgbiPDIHWXeVWh0"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/UasSw3fprcBsRvVIr_UtBZRnqd75DkrT-7nM6H96ibtM0k9geUqtk207Od90MXm_rHtnIezYjxJ2S9mrazYthpueCZTsNpesQK1Qd93timl21bG70FGjPdt4wwpklgbiPDIHWXeVWh0"/></center>
+<br/>
 三进三进：<br/>
 莆田系的核心法宝就是砸钱打广告，他们把差不多80%的利润都投入到广告，百度2013年广告总营收260亿，莆田系民营医院贡献了一半。<br/>
 莆田系下辖无数烂污民营医院，两年前抱团成立“莆田(中国)健康产业总会”。<br/>
 总会成立大典上，名嘴芮成钢倾力主持，福建省领导热情发言，前教育部长、全国妇联主任陈至立出任“总顾问”。<br/>
-<center><img alt="不见图 请翻墙" src="images/e_p2Fgzczcb2ldCPLCWp5XjLEtx06wGui0fYyqZFT1qzt7rX9Y_y2RjSgg2KtcE_-fLiNeclqNO8IlEZmtqpsxSfB9juHDITNeGl-EqPUW3k3lHVAIr-OWQelMswskohy4TO3YXksXo"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/e_p2Fgzczcb2ldCPLCWp5XjLEtx06wGui0fYyqZFT1qzt7rX9Y_y2RjSgg2KtcE_-fLiNeclqNO8IlEZmtqpsxSfB9juHDITNeGl-EqPUW3k3lHVAIr-OWQelMswskohy4TO3YXksXo"/></center>
+<br/>
 牟山夫：<br/>
 百度、雾霾、三鹿以及兲朝所有天灾人祸根源上、本质上都一样，就是下毒：<br/>
 三鹿是往奶粉里下毒，雾霾是往空气里下毒，百度是往搜索结果里下毒，莆田系是往医院里下毒。<br/>
@@ -275,30 +299,38 @@ Red Fire Age：<br/>
 遍地都有连锁店，美容泌尿不孕症，全民癌症都搞定。<br/>
 莆田游医给看病，广告牛皮吹破天，一天搞你好几千，死前让你搞破产。<br/>
 轻松骗你几十万，最后送你上西天。<br/>
-<center><img alt="不见图 请翻墙" src="images/8fZS1V4pYSqtCa5H15NBNMPr-LauD-nOmZEXWSKFxF0Fetqt9SrxI9dM9qrUpXZCji_3zqPdJbG66hjz8CAd7Q0yx9zoaTwy4l2MP69zUlTWGyscapEbV5VsDPXcNlbg2_bKm5kUbgA"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/8fZS1V4pYSqtCa5H15NBNMPr-LauD-nOmZEXWSKFxF0Fetqt9SrxI9dM9qrUpXZCji_3zqPdJbG66hjz8CAd7Q0yx9zoaTwy4l2MP69zUlTWGyscapEbV5VsDPXcNlbg2_bKm5kUbgA"/></center>
 <br/>
-<h2>★军队/武警的利益集团深陷其中</h2><br/>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%93%E8%80%81%E6%9D%BF%E8%81%8A%E7%A7%91%E6%8A%80-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E9%98%9F%E3%80%81%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%8E%BB/" rel="nofollow" target="_blank">为什么军队、武警医院绝不能去 @ 中国数字时代</a><br/>
 <br/>
-<a href="http://tech.caijing.com.cn/20160503/4113969.shtml" rel="nofollow" target="_blank">莆田系公司给部队医院领导送礼清单曝光 @ 财经网</a><br/>
+<h2>★军队/武警的利益集团深陷其中</h2>
+<br/>
+《<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%93%E8%80%81%E6%9D%BF%E8%81%8A%E7%A7%91%E6%8A%80-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E9%98%9F%E3%80%81%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%8E%BB/" rel="nofollow" target="_blank">为什么军队、武警医院绝不能去 @ 中国数字时代</a>》<br/>
+<br/>
+《<a href="http://tech.caijing.com.cn/20160503/4113969.shtml" rel="nofollow" target="_blank">莆田系公司给部队医院领导送礼清单曝光 @ 财经网</a>》<br/>
 （编程随想注：以下是送礼单的照片）<br/>
-<center><img alt="不见图 请翻墙" src="images/El7TpPMfaYwFtS0nFRVdp8oVqq2m9tSzAqY_rhA73M_rjlOpPOtkeWtw164iyb4J2jgk7B_f2t6hXAC8IdHdEyXyZ5P0UkRTRDWMbwVIbaR7vh_JJzHr0nzCb5gpcIhtTvFie5eRXUA"/></center><center><img alt="不见图 请翻墙" src="images/AU41-Pmuv18RY7BdP1qlwvevzt3SlTsMSm4-upiy4ynV7FFtahsUDn9rCwkSMGhCvyQhFSPfCYSp8OR_RTK8KfOz-RcG_qMBvtAKbDUhFnuf-LE-tyxm9rGi4su9t9CPGjqrzrlTH7U"/></center><center><img alt="不见图 请翻墙" src="images/MRyLkJbddNhNgPYL28eah9pJ751sokY4Ex2ApPJVkzqAxmUh8WtEEU_jQYnRfkIRuyBmv1BEs8CDYRnqfpYt_ZPyluKReyoqt6enoPbn5Qg_c9ZlO_jLzbASllhANACl1RI2jwR0SKY"/></center><br/>
-<a href="http://www.bbc.com/zhongwen/simp/china/2016/05/160504_china_military_hostpital_scandal" rel="nofollow" target="_blank">“魏则西事件”——谁在监管“为民服务”的军队医院 @ BBC</a><br/>
+<center><img alt="不见图 请翻墙" src="images/El7TpPMfaYwFtS0nFRVdp8oVqq2m9tSzAqY_rhA73M_rjlOpPOtkeWtw164iyb4J2jgk7B_f2t6hXAC8IdHdEyXyZ5P0UkRTRDWMbwVIbaR7vh_JJzHr0nzCb5gpcIhtTvFie5eRXUA"/></center>
+<center><img alt="不见图 请翻墙" src="images/AU41-Pmuv18RY7BdP1qlwvevzt3SlTsMSm4-upiy4ynV7FFtahsUDn9rCwkSMGhCvyQhFSPfCYSp8OR_RTK8KfOz-RcG_qMBvtAKbDUhFnuf-LE-tyxm9rGi4su9t9CPGjqrzrlTH7U"/></center>
+<center><img alt="不见图 请翻墙" src="images/MRyLkJbddNhNgPYL28eah9pJ751sokY4Ex2ApPJVkzqAxmUh8WtEEU_jQYnRfkIRuyBmv1BEs8CDYRnqfpYt_ZPyluKReyoqt6enoPbn5Qg_c9ZlO_jLzbASllhANACl1RI2jwR0SKY"/></center>
+<br/>
+《<a href="http://www.bbc.com/zhongwen/simp/china/2016/05/160504_china_military_hostpital_scandal" rel="nofollow" target="_blank">“魏则西事件”——谁在监管“为民服务”的军队医院 @ BBC/英国广播公司</a>》<br/>
 <br/>
 ========（以下是网友评论）========<br/>
 <br/>
 Fenng：<br/>
-<center><img alt="不见图 请翻墙" src="images/2eTBqgCxRi-WJoY0rDNd6PN1h6RSJVLZYY6O32j_aNtPWe8vCCG6MeS8cQjgjMGmK25IzY2fvZrX3e8SIXITJZTY6uoEVKxumJiLOWg4EaYYwNjP0Rp8bRB-hemvTCel0Utrg1brIjc"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/2eTBqgCxRi-WJoY0rDNd6PN1h6RSJVLZYY6O32j_aNtPWe8vCCG6MeS8cQjgjMGmK25IzY2fvZrX3e8SIXITJZTY6uoEVKxumJiLOWg4EaYYwNjP0Rp8bRB-hemvTCel0Utrg1brIjc"/></center>
+<br/>
 新浪财经：<br/>
 【莆田系公司被曝和80余军医院合作 收入十多亿元】<br/>
 一般来说，每个地方合作的模式都是一样的，先是公司开发部的员工去和医院的人谈合作。<br/>
 公司和医院会制定一个分成模式，公司出资金，医院出场地，大部分医务人员经外聘招来，整体运营由公司负责完成。<br/>
 和各地医院最早合作，都是从部队医院开始的。<br/>
-<center><img alt="不见图 请翻墙" src="images/TgGTCUlbVxPija73GsUNaYWCJ7TI6cSJqh8x-5JMRGIhsr5ZFiQ3YaZFEQqR0uKaQKznnMMYGfnTZLWREdWchgvX9zjxxB3zsmbZCUtoThA2LoXVFGY6gqAx1CFH7V_wXDFBBEyx49Y"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/TgGTCUlbVxPija73GsUNaYWCJ7TI6cSJqh8x-5JMRGIhsr5ZFiQ3YaZFEQqR0uKaQKznnMMYGfnTZLWREdWchgvX9zjxxB3zsmbZCUtoThA2LoXVFGY6gqAx1CFH7V_wXDFBBEyx49Y"/></center>
+<br/>
 Red Fire Age：<br/>
 【武警北京总院忽悠手册曝光】<br/>
 记者在武警北京总队医院“中医肝科”发现了一份名为《接诊程序》的材料。这份12页的材料详细介绍了在开化验单前、接诊过程、诊疗复查等阶段，医生如何千方百计留住患者，如何得到患者信任、从而花钱在医院买药的技巧<br/>
-<center><img alt="不见图 请翻墙" src="images/yk-m2NoE9AIR3nEe9PQKQryfYNQDK91_EcoKTMZvTIQxqjCHGRwBt5WyYprenusQjae--W9ajN49pf8RVCCee9ETlAyJnp6pwRgIsUFPTKca_lyFUY2yC56mDDraJZ6cDJB6XGN_X_U"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/yk-m2NoE9AIR3nEe9PQKQryfYNQDK91_EcoKTMZvTIQxqjCHGRwBt5WyYprenusQjae--W9ajN49pf8RVCCee9ETlAyJnp6pwRgIsUFPTKca_lyFUY2yC56mDDraJZ6cDJB6XGN_X_U"/></center>
+<br/>
 He Qinglian：<br/>
 魏案之所以能成为医疗事故社会化办理的热点案件，有个背景不可忽视：习近平抓军改，其中一项重要内容就是军队退出经营领域。这等于让军队砍摇钱树，推进不容易。魏案因此成了典型。<br/>
 <br/>
@@ -314,27 +346,55 @@ kyleyan：<br/>
 武警二院的这种欺诈是十分隐蔽的，医院有资质、治疗手段有依据，换作我，我觉得我都很可能会被骗。<br/>
 <br/>
 <br/>
-<h2>★关于天朝的体制</h2><br/>
-<a href="https://botanwang.com/articles/201605/%E9%AD%8F%E5%88%99%E8%A5%BF%E5%BC%8F%E6%82%B2%E5%89%A7%E4%B8%80%E5%AE%9A%E8%BF%98%E4%BC%9A%E9%87%8D%E6%BC%94.html" rel="nofollow" target="_blank">魏则西式悲剧一定还会重演 @ 博谈网</a><br/>
-<blockquote>来势汹汹的调查组进驻了，似乎又唤起了人们的一丝希望。那么就分析一下接下来可能出现的结果。<br/>
+<h2>★关于天朝的体制</h2>
+<br/>
+《<a href="https://botanwang.com/articles/201605/%E9%AD%8F%E5%88%99%E8%A5%BF%E5%BC%8F%E6%82%B2%E5%89%A7%E4%B8%80%E5%AE%9A%E8%BF%98%E4%BC%9A%E9%87%8D%E6%BC%94.html" rel="nofollow" target="_blank">魏则西式悲剧一定还会重演 @ 博谈网</a>》<br/>
+<blockquote>
+来势汹汹的调查组进驻了，似乎又唤起了人们的一丝希望。那么就分析一下接下来可能出现的结果。<br/>
 第一，先说百度。它实际上承载了国家搜索的职能，有些事让你知道就能搜出来。不想让你知道，就会秉承官方意志屏蔽真相，甚至帮助作假。百度已经成为官方宣传洗脑的一个重要工具。因此象征性地罚罚款警告一下，这事就算过去了。多次陪同习大大出访的李彦宏更不会有事。当局绝不会把它弄死，更不会让谷歌重新进来；<br/>
 第二，武警医院，借着军队改革正好撤并或者移交地方，不再从事商业性活动。以前的腐败旧案如果属实，抓几个杀一儆百，安抚民心。部队医院涉及军事，有些事情更不好公布，以涉及国家军事机密对外解释，民众自然不再追究；<br/>
 第三，莆田系，作为民营医疗机构，在当下的医疗体制下生存一直就比较艰难，只是为了牟利，走上了弄虚作假谋财害命的邪路。关闭、重罚一些下属机构都有可能，让其走正道，但也不会让其死掉。因为，未来医疗体制改革，部分市场化仍然是趋势；<br/>
 第四，监管机构。百度医疗推广竞价排名早就有，部队医院承包科室、莆田系乱打广告也非一日之功。10多年前就有官方媒体揭露过其中的猫腻，可最后都是石沉大海、不了了之。我相信这些年，类似魏则西式的悲剧一定不计其数，只是曝光出来的很少而已。这次如果不是因为骗了一个学霸、死了一个学霸，这种骗局也不至于发酵闹大。因此从这些角度看，监管机构的不作为才是最大的“作恶”。那么这次又是这些监管机构来主持调查，结果会怎样可想而知。<br/>
-<b>因此，体制没变，一切如常。一切都不会发生根本性的改变，就像之前发生的那些天灾人祸、重大事故一样。那么，我们为什么要相信魏则西式的悲剧不会重演呢？</b></blockquote><br/>
-<a href="http://opinion.people.com.cn/n1/2016/0502/c1003-28318763.html" rel="nofollow" target="_blank">别忽略魏则西之死背后的双重垄断 @ 人民网</a><br/>
-<blockquote>如何避免魏则西式的悲剧，不少人开出的药方往往有两点，一是百度应该尽快消除过于逐利的竞价排名，不能给钱就推广；二是应该加大对莆田系医院的监管。人们也在质问：监管部门都干啥去了？<br/>
-不能说这两点没有意义，但是，从根本上说，最有效的措施除了强化监管之外，还应该瓦解它们的垄断地位，如果搜索市场百花齐放，百度还敢任性吗？如果其他的民营医院有足够份额和话语权，对莆田系医院构成强大挑战，莆田系医院还敢把患者当成会走的钱袋吗？所以说，反垄断部门，应该发力！</blockquote>（编程随想：难得朝廷喉舌偶尔还能发一篇靠谱的文章。这篇文章强调了“反垄断”的重要性。<br/>
+<b>因此，体制没变，一切如常。一切都不会发生根本性的改变，就像之前发生的那些天灾人祸、重大事故一样。那么，我们为什么要相信魏则西式的悲剧不会重演呢？</b></blockquote>
+<br/>
+《<a href="http://opinion.people.com.cn/n1/2016/0502/c1003-28318763.html" rel="nofollow" target="_blank">别忽略魏则西之死背后的双重垄断 @ 人民网</a>》<br/>
+<blockquote>
+如何避免魏则西式的悲剧，不少人开出的药方往往有两点，一是百度应该尽快消除过于逐利的竞价排名，不能给钱就推广；二是应该加大对莆田系医院的监管。人们也在质问：监管部门都干啥去了？<br/>
+不能说这两点没有意义，但是，从根本上说，最有效的措施除了强化监管之外，还应该瓦解它们的垄断地位，如果搜索市场百花齐放，百度还敢任性吗？如果其他的民营医院有足够份额和话语权，对莆田系医院构成强大挑战，莆田系医院还敢把患者当成会走的钱袋吗？所以说，反垄断部门，应该发力！</blockquote>
+（编程随想：难得朝廷喉舌偶尔还能发一篇靠谱的文章。这篇文章强调了“反垄断”的重要性。<br/>
 俺想提醒一下大伙儿——【一党专政】是另一种形式的垄断，危害更大）<br/>
 <br/>
-<a href="http://fund.jrj.com.cn/simu/2016/05/04115820913215.shtml" rel="nofollow" target="_blank">百度的中枪掩护了多少人安全撤退？ @ 金融界</a><br/>
+《<a href="http://fund.jrj.com.cn/simu/2016/05/04115820913215.shtml" rel="nofollow" target="_blank">百度的中枪掩护了多少人安全撤退？ @ 金融界</a>》<br/>
 <br/>
-<a href="http://chuansong.me/n/320390232342" rel="nofollow" target="_blank">“三讲”魏则西之死 @ 传送门</a><br/>
-<blockquote>就魏则西之死所涉及到的三大问题：百度搜索的商业模式，莆田系洗白的历程，以及公立医院的外包，没有哪个是新问题，也没有哪个没被批评过。它们这一次在魏则西之死的舆论上汇流了<br/>
+《<a href="http://chuansong.me/n/320390232342" rel="nofollow" target="_blank">“三讲”魏则西之死 @ 传送门</a>》<br/>
+<blockquote>
+就魏则西之死所涉及到的三大问题：百度搜索的商业模式，莆田系洗白的历程，以及公立医院的外包，没有哪个是新问题，也没有哪个没被批评过。它们这一次在魏则西之死的舆论上汇流了<br/>
 ......<br/>
 莆田系二十年的发展历程，就是它往医疗体系中钻营的二十年，是洗白的二十年。以致于到了今天，它竟然可以享受“市场化“与”民营经济“这两大政治正确的辩护话语。莆田系之所以能见度低，并在本次事件中未被认清，全拜这两大话语的习惯性使用所赐。<br/>
-</blockquote><br/>
-<a href="http://www.chinaelections.com/article/417/242007.html" rel="nofollow" target="_blank">百度门——公器私用与私器公用 @ 中国选举与治理</a><br/>
+</blockquote>
+<br/>
+《<a href="http://www.chinaelections.com/article/417/242007.html" rel="nofollow" target="_blank">百度门——公器私用与私器公用 @ 中国选举与治理</a>》<br/>
+<blockquote>
+　　2008年的时候，因为奥运效应，央视广告收益水涨船高，在奥运会开闭幕式的转播时段广告招标中，中国的乳品行业贡献了7亿的人民币，伊利集团豪掷2008万元，拿下开闭幕式广告的第一选择权。7亿，想想就让我这样的穷人眩晕。<br/>
+　　然后，奥运开完了，大家才知道原来蒙牛伊利三鹿这些乳业巨头的银子，都是靠三聚氰胺坑回来的，被坑的，就是我们的未来：年幼的孩子们，或死或残，就这么被今天的人忘却了。经查，各乳企是蓄意添加三聚氰胺，属于故意行为。<br/>
+　　2010年，我曾问过当时曾独善其身的黑龙江乳企，他们的回答是：这技术当时还没传到黑龙江，他们才因为技术闭塞独善其身，不然他们也加……<br/>
+　　由此可见，至少上届乳企和央视，都不是什么好人。<br/>
+<br/>
+　　我之所以提起这件往事，是因为今天风口浪尖上的百度。<br/>
+　　按照今天媒体的推理，因为百度，所以患者才获取了错误的信息。那倒推一下，如果没有我的老东家 CCTV 的广告推送，甚至是公信力背书，会有那么多家长选择毒奶粉吗？会有那么多孩子受害吗？如果你认为百度的关键词竞价是核心恶因，那么央视拍卖核心广告资源，是不是一种竞价排名？在关键的时间，让你第一个出现在公众视野，严格来说，这就是电视线性传播时代的竞价排名。<br/>
+　　补充一下，三聚氰胺毒牛奶事件后，上届乳企继续加大广告投入，而央视照例来者不拒。<br/>
+　　我说这么多，不是要给百度洗地，也不是要羞辱老东家，而是问一个问题：为毛没人像围殴百度一样，去声讨央视在毒牛奶中的责任。<br/>
+　　所以，建国后尚未成精的历届中国人最大的问题在于，该讲法律的时候他跟你道德，而该讲道德的时候，他跟你讲法律。<br/>
+　　什么时候要讲道德？跟CCTV在内的所有国资媒体必须讲道德，这些年混得好的媒体靠各种有案底的酸酸乳活着；混得不好的，全靠各种不孕不育活着。<br/>
+　　这叫缺德，这是公器私用。<br/>
+<br/>
+　　国资媒体是用纳税人的钱建立并养活的，中央无论在财政上还是市场壁垒上，都给予了最大保护，这个是公器，理应以最大公共利益为使命的宣传机器，但是却成为了企业和资本私利的信息渠道，标的物是钱，手段叫竞标。<br/>
+　　回过头看百度，从2009年至今，一直深陷竞价门丑闻，这些丑闻甚至曾让他的股价，在纳斯达克一天暴跌 40%。此次魏某事件，再次让他深陷舆论暴风中心。<br/>
+　　本届中国人民还是不长进，在该讲法律的时候，又讲起了道德。<br/>
+　　百度是私企，在骨子里，只要不触碰法律，他的一切合法行为均不能用道德去捆绑。很简单，他从诞生到庞大，没花过纳税人一分钱税金，他不需要对纳税人负责，亦无此社会义务，百度的使命是在合乎法律框架的行为准则内，对资本增值承担最大的责任。<br/>
+　　所以百度是私器，但不幸的是，他太大了，所以人们希望他在道德上，能承担公器的责任。这个就是私器公用。<br/>
+<br/>
+......</blockquote>
 <br/>
 ========（以下是网友评论）========<br/>
 <br/>
@@ -398,9 +458,11 @@ kyleyan：<br/>
 “舉枉錯諸直”，是你们支那的日常。<br/>
 <br/>
 作业本：<br/>
-<center><img alt="不见图 请翻墙" src="images/fDC8JhTIpyQxdqoAQMTj3JhRWQ8whF0D6q46bFq_hRECgMPMXdODUC8VTZqcJjAPLyRXfKmULRY66cU4ZhV3fyf2Wbw857GQjiHGKDwQFxhvnZh_1B0FY3VeS4PM8AdWOg0ijMxm7uA"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/fDC8JhTIpyQxdqoAQMTj3JhRWQ8whF0D6q46bFq_hRECgMPMXdODUC8VTZqcJjAPLyRXfKmULRY66cU4ZhV3fyf2Wbw857GQjiHGKDwQFxhvnZh_1B0FY3VeS4PM8AdWOg0ijMxm7uA"/></center>
+<br/>
 闾丘露薇：<br/>
-<center><img alt="不见图 请翻墙" src="images/i_ahArmSWH2DYhKEwJW8FNMDmKKz5hK6E1Ch5UA50zC1Vo3lp7acqc4LuySp_-Ym7oZPou4EJ1o1VI3mnnYe69DbavPjIBrA3-BlLbx5iXtj1O_8Chqf0p5uyhV9e9kibikMsWClOUc"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/i_ahArmSWH2DYhKEwJW8FNMDmKKz5hK6E1Ch5UA50zC1Vo3lp7acqc4LuySp_-Ym7oZPou4EJ1o1VI3mnnYe69DbavPjIBrA3-BlLbx5iXtj1O_8Chqf0p5uyhV9e9kibikMsWClOUc"/></center>
+<br/>
 橘池歐葉：<br/>
 【则西事件】<br/>
 最终应该靠军委表态一锤定音。砍掉了所有的部队医院的外包收入，百度也就算过关了。<br/>
@@ -447,7 +509,8 @@ Andy-_-Yeung：<br/>
 至于为什么这样的医院会资质齐全合法从医，才是所有问题的根源。<br/>
 <br/>
 <br/>
-<h2>★“真理部”的河蟹与忽悠</h2><br/>
+<h2>★“真理部”的河蟹与忽悠</h2>
+<br/>
 【真理部指令】<br/>
 关于魏则西事件，除通稿以外，不再发布新报道，不再作深度解读，不得再编发追踪报道、深挖内幕等新闻评论，须使用规范稿源，不合规稿源一律查删。<br/>
 微信公众号、微博官微、移动客户端及手机WAP页面等环节同步生效。<br/>
@@ -471,7 +534,8 @@ LifeTime：<br/>
 年轻人魏则西之死，引发网络热议。人们对百度有意经营虚假医药广告，义愤填膺。<br/>
 这件事也促使人们反省：至今很多中国人仍然相信报纸、电视上说的一定都是真理，像百度这种政府批准的大公司说的都是真话，官方或官方认可的都值得信赖。<br/>
 这种思维方式不改变，悲剧还会发生；你不能指望骗子会不再骗人。<br/>
-<center><img alt="不见图 请翻墙" src="images/u5ggFcewWzIbzLnexRArpsEO99kclZ9kuA5jw6ZJ_kZQ1yzIsNrQ_21zXdO4Mp8gqTlp4lupbmbkfFOL7f8-MT-TxyfsVNMxaWvp41_gbDfRN4UYeSfVBtG8xQrFelmPdAPtJxGmRuU"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/u5ggFcewWzIbzLnexRArpsEO99kclZ9kuA5jw6ZJ_kZQ1yzIsNrQ_21zXdO4Mp8gqTlp4lupbmbkfFOL7f8-MT-TxyfsVNMxaWvp41_gbDfRN4UYeSfVBtG8xQrFelmPdAPtJxGmRuU"/></center>
+<br/>
 草民评-3：<br/>
 【流氓分三等】<br/>
 低等流氓干了坏事就会说：我也是没办法，我也要生存。<br/>
@@ -485,7 +549,8 @@ LifeTime：<br/>
 如果统治者这两手都用上了，离崩溃也就不远。<br/>
 <br/>
 <br/>
-<h2>★人民日报：坦然面对生死，是最理性的选择</h2><br/>
+<h2>★人民日报：坦然面对生死，是最理性的选择</h2>
+<br/>
 五岳散人：<br/>
 人民日报说，遇到绝症应坦然面对生死。生死是人生最大的事，无论任何文明、宗教，其致力解决的都是这个问题，但能坦然面对者，不是圣人、贤者就是疯子，您是求一国之人当圣人、贤者还是疯子？这何止是站着说话不腰疼，这种话只要说出来就是冷血，无论其立论多高明。  <br/>
 <br/>
@@ -533,7 +598,8 @@ Stanford于洋：<br/>
 你国301医院怎么办？<br/>
 <br/>
 <br/>
-<h2>★军队喉舌：任何人都不能以“魏则西事件”个案，来诋毁抹黑人民军队</h2><br/>
+<h2>★军队喉舌：任何人都不能以“魏则西事件”个案，来诋毁抹黑人民军队</h2>
+<br/>
 （编程随想注：<br/>
 解放军电视宣传中心下属的“中国军视网”发文谈“魏则西事件”。文章题为《让“魏则西事件”真正净化我们的生命环境》。<br/>
 文中有一句是：【任何人都不能以“魏则西事件”个案，来诋毁抹黑人民军队】）<br/>
@@ -544,7 +610,8 @@ Stanford于洋：<br/>
 武大郎说：任何人都不能以“西门庆事件”个案，来诋毁我老婆潘金莲！<br/>
 <br/>
 孔维嘉：<br/>
-<center><img alt="不见图 请翻墙" src="images/_Q4DyWLA500J4uzAYw_2-zj-vrZaOKLdQyRuDxHNWrlE6DBS0N8qjQkSEoju8w3X7NcWuyMRKZLnFF_nR6vOVpiyszQwtXWYgz5-Meu7B3DG43wu2uelpCwsVJdRMlQpxSLCdcpjTIA"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/_Q4DyWLA500J4uzAYw_2-zj-vrZaOKLdQyRuDxHNWrlE6DBS0N8qjQkSEoju8w3X7NcWuyMRKZLnFF_nR6vOVpiyszQwtXWYgz5-Meu7B3DG43wu2uelpCwsVJdRMlQpxSLCdcpjTIA"/></center>
+<br/>
 哈哟哦呀呵：<br/>
 我看了原文，没有一个字提到科室外包。谁说那些真正的部队医生了，说的是外包这种行为好吗？<br/>
 医院收了钱，把科室外包出去，默许骗子打着自己的名号去行骗，再和骗子分赃。<br/>
@@ -572,7 +639,8 @@ yyypy2：<br/>
 请把军队前面的人民二字去掉可好？<br/>
 <br/>
 <br/>
-<h2>★关于 GFW 和“翻墙”</h2><br/>
+<h2>★关于 GFW 和“翻墙”</h2>
+<br/>
 他乡异客：<br/>
 注意魏则西自述的一个细节，魏则西病情恶化后，托一个美国朋友查了google才知道这种治疗不靠谱。<br/>
 要拜托国外朋友才能查google也算是中国特色了。<br/>
@@ -587,9 +655,11 @@ av69：<br/>
 告诫各位，一定要教会自己的孩子翻墙。<br/>
 <br/>
 三进三进：<br/>
-<center><img alt="不见图 请翻墙" src="images/6L6YxCoNrhuJpuRjZgQW5Ue9vLUfcKP2q1CRFBztOEi5Nt3DPvgYsMo-8YiBWQdCiD5qYs6L8eOnoXntClMVXAGxDQPAlfEPkxYYSqHG1enYqdHPdv3PBtRd9x7AzgtcMtpGqzIM1xY"/></center><br/>
+<center><img alt="不见图 请翻墙" src="images/6L6YxCoNrhuJpuRjZgQW5Ue9vLUfcKP2q1CRFBztOEi5Nt3DPvgYsMo-8YiBWQdCiD5qYs6L8eOnoXntClMVXAGxDQPAlfEPkxYYSqHG1enYqdHPdv3PBtRd9x7AzgtcMtpGqzIM1xY"/></center>
 <br/>
-<h2>★网友的其它评论</h2><br/>
+<br/>
+<h2>★网友的其它评论</h2>
+<br/>
 wuzuolai：<br/>
 外交停留在声明层面，<br/>
 军队停留在家丁层面，<br/>
@@ -627,6 +697,7 @@ redfireage：<br/>
 <br/>
 <b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/>
 《<a href="../../2014/07/corruption-and-form-of-government.md">分析“制度性腐败”——为啥天朝的贪官屡禁不止？</a>》<br/>
+《<a href="../../2021/04/weekly-share-152.md">每周转载：从“肿瘤黑幕”看天朝的“医患矛盾”（网文8篇以及俺的点评）</a>》<br/>
 《<a href="../../2019/05/weekly-share-129.md">每周转载：中国智商税简史</a>》<br/>
 《<a href="../../2016/03/weekly-share-99.md">每周转载：震惊全国的山东疫苗事件（各方报道及网友评论）</a>》<br/>
 《<a href="../../2014/03/weekly-share-63.md">每周转载：幼儿园集体服药事件和相关抗议活动（网文若干，照片多张）</a>》<br/>

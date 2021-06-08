@@ -11,7 +11,7 @@
 <h3>◇【输入法】的隐私风险</h3>
 <br/>
 《<a href="http://infzm.com/contents/200787" rel="nofollow" target="_blank">输入法会“背叛”我们吗？ @ 南方周末</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 一位受访者对南方周末记者描述，几天前朋友家要换马桶，她微信回信息说了自家用的牌子，下次打开手机 WPS 时，开屏广告就成了京东马桶。“这种 N 年不提的话题，不可能这么巧吧？”她怀疑是输入法泄密。<br/>
 根据 Mob 研究院数据，2020年搜狗、讯飞和百度三家输入法占据了国内市场九成的活跃用户，其中搜狗占有率最高，54%。2020年9月，腾讯全资收购了搜狗。<br/>
 易观一组数据表明，中国第三方输入法的活跃用户在2019年达到7.71亿。输入法已成网民刚需。<br/>
@@ -31,7 +31,7 @@
 　　<b>编程随想注：</b><br/>
 　　今年315晚会曝光的丑闻里面，据说热度最高的是【简历泄露】。简历包含的信息量非常大，也难怪大伙儿很关注此事。<br/>
 　　上述这篇挺长的，俺把小标题列一下：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 你的简历是怎么泄露出去的？<br/>
 　　1）注册假公司骗取简历<br/>
 　　2）与招聘网站“内外勾结”<br/>
@@ -44,7 +44,7 @@
 </blockquote>
 <br/>
 《<a href="https://www.cnbeta.com/articles/tech/1111473.htm" rel="nofollow" target="_blank">Facebook 超5亿用户数据泄露，事件与功能误用有关 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 北京时间4月7日早间消息，据报道，此前，美国社交媒体平台 Facebook 被曝有5.33亿用户数据遭泄露，其中包含一些知名人士的信息。媒体报道称，泄露的信息包括用户手机号码、名字、位置、出生年月日、电子邮件地址等。对此，Facebook 今日回应称，报道中的数据泄露事件与数据窃取有关，而不是被黑客入侵系统。<br/>
 Facebook 表示，2019年因为一个功能遭到误用，导致信息出现泄露，可能影响用户约5.3亿；发现问题之后，Facebook 第一时间堵住漏洞。<br/>
 根据 Facebook 的解释，2019年9月之前，恶意破坏者利用 Facebook 同步联系人工具存在的漏洞窃取数据。随后公司发现漏洞并修复。<br/>
@@ -52,13 +52,13 @@ Facebook 表示，2019年因为一个功能遭到误用，导致信息出现泄�
 ......</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66764" rel="nofollow" target="_blank">巴西几乎所有人的信息泄露 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="https://tecnoblog.net/404838/exclusivo-vazamento-que-expos-220-milhoes-de-brasileiros-e-pior-do-que-se-pensava/" rel="nofollow" target="_blank">巴西几乎所有人的信息泄露</a>。泄露的数据为 14GB，包含了1.04亿车辆和4000万家企业详细信息，潜在受影响人数2.2亿。巴西人口2.1亿，这意味着巴西所有人的信息都被泄露（还有部分在巴西生活的外籍居民）。泄露的信息包含了姓名、出生日期和 CPF 号码。CPF 号码是巴西税务局分配给居民和需要纳税的外籍居民的数字。网络安全公司对钓鱼骗局发出了警告。</blockquote>
 <br/>
 <h3>◇信息时代的【数字军阀】</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66677" rel="nofollow" target="_blank">Google、苹果、Facebook、微软——数字时代的军阀 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 去年11月，苹果用户在一次影响广泛的宕机事故后才知道：苹果监视了用户打开和启动的每一个应用程序（编程随想注：上一期谈过这个重大丑闻【OCSP 事件】）<br/>
 苹果为什么要这么做？最为善意的猜测是：此举旨在更早发现恶意程序。在一个充斥着恶意的网络世界里，这么做是必要的。安全专家 Bruce Schneier 将这种现象形容为“封建式安全”。<br/>
 生活在21世纪的我们，面临各种数字强盗的围攻。从身份窃贼，到跟踪者，到企业和政府间谍，到骚扰者。我们是没有办法自保的。即使是身经百战的专家也无法和强盗相抗衡。为了抵抗强盗，你必须做到完美，不犯任何错误。而强盗只要抓住一个错误就能逮住你。因此为了安全起见，你必须和数字军阀结盟。苹果、Google、Facebook 和微软等建立了庞大的要塞，它们投入了大量金钱招募了最强的雇佣兵来保护要塞，为客户（包括你）抵御攻击者。<br/>
@@ -74,7 +74,7 @@ Facebook 表示，2019年因为一个功能遭到误用，导致信息出现泄�
 <h3>◇QQ 在偷窥你的上网历史</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66679" rel="nofollow" target="_blank">QQ 被发现扫描并上传用户的浏览器历史 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 腾讯消息应用 QQ 以及 QQ 办公版 TIM 被发现会扫描用户的浏览器历史，搜索购物记录，选择性上传。<a href="https://bbs.pediy.com/thread-265359.htm" rel="nofollow" target="_blank">用户报告</a>，QQ 在登陆10分钟之后开始扫描 Appdata\Local\ 下的所有文件夹，对其中 User Data\Default\History 进行进一步的扫描，User Data\Default\History 是基于 Chrome/Chromium 的浏览器默认历史纪录存放位置，Firefox 的浏览历史存放位置不同，因此目前看来不受影响。不过 Firefox 市场份额不高，而基于 Chrome/Chromium 的浏览器占据了九成以上的份额。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　疼逊官方在知乎发了一篇声明（<a href="https://www.zhihu.com/question/439768601/answer/1683913941" rel="nofollow" target="_blank">这里</a>），进行辩解。<br/>
@@ -83,7 +83,7 @@ Facebook 表示，2019年因为一个功能遭到误用，导致信息出现泄�
 <h3>◇疼逊如何看待“微信好友关系”？</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66888" rel="nofollow" target="_blank">微信好友关系，是否属于个人隐私？ @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 腾讯总部所在地深圳市南山区法院上个月判决，微信好友关系不属于个人隐私。<br/>
 本案的原告在2019年发现，使用微信或 QQ 登录腾讯“微视”APP后，微视会获取其全部微信或 QQ 好友信息。他认为，腾讯公司未经其授权将他的微信、QQ 好友关系提供给其他 APP，侵犯了他的隐私权。<br/>
 但南山法院认为：“隐私是指用户对其生活领域不愿公开的信息享有不被他人知悉的权利。原告主张的性别和地区属于公开信息，不构成隐私。”<br/>
@@ -92,7 +92,7 @@ Facebook 表示，2019年因为一个功能遭到误用，导致信息出现泄�
 <h3>◇【聊天工具/IM】的选型</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67406" rel="nofollow" target="_blank">Mark Zuckerberg 被发现使用 Signal @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Facebook CEO Mark Zuckerberg 使用加密消息应用 Signal，他的电话号码包含在泄露的5.33亿 Facebook 用户数据中间（编程随想注：这个“用户数据泄漏事件”，前面已经提到了），除此之外还有他的名字、地址、婚姻状况、出生日期和 Facebook ID。<br/>
 一位安全研究人员说：又一次大转折，Mark Zuckerberg 注重他自己的隐私，使用不属于 @facebook 的端对端加密聊天应用。<br/>
 ......</blockquote>
@@ -100,7 +100,7 @@ Facebook CEO Mark Zuckerberg 使用加密消息应用 Signal，他的电话号�
 　　俺经常说：“观其行”比“听其言”更重要。大伙儿来看看，Facebook 的老板，放着自家的 WhatsApp 不用，非要用别家的 Signal。WhatsApp 的隐私风险，昭然若揭。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66941" rel="nofollow" target="_blank">WhatsApp 的隐私友好替代 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 WhatsApp 的服务条款变更引发了很多争议，加密邮件服务 Proton 官方博客<a href="https://protonmail.com/blog/whatsapp-alternatives/" rel="nofollow" target="_blank">介绍了多个隐私友好的替代服务</a>：<br/>
 Signal，开源端对端加密，缺点是注册需要手机号；<br/>
 Telegram 的缺点是私聊才端对端加密，没有群聊；（编程随想注：这款也要用手机号注册）<br/>
@@ -128,7 +128,7 @@ Keybase，已被 Zoom 收购，记录元数据。（编程随想注：Zoom 是�
 <br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66684" rel="nofollow" target="_blank">为什么俄罗斯网络犯罪分子流行用 Jabber？ @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 俄罗斯网络犯罪世界充斥着谜团，但有一种技术充当了主要的通信工具：有18年历史的分布式开源即时通讯协议 Jabber。根据安全公司 Flashpoint 的研究，黑客做交易、分享情报和对恶意程序提供技术支持都是通过 Jabber 完成。该公司资深研究员 Leroy Terrelonge III 称，在网络犯罪经济中，Jabber 是通信的黄金标准。Jabber（或又叫 XMPP）通信系统由数千个独立服务器构成，在全世界有大约一千万用户。有10亿用户的 WhatsApp 使用的是一个 XMPP 变体。ICQ 曾经统治了俄罗斯 IM 市场长达20年，当 Edward Snowden 在2013年披露美国的大规模监视之后，俄罗斯人开始转向了 Jabber。Jabber 加上它的加密插件 OTR（off-the-record）能为通信提供强加密支持。Jabber 的联邦式架构允许任何人运营服务器，这对犯罪分子有巨大的吸引力，他们担心企业与政府之间合作过于紧密。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　俄罗斯网络黑帮偏爱的 <a href="https://en.wikipedia.org/wiki/XMPP" rel="nofollow" target="_blank">Jabber/XMPP</a>，严格来讲只是一个【IM 协议】，而不是一款 IM 软件。已经有很多软件（包括开源软件）实现了该协议。<br/>
@@ -139,14 +139,14 @@ Keybase，已被 Zoom 收购，记录元数据。（编程随想注：Zoom 是�
 <h3>◇【中国版】的 Flash 插件</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67031" rel="nofollow" target="_blank">安全公司称：Flash 中国版会安装广告程序 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Adobe 在2020年12月31日之后停止更新和分发 Flash Player，之后重庆重橙网络科技有限公司通过网站 flash.cn 独家在中国大陆分发和维护 Flash Player。<br/>
 安全公司 Minerva Labs 在收到多次与 Flash 中国版相关的安全警告之后对其进行了分析，发现 Flash 中国版除了安装 Flash 之外还会下载和运行名叫 nt.dll 的文件，其主要功能类似广告程序，但不排除它可以用于其它恶意目的。Flash 中国版主要影响中国用户。</blockquote>
 <br/>
 <h3>◇Email 里面的【跟踪像素】</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66948" rel="nofollow" target="_blank">电邮中的跟踪像素日益流行 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 在电邮中使用跟踪技术正日益常见。被称为“跟踪像素”的技术可记录邮件是否打开，以及何时打开；邮件被打开了多少次；打开邮件的设备类型；用户的粗略位置。这项技术可被用于判断一个特定电邮推广活动的影响，以及记录下更多的客户肖像细节。<br/>
 跟踪像素通常是只有 1x1 像素的 .GIF 或 .PNG 文件，被插入到插入到电邮的页眉、页脚或正文中，用户的裸眼是无法识别出它的。用户可以使用电邮程序的免费插件剥离掉大部分跟踪像素。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -162,14 +162,47 @@ Adobe 在2020年12月31日之后停止更新和分发 Flash Player，之后重�
 《<a href="../../2010/06/howto-prevent-hacker-attack-0.md">如何防止黑客入侵</a>》（系列）<br/>
 《<a href="../../2013/06/privacy-protection-0.md">如何保护隐私</a>》（系列）<br/>
 <br/>
-　　（本文发出后，经热心读者提醒，再补充一招）<br/>
-　　使用【纯文本界面】的邮件客户端或浏览器，应该也可以规避这种“跟踪像素”。<br/>
-　　但是这类工具比较小众，使用的门槛也比较高。一般人恐怕搞不定。<br/>
+<h3>◇访问邮箱的方式——“Web 方式” VS “软件方式”</h3>
+<br/>
+　　（本文发出后，与热心读者在评论区交流“邮件访问方式”；俺再补充一个小节，汇总相关的讨论结果）<br/>
+　　访问邮箱，常见的方式有两种——<br/>
+其一，如果电子邮件服务商提供“Web 界面”，那么用户就可以通过【浏览器】访问该界面（在本小节，这称之为“Web 方式”）；<br/>
+其二，如果电子邮件服务商提供 SMTP/POP3 或诸如此类的协议支持，用户可以通过【邮件客户端软件】操作邮箱（在本小节，这称之为“软件方式”）。<br/>
+　　这两种方式各有优缺点，俺简单总结如下：<br/>
+<br/>
+　　<b>【Web 方式】的优点</b><br/>
+1. 服务器的限制<br/>
+如果邮件服务器只提供 web 界面（不提供其它邮件协议的支持）；那么你只能用“Web 方式”<br/>
+2. 避免额外安装软件<br/>
+一般来说，大部分网民的系统中都已经有浏览器。用“Web 方式”，你就【无需】额外安装邮件客户端软件。<br/>
+俺经常唠叨的一个安全原则是——系统中安装的软件尽可能少（可以降低【攻击面】）<br/>
+3. 【网络隐匿性】的考虑<br/>
+（这点是针对安全性要求较高的网友）<br/>
+有些邮件用户不希望邮件服务器知道自己的公网 IP，因此需要采用某种“网络隐匿术”。这方面，Tor 当然是首选。<br/>
+如果用“Web 方式”，要走 Tor 代理会比较容易（直接使用【Tor Browser】即可）<br/>
+反之，如果用邮件客户端，还需要额外对其进行配置；万一配置错误，导致客户端【没有】走 Tor 网络，会是潜在的隐患。<br/>
+4. 【本地无痕】的考虑<br/>
+（这点是针对安全性要求较高的网友）<br/>
+“Web 方式”【无需】把邮件同步到本地，就有可能做到【本地无痕】。<br/>
+比如说：先在虚拟机中创建快照，然后用“Web 方式”查看邮件；看完之后回退到快照——这就可以做到【本地无痕】。<br/>
+<br/>
+　　<b>【软件方式】的优点</b><br/>
+1. 服务器的限制<br/>
+如果邮件服务器只提供邮件协议（SMTP、POP3、等），不提供“Web 界面”；那么你只能用“软件方式”<br/>
+2. 攻击面的考虑<br/>
+随着 Web 的相关标准越来越多，如今的 Web 浏览器也越来越复杂。一般来说，软件越复杂，则攻击面就越大。<br/>
+相反，如果你选择某款【轻量级】的邮件客户端，它的攻击面就有可能【远小于】浏览器。<br/>
+3. 【纯文本】的邮件客户端<br/>
+（这点是针对安全性要求较高的网友）<br/>
+有些邮件客户端是【纯文本】软件，那么它天生就可以防范（上一个小节所说的）“跟踪像素”。<br/>
+而且这类邮件客户端还有一个好处——可以用在【纯文本】的操作系统环境中（【没】安装图形界面的系统）。<br/>
+【纯文本】的操作系统环境，因为少掉了图形界面，有助于降低攻击面；但“使用门槛”会比较高，不适合技术菜鸟。<br/>
+作为对比，主流的浏览器都依赖“图形界面”。虽然也有少数【纯文本】的浏览器，但这些浏览器的功能太弱（比如：缺乏 JS 引擎），通常【无法】操作邮箱的 Web 界面。<br/>
 <br/>
 <h3>◇【智能坐垫】的隐私问题</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66640" rel="nofollow" target="_blank">杭州公司用智能坐垫记录员工离座时间 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 杭州荷博物联公司设计了一款智能坐垫，作为产品研发的一部分，发给员工放在他们的办公椅上进行测试。这些坐垫号称是用于检测员工健康状况，指出可能是疲劳迹象的不良坐姿，测量心率，统计员工在办工桌前坐了多久。<br/>
 但当该公司的人力资源经理开始询问员工，为什么长时间离开座椅或提前下班时，人们很快明白了，这些坐垫也记录了员工最不想让老板知道的事情：他们什么时候不在自己的办公桌前，这可能会给员工带来麻烦。<br/>
 ......</blockquote>
@@ -194,7 +227,7 @@ Adobe 在2020年12月31日之后停止更新和分发 Flash Player，之后重�
 　　为了利用这个漏洞，攻击者可以创建一个 Web 页面，其中包含精心构造的字体，然后诱导受害者访问该页面。当受害者的浏览器打开该页面时，就中招了。由于此漏洞针对“字体渲染”，与 JS【无关】。因此，即使浏览器禁用了 JS 脚本，还是会中招。<br/>
 　　在上一期的《<a href="../../2021/01/Security-News.md">近期安全动态和点评（2020年4季度）</a>》中，俺介绍过另一个漏洞 <code>CVE-2020-15999</code>，与这个很类似。<code>CVE-2020-15999</code> 位于“FreeType 字体渲染库”。也是利用“Web 页面的字体”来实现远程代码执行。<br/>
 　　在上一期，俺说过如下这句，今天再次贴出来：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 假如你很注重安全性，为了更彻底地消除【字体】导致的攻击面，你可以定制浏览器，禁止在 Web 页面中加载外来的字体。<br/>
 对 Firefox 的深度定制，可以参考教程《<a href="../../2019/07/Customize-Firefox.md">扫盲 Firefox 定制——从“user.js”到“omni.ja”</a>》；对其它浏览器的深度定制，俺暂时还没写过教程。</blockquote>
 <br/>
@@ -207,7 +240,7 @@ Adobe 在2020年12月31日之后停止更新和分发 Flash Player，之后重�
 　　这3个漏洞就位于图中的【操作系统协议栈】那一坨。更具体地说：是“操作系统协议栈”中处理“IP 协议”的那部分代码。这3个漏洞中，有2个的类型是【远程代码执行】，还有1个属于【拒绝服务】<br/>
 　　一般来说，“协议栈”的漏洞是很少见滴，而且也很危险。其危险性在于——攻击者可以发送某个精心构造的数据包，当这个数据包到达目标系统（受害者系统），会立即被操作系统的协议栈处理。如果协议栈有漏洞，系统直接就中招了。假如协议栈的漏洞可用于“远程执行代码”，理论上就可以用来构造快速传播的【蠕虫】。<br/>
 　　好在这次的2个远程执行漏洞，利用的难度比较大。但攻击者要想利用这3个漏洞进行“拒绝服务”（让系统蓝屏），还是比较容易滴。以下是微软官网的原话：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 The two RCE（注：Remote Code Execution）vulnerabilities are complex which make it difficult to create functional exploits, so they are not likely in the short term. We believe attackers will be able to create DoS exploits much more quickly and expect all three issues might be exploited with a DoS attack shortly after release.</blockquote>
 <br/>
 <h3>◇Zoom（视频聊天）的远程执行漏洞</h3>
@@ -221,7 +254,7 @@ The two RCE（注：Remote Code Execution）vulnerabilities are complex which ma
 <h3>◇“茄子快传”的远程执行漏洞</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66985" rel="nofollow" target="_blank">茄子快传发现多个安全漏洞 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全公司趋势科技<a href="https://www.trendmicro.com/en_us/research/21/b/shareit-flaw-could-lead-to-remote-code-execution.html" rel="nofollow" target="_blank">报告</a>：在茄子快传中发现多个安全漏洞，漏洞能导致远程代码执行。<br/>
 茄子快传是下载量最高的传输应用，曾跻身全球应用下载排行榜前十。它最早由联想开发，一度预装在联想手机上，后从联想独立出去。<br/>
 茄子快传索取的权限相当广，其中包括访问所有本地存储和媒体，摄像头、麦克风、通讯录、位置，甚至还可以删除应用。趋势科技称，茄子快传的漏洞能被用于泄露用户的敏感数据，以及远程执行代码。</blockquote>
@@ -229,7 +262,7 @@ The two RCE（注：Remote Code Execution）vulnerabilities are complex which ma
 <h3>◇Chrome 的高危漏洞</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67100" rel="nofollow" target="_blank">新 Chrome 0day 漏洞正被利用 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 本周释出了 Chrome 的安全更新 v89.0.4389.72，修复了47个漏洞，其中包括正被利用 0day 漏洞。<br/>
 编号为 CVE-2021-21166 的漏洞是微软安全研究员 Alison Huffman 在2月11日报告的，Google 没有披露漏洞细节，只是表示它知道漏洞正被利用。<br/>
 这是 Google 在今年修复的第二个 0day，上一个是2月4日修复的 V8 堆溢出漏洞 CVE-2021-21148。</blockquote>
@@ -240,12 +273,12 @@ Google 本周释出了 Chrome 的安全更新 v89.0.4389.72，修复了47个漏�
 　　普通网民可能对这个漏洞没啥感觉，但对于使用 Exchange 的诸多企业，已经搞得鸡飞狗跳了。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67123" rel="nofollow" target="_blank">至少三万家机构由于微软电邮软件（Exchange Server）漏洞被入侵 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 KrebsOnSecurity 援引消息来源报道，至少三万家美国机构——包括大量的小企业和各级政府被黑客组织利用微软电邮软件 Microsoft Exchange Server 的漏洞入侵。<br/>
 微软本周披露，黑客正在利用 Exchange Server v2013 到 v2019 中的四个 0day 漏洞。在漏洞披露的三天内，安全专家称：同一黑客组织增加了对尚未修补的 Exchange 服务器的攻击，在入侵之后攻击者留下一个可以后续访问的 web shell。微软表示正与美国网络安全和基础设施安全局密切合作，为客户提供最佳的指南和缓解措施。</blockquote>
 <br/>
 《<a href="https://cn.reuters.com/article/microsoft-softwareflaw-0310-thur-idCNKBS2B3092" rel="nofollow" target="_blank">微软 Exchange 软件出现漏洞，至少遭10个黑客组织利用 @ 路透社</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 路透华盛顿3月10日 - 网路安全公司 ESET 周三在博客贴文中表示，至少有10个不同的黑客组织正利用近期发现的微软邮件服务器软件漏洞来入侵全球各地目标。<br/>
 漏洞遭到利用的广泛程度，使得美国与欧洲监管者就微软 Exchange 软件漏洞发出的警告更形迫切。<br/>
 微软这套用户众多的电邮与日程软件的安全漏洞，等于为商业级的网络间谍活动开启大门，使得不怀好意者能够从易于入侵的服务器中任意窃取电邮。路透上周报导，已有数万个公司遭到波及，每天都有新的受害者出现。<br/>
@@ -259,13 +292,13 @@ KrebsOnSecurity 援引消息来源报道，至少三万家美国机构——包�
 《<a href="https://it.slashdot.org/story/21/02/03/1919228/" rel="nofollow" target="_blank">Recent Root-Giving Sudo Bug Also Impacts macOS @ Slashdot</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66793" rel="nofollow" target="_blank">sudo 漏洞让用户能获得 root 权限 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全审计公司 Qualys 发现了一个有10年历史的 Sudo 严重漏洞，允许 Linux 用户获得 root 级别的权限。<br/>
 该漏洞被称为 Baron Samedit，编号 CVE-2021-3156，Sudo 团队已经释出了补丁。该漏洞允许已经获得低权限账号的攻击者获得 root 权限，即使账号没有列入控制账号访问的配置文件 /etc/sudoers 中。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　这已经是俺第三次谈“sudo 高危漏洞”。<br/>
 　　最近两年，sudo 出了好几个高危漏洞。俺在《<a href="../../2020/04/Security-News.md">近期安全动态和点评（2020年1季度）</a>》已经警告过大伙儿。以下是俺当时的原话：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 3个月前（2020年1月）的那篇《近期安全动态和点评》，俺已经聊过 sudo 的另一个高危漏洞。<br/>
 在不到半年时间内，sudo 连续爆了两个非常致命的漏洞——对攻击者而言，这2个漏洞很容易利用，而且都能实现【提权】。<br/>
 这样的苗头挺危险，很可能预示着——sudo 这个软件包内部还有其它一些高危漏洞没被发现。<br/>
@@ -274,7 +307,7 @@ KrebsOnSecurity 援引消息来源报道，至少三万家美国机构——包�
 <h3>◇Linux 内核本地提权漏洞</h3>
 <br/>
 《<a href="https://www.cnbeta.com/articles/tech/1101557.htm" rel="nofollow" target="_blank">Linux 内核发现3个提权漏洞，已存在15年之久 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 ......<br/>
 这些漏洞（CVE-2021-27363、CVE-2021-27364 和 CVE-2021-27365）存在于内核的 iSCSI 模块中。虽然在默认情况下该模块是没有被加载的，但是 Linux 内核对模块“按需加载的特性”意味着它可以很容易地被本地触发。安全专家在 Red Hat 所有已测试版本和其他发行版本中发现这些漏洞。<br/>
 在 GRIMM 博客上，安全研究员 Adam Nichols 表示：“我们在 Linux mainline 内核的一个被遗忘的角落里发现了3个 BUG，这些 BUG 已经有15年的历史了。与我们发现的大多数积满灰尘的东西不同，这些 BUG 依然存在影响，其中一个可以作为本地权限升级（LPE）在多个 Linux 环境中使用”。<br/>
@@ -295,7 +328,7 @@ KrebsOnSecurity 援引消息来源报道，至少三万家美国机构——包�
 <h3>◇Windows Defender 本地提权漏洞</h3>
 <br/>
 《<a href="https://www.cnbeta.com/articles/tech/1090603.htm" rel="nofollow" target="_blank">Windows Defender 漏洞竟存在12年，近期终于得到修复 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 据外媒报道，Windows Defender 的一个严重漏洞在约12年的时间里都没有被攻击者和防御者发现，直到去年秋天它才被修复。值得一提的是，对于一个主流操作系统的生命周期来说，12年是相当长的一段时间，对于这样一个关键的漏洞来说，其隐藏的时真的是太长了。</blockquote>
 　　<b>编程随想注：</b><br/>
 　　结合前一个小节（潜伏十五年的 Linux 内核漏洞），大伙儿可以看出——有些漏洞能潜伏十多年。<br/>
@@ -303,7 +336,7 @@ KrebsOnSecurity 援引消息来源报道，至少三万家美国机构——包�
 <h3>◇GnuPG 加密库（Libgcrypt）的缓冲区溢出漏洞</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66823" rel="nofollow" target="_blank">GnuPG 加密库发现严重 bug @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 GnuPG（GNU Privacy Guard）主开发警告：使用1.9版本加密库 Libgcrypt 的用户应立即更新。<br/>
 Libgcrypt 1.9 版本是在1月19日释出的，Google Project Zero 研究员 Tavis Ormandy 在该版本中发现了一个堆缓冲区溢出漏洞，会在解密部分数据时发生溢出。问题与块缓冲区管理代码中的错误假设有关，利用该漏洞非常简单，使用1.9版本的用户需要立即去更新加密库。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -316,7 +349,7 @@ Libgcrypt 1.9 版本是在1月19日释出的，Google Project Zero 研究员 Tav
 <h3>◇DNS 转发客户端（Dnsmasq）的漏洞</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66715" rel="nofollow" target="_blank">Dnsmasq 漏洞让攻击者能发动 DNS 缓存中毒攻击 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全专家披露了流行 DNS 转发客户端 Dnsmasq 的7个漏洞，被统称为 DNSpooq 的漏洞允许攻击者发动 DNS 缓存记录中毒攻击。<br/>
 存在漏洞的 Dnsmasq 软件被数百万设备使用，其中包括思科设备、Android 智能手机、路由器、防火墙、访问点和 VPN 等网络设备。如果攻击者能利用漏洞对企业路由器成功发送缓存中毒攻击，那么他们可以将企业雇员对 Gmail 账号的访问重定向到钓鱼网站。Dnsmasq 项目已经释出了补丁修复漏洞，网络管理员需要尽可能快的给设备打上补丁。</blockquote>
 <br/>
@@ -351,7 +384,7 @@ Libgcrypt 1.9 版本是在1月19日释出的，Google Project Zero 研究员 Tav
 <h3>◇香港警方援引《国安法》，封锁政治网站</h3>
 <br/>
 《<a href="https://www.bbc.com/zhongwen/simp/chinese-news-55673834" rel="nofollow" target="_blank">香港当局首次引用＜国安法＞封锁网站，引发全面审查担忧 @ BBC/英国广播公司</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 香港多家网络公司据报按当地警方依据香港《国安法》的要求，封锁为用户连结到一个称为“香港编年史”的网站，这个网站载有大量参加处理2019年香港示威期间的部分警察和一些亲建制人士的个人资料，是《国安法》去年生效以来，香港当局首次引用这部法例封锁网站。<br/>
 <br/>
 目前“香港编年史”的网站已经被多个网络供应商封锁，但网站本身仍然在运作，香港境外的人仍然可以使用网站，香港境内使用虚拟私人网络（VPN）也可以正常使用网站。香港媒体引述当地其中一家主要网络供应商“香港宽频”表示，已经按《国安法》要求停止连线至“香港编年史”网站，其他网络供应商就没有回应传媒查询。<br/>
@@ -368,7 +401,7 @@ Libgcrypt 1.9 版本是在1月19日释出的，Google Project Zero 研究员 Tav
 <h3>◇GFW 封杀 DoH 服务器</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67104" rel="nofollow" target="_blank">防火墙屏蔽了多个 DoH 服务器 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 根据 <a href="https://zh.greatfire.org/" rel="nofollow" target="_blank">greatfire.org</a> 的测试结果：NextDNS、Quad9、AdGuard 在近日被屏蔽。防火墙对这些域名没有使用 DNS 污染, 而是使用检测 SNI 和 IP 黑洞的方法。Cloudflare 的 DoH 服务器还没有被屏蔽。</blockquote>
 <br/>
@@ -385,12 +418,12 @@ DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 <h3>◇天朝进一步严控“自媒体”</h3>
 <br/>
 《<a href="https://finance.sina.com.cn/tech/2021-02-01/doc-ikftpnny3152226.shtml" rel="nofollow" target="_blank">中国社交平台要求：公众号提供互联网新闻信息，需获资质 @ 新浪</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 微信公众平台、搜狐号、百家号等平台近期相继发布通知，要求公众账号提供互联网新闻信息服务，应取得《互联网新闻信息服务许可证》，如不具备相关资质，不得发布或建议不要发布时政类新闻。<br/>
 ......</blockquote>
 <br/>
 《<a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210409-%E4%B8%AD%E5%9B%BD%E7%AA%81%E8%A2%AD%E5%B0%81%E5%85%B3%E5%A4%A7%E9%87%8F%E5%86%9B%E4%BA%8B%E8%87%AA%E5%AA%92%E4%BD%93-%E5%A0%B5%E6%B3%84%E5%AF%86%E4%B8%8E%E9%80%A0%E7%88%B1%E5%9B%BD%E8%B0%A3" rel="nofollow" target="_blank">中国突袭查禁大量军事自媒体 @ RFI/法广</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 中国网络时政论坛“猫眼看人”在3月底突然关闭后，多个中国军事自媒体近期也陆续被封。不少中国网友感叹言论再趋紧缩，但也有人认为当局是在防止泄密、清除“造爱国谣”。<br/>
 中国大量军事自媒体被封。据中央社称，此为莫谈国事又一桩。根据社群平台新浪微博的相关讨论，中国当局这波对军事自媒体的清洗可追溯至3月22日。<br/>
 消息说，中国大型军事论坛“超级大本营”当天下午突然公告，将于3月23日凌晨起永久关闭海军、空军、陆军、航太及新概念武器等4个讨论版，实际上是关闭了军事装备讨论版。随后，“新浪军事”、“军武次位面”等军事类微信公众号近日也因“违规”被关，甚至连微信母公司腾讯旗下的腾讯网军事频道微信公众号“讲武堂”也没能幸免。其中，“军武次位面”迄今未解封。于此同时，中国知名时事政治论坛“猫眼看人”也在3月30日突然关闭。<br/>
@@ -407,7 +440,7 @@ DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 <h3>◇俄国政府开始对付“卫星上网”</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66645" rel="nofollow" target="_blank">俄罗斯议会考虑：惩罚使用西方卫星宽带的公民 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 俄罗斯国家杜马<a href="https://arstechnica.com/science/2021/01/russia-may-fine-citizens-who-use-spacexs-starlink-internet-service/#p3" rel="nofollow" target="_blank">正在讨论一项立法</a>，阻止国民使用西方的卫星宽带，违反者将会面临罚款。个人用户面临的罚款金额从1万到3万卢布，而企业的罚款金额从50万到100万卢布。<br/>
 美国公司 SpaceX 和英国公司 OneWeb 都在发射各自的宽带卫星，计划在不久的未来提供高速的卫星宽带服务。但俄罗斯杜马议员认为使用西方卫星宽带将会绕过该国的通信监视系统 System of Operational Search Measures。作为加强对媒体和通信控制的一部分，所有俄罗斯的互联网流量都必须通过一家俄罗斯通信服务商。</blockquote>
 <br/>
@@ -417,7 +450,7 @@ DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 <h3>◇Firefox 开始支持 TLS 协议的【ECH 功能】</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66602" rel="nofollow" target="_blank">Firefox 将用 Encrypted Client Hello 替换 ESNI @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 随着越来越多的网站普及 HTTPS，明文的服务器名称指示（Server Name Indication，SNI）成为新的隐私漏洞。通过明文 SNI，ISP 或任何网络中间人将会知道你访问了哪个网站。两年前，Mozilla 宣布 Firefox Nightly 加入了对加密 SNI 的支持（编程随想注：“加密 SNI”称作 ESNI）。<br/>
 但自 ESNI 规格草案发布以来，分析显示只加密 SNI 扩展所提供的保护是不完整的。举例来说，在会话重用过程中，Pre-Shared Key 扩展会包含 ESNI 加密的服务器名称的明文副本。为了解决 ESNI 的不足之处，较新版本的规格不再只加密 SNI，而是加密整个 Client Hello 信息。因此规格的名字也从 ESNI 改为 ECH。<br/>
 从 Firefox 85 起，浏览器用 ECH 取代了 ESNI，about:config 也不再展示 ESNI 选项。该功能尚未默认启用，如果用户想要默认启用可以进入 about:config 将设置 network.dns.echconfig.enabled 和 network.dns.use_https_rr_as_altsvc 设为 true。</blockquote>
@@ -450,6 +483,7 @@ DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 <br/>
 　　如果你用的是老版本的 Firefox，或者是其它类型的浏览器，还可以考虑用另外一招——【定期删除】“favicon 缓存”。<br/>
 　　不同类型的浏览器，“favicon 缓存”的文件位置也不同。对于 Firefox 而言，它位于：实例目录下的 <code>favicons.sqlite</code> 文件。<br/>
+　　对于使用虚拟机的同学：只要你能确保：当你创建虚拟机快照的时候，浏览器环境是【纯洁】的（所有相关缓存都是【空】的）；那么，当你把虚拟机回退到这个快照，浏览器中的 supercookie 自然就消失了。<br/>
 　　另外，<br/>
 　　如果你听从了俺多年来的建议，创建【多个浏览器环境】（多实例 or 多用户 or 多虚拟机）。可以在一定程度上缓解“supercookies 的隐私风险”。因为 supercookies【无法】跨浏览器环境；因此，网站也就【无法】判断出：操作多个浏览器环境的，是同一个自然人。<br/>
 　　（注：“多浏览器环境”只是“缓解”这个风险，而不是“根治”）<br/>
@@ -457,7 +491,7 @@ DNS-over-HTTPS（DoH）加密了 DNS 请求, 被用于规避 DNS 污染。<br/>
 <h3>◇Google 想要终结 cookie 技术</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66763" rel="nofollow" target="_blank">Google 表示它可能找到了 cookies 的隐私友好替代 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 周一宣布它可能找到了 cookies 的隐私友好替代。它测试了名为 Federated Learning of Cohorts（<a href="https://github.com/WICG/floc" rel="nofollow" target="_blank">FLoC</a>）的新 API，其源代码发布在 GitHub 上。<br/>
 测试显示，相比基于 cookies 的广告，FLoC 广告的转化率至少达到 95%。FLoC 使用机器学习算法分析用户数据，然后根据用户访问的网站，将数千用户分成一组。数据是浏览器在本地收集的不会分享出去，但这群用户的数据会共享并被用于定向广告。也就是说 FLoC 广告是根据人们的普遍兴趣进行针对性展示。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -465,7 +499,7 @@ Google 周一宣布它可能找到了 cookies 的隐私友好替代。它测试�
 　　考虑到 Google 的商业模式（主要利润来自于【在线广告收入】），俺不太相信所谓的“隐私友好”。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67242" rel="nofollow" target="_blank">Google 淘汰 Cookies 的计划引来反垄断调查 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 在今年初宣布了 Cookies 的替代 Federated Learning of Cohorts (FLoC)，声称它对用户隐私更为友好。但这一计划引发了美国司法部调查人员的关切，调查人员一直在问询广告行业的高管，以了解 Google 此举是否会妨碍规模较小的竞争对手。<br/>
 消息人士表示，司法部调查人员的询问涉及到 Chrome 的各种政策，包括与 cookies 相关的规定，对于广告和新闻产业产生哪些影响。<br/>
 Chrome 浏览器的全球市占率约 60%。消息人士并指出，调查人员正询问 Google 是否利用 Chrome 来避免对手广告公司通过 cookies 追踪用户，同时留下漏洞供自己用 cookies、分析工具、以及其他资源来收集资料，从而降低竞争。</blockquote>
@@ -481,7 +515,7 @@ Chrome 浏览器的全球市占率约 60%。消息人士并指出，调查人员
 <h3>◇微软开始清理【旧版】Edge</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66885" rel="nofollow" target="_blank">Windows 10 强制性更新将彻底杀死旧 Edge @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 微软将在4月份释出的 Windows 10 例行更新中移除旧的 Edge 浏览器。<br/>
 微软目前在 Windows 10 上有三种不同的浏览器：旧 Edge，新的基于 Chromium 的 Edge，以及 IE。为了减少混乱和改进安全，微软准备从操作系统移除旧的浏览器。软件巨人公布了杀死 旧 Edge 的计划：2021年4月释出的例行安全更新。<br/>
 Chromium Edge 将成为微软希望用户唯一使用的浏览器。</blockquote>
@@ -489,7 +523,7 @@ Chromium Edge 将成为微软希望用户唯一使用的浏览器。</blockquote
 <h3>◇终于有浏览器支持【IPFS】啦</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66714" rel="nofollow" target="_blank">Brave 浏览器支持 IPFS 点对点协议 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 由 Mozilla 联合创始人 Brendan Eich 所创公司开发的 Brave 成为首个支持 IPFS 点对点协议的浏览器。<br/>
 IPFS 代表 InterPlanetary File System，类似 BitTorrent 的点对点协议，设计作为去中心化储存系统，允许用户在数百甚至数千个节点之间共享不受审查的内容。当 Brave 探测到用户试图访问 IPFS 内容或使用原生地址如 ipfs:// 或 ipns://，浏览器会提示用户安装和启用 IPFS 节点，或使用一个 HTTP 网关。</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -500,7 +534,7 @@ IPFS 代表 InterPlanetary File System，类似 BitTorrent 的点对点协议，
 <h3>◇Google 的 Chromium 团队与 Linux 社区闹僵</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66710" rel="nofollow" target="_blank">多个 Linux 发行版考虑移除 Chromium 软件包 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google Chrome Team 团队向 Linux 发行版开发者发去邮件通知，从3月15日起，在构建配置中使用 google_default_client_id 和 google_default_client_secret 的第三方 Chromium 版本，它们的终端用户将无法再登陆其 Google Accounts 账号。<br/>
 Google 称，他们在最近的审计中发现部分基于 Chromium 的浏览器使用了原本只给 Google 使用的 Google API 和服务，其中最主要的是同步账号的 Chrome Sync API，它决定移除这些 API 的访问，声称这是为了改进用户数据安全。<br/>
 Linux 发行版开发者表示过去十年他们一直这么做的，如果无法使用 Google 的同步功能，那么继续维护 Chromium 软件包也没有什么价值了。Chrome 的工程总监 Jochen Eisinger 在回复中表示他们的决定不会改变。Slackware Linux 和 Arch Linux 都表示考虑从仓库移除 Chromium。</blockquote>
@@ -511,7 +545,7 @@ Linux 发行版开发者表示过去十年他们一直这么做的，如果无�
 <h3>◇警方破解手机，比你想象的容易</h3>
 <br/>
 《<a href="https://arstechnica.com/information-technology/2021/01/how-law-enforcement-gets-around-your-smartphones-encryption/" rel="nofollow" target="_blank">How law enforcement gets around your smartphone's encryption @ Ars Technica</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 ......<br/>
 <br/>
 When an iPhone has been off and boots up, all the data is in a state Apple calls 【Complete Protection】. The user must unlock the device before anything else can really happen, and the device's privacy protections are very high. You could still be forced to unlock your phone, of course, but existing forensic tools would have a difficult time pulling any readable data off it. Once you've unlocked your phone that first time after reboot, though, a lot of data moves into a different mode—Apple calls it "Protected Until First User Authentication", but researchers often simply call it 【After First Unlock】（注：简称 AFU）.<br/>
@@ -531,7 +565,7 @@ The main difference between Complete Protection and AFU relates to how quick and
 <h3>◇对比遥测数据——Android VS iOS</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67360" rel="nofollow" target="_blank">Google 从 Android 设备上收集的遥测数据二十倍于苹果 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 都柏林大学圣三一学院的 Douglas J. Leith 教授跟踪了（<a href="https://www.scss.tcd.ie/doug.leith/apple_google.pdf" rel="nofollow" target="_blank">PDF</a>）iOS 和 Android 设备向苹果和 Google 服务器发送的遥测数据，发现 <a href="https://therecord.media/google-collects-20-times-more-telemetry-from-android-devices-than-apple-from-ios/" rel="nofollow" target="_blank">Google 收集的数据二十倍于苹果</a>。<br/>
 Leith 教授称，研究考虑了操作系统本身收集的数据以及操作系统供应商提供的默认应用收集的数据，云端存储，地图/位置服务等，只计算遥测数据。<br/>
 Leith 教授指出，即使用户选择退出遥测，iOS 和 Android 仍然会发送遥测数据。苹果收集了更多的信息数据类型，但 Google 收集的数据量要多得多。开机10分钟内，Pixel 手机向 Google 发送了 1MB 数据，而 iPhone 发送了 42KB；在闲置状态下，Pixel 手机每12小时向 Google 发送 1MB 数据，相比之下 iPhone 只向苹果发送 52KB 数据。<br/>
@@ -540,7 +574,7 @@ Leith 教授指出，即使用户选择退出遥测，iOS 和 Android 仍然会�
 <h3>◇移动设备的木马</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67341" rel="nofollow" target="_blank">安全公司发现完整间谍软件功能的 Android 恶意程序 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全公司 Zimperium 的研究人员发现了包含完整间谍软件功能的先进 Android 恶意程序。恶意程序伪装成系统更新，通过第三方应用商店传播。它的功能包括：<br/>
 窃取 IM 消息，<br/>
 窃取 IM 数据库文件（如果可以 root），<br/>
@@ -568,7 +602,7 @@ Leith 教授指出，即使用户选择退出遥测，iOS 和 Android 仍然会�
 　　这类攻击主要针对【企业】，而且与软件开发相关。不懂编程的读者，可直接跳过本小节。<br/>
 <br/>
 《<a href="https://www.infoq.cn/article/wtBGlevgRL0bWqBzJ0w7" rel="nofollow" target="_blank">揭秘新的供应链攻击，一研究员靠它成功入侵微软、苹果等35家科技公司 @ InfoQ</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 最近，一名安全研究员利用一种新颖的软件供应链攻击成功入侵了35家大型科技公司的内部系统，这些公司包括：微软、苹果、PayPal、特斯拉、Uber、Yelp、Shopify、Netflix。在向这些公司提交安全报告后，他获得超过13万美元的奖金。<br/>
 据悉，此类攻击利用了开源生态系统的一个设计缺陷：依赖关系混乱。攻击者先把恶意软件上传到开源存储库中，比如 PyPI、npm 和 RubyGems，此后它们会自动地分发到下游的公司的内部应用中。<br/>
 与传统的误植域名攻击（typosquatting attacks）不同，这种特殊的供应链攻击更复杂，并且无需攻击者进行其他操作。<br/>
@@ -587,7 +621,7 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 <h3>◇针对【安全研究人员】的攻击</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66772" rel="nofollow" target="_blank">Google 警告针对安全研究员的攻击行动 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/" rel="nofollow" target="_blank">Google 警告</a>，过去几个月，朝鲜黑客组织对安全研究员发动了针对性攻击。<br/>
 为了建立信誉和联系安全研究员，黑客首先创建了安全博客和 Twitter 账号，与潜在目标进行互动，然后发帖发视频声称完成了某个漏洞利用。Google 表示它没有验证所有漏洞利用的可信度，但至少有一例所谓成功的漏洞利用被指是伪造的。在与目标建立初步联系之后，黑客会询问目标：是否愿意共同研究漏洞，然后提供一个 Visual Studio 项目，其中包含了一个定制的恶意程序 DLL。<br/>
 除了社会工程攻击外，黑客还成功入侵了访问他们博客的安全研究员的计算机系统。当时受害者的系统打了最新的补丁，Google 表示他们暂时还不知道入侵机制。</blockquote>
@@ -598,7 +632,7 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 <h3>◇针对【Android 模拟器】的供应链攻击</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66833" rel="nofollow" target="_blank">针对手游玩家的供应链攻击 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全研究人员发现了针对手游玩家的供应链攻击。未知攻击者入侵了开发 NoxPlayer 的 BigNox，NoxPlayer 被用于在 PC 和 Mac 上模拟 Android 系统，用户主要用它玩 Android 手游。它非常受欢迎，在全世界有1.5亿用户。<br/>
 攻击者在入侵了 BigNox 的软件分发系统之后对部分用户推送了恶意更新，操纵了两个文件：BigNox 的主二进制程序 Nox.exe 和更新程序 NoxPack.exe。恶意更新是在去年9月推送的，攻击者在去年年底和今年初向特定受害者推送了后续恶意更新。研究人员认为这些恶意程序主要用于监视目标，受害者位于台湾、香港和斯里兰卡。</blockquote>
 <br/>
@@ -624,7 +658,7 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 　　2018年的那篇报道引发了很多争议。今年2月份的这篇报道，是对2018年那篇的补充。全文很长，下面这篇 RFI 的中文报道是其简述。<br/>
 <br/>
 《<a href="https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20210212-%E5%BD%AD%E5%8D%9A%E7%A4%BE-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E7%A7%91%E6%8A%80%E4%BE%9B%E5%BA%94%E5%95%86%E6%94%B6%E9%9B%86%E6%83%85%E6%8A%A5%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B9%BF%E6%B3%9B%E9%A3%8E%E9%99%A9" rel="nofollow" target="_blank">彭博社：中国通过科技供应商收集情报，成为全球供应链的广泛风险 @ RFI/法广</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 据彭博社（2020年2月）12日的文章介绍：2010年，美国国防部发现旗下数以千计的电脑伺服器将军方网路资料送到中国，后来发现这是因为执行开机程序的晶片中隐藏恶意程式码。2014年，半导体巨头英特尔（Intel）发现中国骇客集团利用一台伺服器入侵英特尔网路，而这台伺服器从一家提供更新的供应商网站下载到恶意软体。2015年，美国联邦调查局警告多家公司，中国特务在一家製造商的伺服器中隐藏了一个另外载有后们程式码的晶片。而这些事件都牵涉两个共同点：中国和设在加州的美超微公司（Supermicro）。此外，美国情报单位都对此知情，但秘而不宣，试图进行反情报工作，以摸清楚中国的底细。<br/>
 在彭博社文章中，前 FBI 资深官员泰布（Jay Tabb）指出，美超微事件凸显了全球供应链的广泛风险。“完美说明了美国企业若选择在中国制造任何产品，容易受到潜在的恶意窜改。对产品制造地点若无法完整地监督，这是最糟情况的例子。”“中国政府这种行径已有很长一段时间，企业必须明白中国还在这么做。硅谷尤其不能佯装这种情况现在没有发生。”<br/>
 该报导也指出，美超微或它旗下员工都未被指控任何非法的行为，报导中受访的前美国官员强调，美超微本身不是任何反情报调查的目标。<br/>
@@ -638,12 +672,12 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 　　当时俺分析了：至少有【两波】攻击者。第1波攻击者，俄国佬的嫌疑最大；那么，第2波攻击者会是谁捏？以下是今年1季度的后续报道。目前看来，第2波攻击者很大可能是天朝的御用骇客。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66839" rel="nofollow" target="_blank">疑似中国黑客利用 SolarWinds 软件漏洞入侵美国政府 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 在俄罗斯黑客之后，疑似中国黑客去年利用 SolarWinds 公司软件中的缺陷侵入美国政府电脑。知情人士称，FBI 调查人员最近发现，美国农业部内的联邦薪资处理机构国家财务中心是受到此次黑客行动影响的组织之一，这令人担忧成千上万联邦政府雇员的数据可能泄露。这次疑似中国黑客所利用的软件缺陷不同于美国指控的俄罗斯政府特工所利用的软件缺陷。<br/>
 中国外交部表示，追究网络攻击的来源是一个“复杂的技术问题”，任何指控都应该有证据支持。中国外交部在声明中称，中方坚决反对并打击任何形式的网络攻击和窃密活动。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67146" rel="nofollow" target="_blank">研究称：中国黑客也对 SolarWinds 客户发动了攻击 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 安全公司 Secureworks 周一发表<a href="https://www.secureworks.com/blog/supernova-web-shell-deployment-linked-to-spiral-threat-group" rel="nofollow" target="_blank">报告</a>，除了俄罗斯黑客，中国黑客组织也在同一时间内对 SolarWinds 的客户发动了攻击。<br/>
 在俄罗斯黑客发动供应链攻击的同时，安全研究人员去年12月披露还有黑客利用了 SolarWinds 公司软件 Orion 的一个漏洞，在该公司客户的网络中安装了名为 Supernova 的 web shell。但当时还不知道是谁发动了攻击。根据其使用的技术、策略和程序，研究人员现在将该黑客组织命名为 Spiral，该组织此前还利用了 ManageEngine ServiceDesk 的漏洞入侵企业网络。</blockquote>
 <br/>
@@ -656,7 +690,7 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 《<a href="https://it.slashdot.org/story/21/02/08/2134232/" rel="nofollow" target="_blank">Hacker Increased Chemical Level At Florida City's Water Supply, Police Say @ Slashdot</a>》<br/>
 <br/>
 《<a href="https://www.cnbeta.com/articles/tech/1088777.htm" rel="nofollow" target="_blank">佛罗里达州水处理系统遭黑客攻击，万幸没有居民受到伤害 @ cnBeta</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 《坦帕湾时报》报道称，有黑客成功渗透了控制佛罗里达州奥尔德斯马市水处理设施的计算机系统。通过篡改可远程控制的计算机数据，攻击者改变了当地供水中的化学品含量（上调了氢氧化钠碱液的水平）。庆幸的是，设施管理者和警方均表示，目前暂无居民受到伤害的报告。<br/>
 ......<br/>
 <br/>
@@ -677,7 +711,7 @@ Birsan 说：“与误植域名或品牌劫持不同，依赖关系混乱不需�
 　　<b>编程随想注：</b><br/>
 　　这篇洋文推荐了六款强化安全和隐私的 Linux 发行版。对于 Linux 用户而言，不同的人有不同的技能水平、使用场景、操作习惯。很难给出某种普适的排名。因此，上述这篇文章也仅仅是作为某种参考。<br/>
 　　全文很长，俺只摘录一部分（如下）<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <b>Qubes OS</b><br/>
 Why We Love Qubes OS:<br/>
 <ul>
@@ -739,7 +773,7 @@ Why We Love Whonix:<br/>
 <center><img alt="不见图 请翻墙" src="images/eF40weRijijtn6o-d0yj37WKetYrsTkFFF5teqY4PN9aTmrdK4UEc-LiJh2MdqynjyeJ5QnP-zE3Tf5k2zTKFcmZHgnRymwv0iZJUbqHn1dGsLc_q8De29QoNt_h96GjsQNiUkiWqhA"/></center>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66847" rel="nofollow" target="_blank">Ars 尝试华为的鸿蒙操作系统 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 中国最大智能手机制造商华为在遭到美国的出口禁令之后宣布了自己的操作系统鸿蒙，去年12月释出了 V2 版本。华为消费者业务 CEO 余承东宣称：鸿蒙是与 Android 和 iOS 完全不同的操作系统。华为消费者业务软件部总裁王成录上个月再次表示，鸿蒙不是 Android 或 iOS 的拷贝。<br/>
 美国科技网站 Ars <a href="https://arstechnica.com/gadgets/2021/02/harmonyos-hands-on-huaweis-android-killer-is-just-android/" rel="nofollow" target="_blank">对华为鸿蒙进行了一番测试</a>，记者首先试着下载 Harmony SDK，结果迎面一击：他被告知需要接受两天的背景检查，要求注册账号通过身份验证，包括递交名字、地址、电邮、电话号码和护照照片。即使你试图绕过注册流程，下载“盗版”的版本，SDK 也需要你登陆账号之后才会运行。<br/>
 出于研究的目的，记者牺牲了自己的隐私，下载了 SDK，开始进行测试。他发现模拟手机使用的是中国 SIM 卡，进入的网络叫“华为内网”。进一步研究发现，Harmony 的应用页面基本上全是类似 Android Services Library、Android Shared Librar 之类的，以及指示 Android 10 的信息。<br/>
@@ -750,7 +784,7 @@ Why We Love Whonix:<br/>
 《<a href="../../2020/09/Academic-Scandals-in-China.md">二十年目睹之怪现状——中国学术界、科技界的“奇葩排行榜”</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67099" rel="nofollow" target="_blank">华为高管声称：鸿蒙 V3 将不再基于 Android @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 华为消费者业务软件部总裁王成录今年初曾表示，鸿蒙不是 Android 或 iOS 的拷贝。但对鸿蒙 V2 的分析表明，它事实上是 Android 的拷贝，华为甚至连 Android 的名字都没有从系统中替换掉。<br/>
 对此王成录在接受采访时回应称：“并不是所有 Android 代码都是 Google 开发的，绝大部分代码来自开源社区。鸿蒙也会吸收社区的优秀技术和代码，用了 AOSP（Android 开源项目）的开源代码，就判断鸿蒙是 Android 换了皮，说明这类吐槽者没有太准确理解什么是开源。今年10月，鸿蒙第三阶段的开源代码会上线，来自 AOSP 社区的、由 Google 贡献的代码几乎没有了。”</blockquote>
 　　<b>编程随想注：</b><br/>
@@ -765,7 +799,7 @@ Why We Love Whonix:<br/>
 <h3>◇物联网 ＆ 法拉第笼</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67379" rel="nofollow" target="_blank">不请自来的物联网时代 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 不管你需不需要，几乎所有家电都能联网的时代正在我们走来。没有冠以“智能”的电视机早就销声匿迹，而大部分所谓的智能电视机还有广告，部分品牌则将没有开屏广告作为卖点。配备了摄像头和麦克风的智能电视容易遭到滥用已是众所周知，它们会将收集的信息发送到厂商的服务器，你根本不知道它们收集了哪些信息。<br/>
 好消息是，大部分物联网设备使用的是 Wifi 连接，我们至少还可以通过路由器控制它们的行为。但厂商也有应变之道：直接嵌入蜂窝调制解调器和 SIM 卡，解决不在线的问题。这种现象将会越来越多，它们将会完全脱离用户的有限控制。除了将它们关在【法拉第笼】内，消费者将无能为力。<br/>
 隐私、监视、跟踪将会无处不在，这就是不请自来的物联网时代。</blockquote>
@@ -789,7 +823,7 @@ Why We Love Whonix:<br/>
 　　在今年（2021）之前，对这俩漏洞还停留在“理论”阶段；到了今年2月份，<a href="../../2020/03/VirusTotal-Tricks.md">在线查毒引擎 VirusTotal</a> 首次发现与这两个漏洞相关的攻击代码，分别针对 Windows ＆ Linux。这也就意味着：对这两个漏洞的研究，已经从“理论”上升到“实践”。<br/>
 　　这两个漏洞源于 CPU 硬件的设计缺陷，很难根治；而且受影响的 CPU 很多，波及面从 x86 系列到 ARM 系列。<br/>
 　　俺在《<a href="../../2019/04/Security-News.md">近期安全动态和点评（2019年1季度）</a>》提到如下这段话：<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 一年前（2018年初）曝光的 Spectre 和 Meltdown 在信息安全界可以称得上是【划时代】滴！因为其利用的是 CPU 的【设计缺陷】（而且还是【根本性】缺陷）。<br/>
 ......<br/>
 由于这两个漏洞涉及到 CPU 的【根本性】缺陷，极难搞定（就像两个幽灵，会在未来几年不断困扰 IT 行业）。</blockquote><br/>
@@ -797,21 +831,21 @@ Why We Love Whonix:<br/>
 《<a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html" rel="nofollow" target="_blank">A Spectre proof-of-concept for a Spectre-proof web @ Google 安全博客</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67210" rel="nofollow" target="_blank">Google 演示 Spectre 概念验证攻击 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html" rel="nofollow" target="_blank">Google 演示了</a>实用的 Spectre 概念验证攻击，代码发布在 GitHub 上，演示发布在网站 <a href="https://leaky.page/" rel="nofollow" target="_blank">leaky.page</a> 上。<br/>
 2018年1月，Google Project Zero 和奥地利格拉茨技术大学的研究人员披露了与预测执行相关的处理器漏洞 Spectre，利用基于时间的旁路攻击，允许恶意进程获得其他程序在内存中的数据。Google 的概念验证攻击针对的是运行在 Linux 系统上的 Chrome 88 的 V8 JS 引擎，使用的 CPU 是英特尔的 Core i7-6500U Skylake。Google 表示，可以进行微调，让攻击能工作在不同的 CPU、浏览器版本和操作系统上，包括苹果的 M1 ARM CPU。概念验证攻击能以 1kB/s 的速度泄露数据。Google 称，虽然浏览器开发商已经实现了网站隔离等缓解措施，但这并不能阻止 Spectre 的漏洞利用，只是防止保存在内存中的敏感数据被攻击者读取。预防 Spectre 攻击还需要 Web 开发者部署应用程序级别的缓解措施。</blockquote>
 <br/>
 <h3>◇新的 CPU 攻击手法——Lord of the Ring(s)</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67175" rel="nofollow" target="_blank">英特尔新侧信道攻击——Lord of the Ring(s) @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 伊利诺伊香槟的三位研究人员在预印本网站 arXiv 发表论文，披露了针对英特尔 CPU 的最新侧信道攻击，该攻击被命名为 <a href="https://github.com/FPSG-UIUC/lotr" rel="nofollow" target="_blank">Lord of the Ring(s)</a>。<br/>
 随着芯片上的功能模块越来越多，英特尔为其 CPU 引入了片内总线，以实现各个模块之间的高速通信，它先后引入了 Ring Bus 和 Mesh Bus。最新侧信道攻击针对的就是 Ring Bus 的环形总线。研究人员首先逆向工程了 Ring Bus 的通信协议，设法构建了一个跨核心的隐蔽信道，利用环争用的细粒度时态模式去推动应用程序的秘密。从有漏洞的 EdDSA 和 RSA 实现中提取出密钥比特。对于 AMD 的 Zen 架构使用的片内总线 Infinity Fabric，研究人员表示需要进一步的研究，但相信他们的技术能应用于其它平台。</blockquote>
 <br/>
 <h3>◇家用监控探头，反而坑了自己</h3>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66767" rel="nofollow" target="_blank">安装家庭监控探头的技工承认，偷窥客户做爱 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 家庭和小型办公安保公司 ADT 的雇员 Telesforo Aviles 承认在五年时间里超过9,600次未经许可访问了200名客户的家庭监控探头。<br/>
 Aviles 称：如果客户家中有吸引力的女性，他会在安装时将自己的邮件地址加入到可访问客户 ADT Pulse 账号的名单中，之后会浏览探头观看性方面的活动。他称会在客户做爱时观看裸女。他承认了一项计算机欺诈罪名，一项侵入性可视化记录罪名，面临最高5年徒刑。</blockquote>
 <br/>
@@ -825,7 +859,7 @@ Aviles 称：如果客户家中有吸引力的女性，他会在安装时将自�
 　　没想到才过了一个季度，Google 的态度就有了明显变化。具体请看如下几篇报道。<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66971" rel="nofollow" target="_blank">Google 宣布它正致力于用 Rust 重实现关键安全软件 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html" rel="nofollow" target="_blank">Google Security Blog 宣布</a>：它正致力于用 Rust 语言重新实现关键安全软件组件。Google 称，内存安全相关的漏洞在安全领域一直占主要位置。<br/>
 微软的研究显示，通过安全更新修复的漏洞七成是内存安全问题。对 curl 安全问题的分析显示，95个 bug 中的53个可以通过使用内存安全语言防止。<br/>
 Google 正与 Internet Security Research Group 合作用 Rust 语言重新实现安全组件，包括用 Rust 为 curl 开发 HTTP 和 TLS 后端，为 Apache httpd 项目开发 TLS 库。</blockquote>
@@ -833,13 +867,13 @@ Google 正与 Internet Security Research Group 合作用 Rust 语言重新实现
 《<a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html" rel="nofollow" target="_blank">Rust in the Android platform @ Google 安全博客</a>》<br/>
 <br/>
 《<a href="https://www.solidot.org/story?sid=67419" rel="nofollow" target="_blank">Android 加入了对 Rust 语言的支持 @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 <a href="https://security.googleblog.com/2021/04/rust-in-android-platform.html" rel="nofollow" target="_blank">Google 官方安全博客宣布</a>：Android 加入了对 Rust 语言的支持。Google 称，七成的 Android 高危漏洞与内存相关，而内存安全语言是解决这一问题的最有效方法。Google 宣布 Android Open Source Project（AOSP）现在支持用 Rust 语言开发操作系统。<br/>
 Java 和 Kotlin 是开发 Android 应用的最佳选择，但 Java 和 Kotlin 无法用于开发操作系统底层。操作系统的底层需要用系统级编程语言 C、C++ 和 Rust 来开发。对 C 和 C++ 来说，开发者负责管理内存，但管理内存时因代码库的复杂性开发者很容易犯错。Rust 语言利用编译时检查和运行时检查确保内存安全，同时它还提供了比拟 C 和 C++ 语言的性能。<br/>
 Google 称：用 Rust 重写数千万行 C/C++ 代码是不可行的。对内存相关 bug 的分析显示，大部分 bug 都是近一两年内引入的，因此 Rust 将主要用于新的开发而不是重写成熟的 C/C++ 代码。</blockquote>
 <br/>
 《<a href="https://www.solidot.org/story?sid=66849" rel="nofollow" target="_blank">Google 资助用 Rust 语言，为 Apache HTTP 开发安全模块 mod_tls @ Solidot</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 Google 资助了 Internet Security Research Group（ISRG）的一个项目：用 Rust 语言为 Apache HTTP web server 项目开发安全模块 mod_tls。<br/>
 在 Apache web server 中，mod_ssl 用于支持建立 HTTPS 连接所需的加密操作，它是用 C 语言开发的。<br/>
 新的 mod_tls 模块将使用 Rust 语言开发，领导该项目开发的是软件咨询公司 Greenbytes 的创始人和 Apache HTTP Server 开发者 Stefan Eissing。ISRG 希望，在完成开发之后 Apache HTTP web server 团队将采用 mod_tls 作为默认模块，取代年代悠久且不安全的 mod_ssl。</blockquote>
@@ -847,7 +881,7 @@ Google 资助了 Internet Security Research Group（ISRG）的一个项目：用
 <h3>◇Linux 内核正逐步支持 Rust</h3>
 <br/>
 《<a href="https://www.oschina.net/news/133860/linux-next-rust-initial" rel="nofollow" target="_blank">对 Rust 的初步支持登录 Linux-Next @ 开源中国</a>》<br/>
-<blockquote style="background-color:#DDD;">
+<blockquote>
 近日，Linux 邮件列表中的 Rust-for-linux 上公布了 Rust 支持登陆 Linux-Next 的消息。<br/>
 Rust 是一个注重安全和性能的语言，并且在今年初成立了新的 Rust 基金会以支持其发展。而在 Linux 内核开发者中，关于使用 Rust 来编写新的设备驱动程序的讨论已经持续了很长时间。本周，对于 Rust 的初步支持终于登陆 Linux-Next 分支。虽然目前还没有一个完整的 Rust 内核驱动，但已经可以在 Linux-Next 分支上看到关于 Rust 的文档、Rust 代码目录和一个用 Rust 实现的字符驱动程序例子。<br/>
 这种支持需要系统上存在 Rust 编译器（rustc），因此，当前重点关注的体系结构应该是 ARM64 和 x86_64。此外，内核支持也需要一个最新的构建 Rust 的工具链。<br/>
